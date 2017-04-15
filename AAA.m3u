@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://cld.pt/dl/download/31d5c76b-55b4-455d-88fb-0bf13299857d/genericos.png" group-title="GENÉRICOS", GENÉRICOS
 Http://google.pt
 
@@ -9,13 +11,13 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/small"  group-title="GENÉRICOS", RTP 2
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/FamiliaIPTV.m3u8
 
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small"  group-title="GENÉRICOS", SIC (geobloqueado)
-http://live.impresa.pt/live/sic/sic540p.m3u8
-
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small"  group-title="GENÉRICOS", SIC
 http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/FamiliaIptv.m3u8
 
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small"  group-title="GENÉRICOS", SIC  (geobloqueado)
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small"  group-title="GENÉRICOS", SIC [GeoBlock]
+http://live.impresa.pt/live/sic/sic540p.m3u8
+
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/small"  group-title="GENÉRICOS", SIC  [GeoBlock]
 http://live.impresa.pt/live/sic/sic.m3u8
 
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/small"  group-title="GENÉRICOS", TVI
@@ -33,17 +35,29 @@ http://62.167.50.245:8000/play/a01x
 #EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/small"  group-title="GENÉRICOS", RTP3
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/KodiPortugal.pt.m3u8
 
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/small"  group-title="GENÉRICOS", RTP3
+http://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/AMObox@PsychoMC.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
+
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/small"  group-title="GENÉRICOS", TVI24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/FamiliaIPTV.m3u8
+
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/small"  group-title="GENÉRICOS", TVI24
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/AMObox@PsychoMC.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/small"  group-title="GENÉRICOS", EURONEWS PT
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8
 
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/small"  group-title="GENÉRICOS", EURONEWS PT
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png/medium"  group-title="GENÉRICOS", CMTV
 http://62.167.50.245:8000/play/a03v
 
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png"  group-title="GENÉRICOS", SIC RADICAL
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png"  group-title="GENÉRICOS", SIC RADICAL [GeoBlock]
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png"  group-title="GENÉRICOS", SIC RADICAL [GeoBlock]
+http://live.impresa.pt/live/sicrad/sicrad.m3u8
 
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/small"  group-title="GENÉRICOS", PORTO CANAL 
 http://213.13.26.11:1935/live/portocanal/FamiliaIPTV.m3u8
@@ -72,7 +86,7 @@ http://streaming57.sitehosting.com.br:1935/redesim/redesim/FamiliaIPTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png/medium"  group-title="GENÉRICOS", TV RECORD 
 http://62.167.50.245:8000/play/a00v
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium"  group-title="GENÉRICOS", DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-id="discoverychannel.pt"tvg-logo="https://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium"  group-title="GENÉRICOS", DISCOVERY CHANNEL 
 http://62.167.50.245:8000/play/a022
 
 #EXTINF:-1 tvg-id="TCV" tvg-logo="http://www.thelogodb.com/images/media/logo/squwqv1438186600.png/medium"  group-title="GENÉRICOS", TCV 
@@ -83,9 +97,6 @@ http://213.13.26.13:1935/live/rtc_teste/AMObox@PsychoMC.m3u8
 
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png/medium"  group-title="GENÉRICOS", CANAL PARLAMENTO
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png/medium"  group-title="GENÉRICOS", CANAL PARLAMENTO
-rtmp://193.126.16.68:1935/livenlin4?ovpfv=2.1.2 playpath=mp4:2liveartvpub swfUrl=http://canal.parlamento.pt/embed/arplayer.swf pageUrl=http://AMObox@PsychoMC
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://s3.amazonaws.com/pt-bm-images/company_images/2692/logo/2692_logo_original.png"  group-title="GENÉRICOS", SANTUÁRIO DE FÁTIMA
 http://213.13.26.11:1935/live/santuario.stream/AMObox@PsychoMC.m3u8
