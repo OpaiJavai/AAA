@@ -166,32 +166,31 @@ http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 #EXTINF:-1 tvg-logo="https://cld.pt/dl/download/16d6dc96-59fb-4c76-9649-6e3193a85b0c/DESPORTO.png" group-title="DESPORTO", DESPORTO
 Http://google.pt
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" group-title="DESPORTO", SPORT TV 1
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" group-title="DESPORTO", SPORT TV 1
 http://62.167.50.245:8000/play/a037
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" group-title="DESPORTO", SPORT TV 1
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" group-title="DESPORTO", SPORT TV 1
 
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="DESPORTO", SPORTTV 2 HD
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="DESPORTO", SPORTTV 2 HD
 http://62.167.50.245:8000/play/a01z
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="DESPORTO", SPORTTV 2 SD
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="DESPORTO", SPORTTV 2 SD
 
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png/medium" group-title="DESPORTO", SPORTTV 3
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png/medium" group-title="DESPORTO", SPORTTV 3
 http://62.167.50.245:8000/play/a025
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png/medium" group-title="DESPORTO", SPORTTV 3
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png/medium" group-title="DESPORTO", SPORTTV 3
 
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png/medium" group-title="DESPORTO", SPORTTV 4
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png/medium" group-title="DESPORTO", SPORTTV 4
 http://62.167.50.245:8000/play/a01c
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" group-title="DESPORTO", SPORTTV 5
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" group-title="DESPORTO", SPORTTV 5
 
 
-#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/benfica_tv_c.png" group-title="DESPORTO", BENFICA TV
-
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/benfica_tv_c.png" group-title="DESPORTO", BENFICA TV
 
 
 
