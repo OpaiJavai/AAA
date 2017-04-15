@@ -203,6 +203,10 @@ http://62.167.50.245:8000/play/a01c
 -------------------------------------------------------------------------------------------------------------------------
 
 
+
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM", DESPORTO-ACESTREAM
+Http://google.pt
+
 #EXTINF:-1 tvg-id="sporttvmais.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png/medium" group-title="DESPORTO-ACESTREAM", SPORT.TV + HD
 acestream://861bbba2263bf0707ce223e4933b79db6b48b018
 
@@ -1197,14 +1201,20 @@ http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c210db2b-7d9f-4058-9aee-9ce915144170/musica.png" group-title="MÚSICA", MÚSICA
 Http://google.pt
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/yqvwrs1433428383.png/medium" group-title="MÚSICA", VH1 EUROPE
+#EXTINF:-1 tvg-id="VH1" tvg-logo="https://www.thelogodb.com/images/media/logo/yqvwrs1433428383.png/medium" group-title="MÚSICA", VH1 EUROPE
 http://89.38.8.130:39455
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rpuyvs1478249524.png/medium" group-title="MÚSICA", M6 MUSIQUE
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/tusvrr1436893817.png/medium" group-title="MÚSICA", MEZZO
+#EXTINF:-1 tvg-id="mezzo" tvg-logo="https://www.thelogodb.com/images/media/logo/tusvrr1436893817.png/medium" group-title="MÚSICA", MEZZO
 http://ott2.odessa.tv:7321/index.php?channel=197&key_ott=5f7690fd0bd330afafb91f331adc46dd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/MTV_Hits_Eurozone-Australia_2011_Logo.png" group-title="MÚSICA", MTV HITS (Acestream)
+acestream://0735776d281d43e2e5ec7564ae054f1bd96d13bc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mtv_rocks.svg/2000px-Mtv_rocks.svg.png" group-title="MÚSICA", MTV ROCKS (Acestream)
+acestream://10b3ab7b1e7f136ab48e6ecfcf7ae34a5999c2f0
 
 
 
@@ -1287,6 +1297,21 @@ http://centova.radios.pt:9478/stream/1/
 
 
 
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-logo="http://begin-english.ru/img/upload/2/f/7/7/d989510b55.png" group-title="ADULTO", ADULTO
+Http://google.pt
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://freevector.co/wp-content/uploads/2011/08/brazzers.png" group-title="ADULTO", Brazzers (Acestream)
+acestream://8b96bd8df497182d7ec2506b997b3879c0ca450c
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://vertelevisor.com/logos/hustlertv.jpg" group-title="ADULTO", HUSTLER HD (Acestream)
+acestream://d83b0a25ff3a6232011e4747f86220ad0d49b0ac
 
 
 
