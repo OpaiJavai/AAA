@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cld.pt/dl/download/31d5c76b-55b4-455d-88fb-0bf13299857d/genericos.png" group-title="GENÉRICOS", GENÉRICOS
-Http://google.pt
+https://openload.co/f/9X8H-rkswy0/A_Sombra_Dos_Abutres_%281997%29.avi
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/small"  group-title="GENÉRICOS", RTP 1
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/FamiliaIPTV.pt.m3u8
