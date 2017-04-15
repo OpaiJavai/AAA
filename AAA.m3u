@@ -1313,7 +1313,8 @@ acestream://8b96bd8df497182d7ec2506b997b3879c0ca450c
 #EXTINF:-1 tvg-id="" tvg-logo="http://vertelevisor.com/logos/hustlertv.jpg" group-title="ADULTO", HUSTLER HD (Acestream)
 acestream://d83b0a25ff3a6232011e4747f86220ad0d49b0ac
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://vertelevisor.com/logos/hustlertv.jpg" group-title="ADULTO", HUSTLER HD (Acestream)
+http://178.156.79.1:9090/play/a03t
 
 
 
