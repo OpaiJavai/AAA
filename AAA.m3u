@@ -1028,6 +1028,127 @@ https://cld.pt/dl/download/81a68ce8-007e-4bda-8619-aa20a8805dcb/Second%20Life%20
 
 
 
+-----------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", PRAIAS
+Http://google.pt
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", LEÇA DA PALMEIRA
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", MATOSINHOS
+http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", ESPINHO
+http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", ESMORIZ
+http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", FURADOURO
+http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", TORREIRA
+http://video-auth1.iol.pt:1935/beachcam/torreira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", BARRA
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", VAGUEIRA
+http://video-auth1.iol.pt:1935/beachcam/vagueira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", MIRA
+http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", BUARCOS
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", NAZARÉ
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", SUPERTUBOS
+http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", LAGIDE
+http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", SANTA CRUZ
+http://video-auth1.iol.pt:1935/beachcam/santacruz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", RIBEIRA D´ ILHAS
+http://video-auth1.iol.pt:1935/beachcam/ribeiradilhas/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", ERICEIRA
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", GRANDE
+http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", GUINCHO NORTE
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", GUINCHO SUL
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", S.PEDRO ESTORIL
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", CARCAVELOS
+http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", CAPARICA CDS
+http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", CAPARICA S.JOÃO
+http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", FONTE DA TELHA
+http://video-auth1.iol.pt:1935/beachcam/fontedatelha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", CARVALHAL
+http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", S. TORPES
+http://video-auth1.iol.pt:1935/beachcam/saotorpes/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", ZAMBUJEIRA
+http://video-auth1.iol.pt:1935/beachcam/zambujeira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", AMOREIRA
+http://video-auth1.iol.pt:1935/beachcam/bcamoreira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", ARRIFANA
+http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", PRAIA DA LUZ
+http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", MEIA PRAIA
+http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", ALVOR
+http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", PRAIA DA ROCHA
+http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", PRAIA DA GALÉ
+http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", EVARISTO
+http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", VILAMOURA
+http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", JARDIM DO MAR
+http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
+
+
+
+
+
+
 
 -------------------------------------------------------------------------------------------------------------------------
 
