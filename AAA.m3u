@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://cld.pt/dl/download/31d5c76b-55b4-455d-88fb-0bf13299857d/genericos.png" group-title="GENÉRICOS", GENÉRICOS
 Http://google.pt
 
@@ -205,32 +203,32 @@ http://62.167.50.245:8000/play/a01c
 -------------------------------------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM", DESPORTO-ACESTREAM
-Http://google.pt
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png/medium" group-title="DESPORTO-ACESTREAM", SPORT.TV + HD
+#EXTINF:-1 tvg-id="sporttvmais.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png/medium" group-title="DESPORTO-ACESTREAM", SPORT.TV + HD
 acestream://861bbba2263bf0707ce223e4933b79db6b48b018
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" group-title="DESPORTO-ACESTREAM", SPORT.TV 1 HD
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" group-title="DESPORTO-ACESTREAM", SPORT.TV 1 HD
 acestream://fb69958f116fdcae056d0ce73619251c57fc203f
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" group-title="DESPORTO-ACESTREAM", SPORT.TV 1 HD
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" group-title="DESPORTO-ACESTREAM", SPORT.TV 1 HD
 acestream://c4982dc3643cb07ee567b6c6c359fdc31a825e4e
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="DESPORTO-ACESTREAM", SPORT.TV 2 HD
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="DESPORTO-ACESTREAM", SPORT.TV 2 HD
 acestream://98410bb46b09fa5e77059ed5c371dd5a9f87712a
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="DESPORTO-ACESTREAM", SPORT.TV 2 HD
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="DESPORTO-ACESTREAM", SPORT.TV 2 HD
 acestream://1c1e203af297b4d756a08e9fff7c3466e07cade1
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png/medium" group-title="DESPORTO-ACESTREAM", SPORT.TV 3 HD
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png/medium" group-title="DESPORTO-ACESTREAM", SPORT.TV 3 HD
 acestream://9e750884d765dc2d87e8650d9180da7b0cad1a15
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png/medium" group-title="DESPORTO-ACESTREAM", SPORTTV 4 HD
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png/medium" group-title="DESPORTO-ACESTREAM", SPORTTV 4 HD
 acestream://90e0c453296d3608b48b5829663d1432d5924bcf
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vvvqxp1470408443.png/medium" group-title="DESPORTO-ACESTREAM", SPORTTV 5 HD
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/vvvqxp1470408443.png/medium" group-title="DESPORTO-ACESTREAM", SPORTTV 5 HD
 acestream://f60367b0ada5815bd2349b78fe11ce68cac0363b
+
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/benfica_tv_c.png" group-title="DESPORTO-ACESTREAM", BENFICA TV
+
 
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 1
 acestream://9de11b7049f986b66e28c64f0e50c56e5734c875
@@ -332,6 +330,18 @@ acestream://0a58e5a154cf3097f6eca5387b28e7776e43b1cc
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/7vbmvf1486146156.png/medium" group-title="DESPORTO-ACESTREAM", Sky Sport F1
 acestream://c6469fe5c077142811e3efd72d5b27097aedf3d2
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cxbQOaE.png" group-title="DESPORTO-ACESTREAM", MOVISTAR F1
+acestream://9f5ffaecd6957cc1f4cd2ed91386419e623c04f6
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="DESPORTO-ACESTREAM", FIGHT BOX HD
+acestream://e26d61526b439e376dcd6b3c7bc17b5dce34d65e
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://sportsnetwork.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/extreme-app.png" group-title="DESPORTO-ACESTREAM", EXTREME SPORTS
+acestream://c612272dbce5420cdefa2e97425b696a60610447
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://allfootballvideo.com/images/channel-logo/supertennis.jpg" group-title="DESPORTO-ACESTREAM", SUPER TENNIS HD 
+acestream://bb5c904f9e68035bdb5b4654a6b171600e62a0b0
+
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/tsqstw1436894693.png/medium" group-title="DESPORTO-ACESTREAM", PFC PT
 acestream://5c06b5a1bfab8dea71ab3ad151801beb0c06330a
 
@@ -367,6 +377,18 @@ acestream://4803c70664a5fe48e4aa2874b1da2a1c5923eddd
 
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wqqpuy1437611123.png/medium" group-title="DESPORTO-ACESTREAM", COMBATE BR
 acestream://b003b41ba1b638da02e1f8842a9b95bc2f934700
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/2000px-Logo_Sport.svg.png" group-title="DESPORTO-ACESTREAM", FUTBOL 1
+acestream://24b2e33593c6425bb66a1237e2e967ca51d197c6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/2000px-Logo_Sport.svg.png" group-title="DESPORTO-ACESTREAM", FUTBOL 2
+acestream://d440101d2eb0ebdfc245cfc4757587eed1169653
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/2000px-Logo_Sport.svg.png" group-title="DESPORTO-ACESTREAM", SPORT 1
+acestream://0589bc6406c57b6646f4958ea479aac6921ec0b0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/2000px-Logo_Sport.svg.png" group-title="DESPORTO-ACESTREAM", SPORT 1
+acestream://98447e85da7aacd8f43a33edb7e41cc250c8a031
 
 
 
