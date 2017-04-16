@@ -163,194 +163,76 @@ Http://google.pt
 
 
 #EXTM3U
-#EXTINF:-1, RTP Africa  IPTVultra.com [640x368]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3564.ts
-#EXTINF:-1, PFC HD  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3572.ts
-#EXTINF:-1, RTP Internacional  IPTVultra.com [640x368]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3560.ts
-#EXTINF:-1, National Geographic Wild  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3577.ts
-#EXTINF:-1, Sport TV 4 SD  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3986.ts
-#EXTINF:-1, TVI HD  IPTVultra.com [640x368]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3575.ts
-#EXTINF:-1, Fight Network HD  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3570.ts
-#EXTINF:-1, SPORT TV 1 sd  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3983.ts
-#EXTINF:-1, SIC KIDS  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1888.ts
-#EXTINF:-1, Cinemundo  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3574.ts
-#EXTINF:-1, TVCine 2  IPTVultra.com [720x416]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1884.ts
-#EXTINF:-1, Motorvision HD  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3568.ts
-#EXTINF:-1, Hollywood  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1875.ts
-#EXTINF:-1, Toros tv  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1864.ts
-#EXTINF:-1, Sport TV 2 SD  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3984.ts
-#EXTINF:-1, TVI Reality HD  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3561.ts
-#EXTINF:-1, NAT GEO HD  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1902.ts
-#EXTINF:-1, TVI 24  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1867.ts
-#EXTINF:-1, Fox Comedy  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1911.ts
-#EXTINF:-1, TVI Ficcao  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1880.ts
-#EXTINF:-1, TV SERIES  IPTVultra.com [1440x1088]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1870.ts
-#EXTINF:-1, TVCine 1  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1885.ts
-#EXTINF:-1, TV CINE 4  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1882.ts
-#EXTINF:-1, TVI  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1869.ts
-#EXTINF:-1, TVI REALITY  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1868.ts
-#EXTINF:-1, TV Globo  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1873.ts
-#EXTINF:-1, Record  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1897.ts
-#EXTINF:-1, Cartoon Network  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3576.ts
-#EXTINF:-1, FOX LIFE  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1910.ts
-#EXTINF:-1, Fox Crime  IPTVultra.com [1920x1088]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1908.ts
-#EXTINF:-1, RTP3  IPTVultra.com [640x368]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1894.ts
-#EXTINF:-1, Sic Mulher  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1887.ts
-#EXTINF:-1, RTP Acores  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3563.ts
-#EXTINF:-1, Motors TV  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1898.ts
-#EXTINF:-1, TVCine 3  IPTVultra.com [720x416]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1883.ts
-#EXTINF:-1, SYFY  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1874.ts
-#EXTINF:-1, TLC  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1899.ts
-#EXTINF:-1, RTP Memoria  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1891.ts
-#EXTINF:-1, SIC  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1889.ts
-#EXTINF:-1, Sic Radical  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1890.ts
-#EXTINF:-1, CMTV  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3555.ts
-#EXTINF:-1, SIC Caras  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1866.ts
-#EXTINF:-1, FOX MOVIES  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1909.ts
-#EXTINF:-1, RTP 1  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1896.ts
-#EXTINF:-1, HISTORIA HD  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1903.ts
-#EXTINF:-1, ODISSEIA  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1900.ts
-#EXTINF:-1, TVCine 5  IPTVultra.com [1440x1088]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1881.ts
-#EXTINF:-1, RTP Madeira  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1892.ts
-#EXTINF:-1, RTP 2  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1895.ts
-#EXTINF:-1, NICKELODEON  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1901.ts
-#EXTINF:-1, Discovery HD  IPTVultra.com [1280x720]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1907.ts
-#EXTINF:-1, E! ENTERTAINMENT  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1904.ts
-#EXTINF:-1, Disney Junior  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1906.ts
-#EXTINF:-1, Disney Channel  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1876.ts
-#EXTINF:-1, CM TV  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1877.ts
-#EXTINF:-1, Canal Porto  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1905.ts
-#EXTINF:-1, CANAL PANDA  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1878.ts
-#EXTINF:-1, AXN WHITE  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1913.ts
-#EXTINF:-1, AXN BLACK  IPTVultra.com [1920x1088]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1914.ts
-#EXTINF:-1, AXN HD  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1915.ts
-#EXTINF:-1, Abola tv  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1916.ts
-#EXTINF:-1, A BOLA TV  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1879.ts
-#EXTINF:-1, SIC NOTICIAS  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/886.ts
-#EXTINF:-1, FOX HD  IPTVultra.com [800x400]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1912.ts
-#EXTINF:-1, TV GLOBO PREMIUM  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1872.ts
-#EXTINF:-1, Sic Mulher  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/887.ts
-#EXTINF:-1, TV Globo  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/873.ts
-#EXTINF:-1, Disney Channel  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/876.ts
-#EXTINF:-1, TVCine 5  IPTVultra.com [1440x1088]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/881.ts
-#EXTINF:-1, TV CINE 4  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/882.ts
-#EXTINF:-1, E! ENTERTAINMENT  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/904.ts
-#EXTINF:-1, AXN HD  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/915.ts
-#EXTINF:-1, SIC KIDS  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/888.ts
-#EXTINF:-1, Fox Comedy  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/911.ts
-#EXTINF:-1, AXN WHITE  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/913.ts
-#EXTINF:-1, FOX MOVIES  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/909.ts
-#EXTINF:-1, TVCine 3  IPTVultra.com [720x416]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/883.ts
-#EXTINF:-1, SIC Caras  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/866.ts
-#EXTINF:-1, RTP 2 HD  IPTVultra.com [704x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3566.ts
-#EXTINF:-1,IPTV WEO  IPTVultra.com [640x368]
-http://149.202.206.38:8000/live/smartsat18.25/obI0AXyT/7064.ts
-#EXTINF:-1, TV RECORD  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1871.ts
-#EXTINF:-1, SIC NOTICIAS  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1886.ts
-#EXTINF:-1, Sport TV 3 sd  IPTVultra.com [720x576]
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3985.ts
-#EXTINF:-1, Sport.TV1 HD  IPTVultra.com [1440x1088]
-http://163.172.63.249:9998/live/friptv1/azarzffzz/820.ts
-#EXTINF:-1, TVCine 1 HD  IPTVultra.com [720x576]
-http://163.172.63.249:9998/live/friptv1/azarzffzz/1357.ts
-#EXTINF:-1, Sport.TV5  IPTVultra.com [720x576]
-http://163.172.63.249:9998/live/friptv1/azarzffzz/824.ts
-#EXTINF:-1, Sporting TV  IPTVultra.com [720x576]
-http://163.172.63.249:9998/live/friptv1/azarzffzz/1028.ts
-#EXTINF:-1, Sport.TV4  IPTVultra.com [720x576]
-http://163.172.63.249:9998/live/friptv1/azarzffzz/823.ts
-#EXTINF:-1, sport fuel  IPTVultra.com [720x576]
-http://163.172.63.249:9998/live/friptv1/azarzffzz/1029.ts
-#EXTINF:-1, TVCine 2 HD  IPTVultra.com [1280x720]
-http://163.172.63.249:9998/live/friptv1/azarzffzz/1358.ts
-#EXTINF:-1, Sport.TV3  IPTVultra.com [1440x1088]
-http://163.172.63.249:9998/live/friptv1/azarzffzz/822.ts
-#EXTINF:-1, BTV1 HD  IPTVultra.com [720x592]
-http://163.172.63.249:9998/live/friptv1/azarzffzz/1026.ts
-#EXTINF:-1, Sport.TV  IPTVultra.com [720x576]
-http://163.172.63.249:9998/live/friptv1/azarzffzz/825.ts
-#EXTINF:-1, BTV1  IPTVultra.com [1280x720]
-http://163.172.63.249:9998/live/friptv1/azarzffzz/1025.ts
+#EXTINF:-1,(PT) 24 Kitchen HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1236.ts
+#EXTINF:-1,(PT) CMTV
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2709.ts
+#EXTINF:-1,(PT) MOV HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2706.ts
+#EXTINF:-1,(PT) FOX HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1232.ts
+#EXTINF:-1,(PT) Fox Movies
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1235.ts
+#EXTINF:-1,(PT) Fox Life HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1234.ts
+#EXTINF:-1,(PT) Globo Premium
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2731.ts
+#EXTINF:-1,(PT) Porto Canal
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2704.ts
+#EXTINF:-1,(PT) RTP 1
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1215.ts
+#EXTINF:-1,(PT) RTP 2
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1216.ts
+#EXTINF:-1,(PT) RTP Memoria
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2712.ts
+#EXTINF:-1,(PT) SIC HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1217.ts
+#EXTINF:-1,(PT) SIC Kids
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2720.ts
+#EXTINF:-1,(PT) SIC Mulher
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2716.ts
+#EXTINF:-1,(PT) SIC Noticias
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2703.ts
+#EXTINF:-1,(PT) TVI
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1218.ts
+#EXTINF:-1,(PT) TVI 24
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2734.ts
+#EXTINF:-1,(PT) Canal Panda
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2710.ts
+#EXTINF:-1,(PT) E! Entertainment
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2725.ts
+#EXTINF:-1,(PT) Disney Junior
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2717.ts
+#EXTINF:-1,(PT) AXN White HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2708.ts
+#EXTINF:-1,(PT) Nat Geo Wild
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2705.ts
+#EXTINF:-1,(PT) Benfica 1
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1171.ts
+#EXTINF:-1,(PT) Eurosport 1 HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2739.ts
+#EXTINF:-1,(PT) Sporting TV HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/2732.ts
+#EXTINF:-1,(PT) Sport TV 1 HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/864.ts
+#EXTINF:-1,(PT) Sport TV 3
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/862.ts
+#EXTINF:-1,(PT) Sport TV 4 HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1021.ts
+#EXTINF:-1,(PT) Sport TV 5
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1022.ts
+#EXTINF:-1,(PT) AXN HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1227.ts
+#EXTINF:-1,(PT) TVC 1 HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1220.ts
+#EXTINF:-1,(PT) TVC 2 HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1221.ts
+#EXTINF:-1,(PT) TVC 3 HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1222.ts
+#EXTINF:-1,(PT) TVC 4 HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1223.ts
+#EXTINF:-1,(PT) Fox Crime HD
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1230.ts
 
 
 
