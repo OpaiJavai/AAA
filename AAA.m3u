@@ -1439,6 +1439,9 @@ http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png" group-title="MÚSICA", MTV Rocks
 http://78.30.254.27:8989/udp/239.0.0.143:4000
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="MÚSICA", MTV Live HD
+http://109.226.64.90:4022/udp/232.0.2.51:1234
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sfrcaraibe.fr/mtq/wp-content/uploads/sites/2/2015/06/logo-indieslive.png" group-title="MÚSICA", INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 
@@ -1457,46 +1460,8 @@ acestream://0735776d281d43e2e5ec7564ae054f1bd96d13bc
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mtv_rocks.svg/2000px-Mtv_rocks.svg.png" group-title="MÚSICA", MTV ROCKS (Acestream)
 acestream://10b3ab7b1e7f136ab48e6ecfcf7ae34a5999c2f0
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg" group-title="MÚSICA", Eska Rock TV HD 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg" group-title="MÚSICA", Eska Rock TV HD (Acestream)
 acestream://ae7649dc56cc94dbd3c0f7274afe5b74487fba11
-
-
-
-#EXTINF:-1, Vintage Tv
-http://content.asplaylist.net/cUEwZlVzaE90UHVxVWF2L0tXeTBmOU5HT0lvZkFWL0NrVjFyNjBoemdNUkZlL3pra2FTUEQxYTZ4UjF2TTVjRXFBc2czUlZDYnJPa0NXa2RTb2Nwb3c9PQ/cdn/1018_all.acelive
-#EXTINF:0, Eska Best Music TV HD 
-acestream://03d0667983842e0bf1421b70537e703a9fb6449f
-#EXTINF:0, Eska OldsCool TV HD 
-acestream://97fa50dad18879a273ca68f049b225db70d4f66c
-#EXTINF:0, Eska Party TV HD 
-acestream://ec41ab69074654aab7a3e8fc2c30abe8ac133559
-#EXTINF:0, Eska TV 
-acestream://cedfafe4acb6718ad69117d111132563ef230c71
-#EXTINF:0, Eska Wawa TV HD 
-acestream://dc933dd0c9212c6baf33d5841e7c5980a4eac66e
-#EXTINF:0, Europa Plus TV 
-acestream://c985cc6823047fc6a20f3dc861451405429ed9f4
-#EXTINF:0, Hit TV 
-acestream://7234c7fedfe7ea71915bb3357e81d254e64e39cf
-#EXTINF:0, Music TV 
-acestream://d0c49d6456a424515b5219772216e9e448c7673f
-#EXTINF:0, Virgin Radio TV 
-acestream://cadc8e3fbb9014fdf2a32ab940c478f0fccbad17
-#EXTINF:0, MUSICA ПИК 
-acestream://880743d531a7f95c4c0b1ef7fef4687c79fb891a
-#EXTINF:0, MUSICA ПИК HD 
-acestream://e5b037b8f16e2e29b510791e26614601a1c96135
-#EXTINF:0, MUSICA Первый музыкальный HD 
-acestream://5d08c3adb86c5d914629557011a79b5810d8017a
-#EXTINF:0, MUSICA Первый музыкальный UHD 
-acestream://f1403bc3b00f3391157f77efa9568810d9f2fe44
-#EXTINF:0, MUSICA Первый музыкальный Россия 
-acestream://918afd934652ac1154a8e3a0830411700cf608d0
-#EXTINF:0, MUSICA Первый музыкальный Россия HD 
-acestream://40789712edb7a04293b9640389123579ef4d7c64
-#EXTINF:0, MUSICA Первый музыкальный канал 
-acestream://bb1557cfa597eb81cd9545d29355cafefa7e6637
-
 
 
 
