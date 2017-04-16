@@ -1306,7 +1306,7 @@ https://cld.pt/dl/download/2724a396-a913-4cff-b100-54bef8953bfc/Viagem%20A%20Por
 
 -----------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", PRAIAS
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/media/3783114/beachcam.png" group-title="PRAIAS", PRAIAS
 Http://google.pt
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", LEÇA DA PALMEIRA
@@ -1432,6 +1432,16 @@ http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c210db2b-7d9f-4058-9aee-9ce915144170/musica.png" group-title="MÚSICA", MÚSICA
 Http://google.pt
 
+
+#EXTINF:-1 tvg-id="Virgin" tvg-logo="http://www.nj43.com/productsimg/itm_s_71.jpg" group-title="MÚSICA", VIRGIN TV
+http://wow01.105.net/live/virgin1/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png" group-title="MÚSICA", MTV Rocks
+http://78.30.254.27:8989/udp/239.0.0.143:4000
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sfrcaraibe.fr/mtq/wp-content/uploads/sites/2/2015/06/logo-indieslive.png" group-title="MÚSICA", INDIES LIVE 
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VH1" tvg-logo="https://www.thelogodb.com/images/media/logo/yqvwrs1433428383.png/medium" group-title="MÚSICA", VH1 EUROPE
 http://89.38.8.130:39455
 
@@ -1446,6 +1456,10 @@ acestream://0735776d281d43e2e5ec7564ae054f1bd96d13bc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mtv_rocks.svg/2000px-Mtv_rocks.svg.png" group-title="MÚSICA", MTV ROCKS (Acestream)
 acestream://10b3ab7b1e7f136ab48e6ecfcf7ae34a5999c2f0
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg" group-title="MÚSICA", Eska Rock TV HD 
+acestream://ae7649dc56cc94dbd3c0f7274afe5b74487fba11
+
 
 
 
