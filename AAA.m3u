@@ -162,9 +162,12 @@ http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 Http://google.pt
 
 
-#EXTM3U
 
-#EXTINF:-1,PT | ***** PORTUGUESE *****
+
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORÁRIOS", •●★-LISTA 1-★●•
+Http://google.pt
+
+
 http://51.255.74.170:7000/live/robyn/robyn/4573.ts
 #EXTINF:-1,PT | 24 Kitchen
 http://51.255.74.170:7000/live/robyn/robyn/4574.ts
@@ -324,7 +327,7 @@ http://51.255.74.170:7000/live/robyn/robyn/4649.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORÁRIOS", ----LISTA 2----
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORÁRIOS", •●★-LISTA 2-★●•
 Http://google.pt
 
 
@@ -398,6 +401,199 @@ http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1222.ts
 http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1223.ts
 #EXTINF:-1,(PT) Fox Crime HD
 http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1230.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORÁRIOS", •●★-LISTA 3-★●•
+Http://google.pt
+
+
+#EXTINF:-1,PT_RTP_Internacional
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2063.ts
+#EXTINF:-1,PT_Euronews
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2068.ts
+#EXTINF:-1,PT_CM_TV
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1619.ts
+#EXTINF:-1,PT_RTP_1_FullHD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1512.ts
+#EXTINF:-1,PT_RTP_2_FullHD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1513.ts
+#EXTINF:-1,PT_RTP_3
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1514.ts
+#EXTINF:-1,PT_RTP_ÁFRICA
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1519.ts
+#EXTINF:-1,PT_RTP_MADEIRA
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1857.ts
+#EXTINF:-1,PT_RTP_Acores
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2062.ts
+#EXTINF:-1,PT_Hollywood
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2085.ts
+#EXTINF:-1,PT_Canal_Q
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2066.ts
+#EXTINF:-1,PT_Fox_Crime
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/879.ts
+#EXTINF:-1,PT_SIC_FullHD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1953.ts
+#EXTINF:-1,PT_SIC_Noticias_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/275.ts
+#EXTINF:-1,PT_SIC_MULHER
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1520.ts
+#EXTINF:-1,PT_SIC_CARAS
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1521.ts
+#EXTINF:-1,PT_SIC_Radical
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/733.ts
+#EXTINF:-1,PT_Fox HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/740.ts
+#EXTINF:-1,PT_Odisseia
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1859.ts
+#EXTINF:-1,PT_TVI_24_local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/265.ts
+#EXTINF:-1,PT_TVI_FullHD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/266.ts
+#EXTINF:-1,PT_TVCine_1_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/267.ts
+#EXTINF:-1,PT_TVCine_2_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/268.ts
+#EXTINF:-1,PT_TVCine_3_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/269.ts
+#EXTINF:-1,PT_TVCine_4_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/270.ts
+#EXTINF:-1,PT_TV_SERIES_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/271.ts
+#EXTINF:-1,PT_TV_Record_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/273.ts
+#EXTINF:-1,PT_TV_Globo_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/274.ts
+#EXTINF:-1,PT_Toros_TV
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/278.ts
+#EXTINF:-1,PT_SYFY_SD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/279.ts
+#EXTINF:-1,PT_MOV_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/272.ts
+#EXTINF:-1,PT_AXN_White_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/289.ts
+#EXTINF:-1,PT_AXN_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/288.ts
+#EXTINF:-1,PT_AXN_Black_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/290.ts
+#EXTINF:-1,PT_Porto_Canal
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1515.ts
+#EXTINF:-1,PT_FOX_COMEDY
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1517.ts
+#EXTINF:-1,PT_Sport_TV+_FullHD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2071.ts
+#EXTINF:-1,PT_SportTV_1_FullHD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/280.ts
+#EXTINF:-1,PT_SportTV_2_FullHD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/281.ts
+#EXTINF:-1,PT_SportTV_3_FullHD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/282.ts
+#EXTINF:-1,PT_SportTV_4_FullHD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/283.ts
+#EXTINF:-1,PT_SportTV_5_FullHD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/284.ts
+#EXTINF:-1,PT_Benfica_TV_1_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/286.ts
+#EXTINF:-1,PT_Benfica_TV_2_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/287.ts
+#EXTINF:-1,PT_Eurosport_2_Xtra
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2076.ts
+#EXTINF:-1,PT_Eurosport_News
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2075.ts
+#EXTINF:-1,PT_Sporting_TV_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/285.ts
+#EXTINF:-1,PT_EUROSPORT_1_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/276.ts
+#EXTINF:-1,PT_EUROSPORT_2_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/277.ts
+#EXTINF:-1,PT_NBA_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2072.ts
+#EXTINF:-1,PT_Fight_Network
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2079.ts
+#EXTINF:-1,PT_Motors_TV
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2073.ts
+#EXTINF:-1,PT_Kombat_Sports
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2078.ts
+#EXTINF:-1,PT_TLC
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2091.ts
+#EXTINF:-1,PT_A_Bola_TV_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2080.ts
+#EXTINF:-1,PT_Fuel_TV
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2077.ts
+#EXTINF:-1,PT_Cançao_Nova
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2074.ts
+#EXTINF:-1,PT_Caçavision
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2092.ts
+#EXTINF:-1,PT_Caça_e_Pesca
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2082.ts
+#EXTINF:-1,PT_TRACE_URBAN
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2070.ts
+#EXTINF:-1,PT_ARTV
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2069.ts
+#EXTINF:-1,PT_AMC
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2088.ts
+#EXTINF:-1,PT_AandE
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2095.ts
+#EXTINF:-1,PT_Economico_TV
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2067.ts
+#EXTINF:-1,PT_TVI_REALITY
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/731.ts
+#EXTINF:-1,PT_VEVO_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1259.ts
+#EXTINF:-1,PT_VEVO_3_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1257.ts
+#EXTINF:-1,PT_VEVO_2_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1258.ts
+#EXTINF:-1,PT_Panda_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2097.ts
+#EXTINF:-1,PT_NICKELODEON
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2099.ts
+#EXTINF:-1,PT_Baby_TV_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2398.ts
+#EXTINF:-1,PT_JimJam
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2096.ts
+#EXTINF:-1,PT_PANDA_BIGGS
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1858.ts
+#EXTINF:-1,PT_Disney junior
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/742.ts
+#EXTINF:-1,PT_Trace_Urban_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2395.ts
+#EXTINF:-1,PT_CARTOON_NETWORK
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1518.ts
+#EXTINF:-1,PT_SIC KIDS_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/736.ts
+#EXTINF:-1,PT_Niclelodeon
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1516.ts
+#EXTINF:-1,PT_National_Geographic
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2089.ts
+#EXTINF:-1,PT_Motorvision_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2081.ts
+#EXTINF:-1,PT_CBS_Reality
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2094.ts
+#EXTINF:-1,PT_Discovery_Showcase
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2090.ts
+#EXTINF:-1,PT_Record_News_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2389.ts
+#EXTINF:-1,PT_Poker_Central
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2083.ts
+#EXTINF:-1,PT_NatGeo_Wild
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/738.ts
+#EXTINF:-1,PT_DISCOVERY_CHANNEL
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/743.ts
+#EXTINF:-1,PT_RTP_Memoria
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1856.ts
+#EXTINF:-1,PT_Travel_Channel
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2093.ts
+#EXTINF:-1,PT_MTV_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2396.ts
+#EXTINF:-1,PT_C-Music_Local
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/2397.ts
+
+
+
+
+
 
 
 
@@ -1988,42 +2184,117 @@ http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 #EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM4
 http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
 
-#EXTINF:0, brazzers-tv-europe
-plugin://program.plexus/?mode=1&url=acestream://d4651408263f14e7b48e12c7d8ea566abf0a27d1&name=brazzers-tv-europe
-#EXTINF:0, candy
-plugin://program.plexus/?mode=1&url=acestream://3bc119a0acfae80ec76c36a21a1c535c6f642bff&name=candy
-#EXTINF:0, candyman
-plugin://program.plexus/?mode=1&url=acestream://8435bc88fe2809cbf4250e6f857828d077a7c8a8&name=candyman
-#EXTINF:0, centoxcento-tv
-plugin://program.plexus/?mode=1&url=acestream://c12fb25dd0389272b6632778584dad2698f4b3ea&name=centoxcento-tv
-#EXTINF:0, eroxxx-hd
-plugin://program.plexus/?mode=1&url=acestream://b9511ea6be2739814eb9ac95db82572767b0f367&name=eroxxx-hd
-#EXTINF:0, exotica-tv
-plugin://program.plexus/?mode=1&url=acestream://822fed2c7a6acd2e05ceefab0c2afed00f64e5fa&name=exotica-tv
-#EXTINF:0, hustler-hd
-plugin://program.plexus/?mode=1&url=acestream://2d8915e2357b581712152ee0c3f4ca2a3112942f&name=hustler-hd
-#EXTINF:0, hustler-tv
-plugin://program.plexus/?mode=1&url=acestream://5ab50fbb36c6e04eac57b36e930ea9d126e4dc36&name=hustler-tv
-#EXTINF:0, nuart-tv
-plugin://program.plexus/?mode=1&url=acestream://662c6ad696aa6567e24a9b14fd9e9526720ae243&name=nuart-tv
-#EXTINF:0, o-la-la
-plugin://program.plexus/?mode=1&url=acestream://edc6f1a8b654b648715e640a731c3e0596f486d1&name=o-la-la
-#EXTINF:0, pink-o-tv
-plugin://program.plexus/?mode=1&url=acestream://765e2401b0aa154545f4b55cc32860b523f7f96b&name=pink-o-tv
-#EXTINF:0, playboy-tv
-plugin://program.plexus/?mode=1&url=acestream://1a786800a0d58cff383b5015c885ac1b1e840654&name=playboy-tv
-#EXTINF:0, redlight-hd
-plugin://program.plexus/?mode=1&url=acestream://3bf1a9355957947311d0ebae5f14a846aea92b91&name=redlight-hd
-#EXTINF:0, satisfaction-hd
-plugin://program.plexus/?mode=1&url=acestream://75f4f8f069172d77258a8250a5cfd59a123ca286&name=satisfaction-hd
-#EXTINF:0, sextosenso
-plugin://program.plexus/?mode=1&url=acestream://7a120f14c9f0f6676fd863116b3eaa2d7c712701&name=sextosenso
-#EXTINF:0, Venus
-plugin://program.plexus/?mode=1&url=acestream://71b41b3bebb9c4e6c2e55f29f5427b9efeae6f95&name=Venus
-#EXTINF:0, tgirls-tv
-plugin://program.plexus/?mode=1&url=acestream://b48874056e1e987efeee256b5f96fa116233108d&name=tgirls-tv
-#EXTINF:0, xxl
-plugin://program.plexus/?mode=1&url=acestream://6fc1b0669bc3b9e02e07c2c85772d31540df5027&name=xxl
-#EXTINF:0, xxx
-plugin://program.plexus/?mode=1&url=acestream://bdfd5523a9d54474f5572e209352746794adcb83&name=xxx
+
+
+
+
+#EXTINF:-1,•●★-XXX ADULT-★●•
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1160.ts
+#EXTINF:-1,XXX Evil Angel.com
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/870.ts
+#EXTINF:-1,XXX Bizarre
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/844.ts
+#EXTINF:-1,XXX SCT
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/845.ts
+#EXTINF:-1,XXX_Hustler_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/840.ts
+#EXTINF:-1,XXX Mofos.com
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/841.ts
+#EXTINF:-1,XXX DUSK
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/878.ts
+#EXTINF:-1,XXX_Private
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/876.ts
+#EXTINF:-1,XXX_DorcelClub.com
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/875.ts
+#EXTINF:-1,XXX_Candy
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/866.ts
+#EXTINF:-1,XXX Passie XXX
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/865.ts
+#EXTINF:-1,XXX ERO xxx HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/859.ts
+#EXTINF:-1,XXX_Erotic_01
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/860.ts
+#EXTINF:-1,XXX_Erotic_02
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/867.ts
+#EXTINF:-1,XXX_Erotic_03
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/874.ts
+#EXTINF:-1,XXX_Erotic_04
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/877.ts
+#EXTINF:-1,XXX_Erotic_05
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/857.ts
+#EXTINF:-1,XXX_Erotic_06
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/856.ts
+#EXTINF:-1,XXX_Erotic_07
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/853.ts
+#EXTINF:-1,XXX_Erotic_08
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/846.ts
+#EXTINF:-1,XXX Hard x
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/864.ts
+#EXTINF:-1,XXX NoBORING.com
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/872.ts
+#EXTINF:-1,XXX_Brazzers.com
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/868.ts
+#EXTINF:-1,XXX_Penthouse
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/871.ts
+#EXTINF:-1,18Yoga.com
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/869.ts
+#EXTINF:-1,XXX_But_GO
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/873.ts
+#EXTINF:-1,XXX mv First PUBLIC
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/862.ts
+#EXTINF:-1,XXX Meiden Holland
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/861.ts
+#EXTINF:-1,XXX la FRANCE a POIL
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/863.ts
+#EXTINF:-1,XXX_Blacked.com
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/852.ts
+#EXTINF:-1,XXX PlayPoy
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/851.ts
+#EXTINF:-1,XXX_Viki_Enjoy_Premium
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/858.ts
+#EXTINF:-1,XXX Brazzares TV europe
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/855.ts
+#EXTINF:-1,XXX_Venus
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/849.ts
+#EXTINF:-1,XXX_BDSM.com
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/850.ts
+#EXTINF:-1,XXX_FrenchLover_TV
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/847.ts
+#EXTINF:-1,XXX_Hot
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/839.ts
+#EXTINF:-1,XXX_Play_19+
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/838.ts
+#EXTINF:-1,XXX_Visit_X_Live
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1233.ts
+#EXTINF:-1,XXX_Satisfaction
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1228.ts
+#EXTINF:-1,XXX_RedLight_HD
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1229.ts
+#EXTINF:-1,XXX_Pinko_TV
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1230.ts
+#EXTINF:-1,XXX JASMIN_TV
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1234.ts
+#EXTINF:-1,XXX_Exotica_TV
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1231.ts
+#EXTINF:-1,XXX Cento_X_Cento
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1232.ts
+#EXTINF:-1,BR_Sextreme_XXX
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/3978.ts
+#EXTINF:-1,BR_Sexy_Hot_XXX
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/3984.ts
+
+
+#EXTINF:-1,====== film adult =======
+http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1852.ts
+#EXTINF:-1,Xxx: À L'aventure (2008) Erotik Albanian Sub
+http://tv-fan-sat.org:25461/movie/livealbi1987/Bs5FrRZmqx/3803.mp4
+#EXTINF:-1,Xxx: Women Seeking Women 136 Cd1
+http://tv-fan-sat.org:25461/movie/livealbi1987/Bs5FrRZmqx/3806.mp4
+#EXTINF:-1,Xxx: Women Seeking Women 136 Cd2
+http://tv-fan-sat.org:25461/movie/livealbi1987/Bs5FrRZmqx/3807.mp4
+#EXTINF:-1,Xxx: Young Girls Like Big Dicks Disc1(2016)
+http://tv-fan-sat.org:25461/movie/livealbi1987/Bs5FrRZmqx/3804.mp4
+#EXTINF:-1,Xxx: Young Girls Like Big Dicks Disc2(2016)
+http://tv-fan-sat.org:25461/movie/livealbi1987/Bs5FrRZmqx/3805.mp4
+
 
