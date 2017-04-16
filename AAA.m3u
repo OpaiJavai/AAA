@@ -1559,26 +1559,69 @@ https://cld.pt/dl/download/2724a396-a913-4cff-b100-54bef8953bfc/Viagem%20A%20Por
 Http://google.pt
 
 
-#EXTINF:-1 tvg-id="Virgin" tvg-logo="http://www.nj43.com/productsimg/itm_s_71.jpg" group-title="MÚSICA", VIRGIN TV
+#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://vignette2.wikia.nocookie.net/tardis/images/8/87/Virgin_Logo.png/revision/latest?cb=20110710113011" group-title="MÚSICA", VIRGIN TV
 http://wow01.105.net/live/virgin1/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png" group-title="MÚSICA", MTV Rocks
-http://78.30.254.27:8989/udp/239.0.0.143:4000
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="MÚSICA", MTV Live HD
-http://109.226.64.90:4022/udp/232.0.2.51:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sfrcaraibe.fr/mtq/wp-content/uploads/sites/2/2015/06/logo-indieslive.png" group-title="MÚSICA", INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://secure.static.tumblr.com/faf012adceeea902987df1e940d062ad/e1vtkly/yuhn1d9n4/tumblr_static_heavymetaltelevision_header.jpg" group-title="MÚSICA", Heavy Metal TV
+http://mtvam.ru/hlsam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="MÚSICA", 538 TV
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1669385670/urbantree-logo_400x400.png" group-title="MÚSICA", ALEX BERLIN (Urban Music)
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/581384485519921152/mqoXATjw.jpg" group-title="MÚSICA", 1HD Music Television
+http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VH1" tvg-logo="https://www.thelogodb.com/images/media/logo/yqvwrs1433428383.png/medium" group-title="MÚSICA", VH1 EUROPE
 http://89.38.8.130:39455
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/187605_orig.png" group-title="MÚSICA", Music Channel
+http://92.249.129.152/stream/1music.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.listam3u.com/Amazing_TV.png" group-title="MÚSICA", AMAZING TV HD
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-J-B8s8p_MiM/Ulme9YNAzvI/AAAAAAAAUIo/njmzj43iI5M/s250-c/Capital_TV.png" group-title="MÚSICA", CAPITAL TV HD
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh5.ggpht.com/7-Gfv3uIqfGm_gBKjVh1jVwNFz8hKZ94z2eEgVvmgwK7QSpzurYiITlqeR5PEher7A=w300" group-title="MÚSICA", Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Fresh_TV_logo.png" group-title="MÚSICA", FRESH TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-heart-tv.png" group-title="MÚSICA", HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-heart-tv.png" group-title="MÚSICA", HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.televalentin.com/imagenes/logos/HIT%20TV__8aac0c2fd1.png" group-title="MÚSICA", HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://cmiarabia.com/assets/clients/8.png" group-title="MÚSICA", MELODY CHANNEL TV
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/187605_orig.png" group-title="MÚSICA", AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png" group-title="MÚSICA", MTV Rocks
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="MÚSICA", MTV Live HD
+
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rpuyvs1478249524.png/medium" group-title="MÚSICA", M6 MUSIQUE
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
 
 #EXTINF:-1 tvg-id="mezzo" tvg-logo="https://www.thelogodb.com/images/media/logo/tusvrr1436893817.png/medium" group-title="MÚSICA", MEZZO
-http://ott2.odessa.tv:7321/index.php?channel=197&key_ott=5f7690fd0bd330afafb91f331adc46dd
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/MTV_Hits_Eurozone-Australia_2011_Logo.png" group-title="MÚSICA", MTV HITS (Acestream)
 acestream://0735776d281d43e2e5ec7564ae054f1bd96d13bc
@@ -1588,6 +1631,8 @@ acestream://10b3ab7b1e7f136ab48e6ecfcf7ae34a5999c2f0
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg" group-title="MÚSICA", Eska Rock TV HD (Acestream)
 acestream://ae7649dc56cc94dbd3c0f7274afe5b74487fba11
+
+
 
 
 
