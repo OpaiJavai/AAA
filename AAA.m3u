@@ -149,11 +149,6 @@ http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 
 
 
-#EXTINF:0,Mute TV
-http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
-
-#EXTINF:0,Mute TV 3D
-http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.3d/stream.m3u8
 
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -1868,6 +1863,9 @@ Http://google.pt
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://vignette2.wikia.nocookie.net/tardis/images/8/87/Virgin_Logo.png/revision/latest?cb=20110710113011" group-title="MÚSICA", VIRGIN TV
 http://wow01.105.net/live/virgin1/.m3u8
 
+#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://vignette2.wikia.nocookie.net/tardis/images/8/87/Virgin_Logo.png/revision/latest?cb=20110710113011" group-title="MÚSICA", VIRGIN TV
+http://tv.105.net:1935/live/virgin1/chunklist_w864163580.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sfrcaraibe.fr/mtq/wp-content/uploads/sites/2/2015/06/logo-indieslive.png" group-title="MÚSICA", INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 
@@ -2106,6 +2104,26 @@ http://94.23.76.235:9956/
 #EXTINF:-1,HIPER FM
 http://85.25.73.243:10460/
 
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://player.streamguys.com/thirdrock/sgplayer/include/assets/img/ThirdRockRadio500x500.jpg",THIRD ROCK RADIO (US)
+http://rfcmedia2.streamguys1.com/thirdrock.mp3
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2012/02/vodafone_logo-certo1.jpg",VODAFONE FM
+rtmp://mcrwowza5.mcr.iol.pt/vodafonelc/ playpath=vodafonelc.sdp swfUrl=http://vodafone.fm/scripts/vendor/soundmanager/swf/soundmanager2_flash9.swf pageUrl=http://kodiportugal.pt
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="https://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",RÁDIO SUPER FM
+http://94.23.76.235:9956/;stream/1
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/wpyvux1435094520.png/medium",RÁDIO MEGA HITS
+http://19553.live.streamtheworld.com:80/MEGA_HITS_SC
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83943q.png",RÁDIO OXIGÊNIO
+http://centova.radios.pt:9498
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.radiomiudos.pt/img/logo2.png",RÁDIO MIÚDOS
+http://185.118.112.12:8027/live
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://media.rtp.pt/refresca/wp-content/themes/refresca/includes/img/logo_RadioZigZag.png",RÁDIO ZIGZAG
+http://streaming-live.rtp.pt/liveradio/zigzag80a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
 #EXTINF:-1 tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" group-title= group-title="RÁDIO", 94 FM
 http://195.8.58.150:35022/;stream.mp3
@@ -2173,6 +2191,89 @@ http://centova.radios.pt:9506/stream/1/
 #EXTINF:-1 tvg-logo="http://www.radionovaera.pt/wp-content/uploads/2016/10/logo-transp-nova-era.png" group-title= group-title="RÁDIO", NOVA ERA
 http://centova.radios.pt:9478/stream/1/
 
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.radiot.fi/img/channel-logos/radio-nostalgia.png?content-checksum=4900b28eb84dcabd12326e6d761fc98eacf1d376",RÁDIO NOSTALGIA
+http://centova.radios.pt:8435
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://djnuno.com/wp-content/uploads/2011/05/Logo-Orbital-3D_2.png",RÁDIO ORBITAL
+http://stream.radio.com.pt:8401/;stream/1
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.radioclube-penafiel.pt/i/logo_radioclubepenafiel.png",RÁDIO CLUBE PENAFIEL
+http://centova.radios.pt:9476/;
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.radionovaera.pt/wp-content/uploads/2015/12/logo.png",RÁDIO NOVA ERA
+http://centova.radios.pt:9478/
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://i.imgur.com/0vmzhdz.png",RÁDIO REGIONAL
+http://213.251.184.7:8002/stream
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://i.imgur.com/tKrKYOR.png",RÁDIO REGIONAL ROCK
+http://213.251.184.7:8046/stream
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://i.imgur.com/hUrEKgu.png",RÁDIO REGIONAL DANCE & DJ'S
+http://213.251.184.7:8064/stream
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://i.imgur.com/aPZ5joL.png",RÁDIO REGIONAL LOVE SONGS
+http://213.251.184.7:8058/stream
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://i.imgur.com/1zntJ9S.png",RÁDIO REGIONAL OLDIES
+http://213.251.184.7:8052/stream
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://i.imgur.com/x48qEMX.png",RÁDIO REGIONAL PORTUGUESA
+http://213.251.184.7:8040/stream
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.marcoensefm.com/wp-content/themes/marcoense-fm/images/logo.png",MARCOENSE FM
+http://137.74.160.250:8000/;stream/1
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.radioondaviva.pt/images/logo.png",RÁDIO ONDA VIVA
+http://109.71.41.6:8030/;stream.mp3
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.radiolinear.pt/img/logo.png",RÁDIO LINEAR
+http://213.136.92.8:8022/;
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://cdn.sintonizate.net/r/68407.png",NOVE3CINCO
+http://centova.radios.pt:9522/;
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.radiosines.com/wp-content/uploads/2015/02/logo-e1423149088399.png",RÁDIO SINES
+http://176.9.88.190:9580
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.radioregionaldearouca.com/site/wp-content/uploads/2015/06/logo-radio1.png",RÁDIO REGIONAL AROUCA
+http://centova.radio.com.pt:8485/;
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Cascais.jpg",RÁDIO CASCAIS
+http://94.23.76.235:9896/;stream/1
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.terranova.pt/sites/default/files/logotipoterranova.png",RÁDIO TERRA NOVA
+http://centova.radios.pt:9404/stream
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://radionoar.pt/wp-content/uploads/2017/02/Radio-NoAr_156.png",RÁDIO NOAR
+http://centova.radio.com.pt:9472/;
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://radioportuense.com/wp-content/uploads/2017/01/oie_dUXe4SR8xHI0.png",RÁDIO PORTUENSE
+http://88.198.72.46:9848/;
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://i.imgur.com/tHi5ewx.png",RÁDIO MONSANTO
+http://centova.radio.com.pt:9424/;
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.radiocastelobranco.pt/css/site/img/logo.png",RÁDIO CASTELO BRANCO
+http://centova.radio.com.pt:9462/;
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.radiovaledominho.com/imgs/logo_rvm_footer2.png",RÁDIO VALE DO MINHO
+http://centova.radio.com.pt:9434/;
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.hiper.fm/images/hiper_logo_red.png",HIPER FM
+http://85.25.73.243:10460/;stream/1
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://radiohertz.pt/wp-content/uploads/2015/03/Logo-R%C3%A1dio-Hertz-2015-03-261-300x117.png",RÁDIO HERTZ
+http://94.23.76.235:9890/;
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.apradiodifusao.pt/xiiicongresso/images/radios/radioportalegre.png",RÁDIO PORTALEGRE
+http://centova.radios.pt:9492/stream
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://powerhits.net/admin/cdn/images/logo2.png",RÁDIO POWER HITS
+http://stm18.painel.foxsolucoes.net:18642/stream
+
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://arquivo.jm-madeira.pt/sites/all/themes/jm15/images/logo.jpg",JM MADEIRA
+http://stream.radio.com.pt:8537/;stream.mp3
 
 
 
