@@ -148,17 +148,12 @@ http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 
 
-#EXTINF:0,UK-: DOUBLE FATURE TV
-http://live-1112.la2.edge.filmon.com/live/1693.high.stream/playlist.m3u8?id=0ad5aac39bb13fbede5c6c072d93d34392c0a24a38c3dfb8ae6358ea344bef0209c7521e6174f4748a9f971eff50cefb6b2c6d807b86f9112cbd6d417df1dae6bc37826a6d6b9ba71053469e29cfb9a9fcdeb758cecebe1e6f9ff944fe68118851fbf46a28b5d56bb575a9d1bb01516442c18d55cece17a8551e8cdb963bb38592174b5c49fe180c390523f7420d9036cbe89e159a7db5c5&time=1481251385924
-#EXTINF:0,UK-: FILM ON TENNIS
-http://live-1264.la2.edge.filmon.com/live/1948.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe622b1383abc80dff558452c56d423ed1a3d080ecddfe61397587e025098d90c744948a3fd7e322d416a501cba443a7194f8c2939d6f0fba9a4bf1e9149ea0344714159f9980b0a91c0ff147aaad21fbbe21987a0a0062ec211a42dcf9d8d1a6db40b1fb5dcd1f17da20d2b89c696a7bd94732049dda89bfcaa1d181f0427058d2805b7c56d0abec1255a164437c3d2a9
-#EXTINF:0,UK-: KUNG FU CLASSIC
-http://live-1124.la2.edge.filmon.com/live/1967.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe6f79607ec48ed0bb7f9b7f620b52e90f9fd116f5e9915304c8fb5e5591f45a4c34b42791dd1071d27c22324d63aa8268c17e4ee420c8a35207d4ea0a127c68f2576c71f0f8b790a05a6fb5076c430bb22105fbc16e7eec63acdeddcb1196f21a18a715351596bc6821a5f1f71a8cf3c5b8ac6790151974ec68a6f6de9f98f74231bd69ca7e988772f197462c3bdb05e3
-#EXTINF:0,UK-: YESTERDAY
-http://live-1183.gv2.edge.filmon.com/live/1039.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe4910ed42c916d7dfc941971dd934b660f7faabedeef55788485c6c1ec37abebd46dc05064f81f4a02459afae3f97bd9a1b299230817f02674bc3f766bc3a07c71004885eae587e665a6073bdb52b1f6e16b3571a5337e5484f891eb269d16abca0e69ae96affc1663578923fecba5b0b96916ae39c2181b2126e1273eb0ab0d7f9356d0f6342e889805d62c6a86d5cba
 
+#EXTINF:0,Mute TV
+http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
 
-
+#EXTINF:0,Mute TV 3D
+http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.3d/stream.m3u8
 
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -2082,6 +2077,34 @@ http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://go2android.ru/wp-content/uploads/2014/10/Real-FM-Radio.png" group-title="RÁDIO", RÁDIO
 Http://google.pt
+
+
+#EXTINF:-1,Mais Kizomba
+http://109.71.41.250:8123/
+
+#EXTINF:-1,RFM CLUBBING
+http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
+
+#EXTINF:0,Radio RFM
+http://7719.live.streamtheworld.com/RFM_SC
+
+#EXTINF:0, Radio MegaFM
+http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
+
+#EXTINF:-1,M80
+http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC
+
+#EXTINF:-1,NOVA ERA
+http://stream.radio.com.pt:9478/stream
+
+#EXTINF:-1,94 FM
+http://195.8.58.150:35022/;stream.nsv
+
+#EXTINF:-1,SUPER FM
+http://94.23.76.235:9956/
+
+#EXTINF:-1,HIPER FM
+http://85.25.73.243:10460/
 
 
 #EXTINF:-1 tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" group-title= group-title="RÁDIO", 94 FM
