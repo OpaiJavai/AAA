@@ -353,6 +353,164 @@ http://worldcs.info:8080/live/xxxx/zzzz/18361.ts
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORÁRIOS", •●★-LISTA 2-★●•
 Http://google.pt
 
+#EXTINF:-1 tvg-ID="" tvg-name="### PORTUGAL CHANNEL ###" tvg-logo="http://www.playhdtv.pw/imgs/portugal_640.png" group-title="",### PORTUGAL CHANNEL ###
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/1040.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO PORTUGAL SD" tvg-logo="http://s20.postimg.org/h9gvd2ufd/Globo_SP.png" group-title="TEMPORÁRIOS",GLOBO PORTUGAL SD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/733.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO PREMIUM SD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TEMPORÁRIOS",GLOBO PREMIUM SD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/1024.ts
+#EXTINF:-1 tvg-ID="REDE RECORD HD" tvg-name="RECORD PT SD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TEMPORÁRIOS",RECORD PT SD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV CINE 1 FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVC1.png" group-title="TEMPORÁRIOS",TV CINE 1 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/777.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV CINE 2 FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVC2.png" group-title="TEMPORÁRIOS",TV CINE 2 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/778.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV CINE 3 FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVC3.png" group-title="TEMPORÁRIOS",TV CINE 3 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/779.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV CINE 4 FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVC4.png" group-title="TEMPORÁRIOS",TV CINE 4 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/780.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV CINE SERIES FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVSeries.jpg" group-title="TEMPORÁRIOS",TV CINE SERIES FULL HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/781.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC HD - PT" tvg-logo="http://www.playhdtv.pw/img/AMC.png" group-title="TEMPORÁRIOS",AMC HD - PT
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/767.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN FULL HD - PT" tvg-logo="https://s15.postimg.org/tzhnubsmz/axn.png" group-title="TEMPORÁRIOS",AXN FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/776.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN BLACK FULL HD - PT" tvg-logo="http://www.playhdtv.pw/img/AXN_Black.png" group-title="TEMPORÁRIOS",AXN BLACK FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/783.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN White FULL HD - PT" tvg-logo="http://www.playhdtv.pw/img/AXN_White.png" group-title="TEMPORÁRIOS",AXN White FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/786.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX FULL HD - PT" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="TEMPORÁRIOS",FOX FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/771.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE FULL HD PT" tvg-logo="http://www.playhdtv.pw/img/fox-life-hd.jpg" group-title="TEMPORÁRIOS",FOX LIFE FULL HD PT
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/963.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY HD - PT" tvg-logo="http://www.playhdtv.pw/img/FOX-Comedy-HD.png" group-title="TEMPORÁRIOS",FOX COMEDY HD - PT
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/784.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES FULL HD PT" tvg-logo="http://www.playhdtv.pw/img/foxmove.png" group-title="TEMPORÁRIOS",FOX MOVIES FULL HD PT
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/962.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CRIME FULL HD - PT" tvg-logo="http://www.playhdtv.pw/img/foxcrimehd.png" group-title="TEMPORÁRIOS",FOX CRIME FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/785.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HOLLYWOOD HD" tvg-logo="http://www.playhdtv.pw/img/hollywood.png" group-title="TEMPORÁRIOS",HOLLYWOOD HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/782.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SHOW CASE HD - PT" tvg-logo="http://www.playhdtv.pw/img/Discovery_HD_Showcase.png" group-title="TEMPORÁRIOS",DISCOVERY SHOW CASE HD - PT
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/770.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD HD - PT" tvg-logo="http://www.playhdtv.pw/img/NatgeoWildhD.png" group-title="TEMPORÁRIOS",NAT GEO WILD HD - PT
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/768.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO HD - PT" tvg-logo="http://www.playhdtv.pw/img/national-geographic.jpg" group-title="TEMPORÁRIOS",NAT GEO HD - PT
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/769.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTP 1 FULL HD" tvg-logo="http://www.playhdtv.pw/img/rtp_.png" group-title="TEMPORÁRIOS",RTP 1 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/772.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVI" tvg-logo="http://www.playhdtv.pw/img/TVI.png" group-title="TEMPORÁRIOS",TVI
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/774.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMUNDO" tvg-logo="http://www.playhdtv.pw/img/cinemundo.jpg" group-title="",CINEMUNDO
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/964.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV + FULL HD" tvg-logo="http://www.playhdtv.pw/img/sport.tv_.plus.jpg" group-title="TEMPORÁRIOS",SPORT TV + FULL HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/971.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV  PT 1 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT1.png" group-title="TEMPORÁRIOS",SPORTV  PT 1 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/666.ts
+#EXTINF:-1 tvg-ID="SPORTV PT 2" tvg-name="SPORTV  PT 2 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT2.png" group-title="TEMPORÁRIOS",SPORTV  PT 2 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/667.ts
+#EXTINF:-1 tvg-ID="SPORTV PT 3" tvg-name="SPORTV  PT 3 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT3.png" group-title="TEMPORÁRIOS",SPORTV  PT 3 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/668.ts
+#EXTINF:-1 tvg-ID="SPORTV PT 4" tvg-name="SPORTV  PT 4 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT4.png" group-title="TEMPORÁRIOS",SPORTV  PT 4 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/669.ts
+#EXTINF:-1 tvg-ID="SPORTV PT 5" tvg-name="SPORTV   PT 5 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT5.png" group-title="TEMPORÁRIOS",SPORTV   PT 5 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/674.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BENFICA TV HD" tvg-logo="http://www.playhdtv.pw/img/BenficaTV.png" group-title="TEMPORÁRIOS",BENFICA TV HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/675.ts
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORÁRIOS", •●★-LISTA 3-★●•
+Http://google.pt
+
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Abola Tv (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Abola Tv (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/410.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Amc (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Amc (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/436.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Axn (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Axn (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/440.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Axn Black HD (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Axn Black HD (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/441.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Axn White HD (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Axn White HD (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/442.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Benfica Tv 1 (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Benfica Tv 1 (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/420.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Canal Panda (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Canal Panda (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/425.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Cinemundo (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Cinemundo (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/437.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Cm Tv (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Cm Tv (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/411.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Disney Channel (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Disney Channel (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/422.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Disney Junior (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Disney Junior (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/423.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: E! Entertainment (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: E! Entertainment (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/439.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Fox HD (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Fox HD (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/444.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Globo (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Globo (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/412.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Hollywood (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Hollywood (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/438.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Mov HD (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Mov HD (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/443.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Porto Canal (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Porto Canal (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/414.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Q Canal (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Q Canal (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/409.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Rtp 1 (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Rtp 1 (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/396.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Rtp 2 (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Rtp 2 (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/397.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Rtp 3 (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Rtp 3 (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/398.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC Radical (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: SIC Radical (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/404.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sic (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Sic (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/399.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sic Caras (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Sic Caras (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/403.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sic Mulher (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Sic Mulher (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/402.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sic Noticias (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Sic Noticias (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/401.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport Tv 1 (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Sport Tv 1 (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/415.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport Tv 2 (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Sport Tv 2 (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport Tv 3 (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Sport Tv 3 (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport Tv 4 (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Sport Tv 4 (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/418.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: TVI (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/405.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI 24 (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: TVI 24 (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/406.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Ficcao (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: TVI Ficcao (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/407.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Reality (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: TVI Reality (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/408.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Tv Cine 1 HD (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Tv Cine 1 HD (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/430.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Tv Cine 2 HD (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Tv Cine 2 HD (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/431.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Tv Cine 3 (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Tv Cine 3 (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/432.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Tv Cine 4 (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Tv Cine 4 (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/433.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Tv Series (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Tv Series (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/434.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Tvc Series (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Tvc Series (.)
+http://alphatwo.ddns.net:8000/live/belle/belle/435.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORÁRIOS", •●★-LISTA 4-★●•
+Http://google.pt
+
 
 #EXTINF:0,PT: TVI REALITY
 http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/17776.ts
@@ -579,316 +737,6 @@ http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10578.ts
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORÁRIOS", •●★-LISTA 3-★●•
-Http://google.pt
-
-
-
-#EXTINF:-1,PT:VH1 Classic
-http://localhd.tv:8081/live/pedro/skype/2144.ts
-#EXTINF:-1,PT:VH1
-http://localhd.tv:8081/live/pedro/skype/2143.ts
-#EXTINF:-1,PT:Trace TV
-http://localhd.tv:8081/live/pedro/skype/2142.ts
-#EXTINF:-1,PT:Sport TV 5
-http://localhd.tv:8081/live/pedro/skype/2139.ts
-#EXTINF:-1,PT:MTV Dance
-http://localhd.tv:8081/live/pedro/skype/2145.ts
-#EXTINF:-1,PT:MCM TOP
-http://localhd.tv:8081/live/pedro/skype/2146.ts
-#EXTINF:-1,PT:AXN Black HD
-http://localhd.tv:8081/live/pedro/skype/2140.ts
-#EXTINF:-1,PT:Afro Music
-http://localhd.tv:8081/live/pedro/skype/2141.ts
-#EXTINF:-1,PT: VH1
-http://localhd.tv:8081/live/pedro/skype/1671.ts
-#EXTINF:-1,PT: TVI Reality (A Quinta)
-http://localhd.tv:8081/live/pedro/skype/1672.ts
-#EXTINF:-1,PT: TVI 24
-http://localhd.tv:8081/live/pedro/skype/1673.ts
-#EXTINF:-1,PT: TVI
-http://localhd.tv:8081/live/pedro/skype/1674.ts
-#EXTINF:-1,PT: TVCseries
-http://localhd.tv:8081/live/pedro/skype/1675.ts
-#EXTINF:-1,PT: TV RECORD
-http://localhd.tv:8081/live/pedro/skype/1676.ts
-#EXTINF:-1,PT: TV Globo Premium
-http://localhd.tv:8081/live/pedro/skype/1677.ts
-#EXTINF:-1,PT: TV GLOBO
-http://localhd.tv:8081/live/pedro/skype/1678.ts
-#EXTINF:-1,PT: TV CINE 4
-http://localhd.tv:8081/live/pedro/skype/1719.ts
-#EXTINF:-1,PT: TV CINE 3 HD
-http://localhd.tv:8081/live/pedro/skype/1718.ts
-#EXTINF:-1,PT: TV CINE 2  HD
-http://localhd.tv:8081/live/pedro/skype/1717.ts
-#EXTINF:-1,PT: TV CINE 1  HD
-http://localhd.tv:8081/live/pedro/skype/1716.ts
-#EXTINF:-1,PT: TPA Internacional
-http://localhd.tv:8081/live/pedro/skype/1679.ts
-#EXTINF:-1,PT: TOUROS TV
-http://localhd.tv:8081/live/pedro/skype/1680.ts
-#EXTINF:-1,PT: TLC
-http://localhd.tv:8081/live/pedro/skype/1681.ts
-#EXTINF:-1,PT: SYFY
-http://localhd.tv:8081/live/pedro/skype/1655.ts
-#EXTINF:-1,PT: SPORTING TV
-http://localhd.tv:8081/live/pedro/skype/1720.ts
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://localhd.tv:8081/live/pedro/skype/1724.ts
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://localhd.tv:8081/live/pedro/skype/1723.ts
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://localhd.tv:8081/live/pedro/skype/1722.ts
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://localhd.tv:8081/live/pedro/skype/1721.ts
-#EXTINF:-1,PT: SIC RADICAL
-http://localhd.tv:8081/live/pedro/skype/1656.ts
-#EXTINF:-1,PT: SIC NOTICIAS
-http://localhd.tv:8081/live/pedro/skype/1657.ts
-#EXTINF:-1,PT: SIC MULHER
-http://localhd.tv:8081/live/pedro/skype/1682.ts
-#EXTINF:-1,PT: Sic
-http://localhd.tv:8081/live/pedro/skype/1725.ts
-#EXTINF:-1,PT: RTP MEMORIA
-http://localhd.tv:8081/live/pedro/skype/1683.ts
-#EXTINF:-1,PT: RTP INTERNATIONAL
-http://localhd.tv:8081/live/pedro/skype/1658.ts
-#EXTINF:-1,PT: RTP INFORMACAO
-http://localhd.tv:8081/live/pedro/skype/1659.ts
-#EXTINF:-1,PT: RTP A?ORES
-http://localhd.tv:8081/live/pedro/skype/1685.ts
-#EXTINF:-1,PT: RTP AFRICA
-http://localhd.tv:8081/live/pedro/skype/1684.ts
-#EXTINF:-1,PT: RTP 3
-http://localhd.tv:8081/live/pedro/skype/1715.ts
-#EXTINF:-1,PT: RTP 2
-http://localhd.tv:8081/live/pedro/skype/1726.ts
-#EXTINF:-1,PT: RTP 1
-http://localhd.tv:8081/live/pedro/skype/1727.ts
-#EXTINF:-1,PT: PORTO CANAL
-http://localhd.tv:8081/live/pedro/skype/1660.ts
-#EXTINF:-1,PT: PFC
-http://localhd.tv:8081/live/pedro/skype/1686.ts
-#EXTINF:-1,PT: ODISSEIA
-http://localhd.tv:8081/live/pedro/skype/1687.ts
-#EXTINF:-1,PT: NICKELODEON
-http://localhd.tv:8081/live/pedro/skype/1688.ts
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC WILD
-http://localhd.tv:8081/live/pedro/skype/1689.ts
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
-http://localhd.tv:8081/live/pedro/skype/1690.ts
-#EXTINF:-1,PT: MTV
-http://localhd.tv:8081/live/pedro/skype/1691.ts
-#EXTINF:-1,PT: MOV HD
-http://localhd.tv:8081/live/pedro/skype/1728.ts
-#EXTINF:-1,PT: MOTORS TV
-http://localhd.tv:8081/live/pedro/skype/1692.ts
-#EXTINF:-1,PT: JIM JAM
-http://localhd.tv:8081/live/pedro/skype/1661.ts
-#EXTINF:-1,PT: HOLLYWOOD
-http://localhd.tv:8081/live/pedro/skype/1662.ts
-#EXTINF:-1,PT: FUEL TV
-http://localhd.tv:8081/live/pedro/skype/1693.ts
-#EXTINF:-1,PT: FOX TV
-http://localhd.tv:8081/live/pedro/skype/1663.ts
-#EXTINF:-1,PT: FOX MOVIES
-http://localhd.tv:8081/live/pedro/skype/1729.ts
-#EXTINF:-1,PT: FOX LIFE
-http://localhd.tv:8081/live/pedro/skype/1664.ts
-#EXTINF:-1,PT: FOX CRIME
-http://localhd.tv:8081/live/pedro/skype/1665.ts
-#EXTINF:-1,PT: Fox Comedy
-http://localhd.tv:8081/live/pedro/skype/1694.ts
-#EXTINF:-1,PT: EUROSPORT 2
-http://localhd.tv:8081/live/pedro/skype/1666.ts
-#EXTINF:-1,PT: EUROSPORT
-http://localhd.tv:8081/live/pedro/skype/1667.ts
-#EXTINF:-1,PT: E! Entertainment
-http://localhd.tv:8081/live/pedro/skype/1695.ts
-#EXTINF:-1,PT: DISNEY JUNIOR
-http://localhd.tv:8081/live/pedro/skype/1696.ts
-#EXTINF:-1,PT: DISNEY CHANNEL
-http://localhd.tv:8081/live/pedro/skype/1697.ts
-#EXTINF:-1,PT: Discovery HD Showcase
-http://localhd.tv:8081/live/pedro/skype/1698.ts
-#EXTINF:-1,PT: DISCOVERY CHANNEL
-http://localhd.tv:8081/live/pedro/skype/1699.ts
-#EXTINF:-1,PT: DISCOVERY
-http://localhd.tv:8081/live/pedro/skype/1668.ts
-#EXTINF:-1,PT: CM TV
-http://localhd.tv:8081/live/pedro/skype/1700.ts
-#EXTINF:-1,PT: CINEMUNDO
-http://localhd.tv:8081/live/pedro/skype/1701.ts
-#EXTINF:-1,PT: CHELSEA TV
-http://localhd.tv:8081/live/pedro/skype/1702.ts
-#EXTINF:-1,PT: CBS REALITY
-http://localhd.tv:8081/live/pedro/skype/1703.ts
-#EXTINF:-1,PT: CANAL Q
-http://localhd.tv:8081/live/pedro/skype/1704.ts
-#EXTINF:-1,PT: CANAL PANDA
-http://localhd.tv:8081/live/pedro/skype/1705.ts
-#EXTINF:-1,PT: CANAL HISTORIA
-http://localhd.tv:8081/live/pedro/skype/1706.ts
-#EXTINF:-1,PT: CA?A & PESCA
-http://localhd.tv:8081/live/pedro/skype/1707.ts
-#EXTINF:-1,PT: BENFICA TV 2
-http://localhd.tv:8081/live/pedro/skype/1669.ts
-#EXTINF:-1,PT: BENFICA TV 1
-http://localhd.tv:8081/live/pedro/skype/1670.ts
-#EXTINF:-1,PT: BABY TV
-http://localhd.tv:8081/live/pedro/skype/1708.ts
-#EXTINF:-1,PT: AXN WHITE
-http://localhd.tv:8081/live/pedro/skype/1713.ts
-#EXTINF:-1,PT: AXN HD
-http://localhd.tv:8081/live/pedro/skype/1714.ts
-#EXTINF:-1,PT: AMC
-http://localhd.tv:8081/live/pedro/skype/1709.ts
-#EXTINF:-1,PT: A BOLA TV
-http://localhd.tv:8081/live/pedro/skype/1710.ts
-#EXTINF:-1,PT: A & E
-http://localhd.tv:8081/live/pedro/skype/1711.ts
-#EXTINF:-1,PT: 24 KITCHEN
-http://localhd.tv:8081/live/pedro/skype/1712.ts
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORÁRIOS", •●★-LISTA 4-★●•
-Http://google.pt
-
-
-#EXTINF:-1,PORTUGAL|TVI Ficcao
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5843.ts
-#EXTINF:-1,PORTUGAL|TVI 24
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5852.ts
-#EXTINF:-1,PORTUGAL|TVI
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5842.ts
-#EXTINF:-1,PORTUGAL|TVC SERIES
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5861.ts
-#EXTINF:-1,PORTUGAL|TV RECORD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5847.ts
-#EXTINF:-1,PORTUGAL|TV GLOBO PREMIUM
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5845.ts
-#EXTINF:-1,PORTUGAL|TV GLOBO PORTUGAL
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5846.ts
-#EXTINF:-1,PORTUGAL|TV CINE 4
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5859.ts
-#EXTINF:-1,PORTUGAL|TV CINE 3
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5858.ts
-#EXTINF:-1,PORTUGAL|TV CINE 2
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5857.ts
-#EXTINF:-1,PORTUGAL|TV CINE 1
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5856.ts
-#EXTINF:-1,PORTUGAL|TCV
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5844.ts
-#EXTINF:-1,PORTUGAL|SPORTING TV
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5894.ts
-#EXTINF:-1,PORTUGAL|SPORT TV 5 HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5892.ts
-#EXTINF:-1,PORTUGAL|SPORT TV 4 HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5891.ts
-#EXTINF:-1,PORTUGAL|SPORT TV 3 HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5890.ts
-#EXTINF:-1,PORTUGAL|SPORT TV 2 HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5889.ts
-#EXTINF:-1,PORTUGAL|SPORT TV 1 HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5888.ts
-#EXTINF:-1,PORTUGAL|SIC RADICAL
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5853.ts
-#EXTINF:-1,PORTUGAL|SIC NOTICIAS
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5851.ts
-#EXTINF:-1,PORTUGAL|SIC KIDS
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5883.ts
-#EXTINF:-1,PORTUGAL|SIC CARAS
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5854.ts
-#EXTINF:-1,PORTUGAL|SIC  MULHER
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5855.ts
-#EXTINF:-1,PORTUGAL|SIC
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5841.ts
-#EXTINF:-1,PORTUGAL|RTP MADEIRA
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5848.ts
-#EXTINF:-1,PORTUGAL|RTP AFRICA
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5840.ts
-#EXTINF:-1,PORTUGAL|RTP ACORES
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5849.ts
-#EXTINF:-1,PORTUGAL|RTP 3 HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5839.ts
-#EXTINF:-1,PORTUGAL|RTP 2 HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5838.ts
-#EXTINF:-1,PORTUGAL|RTP 1 HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5837.ts
-#EXTINF:-1,PORTUGAL|NICKELODEON HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5882.ts
-#EXTINF:-1,PORTUGAL|NAT GEO WILD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5874.ts
-#EXTINF:-1,PORTUGAL|MUSIC
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5899.ts
-#EXTINF:-1,PORTUGAL|MTV
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5898.ts
-#EXTINF:-1,PORTUGAL|MOV HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5867.ts
-#EXTINF:-1,PORTUGAL|MOTORS TV
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5897.ts
-#EXTINF:-1,PORTUGAL|KOMBAT SPORTS
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5896.ts
-#EXTINF:-1,PORTUGAL|JIMJAM
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5881.ts
-#EXTINF:-1,PORTUGAL|FOX MOVIES
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5864.ts
-#EXTINF:-1,PORTUGAL|FOX LIFE
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5863.ts
-#EXTINF:-1,PORTUGAL|FOX HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5862.ts
-#EXTINF:-1,PORTUGAL|FOX CRIME
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5865.ts
-#EXTINF:-1,PORTUGAL|FOX COMEDY
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5866.ts
-#EXTINF:-1,PORTUGAL|DISNEY JU
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5879.ts
-#EXTINF:-1,PORTUGAL|DISNEY CH
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5878.ts
-#EXTINF:-1,PORTUGAL|DISCOVERY HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5873.ts
-#EXTINF:-1,PORTUGAL|CMTV
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5850.ts
-#EXTINF:-1,PORTUGAL|CINE MUNDO
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5868.ts
-#EXTINF:-1,PORTUGAL|CBS REALITY
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5876.ts
-#EXTINF:-1,PORTUGAL|CARTOON NETWORK HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5880.ts
-#EXTINF:-1,PORTUGAL|CANAL PORTO
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5895.ts
-#EXTINF:-1,PORTUGAL|CANAL PANDA
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5884.ts
-#EXTINF:-1,PORTUGAL|CANAL HOLLYWOOD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5869.ts
-#EXTINF:-1,PORTUGAL|CACA PESCA
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5877.ts
-#EXTINF:-1,PORTUGAL|BTV 1 HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5893.ts
-#EXTINF:-1,PORTUGAL|BABY TV
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5885.ts
-#EXTINF:-1,PORTUGAL|AXN WHITE HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5870.ts
-#EXTINF:-1,PORTUGAL|AXN HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5871.ts
-#EXTINF:-1,PORTUGAL|AXN BLACK HD
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5872.ts
-#EXTINF:-1,PORTUGAL|A BOLA TV
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5886.ts
-#EXTINF:-1,PORTUGAL|24 KITCHEN
-http://151.80.22.123:2600/live/anass1234567/anass1234567dghtfu6fgvg/5875.ts
 
 
 
