@@ -2077,32 +2077,7 @@ http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
 Http://google.pt
 
 
-#EXTINF:-1,Mais Kizomba
-http://109.71.41.250:8123/
 
-#EXTINF:-1,RFM CLUBBING
-http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
-
-#EXTINF:0,Radio RFM
-http://7719.live.streamtheworld.com/RFM_SC
-
-#EXTINF:0, Radio MegaFM
-http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
-
-#EXTINF:-1,M80
-http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC
-
-#EXTINF:-1,NOVA ERA
-http://stream.radio.com.pt:9478/stream
-
-#EXTINF:-1,94 FM
-http://195.8.58.150:35022/;stream.nsv
-
-#EXTINF:-1,SUPER FM
-http://94.23.76.235:9956/
-
-#EXTINF:-1,HIPER FM
-http://85.25.73.243:10460/
 
 #EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://player.streamguys.com/thirdrock/sgplayer/include/assets/img/ThirdRockRadio500x500.jpg",THIRD ROCK RADIO (US)
 http://rfcmedia2.streamguys1.com/thirdrock.mp3
