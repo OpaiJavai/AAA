@@ -353,78 +353,6 @@ http://worldcs.info:8080/live/xxxx/zzzz/18361.ts
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORÁRIOS", •●★-LISTA 2-★●•
 Http://google.pt
 
-#EXTINF:-1 tvg-ID="" tvg-name="### PORTUGAL CHANNEL ###" tvg-logo="http://www.playhdtv.pw/imgs/portugal_640.png" group-title="",### PORTUGAL CHANNEL ###
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/1040.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GLOBO PORTUGAL SD" tvg-logo="http://s20.postimg.org/h9gvd2ufd/Globo_SP.png" group-title="TEMPORÁRIOS",GLOBO PORTUGAL SD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/733.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GLOBO PREMIUM SD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TEMPORÁRIOS",GLOBO PREMIUM SD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/1024.ts
-#EXTINF:-1 tvg-ID="REDE RECORD HD" tvg-name="RECORD PT SD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TEMPORÁRIOS",RECORD PT SD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/416.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TV CINE 1 FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVC1.png" group-title="TEMPORÁRIOS",TV CINE 1 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/777.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TV CINE 2 FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVC2.png" group-title="TEMPORÁRIOS",TV CINE 2 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/778.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TV CINE 3 FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVC3.png" group-title="TEMPORÁRIOS",TV CINE 3 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/779.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TV CINE 4 FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVC4.png" group-title="TEMPORÁRIOS",TV CINE 4 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/780.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TV CINE SERIES FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVSeries.jpg" group-title="TEMPORÁRIOS",TV CINE SERIES FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/781.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AMC HD - PT" tvg-logo="http://www.playhdtv.pw/img/AMC.png" group-title="TEMPORÁRIOS",AMC HD - PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/767.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AXN FULL HD - PT" tvg-logo="https://s15.postimg.org/tzhnubsmz/axn.png" group-title="TEMPORÁRIOS",AXN FULL HD - PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/776.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AXN BLACK FULL HD - PT" tvg-logo="http://www.playhdtv.pw/img/AXN_Black.png" group-title="TEMPORÁRIOS",AXN BLACK FULL HD - PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/783.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AXN White FULL HD - PT" tvg-logo="http://www.playhdtv.pw/img/AXN_White.png" group-title="TEMPORÁRIOS",AXN White FULL HD - PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/786.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX FULL HD - PT" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="TEMPORÁRIOS",FOX FULL HD - PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/771.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE FULL HD PT" tvg-logo="http://www.playhdtv.pw/img/fox-life-hd.jpg" group-title="TEMPORÁRIOS",FOX LIFE FULL HD PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/963.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY HD - PT" tvg-logo="http://www.playhdtv.pw/img/FOX-Comedy-HD.png" group-title="TEMPORÁRIOS",FOX COMEDY HD - PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/784.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES FULL HD PT" tvg-logo="http://www.playhdtv.pw/img/foxmove.png" group-title="TEMPORÁRIOS",FOX MOVIES FULL HD PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/962.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX CRIME FULL HD - PT" tvg-logo="http://www.playhdtv.pw/img/foxcrimehd.png" group-title="TEMPORÁRIOS",FOX CRIME FULL HD - PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/785.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HOLLYWOOD HD" tvg-logo="http://www.playhdtv.pw/img/hollywood.png" group-title="TEMPORÁRIOS",HOLLYWOOD HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/782.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SHOW CASE HD - PT" tvg-logo="http://www.playhdtv.pw/img/Discovery_HD_Showcase.png" group-title="TEMPORÁRIOS",DISCOVERY SHOW CASE HD - PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/770.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD HD - PT" tvg-logo="http://www.playhdtv.pw/img/NatgeoWildhD.png" group-title="TEMPORÁRIOS",NAT GEO WILD HD - PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/768.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO HD - PT" tvg-logo="http://www.playhdtv.pw/img/national-geographic.jpg" group-title="TEMPORÁRIOS",NAT GEO HD - PT
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/769.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTP 1 FULL HD" tvg-logo="http://www.playhdtv.pw/img/rtp_.png" group-title="TEMPORÁRIOS",RTP 1 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/772.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVI" tvg-logo="http://www.playhdtv.pw/img/TVI.png" group-title="TEMPORÁRIOS",TVI
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/774.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINEMUNDO" tvg-logo="http://www.playhdtv.pw/img/cinemundo.jpg" group-title="",CINEMUNDO
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/964.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV + FULL HD" tvg-logo="http://www.playhdtv.pw/img/sport.tv_.plus.jpg" group-title="TEMPORÁRIOS",SPORT TV + FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/971.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV  PT 1 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT1.png" group-title="TEMPORÁRIOS",SPORTV  PT 1 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/666.ts
-#EXTINF:-1 tvg-ID="SPORTV PT 2" tvg-name="SPORTV  PT 2 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT2.png" group-title="TEMPORÁRIOS",SPORTV  PT 2 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/667.ts
-#EXTINF:-1 tvg-ID="SPORTV PT 3" tvg-name="SPORTV  PT 3 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT3.png" group-title="TEMPORÁRIOS",SPORTV  PT 3 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/668.ts
-#EXTINF:-1 tvg-ID="SPORTV PT 4" tvg-name="SPORTV  PT 4 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT4.png" group-title="TEMPORÁRIOS",SPORTV  PT 4 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/669.ts
-#EXTINF:-1 tvg-ID="SPORTV PT 5" tvg-name="SPORTV   PT 5 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT5.png" group-title="TEMPORÁRIOS",SPORTV   PT 5 FULL HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/674.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BENFICA TV HD" tvg-logo="http://www.playhdtv.pw/img/BenficaTV.png" group-title="TEMPORÁRIOS",BENFICA TV HD
-http://painel.tvdigitalsbl.net:8081/live/netiptv208/208/675.ts
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORÁRIOS", •●★-LISTA 3-★●•
-Http://google.pt
-
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Abola Tv (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Abola Tv (.)
 http://alphatwo.ddns.net:8000/live/belle/belle/410.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Amc (.)" tvg-logo="" group-title="TEMPORÁRIOS",PT: Amc (.)
@@ -508,7 +436,7 @@ http://alphatwo.ddns.net:8000/live/belle/belle/435.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORÁRIOS", •●★-LISTA 4-★●•
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORÁRIOS", •●★-LISTA 3-★●•
 Http://google.pt
 
 
