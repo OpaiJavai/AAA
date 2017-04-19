@@ -24,6 +24,10 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/FamiliaIPTV.m3u8
 #EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/small"  group-title="GENÉRICOS", TVI
 http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-1/AMObox@PsychoMC.m3u8
 
+
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/small"  group-title="GENÉRICOS", SIC NOTÍCIAS
+http://213.13.26.43/live/sicnoticias/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/small"  group-title="GENÉRICOS", SIC NOTÍCIAS (geobloqueado)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
