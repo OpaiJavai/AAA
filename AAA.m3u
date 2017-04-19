@@ -917,6 +917,9 @@ acestream://98447e85da7aacd8f43a33edb7e41cc250c8a031
 #EXTINF:-1 tvg-logo="https://cld.pt/dl/download/6229ac75-23b4-40b8-b663-471be537a197/Animation_icon-icons.com_61707.png" group-title="ANIMAÇÃO", ANIMAÇÃO
 Http://google.pt
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Kubo_and_the_Two_Strings_poster.png" type="MOVIE" group-title="ANIMAÇÃO", Big Hero 6 – Os Novos Heróis
+http://vidzi.tv/qst90dmf90xv
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Kubo_and_the_Two_Strings_poster.png" type="MOVIE" group-title="ANIMAÇÃO", Kubo And The Two Strings
 https://cld.pt/dl/download/2753eb43-5741-4a05-8f13-37d654f23627/Kubo.And.The.Two.Strings.2016.PORTUGUESE.720p.BRRiP.x264-OWN.mkv
 
