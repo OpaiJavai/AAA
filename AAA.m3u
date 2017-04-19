@@ -917,8 +917,6 @@ acestream://98447e85da7aacd8f43a33edb7e41cc250c8a031
 #EXTINF:-1 tvg-logo="https://cld.pt/dl/download/6229ac75-23b4-40b8-b663-471be537a197/Animation_icon-icons.com_61707.png" group-title="ANIMAÇÃO", ANIMAÇÃO
 Http://google.pt
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Kubo_and_the_Two_Strings_poster.png" type="MOVIE" group-title="ANIMAÇÃO", Big Hero 6 – Os Novos Heróis
-http://vidzi.tv/qst90dmf90xv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Kubo_and_the_Two_Strings_poster.png" type="MOVIE" group-title="ANIMAÇÃO", Kubo And The Two Strings
 https://cld.pt/dl/download/2753eb43-5741-4a05-8f13-37d654f23627/Kubo.And.The.Two.Strings.2016.PORTUGUESE.720p.BRRiP.x264-OWN.mkv
@@ -1836,9 +1834,6 @@ http://tv.105.net:1935/live/virgin1/chunklist_w864163580.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sfrcaraibe.fr/mtq/wp-content/uploads/sites/2/2015/06/logo-indieslive.png" group-title="MÚSICA", INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://secure.static.tumblr.com/faf012adceeea902987df1e940d062ad/e1vtkly/yuhn1d9n4/tumblr_static_heavymetaltelevision_header.jpg" group-title="MÚSICA", Heavy Metal TV
-http://mtvam.ru/hlsam/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="MÚSICA", 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
 
@@ -1902,9 +1897,6 @@ acestream://10b3ab7b1e7f136ab48e6ecfcf7ae34a5999c2f0
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg" group-title="MÚSICA", Eska Rock TV HD (Acestream)
 acestream://ae7649dc56cc94dbd3c0f7274afe5b74487fba11
-
-
-
 
 
 
@@ -2048,9 +2040,6 @@ Http://google.pt
 
 #EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://player.streamguys.com/thirdrock/sgplayer/include/assets/img/ThirdRockRadio500x500.jpg",THIRD ROCK RADIO (US)
 http://rfcmedia2.streamguys1.com/thirdrock.mp3
-
-#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2012/02/vodafone_logo-certo1.jpg",VODAFONE FM
-rtmp://mcrwowza5.mcr.iol.pt/vodafonelc/ playpath=vodafonelc.sdp swfUrl=http://vodafone.fm/scripts/vendor/soundmanager/swf/soundmanager2_flash9.swf pageUrl=http://kodiportugal.pt
 
 #EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="https://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",RÁDIO SUPER FM
 http://94.23.76.235:9956/;stream/1
