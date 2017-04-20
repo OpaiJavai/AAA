@@ -1926,13 +1926,13 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="https://redir.atmcdn.pl/https/mm/multimedia//live/amazing/aMazingCover500x200.png" group-title="MÚSICA", AMAZING TV 
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 
-#EXTINF:-1 tvg-logo="http://muzzone.tv/uploads/s/q/c/u/qcucpibooyuc/img/full_SswQOSYk.jpg" group-title=“MÚSICA”, MUZZONE 
+#EXTINF:-1 tvg-logo="http://muzzone.tv/uploads/s/q/c/u/qcucpibooyuc/img/full_SswQOSYk.jpg" group-title="MÚSICA", MUZZONE 
 http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Star_TV_logo.png" group-title=“MÚSICA”, STARS TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Star_TV_logo.png" group-title="MÚSICA", STARS TV 
 http://starstv.live.e55-po.insyscd.net/starstvhd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Slam%21TV-logo.png" group-title=“MÚSICA”, SLAM TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Slam%21TV-logo.png" group-title="MÚSICA", SLAM TV 
 http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="MÚSICA", 538 TV
@@ -1998,6 +1998,9 @@ acestream://10b3ab7b1e7f136ab48e6ecfcf7ae34a5999c2f0
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg" group-title="MÚSICA", Eska Rock TV HD (Acestream)
 acestream://ae7649dc56cc94dbd3c0f7274afe5b74487fba11
+
+
+
 
 
 
