@@ -1831,7 +1831,7 @@ https://cld.pt/dl/download/2724a396-a913-4cff-b100-54bef8953bfc/Viagem%20A%20Por
 
 
 
-#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c210db2b-7d9f-4058-9aee-9ce915144170/musica.png" group-title="MÚSICA", MÚSICA
+#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/c210db2b-7d9f-4058-9aee-9ce915144170/MÚSICA.png" group-title="MÚSICA", MÚSICA
 Http://google.pt
 
 
@@ -1848,92 +1848,91 @@ http://tv.105.net:1935/live/virgin1/chunklist_w864163580.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sfrcaraibe.fr/mtq/wp-content/uploads/sites/2/2015/06/logo-indieslive.png" group-title="MÚSICA", INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",ONE 1 
+#EXTINF:-1 tvg-logo="http://www.narrowroad.co.uk//media/images/posters/BBC1.jpg" group-title="MÚSICA", ONE 1 
 http://rtmp.one.by:1300
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",ONE 2 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/2000px-BBC_Two.svg.png" group-title="MÚSICA", ONE 2 
 http://rtmp.one.by:1400
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",ONE 3 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/BBC_Radio_3.png" group-title="MÚSICA", ONE 3 
 http://rtmp.one.by:1499
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",ONE 4 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/1280px-BBC_Four_HD_Logo.svg.png" group-title="MÚSICA", ONE 4 
 http://rtmp.one.by:2300
 
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",DJING IBIZA  
+#EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/12/djing-ibiza-tv.jpg" group-title="MÚSICA", DJING IBIZA  
 http://www.djing.com/tv/d-05.m3u8
 
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",DJING DANCE FLOOR  
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MÚSICA", DJING DANCE FLOOR  
 http://www.djing.com/tv/dancefloor.m3u8
 
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",DJING UNDERGROUND  
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MÚSICA", DJING UNDERGROUND  
 http://www.djing.com/tv/underground.m3u8
 
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",DJING CLASSIC  
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MÚSICA", DJING CLASSIC  
 http://www.djing.com/tv/i-05.m3u8?time=1454039152638
 
-#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",DJING ANIMATION   
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MÚSICA", DJING ANIMATION   
 http://www.djing.com/tv/a-05.m3u8?time=1454038733694
 
-#EXTINF:-1 tvg-logo="rmc.png" group-title="MUSICA",RADIO MONTE CARLO TV  
+#EXTINF:-1 tvg-logo="http://www.streaming-hub.com/wp-content/uploads/2014/12/radio-monte-carlo.png" group-title="MÚSICA", RADIO MONTE CARLO TV  
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="Capital TV.png" group-title="MUSICA",CAPITAL TV 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/32/Capital_TV_logo.png" group-title="MÚSICA",CAPITAL TV 
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="Heart TV.png" group-title="MUSICA",HEART TV 
+#EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/heart_tv_logo.png" group-title="MÚSICA", HEART TV 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 
-
-#EXTINF:-1 tvg-logo="m6.png" group-title="MUSICA",M6 MUSIC 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-FT6M2--VpDk/VPTmnx8-3XI/AAAAAAAAAJ4/-g1k2iGcOFM/s1600/M6-Music-Live.png" group-title="MÚSICA", M6 MUSIC 
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
-#EXTINF:-1 tvg-logo="Radio 105 TV.png" group-title="MUSICA",RADIO 105 TV 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-1SwsirtQg_Q/U25qNoZtaOI/AAAAAAAABK4/H2MgOyHlA_w/s1600/Radio+105+tv.png" group-title="MÚSICA", RADIO 105 TV 
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",VISUAL RADIO TV 
+#EXTINF:-1 tvg-logo="http://vettritv.com/images/vettri-tv-logo.png" group-title="MÚSICA", VISUAL RADIO TV 
 http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="muz_tv_az.png" group-title="MUSICA",MUZ TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2015.svg/185px-%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_2015.svg.png" group-title="MÚSICA", MUZ TV 
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 
-#EXTINF:-1 tvg-logo="Retro_Music_Tv.png" group-title="MUSICA",RETRO TV 
+#EXTINF:-1 tvg-logo="https://willmckinley.files.wordpress.com/2014/05/logo.png?w=640" group-title="MÚSICA", RETRO TV 
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="RTL_102.5.png" group-title="MUSICA",RTL 102.5 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/RTL_102.5_%28logo%29.png" group-title="MÚSICA", RTL 102.5 
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/chunklist-b1164000.m3u8
 
-#EXTINF:-1 tvg-logo="hit_tv.png" group-title="MUSICA",HIT TV 
+#EXTINF:-1 tvg-logo="http://epg.serbianforum.org/logo_znaci/Hit%20TV.png" group-title="MÚSICA", HIT TV 
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chuklist.m3u8
 
-#EXTINF:-1 tvg-logo="atomic.png" group-title="MUSICA",ATOMIC TV 
-http://5.154.185.153/live/live.flv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="hit_tv.png" group-title="MUSICA",HIT TV 
+#EXTINF:-1 tvg-logo="http://epg.serbianforum.org/logo_znaci/Hit%20TV.png" group-title="MÚSICA", HIT TV 
 http://tst.es.flash.glb.ipercast.net/tst.es-live//live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",XITE S1 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fd/Atomic_TV.png/revision/latest?cb=20161213130411" group-title="MÚSICA", ATOMIC TV 
+http://5.154.185.153/live/live.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b4/C_Music_TV.png/revision/latest?cb=20100526203333" group-title="MÚSICA", XITE S1 
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/index.m3u8
 
-#EXTINF:-1 tvg-logo="CAPITAL.png" group-title="MUSICA",RADIO CAPITAL TV 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-sKE9ubggd3s/UY642NGUgBI/AAAAAAAANpk/CY2zny4IBW8/s1600/Capital+TV+Logo.png" group-title="MÚSICA", RADIO CAPITAL TV 
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
-#EXTINF:-1 tvg-logo="TigoMusic.png" group-title="MUSICA",TIGO MUSIC 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-gqPJ5rLcxHQ/AAAAAAAAAAI/AAAAAAAAAAA/7sWX8kOm_Bk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MÚSICA", TIGO MUSIC 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 
-#EXTINF:-1 tvg-logo="trndych.png" group-title="MUSICA",TRENDY MUSICA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png" group-title="MÚSICA", TRENDY MÚSICA 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 
-#EXTINF:-1 tvg-logo="amazing_tv.png" group-title="MUSICA",AMAZING TV 
+#EXTINF:-1 tvg-logo="https://redir.atmcdn.pl/https/mm/multimedia//live/amazing/aMazingCover500x200.png" group-title="MÚSICA", AMAZING TV 
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 
-#EXTINF:-1 tvg-logo="" group-title=“MUSICA”,MUZZONE 
+#EXTINF:-1 tvg-logo="http://muzzone.tv/uploads/s/q/c/u/qcucpibooyuc/img/full_SswQOSYk.jpg" group-title=“MÚSICA”, MUZZONE 
 http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=“MUSICA”,STARS TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Star_TV_logo.png" group-title=“MÚSICA”, STARS TV 
 http://starstv.live.e55-po.insyscd.net/starstvhd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=“MUSICA”,SLAM TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Slam%21TV-logo.png" group-title=“MÚSICA”, SLAM TV 
 http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="MÚSICA", 538 TV
