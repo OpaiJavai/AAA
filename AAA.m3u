@@ -169,187 +169,263 @@ Http://google.pt
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORÁRIOS", •●★-LISTA 1-★●•
 Http://google.pt
 
+#EXTINF:0,PT:24KITCHEN HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16930.ts
+#EXTINF:0,PT:A Bola TV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17021.ts
+#EXTINF:0,PT:A&E
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17020.ts
+#EXTINF:0,PT:AMC
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17019.ts
+#EXTINF:0,PT:AXN BLACK HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17018.ts
+#EXTINF:0,PT:AXN HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17017.ts
+#EXTINF:0,PT:AXN HD White
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17016.ts
+#EXTINF:0,PT:AXN White HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17015.ts
+#EXTINF:0,PT:AXN.HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17014.ts
+#EXTINF:0,PT:BABY TV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16929.ts
+#EXTINF:0,PT:Benfica TV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17013.ts
+#EXTINF:0,PT:BENFICA TV 1 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16928.ts
+#EXTINF:0,PT:BENFICA TV 2
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16927.ts
+#EXTINF:0,PT:Benfica TV1 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17012.ts
+#EXTINF:0,PT:Benfica TV2 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17011.ts
+#EXTINF:0,PT:BIGGS
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16926.ts
+#EXTINF:0,PT:CAÇA E PESCA
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16925.ts
+#EXTINF:0,PT:CACAVISION HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16924.ts
+#EXTINF:0,PT:CAMARA REALITY
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16923.ts
+#EXTINF:0,PT:CANAL PANDA
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16922.ts
+#EXTINF:0,PT:CARTOON  NETWORK
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16921.ts
+#EXTINF:0,PT:Cartoon Network
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17010.ts
+#EXTINF:0,PT:CBS REALITY
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16920.ts
+#EXTINF:0,PT:CHELSEA TV HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16919.ts
+#EXTINF:0,PT:Cine Mundo
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17009.ts
+#EXTINF:0,PT:Cinemundo
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17008.ts
+#EXTINF:0,PT:CM TV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17007.ts
+#EXTINF:0,PT:Discovery Channel
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17006.ts
+#EXTINF:0,PT:DISCOVERY SHOWCASE HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16918.ts
+#EXTINF:0,PT:Disney Channel
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17005.ts
+#EXTINF:0,PT:Disney JR
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17004.ts
+#EXTINF:0,PT:Disney Junior
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17003.ts
+#EXTINF:0,PT:E! Entertainment
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17002.ts
+#EXTINF:0,PT:ENTERTAINMENT
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17001.ts
+#EXTINF:0,PT:Euronews
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/17000.ts
+#EXTINF:0,PT:EUROSPORT
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16917.ts
+#EXTINF:0,PT:Eurosport 1
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16999.ts
+#EXTINF:0,PT:Eurosport 2 HD Xtra
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16998.ts
+#EXTINF:0,PT:FOX Comedy
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16997.ts
+#EXTINF:0,PT:Fox Crime
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16996.ts
+#EXTINF:0,PT:Fox Crime HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16995.ts
+#EXTINF:0,PT:Fox HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16994.ts
+#EXTINF:0,PT:Fox Life HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16993.ts
+#EXTINF:0,PT:Fox Movies
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16992.ts
+#EXTINF:0,PT:FUEL TV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16916.ts
+#EXTINF:0,PT:GLOBO
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16915.ts
+#EXTINF:0,PT:Hist
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16991.ts
+#EXTINF:0,PT:Historia
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16990.ts
+#EXTINF:0,PT:HOLLYWOOD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16914.ts
+#EXTINF:0,PT:Hollywood HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16989.ts
+#EXTINF:0,PT:iConcerts HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16988.ts
+#EXTINF:0,PT:JIM JAM
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16913.ts
+#EXTINF:0,PT:Kombat Sports
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16987.ts
+#EXTINF:0,PT:LIfestyle TV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16986.ts
+#EXTINF:0,PT:MCS EXTREME
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16985.ts
+#EXTINF:0,PT:Motors TV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16984.ts
+#EXTINF:0,PT:MOTORVISION
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16912.ts
+#EXTINF:0,PT:MOTORVISION HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16911.ts
+#EXTINF:0,PT:MOV HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16983.ts
+#EXTINF:0,PT:MTV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16982.ts
+#EXTINF:0,PT:MTV PORTUGAL
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16910.ts
+#EXTINF:0,PT:Nat Geo Wild
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16981.ts
+#EXTINF:0,PT:NBA TV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16980.ts
+#EXTINF:0,PT:NICKELODEON
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16909.ts
+#EXTINF:0,PT:Odisseia
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16979.ts
+#EXTINF:0,PT:ONE 1 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16908.ts
+#EXTINF:0,PT:PANDA BIGGS
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16907.ts
+#EXTINF:0,PT:PFC
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16978.ts
+#EXTINF:0,PT:PFC HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16906.ts
+#EXTINF:0,PT:Porto Canal
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16977.ts
+#EXTINF:0,PT:Q CANAL
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16905.ts
+#EXTINF:0,PT:Record News
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16976.ts
+#EXTINF:0,PT:REDE TV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16904.ts
+#EXTINF:0,PT:RTP 1
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16975.ts
+#EXTINF:0,PT:RTP 1 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16903.ts
+#EXTINF:0,PT:RTP 2
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16974.ts
+#EXTINF:0,PT:RTP 2 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16973.ts
+#EXTINF:0,PT:RTP 3
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16972.ts
+#EXTINF:0,PT:RTP A
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16971.ts
+#EXTINF:0,PT:RTP Acores
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16970.ts
+#EXTINF:0,PT:RTP Africa
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16969.ts
+#EXTINF:0,PT:RTP Madeira
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16968.ts
+#EXTINF:0,PT:RTP Mem
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16967.ts
+#EXTINF:0,PT:RTP Memoria
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16966.ts
+#EXTINF:0,PT:SIC
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16965.ts
+#EXTINF:0,PT:SIC CARAS
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16902.ts
+#EXTINF:0,PT:SIC K
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16964.ts
+#EXTINF:0,PT:Sic Kids
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16963.ts
+#EXTINF:0,PT:SIC Mulher
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16962.ts
+#EXTINF:0,PT:SIC Noticias
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16961.ts
+#EXTINF:0,PT:SIC Radical
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16960.ts
+#EXTINF:0,PT:Sport TV 1
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16959.ts
+#EXTINF:0,PT:SPORT TV 1 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16958.ts
+#EXTINF:0,PT:Sport TV 2
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16957.ts
+#EXTINF:0,PT:SPORT TV 2 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16956.ts
+#EXTINF:0,PT:Sport TV 3
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16955.ts
+#EXTINF:0,PT:SPORT TV 3 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16954.ts
+#EXTINF:0,PT:Sport TV 4
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16953.ts
+#EXTINF:0,PT:SPORT TV 4 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16952.ts
+#EXTINF:0,PT:Sport TV 5
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16951.ts
+#EXTINF:0,PT:SPORT TV 5 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16950.ts
+#EXTINF:0,PT:Sport TV1 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16949.ts
+#EXTINF:0,PT:Sport TV2 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16948.ts
+#EXTINF:0,PT:Sport TV3
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16947.ts
+#EXTINF:0,PT:SPORTING TV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16901.ts
+#EXTINF:0,PT:SyFy HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16946.ts
+#EXTINF:0,PT:SYFY SD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16945.ts
+#EXTINF:0,PT:TLC
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16944.ts
+#EXTINF:0,PT:TRACE URBAN
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16900.ts
+#EXTINF:0,PT:TRAVEL CHANNEL HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16899.ts
+#EXTINF:0,PT:TV Cine 1
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16943.ts
+#EXTINF:0,PT:TV Cine 1 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16942.ts
+#EXTINF:0,PT:TV Cine 2
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16941.ts
+#EXTINF:0,PT:TV Cine 2 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16940.ts
+#EXTINF:0,PT:TV Cine 3
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16939.ts
+#EXTINF:0,PT:TV Cine 3 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16938.ts
+#EXTINF:0,PT:TV Cine 4
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16937.ts
+#EXTINF:0,PT:TV Cine 4 HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16936.ts
+#EXTINF:0,PT:TV Record
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16935.ts
+#EXTINF:0,PT:TV Series
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16934.ts
+#EXTINF:0,PT:TVC SERIES HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16898.ts
+#EXTINF:0,PT:TVI
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16933.ts
+#EXTINF:0,PT:TVI 24
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16932.ts
+#EXTINF:0,PT:TVI FIC
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16931.ts
+#EXTINF:0,PT:TVI REALITY
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16897.ts
+#EXTINF:0,PT:VH1
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16896.ts
+#EXTINF:0,PT:VH1 CLASSIC
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16895.ts
+#EXTINF:0,PT:WOOHOO
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/16894.ts
 
-#EXTINF:-1,==========Portugal==========
-http://worldcs.info:8080/live/xxxx/zzzz/7243.ts
-#EXTINF:-1,---------- ENTRETENIMENTO ----------
-http://worldcs.info:8080/live/xxxx/zzzz/17741.ts
-#EXTINF:-1,PT: RTP 1
-http://worldcs.info:8080/live/xxxx/zzzz/615.ts
-#EXTINF:-1,PT: RTP 2
-http://worldcs.info:8080/live/xxxx/zzzz/616.ts
-#EXTINF:-1,PT: RTP MEMORIA
-http://worldcs.info:8080/live/xxxx/zzzz/663.ts
-#EXTINF:-1,PT: RTP MADEIRA
-http://worldcs.info:8080/live/xxxx/zzzz/732.ts
-#EXTINF:-1,PT: RTP AFRICA
-http://worldcs.info:8080/live/xxxx/zzzz/733.ts
-#EXTINF:-1,PT: RTP ACORES
-http://worldcs.info:8080/live/xxxx/zzzz/734.ts
-#EXTINF:-1,PT: SIC
-http://worldcs.info:8080/live/xxxx/zzzz/617.ts
-#EXTINF:-1,PT: SIC K
-http://worldcs.info:8080/live/xxxx/zzzz/655.ts
-#EXTINF:-1,PT: SIC Noticias
-http://worldcs.info:8080/live/xxxx/zzzz/668.ts
-#EXTINF:-1,PT: SIC Radical
-http://worldcs.info:8080/live/xxxx/zzzz/667.ts
-#EXTINF:-1,PT: SIC MULHER
-http://worldcs.info:8080/live/xxxx/zzzz/666.ts
-#EXTINF:-1,PT: TVI FICCAO
-http://worldcs.info:8080/live/xxxx/zzzz/621.ts
-#EXTINF:-1,---------- DESPORTO ----------
-http://worldcs.info:8080/live/xxxx/zzzz/17736.ts
-#EXTINF:-1,PT: Eurosport 1
-http://worldcs.info:8080/live/xxxx/zzzz/629.ts
-#EXTINF:-1,PT: EUROSPORT HD
-http://worldcs.info:8080/live/xxxx/zzzz/681.ts
-#EXTINF:-1,PT: Eurosport 2
-http://worldcs.info:8080/live/xxxx/zzzz/628.ts
-#EXTINF:-1,PT: EUROSPORT 2 HD
-http://worldcs.info:8080/live/xxxx/zzzz/682.ts
-#EXTINF:-1,PT: SPORT TV+
-http://worldcs.info:8080/live/xxxx/zzzz/630.ts
-#EXTINF:-1,PT: SPORTING TV HD
-http://worldcs.info:8080/live/xxxx/zzzz/678.ts
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://worldcs.info:8080/live/xxxx/zzzz/7252.ts
-#EXTINF:-1,PT: SPORT TV 1
-http://worldcs.info:8080/live/xxxx/zzzz/676.ts
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://worldcs.info:8080/live/xxxx/zzzz/7253.ts
-#EXTINF:-1,PT: SPORT TV 2
-http://worldcs.info:8080/live/xxxx/zzzz/675.ts
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://worldcs.info:8080/live/xxxx/zzzz/7254.ts
-#EXTINF:-1,PT: SPORT TV 3
-http://worldcs.info:8080/live/xxxx/zzzz/674.ts
-#EXTINF:-1,PT: SPORT TV 4
-http://worldcs.info:8080/live/xxxx/zzzz/673.ts
-#EXTINF:-1,PT: SPORT TV 5
-http://worldcs.info:8080/live/xxxx/zzzz/672.ts
-#EXTINF:-1,PT: Motorvision
-http://worldcs.info:8080/live/xxxx/zzzz/685.ts
-#EXTINF:-1,PT: Motors TV
-http://worldcs.info:8080/live/xxxx/zzzz/627.ts
-#EXTINF:-1,PT: BARCA TV
-http://worldcs.info:8080/live/xxxx/zzzz/640.ts
-#EXTINF:-1,PT: BENFICA TV 1
-http://worldcs.info:8080/live/xxxx/zzzz/727.ts
-#EXTINF:-1,PT: BENFICA TV 1 HD
-http://worldcs.info:8080/live/xxxx/zzzz/728.ts
-#EXTINF:-1,PT: BTV 1 HD
-http://worldcs.info:8080/live/xxxx/zzzz/633.ts
-#EXTINF:-1,---------- NOTICIAS ----------
-http://worldcs.info:8080/live/xxxx/zzzz/17737.ts
-#EXTINF:-1,PT: TVI
-http://worldcs.info:8080/live/xxxx/zzzz/17758.ts
-#EXTINF:-1,PT: TVI24
-http://worldcs.info:8080/live/xxxx/zzzz/665.ts
-#EXTINF:-1,PT: RTP 3
-http://worldcs.info:8080/live/xxxx/zzzz/659.ts
-#EXTINF:-1,PT: CMTV
-http://worldcs.info:8080/live/xxxx/zzzz/625.ts
-#EXTINF:-1,---------- FILMES & SERIES ----------
-http://worldcs.info:8080/live/xxxx/zzzz/17739.ts
-#EXTINF:-1,PT: MOV
-http://worldcs.info:8080/live/xxxx/zzzz/17759.ts
-#EXTINF:-1,PT: SYFY
-http://worldcs.info:8080/live/xxxx/zzzz/645.ts
-#EXTINF:-1,PT: HOLLYWOOD
-http://worldcs.info:8080/live/xxxx/zzzz/649.ts
-#EXTINF:-1,PT: Fox HD
-http://worldcs.info:8080/live/xxxx/zzzz/651.ts
-#EXTINF:-1,PT: FOX LIFE HD
-http://worldcs.info:8080/live/xxxx/zzzz/711.ts
-#EXTINF:-1,PT: Fox Movies
-http://worldcs.info:8080/live/xxxx/zzzz/646.ts
-#EXTINF:-1,PT: Fox Comeny
-http://worldcs.info:8080/live/xxxx/zzzz/707.ts
-#EXTINF:-1,PT: FOX CRIME HD
-http://worldcs.info:8080/live/xxxx/zzzz/647.ts
-#EXTINF:-1,PT: A & E
-http://worldcs.info:8080/live/xxxx/zzzz/642.ts
-#EXTINF:-1,PT: AMC
-http://worldcs.info:8080/live/xxxx/zzzz/654.ts
-#EXTINF:-1,PT: AXN HD
-http://worldcs.info:8080/live/xxxx/zzzz/653.ts
-#EXTINF:-1,PT: AXN White HD
-http://worldcs.info:8080/live/xxxx/zzzz/652.ts
-#EXTINF:-1,PT: AXN Black HD
-http://worldcs.info:8080/live/xxxx/zzzz/704.ts
-#EXTINF:-1,PT: TV CINE 1 HD
-http://worldcs.info:8080/live/xxxx/zzzz/701.ts
-#EXTINF:-1,PT: TV CINE 2 HD
-http://worldcs.info:8080/live/xxxx/zzzz/700.ts
-#EXTINF:-1,PT: TV CINE 3 HD
-http://worldcs.info:8080/live/xxxx/zzzz/699.ts
-#EXTINF:-1,PT: TV CINE 4 HD
-http://worldcs.info:8080/live/xxxx/zzzz/698.ts
-#EXTINF:-1,---------- DOCUMENTARIOS ----------
-http://worldcs.info:8080/live/xxxx/zzzz/17740.ts
-#EXTINF:-1,PT: TLC
-http://worldcs.info:8080/live/xxxx/zzzz/705.ts
-#EXTINF:-1,PT: Discovery Channel
-http://worldcs.info:8080/live/xxxx/zzzz/724.ts
-#EXTINF:-1,PT: CANAL Historia
-http://worldcs.info:8080/live/xxxx/zzzz/721.ts
-#EXTINF:-1,PT: NATIONAL GEO  WILD
-http://worldcs.info:8080/live/xxxx/zzzz/720.ts
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://worldcs.info:8080/live/xxxx/zzzz/723.ts
-#EXTINF:-1,PT: Toros TV
-http://worldcs.info:8080/live/xxxx/zzzz/683.ts
-#EXTINF:-1,PT: TRAVEL CHANNEL HD
-http://worldcs.info:8080/live/xxxx/zzzz/719.ts
-#EXTINF:-1,PT: CaÃ§a e Pesca
-http://worldcs.info:8080/live/xxxx/zzzz/684.ts
-#EXTINF:-1,PT: ODISSEIA
-http://worldcs.info:8080/live/xxxx/zzzz/722.ts
-#EXTINF:-1,PT: E! Entertaunment
-http://worldcs.info:8080/live/xxxx/zzzz/702.ts
-#EXTINF:-1,PT: 24KITCHEN HD
-http://worldcs.info:8080/live/xxxx/zzzz/708.ts
-#EXTINF:-1,PT:  PORTO Canal
-http://worldcs.info:8080/live/xxxx/zzzz/680.ts
-#EXTINF:-1,PT: PFC
-http://worldcs.info:8080/live/xxxx/zzzz/679.ts
-#EXTINF:-1,PT: CBS Reality
-http://worldcs.info:8080/live/xxxx/zzzz/671.ts
-#EXTINF:-1,PT: A Bola TV
-http://worldcs.info:8080/live/xxxx/zzzz/631.ts
-#EXTINF:-1,---------- KIDS ----------
-http://worldcs.info:8080/live/xxxx/zzzz/17738.ts
-#EXTINF:-1,PT: PANDA BIGGS
-http://worldcs.info:8080/live/xxxx/zzzz/644.ts
-#EXTINF:-1,PT: NICKELODEON
-http://worldcs.info:8080/live/xxxx/zzzz/690.ts
-#EXTINF:-1,PT: Baby Tv
-http://worldcs.info:8080/live/xxxx/zzzz/695.ts
-#EXTINF:-1,PT: Cartoon
-http://worldcs.info:8080/live/xxxx/zzzz/694.ts
-#EXTINF:-1,PT: JIM JAM
-http://worldcs.info:8080/live/xxxx/zzzz/692.ts
-#EXTINF:-1,PT: DISNEY JUNIOR
-http://worldcs.info:8080/live/xxxx/zzzz/689.ts
-#EXTINF:-1,PT: CANAL PANDA
-http://worldcs.info:8080/live/xxxx/zzzz/691.ts
-#EXTINF:-1,PT: Cinemundo
-http://worldcs.info:8080/live/xxxx/zzzz/648.ts
-#EXTINF:-1,PT: VH1
-http://worldcs.info:8080/live/xxxx/zzzz/7256.ts
-#EXTINF:-1,PT: MTV
-http://worldcs.info:8080/live/xxxx/zzzz/710.ts
-#EXTINF:-1,PT: Afro Music
-http://worldcs.info:8080/live/xxxx/zzzz/641.ts
-#EXTINF:-1,PT: TV GLOBO PREMIUM
-http://worldcs.info:8080/live/xxxx/zzzz/706.ts
-#EXTINF:-1,PT: TV Globo
-http://worldcs.info:8080/live/xxxx/zzzz/669.ts
-#EXTINF:-1,PT: FOX NEWS
-http://worldcs.info:8080/live/xxxx/zzzz/18362.ts
-#EXTINF:-1,PT: FUEL TV
-http://worldcs.info:8080/live/xxxx/zzzz/18361.ts
 
 
 
@@ -2227,1752 +2303,43 @@ acestream://8b96bd8df497182d7ec2506b997b3879c0ca450c
 #EXTINF:-1 tvg-id="" tvg-logo="http://vertelevisor.com/logos/hustlertv.jpg" group-title="ADULTO", HUSTLER HD (Acestream)
 acestream://d83b0a25ff3a6232011e4747f86220ad0d49b0ac
 
-#EXTINF:-1,Blacked
-http://localhd.tv:8081/live/pedro/skype/1564.ts
-#EXTINF:-1,Nubiles Casting
-http://localhd.tv:8081/live/pedro/skype/1567.ts
-#EXTINF:-1,Babestation Xtra
-http://localhd.tv:8081/live/pedro/skype/1563.ts
-#EXTINF:-1,Babestation Club
-http://localhd.tv:8081/live/pedro/skype/1562.ts
-#EXTINF:-1,Claro Adulto 18
-http://localhd.tv:8081/live/pedro/skype/1565.ts
-
-#EXTINF:-1,XXX Evil Angel.com
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/870.ts
-#EXTINF:-1,XXX Bizarre
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/844.ts
-#EXTINF:-1,XXX SCT
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/845.ts
-#EXTINF:-1,XXX_Hustler_HD
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/840.ts
-#EXTINF:-1,XXX Mofos.com
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/841.ts
-#EXTINF:-1,XXX DUSK
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/878.ts
-#EXTINF:-1,XXX_Private
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/876.ts
-#EXTINF:-1,XXX_DorcelClub.com
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/875.ts
-#EXTINF:-1,XXX_Candy
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/866.ts
-#EXTINF:-1,XXX Passie XXX
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/865.ts
-#EXTINF:-1,XXX ERO xxx HD
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/859.ts
-#EXTINF:-1,XXX_Erotic_01
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/860.ts
-#EXTINF:-1,XXX_Erotic_02
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/867.ts
-#EXTINF:-1,XXX_Erotic_03
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/874.ts
-#EXTINF:-1,XXX_Erotic_04
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/877.ts
-#EXTINF:-1,XXX_Erotic_05
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/857.ts
-#EXTINF:-1,XXX_Erotic_06
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/856.ts
-#EXTINF:-1,XXX_Erotic_07
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/853.ts
-#EXTINF:-1,XXX_Erotic_08
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/846.ts
-#EXTINF:-1,XXX Hard x
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/864.ts
-#EXTINF:-1,XXX NoBORING.com
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/872.ts
-#EXTINF:-1,XXX_Brazzers.com
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/868.ts
-#EXTINF:-1,XXX_Penthouse
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/871.ts
-#EXTINF:-1,18Yoga.com
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/869.ts
-#EXTINF:-1,XXX_But_GO
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/873.ts
-#EXTINF:-1,XXX mv First PUBLIC
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/862.ts
-#EXTINF:-1,XXX Meiden Holland
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/861.ts
-#EXTINF:-1,XXX la FRANCE a POIL
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/863.ts
-#EXTINF:-1,XXX_Blacked.com
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/852.ts
-#EXTINF:-1,XXX PlayPoy
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/851.ts
-#EXTINF:-1,XXX_Viki_Enjoy_Premium
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/858.ts
-#EXTINF:-1,XXX Brazzares TV europe
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/855.ts
-#EXTINF:-1,XXX_Venus
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/849.ts
-#EXTINF:-1,XXX_BDSM.com
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/850.ts
-#EXTINF:-1,XXX_FrenchLover_TV
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/847.ts
-#EXTINF:-1,XXX_Hot
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/839.ts
-#EXTINF:-1,XXX_Play_19+
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/838.ts
-#EXTINF:-1,XXX_Visit_X_Live
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1233.ts
-#EXTINF:-1,XXX_Satisfaction
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1228.ts
-#EXTINF:-1,XXX_RedLight_HD
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1229.ts
-#EXTINF:-1,XXX_Pinko_TV
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1230.ts
-#EXTINF:-1,XXX JASMIN_TV
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1234.ts
-#EXTINF:-1,XXX_Exotica_TV
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1231.ts
-#EXTINF:-1,XXX Cento_X_Cento
-http://tv-fan-sat.org:25461/live/livealbi1987/Bs5FrRZmqx/1232.ts
-
-
-#EXTINF:-1,======== ADLTI LIVE ========
-http://149.202.204.239:8000/live/romaforex/alessand/678.ts
-#EXTINF:-1,Cento X Cento
-http://149.202.204.239:8000/live/romaforex/alessand/15703.ts
-#EXTINF:-1,***tosenso
-http://149.202.204.239:8000/live/romaforex/alessand/17878.ts
-#EXTINF:-1,Satisfaction
-http://149.202.204.239:8000/live/romaforex/alessand/17879.ts
-#EXTINF:-1,Red Light HD
-http://149.202.204.239:8000/live/romaforex/alessand/17880.ts
-#EXTINF:-1,Pinko TV
-http://149.202.204.239:8000/live/romaforex/alessand/17881.ts
-#EXTINF:-1,Hustler HD
-http://149.202.204.239:8000/live/romaforex/alessand/17882.ts
-#EXTINF:-1,Exotica TV
-http://149.202.204.239:8000/live/romaforex/alessand/17883.ts
-#EXTINF:-1,Evil Angel TV
-http://149.202.204.239:8000/live/romaforex/alessand/17884.ts
-#EXTINF:-1,Dorcel HD
-http://149.202.204.239:8000/live/romaforex/alessand/17885.ts
-#EXTINF:-1,XXX-HOT LIVE 1
-http://149.202.204.239:8000/live/romaforex/alessand/677.ts
-#EXTINF:-1,XXX-HOT LIVE 2
-http://149.202.204.239:8000/live/romaforex/alessand/666.ts
-#EXTINF:-1,XXX-HOT LIVE 3
-http://149.202.204.239:8000/live/romaforex/alessand/655.ts
-#EXTINF:-1,XXX-HOT LIVE 4
-http://149.202.204.239:8000/live/romaforex/alessand/644.ts
-#EXTINF:-1,XXX-HOT LIVE 5
-http://149.202.204.239:8000/live/romaforex/alessand/642.ts
-#EXTINF:-1,XXX-HOT LIVE 6
-http://149.202.204.239:8000/live/romaforex/alessand/641.ts
-#EXTINF:-1,XXX-HOT LIVE 7
-http://149.202.204.239:8000/live/romaforex/alessand/640.ts
-#EXTINF:-1,XXX-HOT LIVE 8
-http://149.202.204.239:8000/live/romaforex/alessand/639.ts
-#EXTINF:-1,XXX-HOT LIVE 9
-http://149.202.204.239:8000/live/romaforex/alessand/638.ts
-#EXTINF:-1,XXX-HOT LIVE 10
-http://149.202.204.239:8000/live/romaforex/alessand/676.ts
-#EXTINF:-1,XXX-HOT LIVE 11
-http://149.202.204.239:8000/live/romaforex/alessand/675.ts
-#EXTINF:-1,XXX-HOT LIVE 12
-http://149.202.204.239:8000/live/romaforex/alessand/674.ts
-#EXTINF:-1,XXX-HOT LIVE 13
-http://149.202.204.239:8000/live/romaforex/alessand/673.ts
-#EXTINF:-1,XXX-HOT LIVE 14
-http://149.202.204.239:8000/live/romaforex/alessand/672.ts
-#EXTINF:-1,XXX-HOT LIVE 15
-http://149.202.204.239:8000/live/romaforex/alessand/671.ts
-#EXTINF:-1,XXX-HOT LIVE 16
-http://149.202.204.239:8000/live/romaforex/alessand/670.ts
-#EXTINF:-1,XXX-HOT LIVE 17
-http://149.202.204.239:8000/live/romaforex/alessand/669.ts
-#EXTINF:-1,XXX-HOT LIVE 18
-http://149.202.204.239:8000/live/romaforex/alessand/668.ts
-#EXTINF:-1,XXX-HOT LIVE 19
-http://149.202.204.239:8000/live/romaforex/alessand/667.ts
-#EXTINF:-1,XXX-HOT LIVE 20
-http://149.202.204.239:8000/live/romaforex/alessand/665.ts
-#EXTINF:-1,XXX-HOT LIVE 21
-http://149.202.204.239:8000/live/romaforex/alessand/664.ts
-#EXTINF:-1,XXX-HOT LIVE 22
-http://149.202.204.239:8000/live/romaforex/alessand/663.ts
-#EXTINF:-1,XXX-HOT LIVE 23
-http://149.202.204.239:8000/live/romaforex/alessand/662.ts
-#EXTINF:-1,XXX-HOT LIVE 24
-http://149.202.204.239:8000/live/romaforex/alessand/661.ts
-#EXTINF:-1,XXX-HOT LIVE 25
-http://149.202.204.239:8000/live/romaforex/alessand/660.ts
-#EXTINF:-1,XXX-HOT LIVE 26
-http://149.202.204.239:8000/live/romaforex/alessand/659.ts
-#EXTINF:-1,XXX-HOT LIVE 27
-http://149.202.204.239:8000/live/romaforex/alessand/658.ts
-#EXTINF:-1,XXX-HOT LIVE 28
-http://149.202.204.239:8000/live/romaforex/alessand/657.ts
-#EXTINF:-1,XXX-HOT LIVE 29
-http://149.202.204.239:8000/live/romaforex/alessand/656.ts
-#EXTINF:-1,XXX-HOT LIVE 30
-http://149.202.204.239:8000/live/romaforex/alessand/654.ts
-#EXTINF:-1,XXX-HOT 41
-http://149.202.204.239:8000/live/romaforex/alessand/2689.ts
-#EXTINF:-1,XXX-HOT 42
-http://149.202.204.239:8000/live/romaforex/alessand/2690.ts
-#EXTINF:-1,XXX-HOT 43
-http://149.202.204.239:8000/live/romaforex/alessand/2691.ts
-#EXTINF:-1,XXX-HOT 44
-http://149.202.204.239:8000/live/romaforex/alessand/2692.ts
-#EXTINF:-1,XXX-HOT 45
-http://149.202.204.239:8000/live/romaforex/alessand/2693.ts
-#EXTINF:-1,XXX-HOT 46
-http://149.202.204.239:8000/live/romaforex/alessand/2694.ts
-#EXTINF:-1,XXX-HOT 47
-http://149.202.204.239:8000/live/romaforex/alessand/2695.ts
-#EXTINF:-1,XXX-HOT 48
-http://149.202.204.239:8000/live/romaforex/alessand/2696.ts
-#EXTINF:-1,XXX-HOT 49
-http://149.202.204.239:8000/live/romaforex/alessand/2697.ts
-#EXTINF:-1,XXX-HOT 50
-http://149.202.204.239:8000/live/romaforex/alessand/2698.ts
-#EXTINF:-1,XXX-HOT 51
-http://149.202.204.239:8000/live/romaforex/alessand/2699.ts
-#EXTINF:-1,XXX-HOT 52
-http://149.202.204.239:8000/live/romaforex/alessand/2700.ts
-#EXTINF:-1,XXX-HOT 53
-http://149.202.204.239:8000/live/romaforex/alessand/2701.ts
-#EXTINF:-1,XXX-HOT 54
-http://149.202.204.239:8000/live/romaforex/alessand/2702.ts
-#EXTINF:-1,XXX-HOT 55
-http://149.202.204.239:8000/live/romaforex/alessand/2703.ts
-#EXTINF:-1,XXX-HOT 56
-http://149.202.204.239:8000/live/romaforex/alessand/2704.ts
-#EXTINF:-1,XXX-HOT 57
-http://149.202.204.239:8000/live/romaforex/alessand/2705.ts
-#EXTINF:-1,XXX-HOT 58
-http://149.202.204.239:8000/live/romaforex/alessand/2706.ts
-#EXTINF:-1,XXX-HOT 59
-http://149.202.204.239:8000/live/romaforex/alessand/2707.ts
-#EXTINF:-1,XXX-HOT 60
-http://149.202.204.239:8000/live/romaforex/alessand/2708.ts
-#EXTINF:-1,XXX-HOT 61
-http://149.202.204.239:8000/live/romaforex/alessand/2709.ts
-#EXTINF:-1,XXX-HOT 62
-http://149.202.204.239:8000/live/romaforex/alessand/2710.ts
-#EXTINF:-1,XXX-HOT 63
-http://149.202.204.239:8000/live/romaforex/alessand/2711.ts
-#EXTINF:-1,XXX-HOT 64
-http://149.202.204.239:8000/live/romaforex/alessand/2712.ts
-#EXTINF:-1,XXX-HOT 65
-http://149.202.204.239:8000/live/romaforex/alessand/2713.ts
-#EXTINF:-1,XXX-HOT 66
-http://149.202.204.239:8000/live/romaforex/alessand/2714.ts
-#EXTINF:-1,XXX-HOT 67
-http://149.202.204.239:8000/live/romaforex/alessand/2715.ts
-#EXTINF:-1,XXX-HOT 68
-http://149.202.204.239:8000/live/romaforex/alessand/2716.ts
-#EXTINF:-1,XXX-HOT 69
-http://149.202.204.239:8000/live/romaforex/alessand/2717.ts
-#EXTINF:-1,XXX-HOT 70
-http://149.202.204.239:8000/live/romaforex/alessand/2718.ts
-#EXTINF:-1,======== *****I ON DEMAND ========
-http://149.202.204.239:8000/live/romaforex/alessand/5385.ts
-#EXTINF:-1,XXX | 5 Star Porn Charmane Star Asian MILF
-http://149.202.204.239:8000/movie/romaforex/alessand/20605.avi
-#EXTINF:-1,XXX | A Wonderful Blond Whore Anita Blonde
-http://149.202.204.239:8000/movie/romaforex/alessand/20606.avi
-#EXTINF:-1,XXX | Adriana Sage & Two Big Black
-http://149.202.204.239:8000/movie/romaforex/alessand/20471.avi
-#EXTINF:-1,XXX | ***** Movie Clip Tera Patrick
-http://149.202.204.239:8000/movie/romaforex/alessand/20607.avi
-#EXTINF:-1,XXX | Alexa Rae Painfull Anal
-http://149.202.204.239:8000/movie/romaforex/alessand/20608.avi
-#EXTINF:-1,XXX | Alexa Rae white nylons pierced nipples
-http://149.202.204.239:8000/movie/romaforex/alessand/20472.avi
-#EXTINF:-1,XXX | Amateur POV 2 Ashlynn Brooke
-http://149.202.204.239:8000/movie/romaforex/alessand/20474.avi
-#EXTINF:-1,XXX | Angelica Bella I Vizi Anali Delle Collegiali
-http://149.202.204.239:8000/movie/romaforex/alessand/20476.avi
-#EXTINF:-1,XXX | Anita Blond & Dark Offertes À Tout 7
-http://149.202.204.239:8000/movie/romaforex/alessand/20477.avi
-#EXTINF:-1,XXX | Anita Blond FANTASTIC bitch fucked
-http://149.202.204.239:8000/movie/romaforex/alessand/20480.avi
-#EXTINF:-1,XXX | Anita Blond GREAT fuck and facial by the pool
-http://149.202.204.239:8000/movie/romaforex/alessand/20481.avi
-#EXTINF:-1,XXX | Anita Blonde & Brandon Iron big snake
-http://149.202.204.239:8000/movie/romaforex/alessand/20611.avi
-#EXTINF:-1,XXX | Anita Blonde Fantasie
-http://149.202.204.239:8000/movie/romaforex/alessand/20482.avi
-#EXTINF:-1,XXX | Anita Blonde on a Ferrari
-http://149.202.204.239:8000/movie/romaforex/alessand/20483.avi
-#EXTINF:-1,XXX | Anita Blonde tourist fucked in garden
-http://149.202.204.239:8000/movie/romaforex/alessand/20484.avi
-#EXTINF:-1,XXX | Anita Blondie
-http://149.202.204.239:8000/movie/romaforex/alessand/12610.avi
-#EXTINF:-1,XXX | Ashlynn.Brooke.On.The.Road.South.Beach
-http://149.202.204.239:8000/movie/romaforex/alessand/20490.avi
-#EXTINF:-1,XXX | Ass Parade Christine Young
-http://149.202.204.239:8000/movie/romaforex/alessand/20613.avi
-#EXTINF:-1,XXX | Ass worship 8
-http://149.202.204.239:8000/movie/romaforex/alessand/20615.avi
-#EXTINF:-1,XXX | ABUSI
-http://149.202.204.239:8000/movie/romaforex/alessand/12592.avi
-#EXTINF:-1,XXX | avery adair
-http://149.202.204.239:8000/movie/romaforex/alessand/19497.mkv
-#EXTINF:-1,XXX | Adele Stephens
-http://149.202.204.239:8000/movie/romaforex/alessand/12594.avi
-#EXTINF:-1,XXX | Affari di Famiglia
-http://149.202.204.239:8000/movie/romaforex/alessand/12596.avi
-#EXTINF:-1,XXX | adventuresinbabysitting cd1
-http://149.202.204.239:8000/movie/romaforex/alessand/12893.avi
-#EXTINF:-1,XXX | adventuresinbabysitting cd2
-http://149.202.204.239:8000/movie/romaforex/alessand/12894.avi
-#EXTINF:-1,XXX | Affari di Famiglia (2009)
-http://149.202.204.239:8000/movie/romaforex/alessand/12595.avi
-#EXTINF:-1,XXX | Alice nel paese delle ***** meraviglie
-http://149.202.204.239:8000/movie/romaforex/alessand/12597.avi
-#EXTINF:-1,XXX | Alzati La Gonna (2011)
-http://149.202.204.239:8000/movie/romaforex/alessand/12598.avi
-#EXTINF:-1,XXX | Amatoriale Filmini Amatoriali Privati Film Completo
-http://149.202.204.239:8000/movie/romaforex/alessand/12599.avi
-#EXTINF:-1,XXX | Amatoriale Italiano Pigitalia Condominio
-http://149.202.204.239:8000/movie/romaforex/alessand/12600.avi
-#EXTINF:-1,XXX | Amore Fraterno
-http://149.202.204.239:8000/movie/romaforex/alessand/12602.avi
-#EXTINF:-1,XXX | Amore Fraterno Federica Zarri Jessica Fiorentino
-http://149.202.204.239:8000/movie/romaforex/alessand/12601.avi
-#EXTINF:-1,XXX | Analita' privata
-http://149.202.204.239:8000/movie/romaforex/alessand/13091.mp4
-#EXTINF:-1,XXX | Andy Casanova Consolami Papa
-http://149.202.204.239:8000/movie/romaforex/alessand/12603.avi
-#EXTINF:-1,XXX | Andy Casanova Falsa Apparenza
-http://149.202.204.239:8000/movie/romaforex/alessand/12604.avi
-#EXTINF:-1,XXX | Andy Casanova Il Fratello Di Papa schiava Di Mio Figlio
-http://149.202.204.239:8000/movie/romaforex/alessand/12605.avi
-#EXTINF:-1,XXX | Andy Casanova Mea Culpa
-http://149.202.204.239:8000/movie/romaforex/alessand/12606.avi
-#EXTINF:-1,XXX | Angelicamente Vostre
-http://149.202.204.239:8000/movie/romaforex/alessand/12608.avi
-#EXTINF:-1,XXX | Animalita Milly D'abbraccio
-http://149.202.204.239:8000/movie/romaforex/alessand/12609.avi
-#EXTINF:-1,XXX | Adolescenza perversa
-http://149.202.204.239:8000/movie/romaforex/alessand/6343.mkv
-#EXTINF:-1,XXX | Adriana Chechik
-http://149.202.204.239:8000/movie/romaforex/alessand/6344.mkv
-#EXTINF:-1,XXX | Alcuni Cazzi fa (Selen)
-http://149.202.204.239:8000/movie/romaforex/alessand/6385.mkv
-#EXTINF:-1,XXX | Alina Li
-http://149.202.204.239:8000/movie/romaforex/alessand/6345.mkv
-#EXTINF:-1,XXX | Amateur Apparel 6
-http://149.202.204.239:8000/movie/romaforex/alessand/6396.mkv
-#EXTINF:-1,XXX | Anal On The Clock
-http://149.202.204.239:8000/movie/romaforex/alessand/6397.mkv
-#EXTINF:-1,XXX | Anally Oriented
-http://149.202.204.239:8000/movie/romaforex/alessand/6398.mkv
-#EXTINF:-1,XXX | anziani in calore *****
-http://149.202.204.239:8000/movie/romaforex/alessand/12895.avi
-#EXTINF:-1,XXX | asha bliss Vergine Al Matrimonio
-http://149.202.204.239:8000/movie/romaforex/alessand/12896.avi
-#EXTINF:-1,XXX | ASIA D'ARGENTO BOLLENTI SPIRITI
-http://149.202.204.239:8000/movie/romaforex/alessand/12593.avi
-#EXTINF:-1,XXX | Asian Persuasion 2013
-http://149.202.204.239:8000/movie/romaforex/alessand/13092.mp4
-#EXTINF:-1,XXX | Asiatiche vogliose 2013
-http://149.202.204.239:8000/movie/romaforex/alessand/13093.mp4
-#EXTINF:-1,XXX | Attenti a quelle due Ninfomani
-http://149.202.204.239:8000/movie/romaforex/alessand/12611.avi
-#EXTINF:-1,XXX | Bang Bros Big Tits Round Asses
-http://149.202.204.239:8000/movie/romaforex/alessand/20616.avi
-#EXTINF:-1,XXX | Bang bros Raven Riley
-http://149.202.204.239:8000/movie/romaforex/alessand/20617.avi
-#EXTINF:-1,XXX | Barefoot Maniacs Rita Faltoyano
-http://149.202.204.239:8000/movie/romaforex/alessand/20491.avi
-#EXTINF:-1,XXX | Barefoot Maniacs_Devon Michaels_NEW
-http://149.202.204.239:8000/movie/romaforex/alessand/20492.avi
-#EXTINF:-1,XXX | Black ***
-http://149.202.204.239:8000/movie/romaforex/alessand/20494.avi
-#EXTINF:-1,XXX | Blacks on blondes dogfart
-http://149.202.204.239:8000/movie/romaforex/alessand/20621.avi
-#EXTINF:-1,XXX | Babbo Caro Veronica Belli
-http://149.202.204.239:8000/movie/romaforex/alessand/12613.avi
-#EXTINF:-1,XXX | bambola
-http://149.202.204.239:8000/movie/romaforex/alessand/12897.avi
-#EXTINF:-1,XXX | BANANE AL CIOCCOLATO Cicciolina
-http://149.202.204.239:8000/movie/romaforex/alessand/12612.avi
-#EXTINF:-1,XXX | bang production
-http://149.202.204.239:8000/movie/romaforex/alessand/12898.avi
-#EXTINF:-1,XXX | black taboo
-http://149.202.204.239:8000/movie/romaforex/alessand/13114.mkv
-#EXTINF:-1,XXX | bella gnocca fica culo lo prende
-http://149.202.204.239:8000/movie/romaforex/alessand/12899.avi
-#EXTINF:-1,XXX | BigMouthfuls Ashlynn Brooke
-http://149.202.204.239:8000/movie/romaforex/alessand/20619.avi
-#EXTINF:-1,XXX | biancaneve 10 anni dopo
-http://149.202.204.239:8000/movie/romaforex/alessand/12900.avi
-#EXTINF:-1,XXX | Bienenstich im Liebesnest
-http://149.202.204.239:8000/movie/romaforex/alessand/6346.mkv
-#EXTINF:-1,XXX | Biancaneve E Le 7 Nane
-http://149.202.204.239:8000/movie/romaforex/alessand/12614.avi
-#EXTINF:-1,XXX | Biancaneve E Le Sette Nane
-http://149.202.204.239:8000/movie/romaforex/alessand/12615.avi
-#EXTINF:-1,XXX | Big Boobs Deluxe Anthology
-http://149.202.204.239:8000/movie/romaforex/alessand/12616.avi
-#EXTINF:-1,XXX | Big Tits At Work 2014
-http://149.202.204.239:8000/movie/romaforex/alessand/13094.mp4
-#EXTINF:-1,XXX | brides e bitches con michelle wild
-http://149.202.204.239:8000/movie/romaforex/alessand/12902.avi
-#EXTINF:-1,XXX | Brittney Skye
-http://149.202.204.239:8000/movie/romaforex/alessand/20627.avi
-#EXTINF:-1,XXX | Brittney Skye Pucelle Defoncée
-http://149.202.204.239:8000/movie/romaforex/alessand/20506.avi
-#EXTINF:-1,XXX | Brittney Skye_Double Decker Sandwich 2
-http://149.202.204.239:8000/movie/romaforex/alessand/20507.avi
-#EXTINF:-1,XXX | Blowjob Fantasies
-http://149.202.204.239:8000/movie/romaforex/alessand/20496.avi
-#EXTINF:-1,XXX | Blowjob fantasies Brittany Skye & Lexi Matthews
-http://149.202.204.239:8000/movie/romaforex/alessand/20497.avi
-#EXTINF:-1,XXX | Bolt Un Eroe A Quattro Zampe
-http://149.202.204.239:8000/movie/romaforex/alessand/12617.avi
-#EXTINF:-1,XXX | [Bluebird Films] She's DTF (2013)
-http://149.202.204.239:8000/movie/romaforex/alessand/13102.mp4
-#EXTINF:-1,XXX | Butterflies 1975
-http://149.202.204.239:8000/movie/romaforex/alessand/12618.avi
-#EXTINF:-1,XXX | Bonnie Rotten
-http://149.202.204.239:8000/movie/romaforex/alessand/6280.mkv
-#EXTINF:-1,XXX | brabus6
-http://149.202.204.239:8000/movie/romaforex/alessand/6390.mkv
-#EXTINF:-1,XXX | Bubba Collection Giochi particolari 2014
-http://149.202.204.239:8000/movie/romaforex/alessand/6281.mkv
-#EXTINF:-1,XXX | Calimarie and Cherish MiltonTwins
-http://149.202.204.239:8000/movie/romaforex/alessand/20629.avi
-#EXTINF:-1,XXX | carmen luvana - blacks on blondes
-http://149.202.204.239:8000/movie/romaforex/alessand/20714.avi
-#EXTINF:-1,XXX | Cassie Young Brutal Blonde
-http://149.202.204.239:8000/movie/romaforex/alessand/20509.avi
-#EXTINF:-1,XXX | Cassie Young Cumstains (bonus scene)
-http://149.202.204.239:8000/movie/romaforex/alessand/20510.avi
-#EXTINF:-1,XXX | Cassie Young Trained Teens
-http://149.202.204.239:8000/movie/romaforex/alessand/20511.avi
-#EXTINF:-1,XXX | Cameriera Senza Malizia
-http://149.202.204.239:8000/movie/romaforex/alessand/12621.avi
-#EXTINF:-1,XXX | Casa d'appuntamento (Angelica Bella)
-http://149.202.204.239:8000/movie/romaforex/alessand/12622.avi
-#EXTINF:-1,XXX | casalinghe amatoriali
-http://149.202.204.239:8000/movie/romaforex/alessand/12903.avi
-#EXTINF:-1,XXX | Cavalcanti Selen Moana Baby Pozzi Paradiso
-http://149.202.204.239:8000/movie/romaforex/alessand/12623.avi
-#EXTINF:-1,XXX | CaSo Grosso ma non Troppo
-http://149.202.204.239:8000/movie/romaforex/alessand/6347.mkv
-#EXTINF:-1,XXX | C'era una volta il... bordello
-http://149.202.204.239:8000/movie/romaforex/alessand/12620.avi
-#EXTINF:-1,XXX | C'Era Una Volta L Incesto
-http://149.202.204.239:8000/movie/romaforex/alessand/12619.avi
-#EXTINF:-1,XXX | Cherry Potter Brunob
-http://149.202.204.239:8000/movie/romaforex/alessand/20630.avi
-#EXTINF:-1,XXX | Cherry Potter Hardcore Training
-http://149.202.204.239:8000/movie/romaforex/alessand/20512.avi
-#EXTINF:-1,XXX | Cento x Cento Grazie zia
-http://149.202.204.239:8000/movie/romaforex/alessand/12624.avi
-#EXTINF:-1,XXX | Che Gelida Manina Maria Bellucci
-http://149.202.204.239:8000/movie/romaforex/alessand/12625.avi
-#EXTINF:-1,XXX | Cicciolina Amore Mio 1979
-http://149.202.204.239:8000/movie/romaforex/alessand/12626.avi
-#EXTINF:-1,XXX | czech-home-orgy
-http://149.202.204.239:8000/movie/romaforex/alessand/6420.mkv
-#EXTINF:-1,XXX | Cine Erotico
-http://149.202.204.239:8000/movie/romaforex/alessand/12627.avi
-#EXTINF:-1,XXX | Christine Young & Tania with BrunoB
-http://149.202.204.239:8000/movie/romaforex/alessand/20631.avi
-#EXTINF:-1,XXX | christy mack
-http://149.202.204.239:8000/movie/romaforex/alessand/19504.mkv
-#EXTINF:-1,XXX | Classic Ita
-http://149.202.204.239:8000/movie/romaforex/alessand/12628.avi
-#EXTINF:-1,XXX | Cocca di Mamma
-http://149.202.204.239:8000/movie/romaforex/alessand/12629.avi
-#EXTINF:-1,XXX | Coreena.Black AssHoleFever
-http://149.202.204.239:8000/movie/romaforex/alessand/20632.avi
-#EXTINF:-1,XXX | Con La Zia Non È Peccato 1980
-http://149.202.204.239:8000/movie/romaforex/alessand/12630.avi
-#EXTINF:-1,XXX | Con Un Marito Infermo
-http://149.202.204.239:8000/movie/romaforex/alessand/12631.avi
-#EXTINF:-1,XXX | Confessioni Indecenti Paola Basile
-http://149.202.204.239:8000/movie/romaforex/alessand/12632.avi
-#EXTINF:-1,XXX | Confessioni Indecenti [1990]
-http://149.202.204.239:8000/movie/romaforex/alessand/12633.avi
-#EXTINF:-1,XXX | Corpi da reato Angelica Bella
-http://149.202.204.239:8000/movie/romaforex/alessand/12634.avi
-#EXTINF:-1,XXX | Cosa dovrei farti ora
-http://149.202.204.239:8000/movie/romaforex/alessand/12635.avi
-#EXTINF:-1,XXX | ckp
-http://149.202.204.239:8000/movie/romaforex/alessand/6371.mkv
-#EXTINF:-1,XXX | Compare And Contrast
-http://149.202.204.239:8000/movie/romaforex/alessand/6399.mkv
-#EXTINF:-1,XXX | Consigli Per Gli Acquisti (Selen)
-http://149.202.204.239:8000/movie/romaforex/alessand/6386.mkv
-#EXTINF:-1,XXX | Cuore di pietra (selen)
-http://149.202.204.239:8000/movie/romaforex/alessand/6387.mkv
-#EXTINF:-1,XXX | Cum Inside Pussy Jenna Haze Creampie
-http://149.202.204.239:8000/movie/romaforex/alessand/20634.avi
-#EXTINF:-1,XXX | Cum On Her Face Absurd
-http://149.202.204.239:8000/movie/romaforex/alessand/20635.avi
-#EXTINF:-1,XXX | cum shots in the mouth
-http://149.202.204.239:8000/movie/romaforex/alessand/20715.avi
-#EXTINF:-1,XXX | CumFiesta Shelby anal
-http://149.202.204.239:8000/movie/romaforex/alessand/20636.avi
-#EXTINF:-1,XXX | Curse Eternal Eva Angelina(2006)
-http://149.202.204.239:8000/movie/romaforex/alessand/20513.avi
-#EXTINF:-1,XXX | Czech Home Orgy 8
-http://149.202.204.239:8000/movie/romaforex/alessand/6418.mkv
-#EXTINF:-1,XXX | Dahlia Sky
-http://149.202.204.239:8000/movie/romaforex/alessand/6348.mkv
-#EXTINF:-1,XXX | Daisy Chain 1984
-http://149.202.204.239:8000/movie/romaforex/alessand/12637.avi
-#EXTINF:-1,XXX | dani daniels
-http://149.202.204.239:8000/movie/romaforex/alessand/19498.mkv
-#EXTINF:-1,XXX | Dall' Isola Con Furore
-http://149.202.204.239:8000/movie/romaforex/alessand/12638.avi
-#EXTINF:-1,XXX | Dark Angel
-http://149.202.204.239:8000/movie/romaforex/alessand/12639.avi
-#EXTINF:-1,XXX | Delitto Imperfetto
-http://149.202.204.239:8000/movie/romaforex/alessand/12640.avi
-#EXTINF:-1,XXX | Depravazioni di Normali Famiglie Italiane
-http://149.202.204.239:8000/movie/romaforex/alessand/12641.avi
-#EXTINF:-1,XXX | Desiderio Claudia Rossi Eva Carli
-http://149.202.204.239:8000/movie/romaforex/alessand/12642.avi
-#EXTINF:-1,XXX | DEUTSCHLAND'S GEILSTE
-http://149.202.204.239:8000/movie/romaforex/alessand/12636.avi
-#EXTINF:-1,XXX | Dietro Da Impazzire 3 (Brigitta Bulgari)
-http://149.202.204.239:8000/movie/romaforex/alessand/20514.avi
-#EXTINF:-1,XXX | Diario Di Una Segretaria 2007
-http://149.202.204.239:8000/movie/romaforex/alessand/12643.avi
-#EXTINF:-1,XXX | Diario Segreto Sabrina Delfi 2007
-http://149.202.204.239:8000/movie/romaforex/alessand/12644.avi
-#EXTINF:-1,XXX | Die Witwe Laura Angel
-http://149.202.204.239:8000/movie/romaforex/alessand/12645.avi
-#EXTINF:-1,XXX | dietro da impazzire 7 jennifer stone
-http://149.202.204.239:8000/movie/romaforex/alessand/12904.avi
-#EXTINF:-1,XXX | dirty e kinky mature women 7
-http://149.202.204.239:8000/movie/romaforex/alessand/12905.avi
-#EXTINF:-1,XXX | Diva Cicciolina Miss Pomodoro
-http://149.202.204.239:8000/movie/romaforex/alessand/12646.avi
-#EXTINF:-1,XXX | Diva futura l'avventura dell'amore Moana Pozzi
-http://149.202.204.239:8000/movie/romaforex/alessand/12647.avi
-#EXTINF:-1,XXX | Donne Eleganti in Cerca di Avventure
-http://149.202.204.239:8000/movie/romaforex/alessand/13095.mp4
-#EXTINF:-1,XXX | Doposcuola Per Ragazzine Mario Salieri
-http://149.202.204.239:8000/movie/romaforex/alessand/12648.avi
-#EXTINF:-1,XXX | Doppio Contatto Anale Milly D Abbraccio Moana Pozzi
-http://149.202.204.239:8000/movie/romaforex/alessand/12649.avi
-#EXTINF:-1,XXX | Doppio Piacere 2 brigitta bulgari
-http://149.202.204.239:8000/movie/romaforex/alessand/20516.avi
-#EXTINF:-1,XXX | Doppio Piacere 2
-http://149.202.204.239:8000/movie/romaforex/alessand/12650.avi
-#EXTINF:-1,XXX | Doppio Piacere Vol.2 Doubles Passions Ana Brigitta Bulgari
-http://149.202.204.239:8000/movie/romaforex/alessand/12651.avi
-#EXTINF:-1,XXX | Due bionde depravate
-http://149.202.204.239:8000/movie/romaforex/alessand/12652.avi
-#EXTINF:-1,XXX | Dana Vespoli James Deen Valentina Nappi  03)
-http://149.202.204.239:8000/movie/romaforex/alessand/6282.mkv
-#EXTINF:-1,XXX | Dancing Hangover
-http://149.202.204.239:8000/movie/romaforex/alessand/6400.mkv
-#EXTINF:-1,XXX | Dancing With The Porn Stars
-http://149.202.204.239:8000/movie/romaforex/alessand/6401.mkv
-#EXTINF:-1,XXX | Das Lustschloss Der Josefine Mutzenbacher
-http://149.202.204.239:8000/movie/romaforex/alessand/6283.mkv
-#EXTINF:-1,XXX | Delivery Guy
-http://149.202.204.239:8000/movie/romaforex/alessand/6402.mkv
-#EXTINF:-1,XXX | Der Frauenarzt Vom Place Pigalle
-http://149.202.204.239:8000/movie/romaforex/alessand/6349.mkv
-#EXTINF:-1,XXX | Die Beichte der Josefine Mutzenbacher
-http://149.202.204.239:8000/movie/romaforex/alessand/6284.mkv
-#EXTINF:-1,XXX | die heissen nachte der josefine mutzenbacher2
-http://149.202.204.239:8000/movie/romaforex/alessand/6417.mkv
-#EXTINF:-1,XXX | Dominated By Skin
-http://149.202.204.239:8000/movie/romaforex/alessand/6403.mkv
-#EXTINF:-1,XXX | Dracula Selen Simona Valli
-http://149.202.204.239:8000/movie/romaforex/alessand/20517.avi
-#EXTINF:-1,XXX | Dracula
-http://149.202.204.239:8000/movie/romaforex/alessand/6388.mkv
-#EXTINF:-1,XXX | Ebony Amateurs 1 Physically
-http://149.202.204.239:8000/movie/romaforex/alessand/6404.mkv
-#EXTINF:-1,XXX | Eccitazione Fatale Moana Pozzi Jessica Rizzo Angelica Bella
-http://149.202.204.239:8000/movie/romaforex/alessand/12656.avi
-#EXTINF:-1,XXX | Era.Mio.Padre
-http://149.202.204.239:8000/movie/romaforex/alessand/12657.avi
-#EXTINF:-1,XXX | Erika Bella L' Innocenza Violata
-http://149.202.204.239:8000/movie/romaforex/alessand/12658.avi
-#EXTINF:-1,XXX | Eros CristaldI C'era Una Volta L'incesto
-http://149.202.204.239:8000/movie/romaforex/alessand/12659.avi
-#EXTINF:-1,XXX | Eros Grimaldi Famiglia Scabrosa
-http://149.202.204.239:8000/movie/romaforex/alessand/12660.avi
-#EXTINF:-1,XXX | Eternal Due Bionde Depravate
-http://149.202.204.239:8000/movie/romaforex/alessand/12662.avi
-#EXTINF:-1,XXX | EVA HENGER A LETTO CON EVA ESORDIENTI IN AZIONE
-http://149.202.204.239:8000/movie/romaforex/alessand/12653.avi
-#EXTINF:-1,XXX | EVA HENGER EVA PIù CHE MAI
-http://149.202.204.239:8000/movie/romaforex/alessand/12654.avi
-#EXTINF:-1,XXX | EVA HENGER PECCATI DI GOLA
-http://149.202.204.239:8000/movie/romaforex/alessand/12655.avi
-#EXTINF:-1,XXX | Eva Henger Per Tutti Provini Amatoriali
-http://149.202.204.239:8000/movie/romaforex/alessand/12663.avi
-#EXTINF:-1,XXX | Ex Claudio Bisio 2009 Cindy
-http://149.202.204.239:8000/movie/romaforex/alessand/12664.avi
-#EXTINF:-1,XXX | Eva Falk & Karen Lancaume)
-http://149.202.204.239:8000/movie/romaforex/alessand/6285.mkv
-#EXTINF:-1,XXX | False.Verita.CD1
-http://149.202.204.239:8000/movie/romaforex/alessand/12666.avi
-#EXTINF:-1,XXX | False.Verita.CD2
-http://149.202.204.239:8000/movie/romaforex/alessand/12667.avi
-#EXTINF:-1,XXX | Famiglie.Depravate.A.Confronto
-http://149.202.204.239:8000/movie/romaforex/alessand/12668.avi
-#EXTINF:-1,XXX | FAUST.Mario Salieri SARA YOUNG
-http://149.202.204.239:8000/movie/romaforex/alessand/12665.avi
-#EXTINF:-1,XXX | Festabrazil Deby Deluxepass Ebony
-http://149.202.204.239:8000/movie/romaforex/alessand/20518.avi
-#EXTINF:-1,XXX | Federica Tommasi Tentazioni Perverse Di Una Coppia Perbene
-http://149.202.204.239:8000/movie/romaforex/alessand/12669.avi
-#EXTINF:-1,XXX | Figli de' na mignotta (2008)
-http://149.202.204.239:8000/movie/romaforex/alessand/12671.avi
-#EXTINF:-1,XXX | Figli Miei (2010)
-http://149.202.204.239:8000/movie/romaforex/alessand/12670.avi
-#EXTINF:-1,XXX | Figlio Mio incesto
-http://149.202.204.239:8000/movie/romaforex/alessand/12672.avi
-#EXTINF:-1,XXX | Figliol Prodigo (Asia Preziosi)
-http://149.202.204.239:8000/movie/romaforex/alessand/12673.avi
-#EXTINF:-1,XXX | Film Private Orgy Group***
-http://149.202.204.239:8000/movie/romaforex/alessand/20637.avi
-#EXTINF:-1,XXX | Footsiebabes Eva Black poolside footjob
-http://149.202.204.239:8000/movie/romaforex/alessand/20519.avi
-#EXTINF:-1,XXX | folle desiderio anale
-http://149.202.204.239:8000/movie/romaforex/alessand/12907.avi
-#EXTINF:-1,XXX | folle desiderio anale Moana Pozzi
-http://149.202.204.239:8000/movie/romaforex/alessand/12906.avi
-#EXTINF:-1,XXX | Follie Di Una Notte (Wilson)
-http://149.202.204.239:8000/movie/romaforex/alessand/12674.avi
-#EXTINF:-1,XXX | Fottuta Da Mio Fratello
-http://149.202.204.239:8000/movie/romaforex/alessand/12675.avi
-#EXTINF:-1,XXX | Fottuta da mio fratello (incesti)
-http://149.202.204.239:8000/movie/romaforex/alessand/12676.avi
-#EXTINF:-1,XXX | Fratelli D'Italia Evita Pozzi
-http://149.202.204.239:8000/movie/romaforex/alessand/12677.avi
-#EXTINF:-1,XXX | Fantasmes 2
-http://149.202.204.239:8000/movie/romaforex/alessand/6350.mkv
-#EXTINF:-1,XXX | Flesh (selen)
-http://149.202.204.239:8000/movie/romaforex/alessand/6351.mkv
-#EXTINF:-1,XXX | Gangbang Auditions 18
-http://149.202.204.239:8000/movie/romaforex/alessand/6287.mkv
-#EXTINF:-1,XXX | Giada Supertrans
-http://149.202.204.239:8000/movie/romaforex/alessand/12578.avi
-#EXTINF:-1,XXX | Gioco Di Seduzione 1990 Moana Pozzi
-http://149.202.204.239:8000/movie/romaforex/alessand/12678.avi
-#EXTINF:-1,XXX | glazed.teens
-http://149.202.204.239:8000/movie/romaforex/alessand/13103.mp4
-#EXTINF:-1,XXX | Gli esami orali delle collegiali
-http://149.202.204.239:8000/movie/romaforex/alessand/12679.avi
-#EXTINF:-1,XXX | Godo Solo Con Papa
-http://149.202.204.239:8000/movie/romaforex/alessand/12680.avi
-#EXTINF:-1,XXX | Grazie Nonna
-http://149.202.204.239:8000/movie/romaforex/alessand/12681.avi
-#EXTINF:-1,XXX | Gruppo di famiglia (1995)
-http://149.202.204.239:8000/movie/romaforex/alessand/12682.avi
-#EXTINF:-1,XXX | Guardare
-http://149.202.204.239:8000/movie/romaforex/alessand/12683.avi
-#EXTINF:-1,XXX | Hard Series Top 2
-http://149.202.204.239:8000/movie/romaforex/alessand/6293.mkv
-#EXTINF:-1,XXX | Hard Series Top 3
-http://149.202.204.239:8000/movie/romaforex/alessand/6294.mkv
-#EXTINF:-1,XXX | Hard Series Top 4
-http://149.202.204.239:8000/movie/romaforex/alessand/6295.mkv
-#EXTINF:-1,XXX | Hard Series Top 5
-http://149.202.204.239:8000/movie/romaforex/alessand/6296.mkv
-#EXTINF:-1,XXX | Hard Series Top 6
-http://149.202.204.239:8000/movie/romaforex/alessand/6297.mkv
-#EXTINF:-1,XXX | Hard Series Top 7
-http://149.202.204.239:8000/movie/romaforex/alessand/6298.mkv
-#EXTINF:-1,XXX | Hard Series Top 8
-http://149.202.204.239:8000/movie/romaforex/alessand/6299.mkv
-#EXTINF:-1,XXX | Hard Series Top 9
-http://149.202.204.239:8000/movie/romaforex/alessand/6300.mkv
-#EXTINF:-1,XXX | Hard Series Top 10
-http://149.202.204.239:8000/movie/romaforex/alessand/6289.mkv
-#EXTINF:-1,XXX | Hard Series Top 11
-http://149.202.204.239:8000/movie/romaforex/alessand/6290.mkv
-#EXTINF:-1,XXX | Hard Series Top 12
-http://149.202.204.239:8000/movie/romaforex/alessand/6291.mkv
-#EXTINF:-1,XXX | Hard Series Top 13
-http://149.202.204.239:8000/movie/romaforex/alessand/6292.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 1
-http://149.202.204.239:8000/movie/romaforex/alessand/6301.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 2
-http://149.202.204.239:8000/movie/romaforex/alessand/6312.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 3
-http://149.202.204.239:8000/movie/romaforex/alessand/6316.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 4
-http://149.202.204.239:8000/movie/romaforex/alessand/6317.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 5
-http://149.202.204.239:8000/movie/romaforex/alessand/6318.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 6
-http://149.202.204.239:8000/movie/romaforex/alessand/6319.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 7
-http://149.202.204.239:8000/movie/romaforex/alessand/6320.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 8
-http://149.202.204.239:8000/movie/romaforex/alessand/6321.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 9
-http://149.202.204.239:8000/movie/romaforex/alessand/6322.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 10
-http://149.202.204.239:8000/movie/romaforex/alessand/6302.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 11
-http://149.202.204.239:8000/movie/romaforex/alessand/6303.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 12
-http://149.202.204.239:8000/movie/romaforex/alessand/6304.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 13
-http://149.202.204.239:8000/movie/romaforex/alessand/6305.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 14
-http://149.202.204.239:8000/movie/romaforex/alessand/6306.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 15
-http://149.202.204.239:8000/movie/romaforex/alessand/6307.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 16
-http://149.202.204.239:8000/movie/romaforex/alessand/6308.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 17
-http://149.202.204.239:8000/movie/romaforex/alessand/6309.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 18
-http://149.202.204.239:8000/movie/romaforex/alessand/6310.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 19
-http://149.202.204.239:8000/movie/romaforex/alessand/6311.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 20
-http://149.202.204.239:8000/movie/romaforex/alessand/6313.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 21
-http://149.202.204.239:8000/movie/romaforex/alessand/6314.mkv
-#EXTINF:-1,XXX | Hard Video TOP HD 22
-http://149.202.204.239:8000/movie/romaforex/alessand/6315.mkv
-#EXTINF:-1,XXX | Hardcore Massage 4
-http://149.202.204.239:8000/movie/romaforex/alessand/6405.mkv
-#EXTINF:-1,XXX | hard adolescenti amatoriali
-http://149.202.204.239:8000/movie/romaforex/alessand/12908.avi
-#EXTINF:-1,XXX | Heather Hunter & Brooke Lick ass suck facial
-http://149.202.204.239:8000/movie/romaforex/alessand/20639.avi
-#EXTINF:-1,XXX | hollyood orgies briana banks
-http://149.202.204.239:8000/movie/romaforex/alessand/12909.avi
-#EXTINF:-1,XXX | Hot Asian Miko Lee on Zebra Pattern Bed
-http://149.202.204.239:8000/movie/romaforex/alessand/20640.avi
-#EXTINF:-1,XXX | hot ***y plumpers 8
-http://149.202.204.239:8000/movie/romaforex/alessand/12910.avi
-#EXTINF:-1,XXX | Hotdorix 1999
-http://149.202.204.239:8000/movie/romaforex/alessand/12684.avi
-#EXTINF:-1,XXX | Heibe Schnecken (1979)
-http://149.202.204.239:8000/movie/romaforex/alessand/6330.mkv
-#EXTINF:-1,XXX | Josefine Mutzenbacher
-http://149.202.204.239:8000/movie/romaforex/alessand/6323.mkv
-#EXTINF:-1,XXX | Julchen Und Jettchen 1982
-http://149.202.204.239:8000/movie/romaforex/alessand/6331.mkv
-#EXTINF:-1,XXX | keisha kendra
-http://149.202.204.239:8000/movie/romaforex/alessand/19500.mkv
-#EXTINF:-1,XXX | Kay Parker
-http://149.202.204.239:8000/movie/romaforex/alessand/12709.avi
-#EXTINF:-1,XXX | Knowledge Of My Daughter
-http://149.202.204.239:8000/movie/romaforex/alessand/12710.avi
-#EXTINF:-1,XXX | Kasimir der Kuckuckskleber
-http://149.202.204.239:8000/movie/romaforex/alessand/6332.mkv
-#EXTINF:-1,XXX | Il Mio Sport Preferito e il Cazzo
-http://149.202.204.239:8000/movie/romaforex/alessand/6353.mkv
-#EXTINF:-1,XXX | Il Mio Sport Preferito e il Cazzo (Cento x Cento)
-http://149.202.204.239:8000/movie/romaforex/alessand/6352.mkv
-#EXTINF:-1,XXX | I Peccati Di Mia Moglie Maria Bellucci
-http://149.202.204.239:8000/movie/romaforex/alessand/12685.avi
-#EXTINF:-1,XXX | I Peccati di una Casalinga (Angelica Bella)
-http://149.202.204.239:8000/movie/romaforex/alessand/12686.avi
-#EXTINF:-1,XXX | I Racconti anali di Sofia Gucci
-http://149.202.204.239:8000/movie/romaforex/alessand/12687.avi
-#EXTINF:-1,XXX | Il Cazzo Di Papa
-http://149.202.204.239:8000/movie/romaforex/alessand/12692.avi
-#EXTINF:-1,XXX | Il Convento Di San Crispino 1998 Monica Roccaforte
-http://149.202.204.239:8000/movie/romaforex/alessand/12693.avi
-#EXTINF:-1,XXX | Il figlio e la figlia si consolano in famiglia
-http://149.202.204.239:8000/movie/romaforex/alessand/12700.avi
-#EXTINF:-1,XXX | Il Giardiniere Desiderio Carnale
-http://149.202.204.239:8000/movie/romaforex/alessand/12694.avi
-#EXTINF:-1,XXX | Il Leghista
-http://149.202.204.239:8000/movie/romaforex/alessand/12695.avi
-#EXTINF:-1,XXX | Il Mostro Dell'Autostrada Napoli Roma
-http://149.202.204.239:8000/movie/romaforex/alessand/20520.avi
-#EXTINF:-1,XXX | Il Perverso mondo delle miss Mario Salieri
-http://149.202.204.239:8000/movie/romaforex/alessand/20521.avi
-#EXTINF:-1,XXX | Il.Pesce.Magico(*****.Con.Anita.Blond)
-http://149.202.204.239:8000/movie/romaforex/alessand/20522.avi
-#EXTINF:-1,XXX | Il Lupo E L'agnello Erika Bella
-http://149.202.204.239:8000/movie/romaforex/alessand/12696.avi
-#EXTINF:-1,XXX | IL Medico di Fiducia di Mamma
-http://149.202.204.239:8000/movie/romaforex/alessand/12690.avi
-#EXTINF:-1,XXX | Il nonno con jessica fiorentino
-http://149.202.204.239:8000/movie/romaforex/alessand/12701.avi
-#EXTINF:-1,XXX | Il Padre Padrone
-http://149.202.204.239:8000/movie/romaforex/alessand/12697.avi
-#EXTINF:-1,XXX | Il Pavone Nero Samantha Star (1974)
-http://149.202.204.239:8000/movie/romaforex/alessand/12698.avi
-#EXTINF:-1,XXX | Il respiro del diavolo
-http://149.202.204.239:8000/movie/romaforex/alessand/12702.avi
-#EXTINF:-1,XXX | Il Triangolo No Evita Pozzi
-http://149.202.204.239:8000/movie/romaforex/alessand/12699.avi
-#EXTINF:-1,XXX | Il.Complesso.Di.Edipo
-http://149.202.204.239:8000/movie/romaforex/alessand/12703.avi
-#EXTINF:-1,XXX | In Campagna Con Papa E Mamma
-http://149.202.204.239:8000/movie/romaforex/alessand/12705.avi
-#EXTINF:-1,XXX | In Nome Del Padre Grazie Nonno
-http://149.202.204.239:8000/movie/romaforex/alessand/12706.avi
-#EXTINF:-1,XXX | in.anal.sluts.we.trust
-http://149.202.204.239:8000/movie/romaforex/alessand/13104.mp4
-#EXTINF:-1,XXX | Incesti Andy Casanova Stupri Italiani 12
-http://149.202.204.239:8000/movie/romaforex/alessand/12707.avi
-#EXTINF:-1,XXX | I Vizi Delle Collegiali
-http://149.202.204.239:8000/movie/romaforex/alessand/12688.avi
-#EXTINF:-1,XXX | I vizi di una infermiera
-http://149.202.204.239:8000/movie/romaforex/alessand/12689.avi
-#EXTINF:-1,XXX | INTRIGO A CORTINA
-http://149.202.204.239:8000/movie/romaforex/alessand/12691.avi
-#EXTINF:-1,XXX | Ita ***** Vecchie Usa
-http://149.202.204.239:8000/movie/romaforex/alessand/12708.avi
-#EXTINF:-1,XXX | Inferior ***
-http://149.202.204.239:8000/movie/romaforex/alessand/6406.mkv
-#EXTINF:-1,XXX | Jenna haze imitating Paris Hilton *** Tape
-http://149.202.204.239:8000/movie/romaforex/alessand/20645.avi
-#EXTINF:-1,XXX | Jenna Presley Barely Legal 55 (2006)
-http://149.202.204.239:8000/movie/romaforex/alessand/20526.avi
-#EXTINF:-1,XXX | Jessica Simpson ***** Sucking her newlyweds cock
-http://149.202.204.239:8000/movie/romaforex/alessand/20646.avi
-#EXTINF:-1,XXX | jill kelly jill kelly virtual *** full version
-http://149.202.204.239:8000/movie/romaforex/alessand/20602.avi
-#EXTINF:-1,XXX | Kate's Playground Polka Dot
-http://149.202.204.239:8000/movie/romaforex/alessand/20648.avi
-#EXTINF:-1,XXX | Kate's Playground The Chair
-http://149.202.204.239:8000/movie/romaforex/alessand/20649.avi
-#EXTINF:-1,XXX | Kate's Playground Wicked Weasel Bikini Outside
-http://149.202.204.239:8000/movie/romaforex/alessand/20651.avi
-#EXTINF:-1,XXX | Kates Playground - The Nurse
-http://149.202.204.239:8000/movie/romaforex/alessand/20652.avi
-#EXTINF:-1,XXX | Kates Playground I Luv Nn Lover Kate-Vid-011
-http://149.202.204.239:8000/movie/romaforex/alessand/20527.avi
-#EXTINF:-1,XXX | Keri Sable - Deep Throat This 23
-http://149.202.204.239:8000/movie/romaforex/alessand/20654.avi
-#EXTINF:-1,XXX | Keri Sable - Jailbait
-http://149.202.204.239:8000/movie/romaforex/alessand/20656.avi
-#EXTINF:-1,XXX | Keri Sable - *** in the Shower
-http://149.202.204.239:8000/movie/romaforex/alessand/20657.avi
-#EXTINF:-1,XXX | Keri Sable - Teenage Spermaholics 3
-http://149.202.204.239:8000/movie/romaforex/alessand/20658.avi
-#EXTINF:-1,XXX | Keri Sable - Who'S Your Daddy 6 - Scene 3
-http://149.202.204.239:8000/movie/romaforex/alessand/20659.avi
-#EXTINF:-1,XXX | Keri Sable Fine Ass Babes 2
-http://149.202.204.239:8000/movie/romaforex/alessand/20660.avi
-#EXTINF:-1,XXX | Krystal Steal - First Time
-http://149.202.204.239:8000/movie/romaforex/alessand/20528.avi
-#EXTINF:-1,XXX | Krystal Steal Clubbin
-http://149.202.204.239:8000/movie/romaforex/alessand/20661.avi
-#EXTINF:-1,XXX | L'Armata Della CentoxCento
-http://149.202.204.239:8000/movie/romaforex/alessand/21137.mp4
-#EXTINF:-1,XXX | La Moglie Schiava
-http://149.202.204.239:8000/movie/romaforex/alessand/20662.avi
-#EXTINF:-1,XXX | La Saga Di Concetta Licata CD1
-http://149.202.204.239:8000/movie/romaforex/alessand/20529.avi
-#EXTINF:-1,XXX | La Saga Di Concetta Licata Cd3
-http://149.202.204.239:8000/movie/romaforex/alessand/20663.avi
-#EXTINF:-1,XXX | Lannie Barbie Brunob
-http://149.202.204.239:8000/movie/romaforex/alessand/20664.avi
-#EXTINF:-1,XXX | L'*****era Figlio Del Mio Amante
-http://149.202.204.239:8000/movie/romaforex/alessand/12713.avi
-#EXTINF:-1,XXX | Latin slut sucking a big chocolate bar
-http://149.202.204.239:8000/movie/romaforex/alessand/19511.mp4
-#EXTINF:-1,XXX | L'amico.di.mio.Figlio
-http://149.202.204.239:8000/movie/romaforex/alessand/12714.avi
-#EXTINF:-1,XXX | l'avvoxata del diavolo
-http://149.202.204.239:8000/movie/romaforex/alessand/12912.avi
-#EXTINF:-1,XXX | Le Piu Belle del Troiame
-http://149.202.204.239:8000/movie/romaforex/alessand/20530.avi
-#EXTINF:-1,XXX | Leanni Lei Young Asian Anal
-http://149.202.204.239:8000/movie/romaforex/alessand/20531.avi
-#EXTINF:-1,XXX | Lex the Impaler & Adriana Sage
-http://149.202.204.239:8000/movie/romaforex/alessand/20665.avi
-#EXTINF:-1,XXX | l'educatrice con milly d'abbraccio
-http://149.202.204.239:8000/movie/romaforex/alessand/12913.avi
-#EXTINF:-1,XXX | l'edukatrice
-http://149.202.204.239:8000/movie/romaforex/alessand/12914.avi
-#EXTINF:-1,XXX | L'indulto Ma Si Ti Diro
-http://149.202.204.239:8000/movie/romaforex/alessand/12715.avi
-#EXTINF:-1,XXX | L'indulto Ma Si Ti Diro il Medico Del C
-http://149.202.204.239:8000/movie/romaforex/alessand/12716.avi
-#EXTINF:-1,XXX | L'Insegnante di Sostegno Irrimediabilmente porca
-http://149.202.204.239:8000/movie/romaforex/alessand/12711.avi
-#EXTINF:-1,XXX | L'Odore dei Soldi
-http://149.202.204.239:8000/movie/romaforex/alessand/12712.avi
-#EXTINF:-1,XXX | La Bambola Dillo che ti piace
-http://149.202.204.239:8000/movie/romaforex/alessand/12719.avi
-#EXTINF:-1,XXX | La Benzinaia Ha Fatto Il Pieno Veronica Belli
-http://149.202.204.239:8000/movie/romaforex/alessand/12720.avi
-#EXTINF:-1,XXX | La Casta Elena Grimaldi Valentina Canali
-http://149.202.204.239:8000/movie/romaforex/alessand/12721.avi
-#EXTINF:-1,XXX | La donna dei sogni Borgia Luana
-http://149.202.204.239:8000/movie/romaforex/alessand/12734.avi
-#EXTINF:-1,XXX | La donna di mio padre
-http://149.202.204.239:8000/movie/romaforex/alessand/12735.avi
-#EXTINF:-1,XXX | La Dottoressa Del Pisello
-http://149.202.204.239:8000/movie/romaforex/alessand/12580.avi
-#EXTINF:-1,XXX | LA GRANDE MAIALATA ALESSANDRA SCHIAVO
-http://149.202.204.239:8000/movie/romaforex/alessand/12579.avi
-#EXTINF:-1,XXX | La Storia del Postino e della Ricca Ereditiera Rita Swiss
-http://149.202.204.239:8000/movie/romaforex/alessand/12590.avi
-#EXTINF:-1,XXX | La Famiglia Perfetta
-http://149.202.204.239:8000/movie/romaforex/alessand/12723.avi
-#EXTINF:-1,XXX | La Badante del Cazzo
-http://149.202.204.239:8000/movie/romaforex/alessand/6354.mkv
-#EXTINF:-1,XXX | La Clinica Della Vergogna (Selen)
-http://149.202.204.239:8000/movie/romaforex/alessand/6355.mkv
-#EXTINF:-1,XXX | La Saga di concetta licata (Selen)
-http://149.202.204.239:8000/movie/romaforex/alessand/6356.mkv
-#EXTINF:-1,XXX | Le ***** monelle
-http://149.202.204.239:8000/movie/romaforex/alessand/6357.mkv
-#EXTINF:-1,XXX | La Liceale.L'infermiera.Amore Di Madre
-http://149.202.204.239:8000/movie/romaforex/alessand/12724.avi
-#EXTINF:-1,XXX | La Locandiera
-http://149.202.204.239:8000/movie/romaforex/alessand/12725.avi
-#EXTINF:-1,XXX | LA MASCHERA DELLA PERVERSIONE
-http://149.202.204.239:8000/movie/romaforex/alessand/12718.avi
-#EXTINF:-1,XXX | La Moglie Giovane Asia Morante
-http://149.202.204.239:8000/movie/romaforex/alessand/12726.avi
-#EXTINF:-1,XXX | la moglie più troia
-http://149.202.204.239:8000/movie/romaforex/alessand/12915.avi
-#EXTINF:-1,XXX | La Monaca di Monza
-http://149.202.204.239:8000/movie/romaforex/alessand/12727.avi
-#EXTINF:-1,XXX | la paziente insaziabile
-http://149.202.204.239:8000/movie/romaforex/alessand/12917.avi
-#EXTINF:-1,XXX | la professoressa di lingue
-http://149.202.204.239:8000/movie/romaforex/alessand/12918.avi
-#EXTINF:-1,XXX | La Segretaria Nilia Mendez Simona Cavalli
-http://149.202.204.239:8000/movie/romaforex/alessand/12728.avi
-#EXTINF:-1,XXX | La Serva Altre
-http://149.202.204.239:8000/movie/romaforex/alessand/12729.avi
-#EXTINF:-1,XXX | La Siciliana Maria Loren
-http://149.202.204.239:8000/movie/romaforex/alessand/12730.avi
-#EXTINF:-1,XXX | La Signora Per Bene Rocco Siffredi
-http://149.202.204.239:8000/movie/romaforex/alessand/12731.avi
-#EXTINF:-1,XXX | La Vedova Incallita Anita Dark
-http://149.202.204.239:8000/movie/romaforex/alessand/12732.avi
-#EXTINF:-1,XXX | La Venditrice Porta a Porta Selenadova Sara Mei
-http://149.202.204.239:8000/movie/romaforex/alessand/12733.avi
-#EXTINF:-1,XXX | Laura Angel Silvia Saint
-http://149.202.204.239:8000/movie/romaforex/alessand/12736.avi
-#EXTINF:-1,XXX | Layout CD2 Briana Banks Penny Flame
-http://149.202.204.239:8000/movie/romaforex/alessand/12737.avi
-#EXTINF:-1,XXX | Le avventure di Monella e la sua famiglia
-http://149.202.204.239:8000/movie/romaforex/alessand/12744.avi
-#EXTINF:-1,XXX | Le Donne Di Mandingo (1992)
-http://149.202.204.239:8000/movie/romaforex/alessand/12738.avi
-#EXTINF:-1,XXX | Le Due Bocche.. Di Marina 1985
-http://149.202.204.239:8000/movie/romaforex/alessand/12739.avi
-#EXTINF:-1,XXX | Le Fighette Di Diva Futura
-http://149.202.204.239:8000/movie/romaforex/alessand/12740.avi
-#EXTINF:-1,XXX | Le Palle Di Babbo Natale
-http://149.202.204.239:8000/movie/romaforex/alessand/12741.avi
-#EXTINF:-1,XXX | Le Passioni Di Donna Carmela
-http://149.202.204.239:8000/movie/romaforex/alessand/12742.avi
-#EXTINF:-1,XXX | Le Reclute amatoriali
-http://149.202.204.239:8000/movie/romaforex/alessand/12743.avi
-#EXTINF:-1,XXX | Le sporche storie
-http://149.202.204.239:8000/movie/romaforex/alessand/12745.avi
-#EXTINF:-1,XXX | Lezione di piano 1997 Erika Bella
-http://149.202.204.239:8000/movie/romaforex/alessand/12747.avi
-#EXTINF:-1,XXX | Lezioni private Elena Grimaldi
-http://149.202.204.239:8000/movie/romaforex/alessand/12748.avi
-#EXTINF:-1,XXX | Marc Dorcel Labyrinthe
-http://149.202.204.239:8000/movie/romaforex/alessand/20533.avi
-#EXTINF:-1,XXX | Marc Dorcel Noces Echangistes
-http://149.202.204.239:8000/movie/romaforex/alessand/20534.avi
-#EXTINF:-1,XXX | Marc Dorcel Tout Le Monde
-http://149.202.204.239:8000/movie/romaforex/alessand/20535.avi
-#EXTINF:-1,XXX | Mario Salieri - Stupri Gallery
-http://149.202.204.239:8000/movie/romaforex/alessand/20536.avi
-#EXTINF:-1,XXX | Mario Salieri Draghixa
-http://149.202.204.239:8000/movie/romaforex/alessand/20537.avi
-#EXTINF:-1,XXX | Maureen Round And Brown Ebony Teen ***
-http://149.202.204.239:8000/movie/romaforex/alessand/20668.avi
-#EXTINF:-1,XXX | Madre.Coraggio.Angela Gritti
-http://149.202.204.239:8000/movie/romaforex/alessand/12752.avi
-#EXTINF:-1,XXX | Madri e Figli
-http://149.202.204.239:8000/movie/romaforex/alessand/12753.avi
-#EXTINF:-1,XXX | Mamma Cara
-http://149.202.204.239:8000/movie/romaforex/alessand/12754.avi
-#EXTINF:-1,XXX | Mamma papa mi scopa
-http://149.202.204.239:8000/movie/romaforex/alessand/12756.avi
-#EXTINF:-1,XXX | Mamma Papa mi Tocca e a me mi piace
-http://149.202.204.239:8000/movie/romaforex/alessand/12755.avi
-#EXTINF:-1,XXX | Mamme Assetate
-http://149.202.204.239:8000/movie/romaforex/alessand/12757.avi
-#EXTINF:-1,XXX | Mamme Italiane Angela Gritti
-http://149.202.204.239:8000/movie/romaforex/alessand/12758.avi
-#EXTINF:-1,XXX | Manya Calda Pioggia Di Sesso 1989
-http://149.202.204.239:8000/movie/romaforex/alessand/12759.avi
-#EXTINF:-1,XXX | Marc Dorcel Erections Moana
-http://149.202.204.239:8000/movie/romaforex/alessand/12760.avi
-#EXTINF:-1,XXX | Marina La Ninfomane Rocco Siffredi
-http://149.202.204.239:8000/movie/romaforex/alessand/12761.avi
-#EXTINF:-1,XXX | Maturita Anale Venere Bianca
-http://149.202.204.239:8000/movie/romaforex/alessand/12763.avi
-#EXTINF:-1,XXX | Meet Alexa Nasha
-http://149.202.204.239:8000/movie/romaforex/alessand/19510.mp4
-#EXTINF:-1,XXX | Meglio Il Cazzo Di Papa (Barbara Gandalf)
-http://149.202.204.239:8000/movie/romaforex/alessand/12764.avi
-#EXTINF:-1,XXX | MENTE CRIMINALE CON EDELWEISS
-http://149.202.204.239:8000/movie/romaforex/alessand/12750.avi
-#EXTINF:-1,XXX | Mia Moglie Alice Ricci
-http://149.202.204.239:8000/movie/romaforex/alessand/12765.avi
-#EXTINF:-1,XXX | Mia sorella Alice
-http://149.202.204.239:8000/movie/romaforex/alessand/12766.avi
-#EXTINF:-1,XXX | MILLY D'ABBRACCIO UNA FAMIGLIA PER PENE
-http://149.202.204.239:8000/movie/romaforex/alessand/12751.avi
-#EXTINF:-1,XXX | Mio Marito Mi Trascura Monica Desideri
-http://149.202.204.239:8000/movie/romaforex/alessand/12767.avi
-#EXTINF:-1,XXX | Mio Padre E' Un Boss Valentina Canali
-http://149.202.204.239:8000/movie/romaforex/alessand/12768.avi
-#EXTINF:-1,XXX | Mio Padre tiranno e padrone
-http://149.202.204.239:8000/movie/romaforex/alessand/12769.avi
-#EXTINF:-1,XXX | moana pozzi e cicciolina ai mondiali
-http://149.202.204.239:8000/movie/romaforex/alessand/12919.avi
-#EXTINF:-1,XXX | moglie amante puttana
-http://149.202.204.239:8000/movie/romaforex/alessand/12921.avi
-#EXTINF:-1,XXX | moms.bang.teens.2
-http://149.202.204.239:8000/movie/romaforex/alessand/12922.avi
-#EXTINF:-1,XXX | Monica Roccaforte incesto
-http://149.202.204.239:8000/movie/romaforex/alessand/12771.avi
-#EXTINF:-1,XXX | monique alexander
-http://149.202.204.239:8000/movie/romaforex/alessand/19495.mkv
-#EXTINF:-1,XXX | moralità corrotta elena grimaldi
-http://149.202.204.239:8000/movie/romaforex/alessand/12923.avi
-#EXTINF:-1,XXX | Multi orgasmic Masseuse
-http://149.202.204.239:8000/movie/romaforex/alessand/19509.mp4
-#EXTINF:-1,XXX | My Teenage Anal Diary
-http://149.202.204.239:8000/movie/romaforex/alessand/12772.avi
-#EXTINF:-1,XXX | Mia Khalifa
-http://149.202.204.239:8000/movie/romaforex/alessand/6358.mkv
-#EXTINF:-1,XXX | Mia Khalifa Big Tit Brunette Enjoys Hard Cock
-http://149.202.204.239:8000/movie/romaforex/alessand/6324.mkv
-#EXTINF:-1,XXX | Mia Khalifa Double D Poolside Fuck
-http://149.202.204.239:8000/movie/romaforex/alessand/6325.mkv
-#EXTINF:-1,XXX | Mia Khalifa Her First ***** She Made
-http://149.202.204.239:8000/movie/romaforex/alessand/6326.mkv
-#EXTINF:-1,XXX | Mia Khalifa Pounding Mia Khalifa!
-http://149.202.204.239:8000/movie/romaforex/alessand/6327.mkv
-#EXTINF:-1,XXX | Mia Khalifa Temporary Dates 2
-http://149.202.204.239:8000/movie/romaforex/alessand/6328.mkv
-#EXTINF:-1,XXX | Miley Mae
-http://149.202.204.239:8000/movie/romaforex/alessand/6359.mkv
-#EXTINF:-1,XXX | MILF Maneaters & College Carnivores
-http://149.202.204.239:8000/movie/romaforex/alessand/6407.mkv
-#EXTINF:-1,XXX | Mr Big Dicks Hot Chicks
-http://149.202.204.239:8000/movie/romaforex/alessand/20671.avi
-#EXTINF:-1,XXX | my first *** teacher - my friends hot mom - baby sitter
-http://149.202.204.239:8000/movie/romaforex/alessand/20716.avi
-#EXTINF:-1,XXX | My Friends Hot Mom - Ava Devine#4
-http://149.202.204.239:8000/movie/romaforex/alessand/20672.avi
-#EXTINF:-1,XXX | my friends hot mom - taylor rain
-http://149.202.204.239:8000/movie/romaforex/alessand/20717.avi
-#EXTINF:-1,XXX | My Sister's Hot Friend Jasmine Byrne
-http://149.202.204.239:8000/movie/romaforex/alessand/20674.avi
-#EXTINF:-1,XXX | mkn-rsfpov15_scene1
-http://149.202.204.239:8000/movie/romaforex/alessand/6372.mkv
-#EXTINF:-1,XXX | mkn-rsfpov15_scene2
-http://149.202.204.239:8000/movie/romaforex/alessand/6373.mkv
-#EXTINF:-1,XXX | mkn-rsfpov15_scene3
-http://149.202.204.239:8000/movie/romaforex/alessand/6374.mkv
-#EXTINF:-1,XXX | mkn-rsfpov15_scene4
-http://149.202.204.239:8000/movie/romaforex/alessand/6375.mkv
-#EXTINF:-1,XXX | mkn-rsfpov15_scene5
-http://149.202.204.239:8000/movie/romaforex/alessand/6376.mkv
-#EXTINF:-1,XXX | mkn-rsfpov15_scene6
-http://149.202.204.239:8000/movie/romaforex/alessand/6377.mkv
-#EXTINF:-1,XXX | Nautica Thorn Blowjob Fantasies
-http://149.202.204.239:8000/movie/romaforex/alessand/20680.avi
-#EXTINF:-1,XXX | Naked *** Dance 4
-http://149.202.204.239:8000/movie/romaforex/alessand/6408.mkv
-#EXTINF:-1,XXX | Nero Familiare
-http://149.202.204.239:8000/movie/romaforex/alessand/12774.avi
-#EXTINF:-1,XXX | Negra scopata dal produttore di film *****
-http://149.202.204.239:8000/movie/romaforex/alessand/20552.avi
-#EXTINF:-1,XXX | Neighbor Affair Shyla Stylez
-http://149.202.204.239:8000/movie/romaforex/alessand/20681.avi
-#EXTINF:-1,XXX | NINA MERCEDEZ LATINA ANAL HEARTBREAKERS
-http://149.202.204.239:8000/movie/romaforex/alessand/12773.avi
-#EXTINF:-1,XXX | Niki Belucci (Anal)
-http://149.202.204.239:8000/movie/romaforex/alessand/20556.avi
-#EXTINF:-1,XXX | Non dirlo a papa 2010
-http://149.202.204.239:8000/movie/romaforex/alessand/12775.avi
-#EXTINF:-1,XXX | Not What You Expect
-http://149.202.204.239:8000/movie/romaforex/alessand/6409.mkv
-#EXTINF:-1,XXX | NORTH POLE 49 - Teagan Presley& Peter North
-http://149.202.204.239:8000/movie/romaforex/alessand/20678.avi
-#EXTINF:-1,XXX | Off-Peak Action
-http://149.202.204.239:8000/movie/romaforex/alessand/6410.mkv
-#EXTINF:-1,XXX | One For The Back
-http://149.202.204.239:8000/movie/romaforex/alessand/6329.mkv
-#EXTINF:-1,XXX | Orgasmi A Venezia
-http://149.202.204.239:8000/movie/romaforex/alessand/12776.avi
-#EXTINF:-1,XXX | Orient Express (Anita Blond)
-http://149.202.204.239:8000/movie/romaforex/alessand/20560.avi
-#EXTINF:-1,XXX | p- pl-crfu6
-http://149.202.204.239:8000/movie/romaforex/alessand/6423.mkv
-#EXTINF:-1,XXX | Padre Padrone Con Roberto Malone
-http://149.202.204.239:8000/movie/romaforex/alessand/12780.avi
-#EXTINF:-1,XXX | papa che scopa con la figlia
-http://149.202.204.239:8000/movie/romaforex/alessand/12924.avi
-#EXTINF:-1,XXX | Paternità
-http://149.202.204.239:8000/movie/romaforex/alessand/12781.avi
-#EXTINF:-1,XXX | ******* Pamela Kobe Tai
-http://149.202.204.239:8000/movie/romaforex/alessand/20563.avi
-#EXTINF:-1,XXX | Penetrating Teenage Pussy (2013)
-http://149.202.204.239:8000/movie/romaforex/alessand/13096.mp4
-#EXTINF:-1,XXX | Perversioni Confidenziali
-http://149.202.204.239:8000/movie/romaforex/alessand/20561.avi
-#EXTINF:-1,XXX | Pensavo Fosse un Gioco
-http://149.202.204.239:8000/movie/romaforex/alessand/12782.avi
-#EXTINF:-1,XXX | Please Cum Inside Me 7
-http://149.202.204.239:8000/movie/romaforex/alessand/20685.avi
-#EXTINF:-1,XXX | plib rachel rox
-http://149.202.204.239:8000/movie/romaforex/alessand/19499.mkv
-#EXTINF:-1,XXX | Pick Up Lines 83
-http://149.202.204.239:8000/movie/romaforex/alessand/20562.avi
-#EXTINF:-1,XXX | Pierino e la mestra con Michelle
-http://149.202.204.239:8000/movie/romaforex/alessand/12783.avi
-#EXTINF:-1,XXX | Pigitalia Mamma Che Fai Pamela Lolli
-http://149.202.204.239:8000/movie/romaforex/alessand/12784.avi
-#EXTINF:-1,XXX | PINKO HOT CHIC
-http://149.202.204.239:8000/movie/romaforex/alessand/12778.avi
-#EXTINF:-1,XXX | Pippi e i cazzi lunghi
-http://149.202.204.239:8000/movie/romaforex/alessand/12785.avi
-#EXTINF:-1,XXX | Pizza a domicilio.Marito guardone.Il barbone
-http://149.202.204.239:8000/movie/romaforex/alessand/12786.avi
-#EXTINF:-1,XXX | pl-fucktory
-http://149.202.204.239:8000/movie/romaforex/alessand/13105.mp4
-#EXTINF:-1,XXX | Playing With Fire 1983
-http://149.202.204.239:8000/movie/romaforex/alessand/12787.avi
-#EXTINF:-1,XXX | Porca Pelosa
-http://149.202.204.239:8000/movie/romaforex/alessand/12788.avi
-#EXTINF:-1,XXX | Porcate in famiglia
-http://149.202.204.239:8000/movie/romaforex/alessand/12789.avi
-#EXTINF:-1,XXX | ***** amatoriale.Coppia siciliana malati mentali di sesso
-http://149.202.204.239:8000/movie/romaforex/alessand/12791.avi
-#EXTINF:-1,XXX | ***** Famiglie Italiane
-http://149.202.204.239:8000/movie/romaforex/alessand/12790.avi
-#EXTINF:-1,XXX | phoenix marie
-http://149.202.204.239:8000/movie/romaforex/alessand/19501.mkv
-#EXTINF:-1,XXX | Prendimi Equa Italia
-http://149.202.204.239:8000/movie/romaforex/alessand/12793.avi
-#EXTINF:-1,XXX | priscila *****chic 6
-http://149.202.204.239:8000/movie/romaforex/alessand/12927.avi
-#EXTINF:-1,XXX | Privat Teacher (1983)
-http://149.202.204.239:8000/movie/romaforex/alessand/13109.mkv
-#EXTINF:-1,XXX | private stars con nikky anderson
-http://149.202.204.239:8000/movie/romaforex/alessand/12928.avi
-#EXTINF:-1,XXX | Priscila Fièvre Au Peep Show Marc Dorcel
-http://149.202.204.239:8000/movie/romaforex/alessand/20565.avi
-#EXTINF:-1,XXX | Private Cumshot Deluxe 2
-http://149.202.204.239:8000/movie/romaforex/alessand/20566.avi
-#EXTINF:-1,XXX | Private Penthause 10
-http://149.202.204.239:8000/movie/romaforex/alessand/20686.avi
-#EXTINF:-1,XXX | Private Penthouse Blonds on Fire
-http://149.202.204.239:8000/movie/romaforex/alessand/20567.avi
-#EXTINF:-1,XXX | Private The Best Of Tera Patrick
-http://149.202.204.239:8000/movie/romaforex/alessand/20687.avi
-#EXTINF:-1,XXX | PrivatePirateHells
-http://149.202.204.239:8000/movie/romaforex/alessand/20569.avi
-#EXTINF:-1,XXX | Private Teacher Kay Parker 1984
-http://149.202.204.239:8000/movie/romaforex/alessand/12794.avi
-#EXTINF:-1,XXX | Pompini Eva Henger Selen Rocco Siffredi
-http://149.202.204.239:8000/movie/romaforex/alessand/20564.avi
-#EXTINF:-1,XXX | Profumo di Zia
-http://149.202.204.239:8000/movie/romaforex/alessand/12795.avi
-#EXTINF:-1,XXX | Prova A Prendermi 2004
-http://149.202.204.239:8000/movie/romaforex/alessand/12796.avi
-#EXTINF:-1,XXX | Prostituzione a Domicilio Selen (ITA)
-http://149.202.204.239:8000/movie/romaforex/alessand/20688.avi
-#EXTINF:-1,XXX | Provocazioni Maria Bellucci
-http://149.202.204.239:8000/movie/romaforex/alessand/12797.avi
-#EXTINF:-1,XXX | psdontfuck
-http://149.202.204.239:8000/movie/romaforex/alessand/13106.mp4
-#EXTINF:-1,XXX | puzzole alla riscossa
-http://149.202.204.239:8000/movie/romaforex/alessand/12929.avi
-#EXTINF:-1,XXX | Puta Jenna Haze Huge Anal Teen (64)
-http://149.202.204.239:8000/movie/romaforex/alessand/20689.avi
-#EXTINF:-1,XXX | Perfect Slaves #4
-http://149.202.204.239:8000/movie/romaforex/alessand/6360.mkv
-#EXTINF:-1,XXX | Perversa e Puttana
-http://149.202.204.239:8000/movie/romaforex/alessand/6389.mkv
-#EXTINF:-1,XXX | pl-ansusl2
-http://149.202.204.239:8000/movie/romaforex/alessand/6378.mkv
-#EXTINF:-1,XXX | pl-chanat4
-http://149.202.204.239:8000/movie/romaforex/alessand/6379.mkv
-#EXTINF:-1,XXX | pl-slohea6
-http://149.202.204.239:8000/movie/romaforex/alessand/6380.mkv
-#EXTINF:-1,XXX | pl-tuvid1
-http://149.202.204.239:8000/movie/romaforex/alessand/6381.mkv
-#EXTINF:-1,XXX | pl.lovinit
-http://149.202.204.239:8000/movie/romaforex/alessand/6382.mkv
-#EXTINF:-1,XXX | Pompini golosi..... orgasmi lussuosi
-http://149.202.204.239:8000/movie/romaforex/alessand/6361.mkv
-#EXTINF:-1,XXX | *****1
-http://149.202.204.239:8000/movie/romaforex/alessand/6424.mkv
-#EXTINF:-1,XXX | *****2
-http://149.202.204.239:8000/movie/romaforex/alessand/6425.mkv
-#EXTINF:-1,XXX | *****3
-http://149.202.204.239:8000/movie/romaforex/alessand/6426.mkv
-#EXTINF:-1,XXX | *****4
-http://149.202.204.239:8000/movie/romaforex/alessand/6427.mkv
-#EXTINF:-1,XXX | Pride Gets in the Way
-http://149.202.204.239:8000/movie/romaforex/alessand/6411.mkv
-#EXTINF:-1,XXX | quel bruto di mio fratello
-http://149.202.204.239:8000/movie/romaforex/alessand/12930.avi
-#EXTINF:-1,XXX | Quel Gran Cazzone di Mio Figlio
-http://149.202.204.239:8000/movie/romaforex/alessand/12798.avi
-#EXTINF:-1,XXX | Quella Santa Di Nostra Mamma
-http://149.202.204.239:8000/movie/romaforex/alessand/12799.avi
-#EXTINF:-1,XXX |  rachel roxxx04
-http://149.202.204.239:8000/movie/romaforex/alessand/19506.mp4
-#EXTINF:-1,XXX | rave gloryhole 15
-http://149.202.204.239:8000/movie/romaforex/alessand/20603.avi
-#EXTINF:-1,XXX | Raven Riley At The Pool Getting It On
-http://149.202.204.239:8000/movie/romaforex/alessand/20570.avi
-#EXTINF:-1,XXX | Raven Riley Fleshlight Hardcore Fun
-http://149.202.204.239:8000/movie/romaforex/alessand/20571.avi
-#EXTINF:-1,XXX | Raven Riley Fuck Me I Am Famous
-http://149.202.204.239:8000/movie/romaforex/alessand/20572.avi
-#EXTINF:-1,XXX | Raven Riley gettin fucked
-http://149.202.204.239:8000/movie/romaforex/alessand/20691.avi
-#EXTINF:-1,XXX | Raven RileyArmy Dress Fuck
-http://149.202.204.239:8000/movie/romaforex/alessand/20577.avi
-#EXTINF:-1,XXX | Ragazzine Vogliose 18 Anni Scopate E Inculate
-http://149.202.204.239:8000/movie/romaforex/alessand/12801.avi
-#EXTINF:-1,XXX | Ragazzo mio 2 Andy Casanova *****
-http://149.202.204.239:8000/movie/romaforex/alessand/12802.avi
-#EXTINF:-1,XXX | regina della notte con kelly trump
-http://149.202.204.239:8000/movie/romaforex/alessand/12931.avi
-#EXTINF:-1,XXX | Relazioni perverse nella scuola del peccato Vanessa Jordan
-http://149.202.204.239:8000/movie/romaforex/alessand/12803.avi
-#EXTINF:-1,XXX | Revenge
-http://149.202.204.239:8000/movie/romaforex/alessand/12805.avi
-#EXTINF:-1,XXX | Revenge 2008
-http://149.202.204.239:8000/movie/romaforex/alessand/12804.avi
-#EXTINF:-1,XXX | Rectal Rooter Krystal Steal & Sunrise Adams
-http://149.202.204.239:8000/movie/romaforex/alessand/20578.avi
-#EXTINF:-1,XXX | Ricatti Sessuali Jessica Rizzo
-http://149.202.204.239:8000/movie/romaforex/alessand/12806.avi
-#EXTINF:-1,XXX | Ricca e borghese
-http://149.202.204.239:8000/movie/romaforex/alessand/12807.avi
-#EXTINF:-1,XXX | Rivelazioni d'Amore Luca Damiano
-http://149.202.204.239:8000/movie/romaforex/alessand/12808.avi
-#EXTINF:-1,XXX | Roberta Missoni Diario di una segretaria
-http://149.202.204.239:8000/movie/romaforex/alessand/12809.avi
-#EXTINF:-1,XXX | Robin Hood (1973)
-http://149.202.204.239:8000/movie/romaforex/alessand/12810.avi
-#EXTINF:-1,XXX | Rocco Siffredi LA ZIA IN CALORE
-http://149.202.204.239:8000/movie/romaforex/alessand/12811.avi
-#EXTINF:-1,XXX | ROSSANA DOLL BELLA DI GIORNO
-http://149.202.204.239:8000/movie/romaforex/alessand/12800.avi
-#EXTINF:-1,XXX | Roy Parsifal Vecchie Zozzone
-http://149.202.204.239:8000/movie/romaforex/alessand/12812.avi
-#EXTINF:-1,XXX | Russian institute lesson 4(1)0
-http://149.202.204.239:8000/movie/romaforex/alessand/12813.avi
-#EXTINF:-1,XXX | Rocco vol.1
-http://149.202.204.239:8000/movie/romaforex/alessand/6383.mkv
-#EXTINF:-1,XXX | Rocco Ed Elio E Le Storie Tese (Rocco Siffredi Anita Blond Anita Dark)
-http://149.202.204.239:8000/movie/romaforex/alessand/20579.avi
-#EXTINF:-1,XXX | Rotta in CuLo che non Sei Altro
-http://149.202.204.239:8000/movie/romaforex/alessand/6391.mkv
-#EXTINF:-1,XXX | Sarah Shevon
-http://149.202.204.239:8000/movie/romaforex/alessand/6363.mkv
-#EXTINF:-1,XXX | Sacri Incesti Italiani
-http://149.202.204.239:8000/movie/romaforex/alessand/12816.avi
-#EXTINF:-1,XXX | Salieri La collezionista
-http://149.202.204.239:8000/movie/romaforex/alessand/12817.avi
-#EXTINF:-1,XXX | saloon kiss con erika bella
-http://149.202.204.239:8000/movie/romaforex/alessand/12932.avi
-#EXTINF:-1,XXX | Sapore di donna Stefania Sartori
-http://149.202.204.239:8000/movie/romaforex/alessand/12819.avi
-#EXTINF:-1,XXX | Scacco alla regina con Eva Henger
-http://149.202.204.239:8000/movie/romaforex/alessand/12820.avi
-#EXTINF:-1,XXX | Scandalo Incestuoso (2012)
-http://149.202.204.239:8000/movie/romaforex/alessand/12821.avi
-#EXTINF:-1,XXX | Scatti E Ricatti Elena Grimaldi
-http://149.202.204.239:8000/movie/romaforex/alessand/12822.avi
-#EXTINF:-1,XXX | Schiava Di Mio Padre
-http://149.202.204.239:8000/movie/romaforex/alessand/12823.avi
-#EXTINF:-1,XXX | Servicing the Capo's son
-http://149.202.204.239:8000/movie/romaforex/alessand/19508.mp4
-#EXTINF:-1,XXX | Se mamma é puttana (incesti)
-http://149.202.204.239:8000/movie/romaforex/alessand/12825.avi
-#EXTINF:-1,XXX | Se Mamma E' Puttana!!!
-http://149.202.204.239:8000/movie/romaforex/alessand/12824.avi
-#EXTINF:-1,XXX | Sei Porco Papa*
-http://149.202.204.239:8000/movie/romaforex/alessand/12826.avi
-#EXTINF:-1,XXX | Selen Lezioni Sul Piano
-http://149.202.204.239:8000/movie/romaforex/alessand/12827.avi
-#EXTINF:-1,XXX | Selen Cuore di pietra
-http://149.202.204.239:8000/movie/romaforex/alessand/20581.avi
-#EXTINF:-1,XXX | Selen in piscina
-http://149.202.204.239:8000/movie/romaforex/alessand/20584.avi
-#EXTINF:-1,XXX | scene 5_jenna presley
-http://149.202.204.239:8000/movie/romaforex/alessand/20604.avi
-#EXTINF:-1,XXX | Secretaires a plein temps
-http://149.202.204.239:8000/movie/romaforex/alessand/20580.avi
-#EXTINF:-1,XXX | *** 12 min Krystal Steal blonde pornstar fingered
-http://149.202.204.239:8000/movie/romaforex/alessand/20694.avi
-#EXTINF:-1,XXX | ***o Con Jasmine Byrne
-http://149.202.204.239:8000/movie/romaforex/alessand/20585.avi
-#EXTINF:-1,XXX | SENZA SCELTA
-http://149.202.204.239:8000/movie/romaforex/alessand/12814.avi
-#EXTINF:-1,XXX | Senza Scrupolo Alcuno Evita PozziValentina Canali
-http://149.202.204.239:8000/movie/romaforex/alessand/12828.avi
-#EXTINF:-1,XXX | Sesso Allo Specchio 1981
-http://149.202.204.239:8000/movie/romaforex/alessand/12829.avi
-#EXTINF:-1,XXX | Sesso Contronatura
-http://149.202.204.239:8000/movie/romaforex/alessand/12830.avi
-#EXTINF:-1,XXX | sesso pericoloso
-http://149.202.204.239:8000/movie/romaforex/alessand/12933.avi
-#EXTINF:-1,XXX | *** Behind The Camera
-http://149.202.204.239:8000/movie/romaforex/alessand/12831.avi
-#EXTINF:-1,XXX | Seymore Butts Banana Splits 2013
-http://149.202.204.239:8000/movie/romaforex/alessand/13097.mp4
-#EXTINF:-1,XXX | Stella Bastarda
-http://149.202.204.239:8000/movie/romaforex/alessand/21139.mp4
-#EXTINF:-1,XXX |  syren de mer
-http://149.202.204.239:8000/movie/romaforex/alessand/19502.mkv
-#EXTINF:-1,XXX | Silvia Saint Pezsgofurdo
-http://149.202.204.239:8000/movie/romaforex/alessand/20588.avi
-#EXTINF:-1,XXX | Silvia Saint PsyChic
-http://149.202.204.239:8000/movie/romaforex/alessand/20589.avi
-#EXTINF:-1,XXX | Shadow Fottimi La Moglie
-http://149.202.204.239:8000/movie/romaforex/alessand/12832.avi
-#EXTINF:-1,XXX | shes.only.1812 slieze
-http://149.202.204.239:8000/movie/romaforex/alessand/13107.mp4
-#EXTINF:-1,XXX | slut school
-http://149.202.204.239:8000/movie/romaforex/alessand/12934.avi
-#EXTINF:-1,XXX | Sofia Gucci Monica Roccaforte
-http://149.202.204.239:8000/movie/romaforex/alessand/12833.avi
-#EXTINF:-1,XXX | Sogni d'oro bimba mia
-http://149.202.204.239:8000/movie/romaforex/alessand/12834.avi
-#EXTINF:-1,XXX | Sorpresa a Venezia Scopata in laguna
-http://149.202.204.239:8000/movie/romaforex/alessand/21138.mp4
-#EXTINF:-1,XXX | Sottomessa Racconti Di Una Segretaria Roberta Missoni 2009
-http://149.202.204.239:8000/movie/romaforex/alessand/12835.avi
-#EXTINF:-1,XXX | sottomessa racconto di una segretaria
-http://149.202.204.239:8000/movie/romaforex/alessand/12935.avi
-#EXTINF:-1,XXX | Spaghetti Connection
-http://149.202.204.239:8000/movie/romaforex/alessand/12836.avi
-#EXTINF:-1,XXX | SPORCHE STORIE
-http://149.202.204.239:8000/movie/romaforex/alessand/12815.avi
-#EXTINF:-1,XXX | Stella Folliero a lui Piacciono Giovani
-http://149.202.204.239:8000/movie/romaforex/alessand/12837.avi
-#EXTINF:-1,XXX | Storie di famiglie modello2
-http://149.202.204.239:8000/movie/romaforex/alessand/12838.avi
-#EXTINF:-1,XXX | Stupri Italiani ricatto passionale
-http://149.202.204.239:8000/movie/romaforex/alessand/12839.avi
-#EXTINF:-1,XXX | Succulent (1984) Annie Sprinkle
-http://149.202.204.239:8000/movie/romaforex/alessand/12840.avi
-#EXTINF:-1,XXX | Susanna cameriera perversa
-http://149.202.204.239:8000/movie/romaforex/alessand/12842.avi
-#EXTINF:-1,XXX | swe6-po5
-http://149.202.204.239:8000/movie/romaforex/alessand/6421.mkv
-#EXTINF:-1,XXX | Sweet.Asian.Dreams
-http://149.202.204.239:8000/movie/romaforex/alessand/12843.avi
-#EXTINF:-1,XXX | Sborra Dimagrante
-http://149.202.204.239:8000/movie/romaforex/alessand/6364.mkv
-#EXTINF:-1,XXX | Sceneggiata Napoletana
-http://149.202.204.239:8000/movie/romaforex/alessand/6384.mkv
-#EXTINF:-1,XXX | Scopate da sballo
-http://149.202.204.239:8000/movie/romaforex/alessand/6392.mkv
-#EXTINF:-1,XXX | Selen Colpi di pennello
-http://149.202.204.239:8000/movie/romaforex/alessand/6365.mkv
-#EXTINF:-1,XXX | Shower Pet
-http://149.202.204.239:8000/movie/romaforex/alessand/6412.mkv
-#EXTINF:-1,XXX | Silvia Saint (Miss Erotica Scene 02)
-http://149.202.204.239:8000/movie/romaforex/alessand/6393.mkv
-#EXTINF:-1,XXX | Silvia Saint (Miss Erotica Scene 04)
-http://149.202.204.239:8000/movie/romaforex/alessand/6394.mkv
-#EXTINF:-1,XXX | Stepmom Videos
-http://149.202.204.239:8000/movie/romaforex/alessand/6395.mkv
-#EXTINF:-1,XXX | StepmomVideos
-http://149.202.204.239:8000/movie/romaforex/alessand/6366.mkv
-#EXTINF:-1,XXX | Sunrise Adams- Blowjob Fantasies 14 s08
-http://149.202.204.239:8000/movie/romaforex/alessand/20592.avi
-#EXTINF:-1,XXX | tatlov-orgyinitation
-http://149.202.204.239:8000/movie/romaforex/alessand/6422.mkv
-#EXTINF:-1,XXX | Taylor Bow skateboard chick
-http://149.202.204.239:8000/movie/romaforex/alessand/20696.avi
-#EXTINF:-1,XXX | Taylor Bow Assjob
-http://149.202.204.239:8000/movie/romaforex/alessand/20697.avi
-#EXTINF:-1,XXX | T17 Tracy Adams Todd
-http://149.202.204.239:8000/movie/romaforex/alessand/12844.avi
-#EXTINF:-1,XXX | Taboo Incest Family
-http://149.202.204.239:8000/movie/romaforex/alessand/12847.avi
-#EXTINF:-1,XXX | Taboo 5 (Cd 1)
-http://149.202.204.239:8000/movie/romaforex/alessand/13110.mkv
-#EXTINF:-1,XXX | Taboo 5 (Cd 2)
-http://149.202.204.239:8000/movie/romaforex/alessand/13111.mkv
-#EXTINF:-1,XXX | taboo 6 nina hartley 1988
-http://149.202.204.239:8000/movie/romaforex/alessand/12936.avi
-#EXTINF:-1,XXX | Taboo 9 [1991 Metro]
-http://149.202.204.239:8000/movie/romaforex/alessand/12850.avi
-#EXTINF:-1,XXX | Taboo American Style
-http://149.202.204.239:8000/movie/romaforex/alessand/12854.avi
-#EXTINF:-1,XXX | taboo american style 1
-http://149.202.204.239:8000/movie/romaforex/alessand/12937.avi
-#EXTINF:-1,XXX | Taboo American Style 1985
-http://149.202.204.239:8000/movie/romaforex/alessand/12851.avi
-#EXTINF:-1,XXX | taboo american style 2
-http://149.202.204.239:8000/movie/romaforex/alessand/13115.mkv
-#EXTINF:-1,XXX | Taboo American Style 3
-http://149.202.204.239:8000/movie/romaforex/alessand/13112.mkv
-#EXTINF:-1,XXX | Taboo American Style 4
-http://149.202.204.239:8000/movie/romaforex/alessand/13113.mkv
-#EXTINF:-1,XXX | Taboo American Style 5
-http://149.202.204.239:8000/movie/romaforex/alessand/12852.avi
-#EXTINF:-1,XXX | Taboo American Style Part 4 1985
-http://149.202.204.239:8000/movie/romaforex/alessand/12853.avi
-#EXTINF:-1,XXX | tarzan x con rocco siffredi
-http://149.202.204.239:8000/movie/romaforex/alessand/12938.avi
-#EXTINF:-1,XXX | Teagan Presley
-http://149.202.204.239:8000/movie/romaforex/alessand/20705.avi
-#EXTINF:-1,XXX | Teagan Presley_Young Pink 6
-http://149.202.204.239:8000/movie/romaforex/alessand/20596.avi
-#EXTINF:-1,XXX | Teen Hitchhikers Keri Sable
-http://149.202.204.239:8000/movie/romaforex/alessand/20706.avi
-#EXTINF:-1,XXX | Tera Patrick Cum Shot Starlets
-http://149.202.204.239:8000/movie/romaforex/alessand/20707.avi
-#EXTINF:-1,XXX | Teradise Island 2 Anal Fever Tera Patrick (gran facial)
-http://149.202.204.239:8000/movie/romaforex/alessand/20598.avi
-#EXTINF:-1,XXX | Teenage Rampage 10
-http://149.202.204.239:8000/movie/romaforex/alessand/13099.mp4
-#EXTINF:-1,XXX | Teenage Twins
-http://149.202.204.239:8000/movie/romaforex/alessand/12855.avi
-#EXTINF:-1,XXX | Teenage.Home.Video.Special.Vol.1.XXX
-http://149.202.204.239:8000/movie/romaforex/alessand/12856.avi
-#EXTINF:-1,XXX | Teenager Junior College
-http://149.202.204.239:8000/movie/romaforex/alessand/12857.avi
-#EXTINF:-1,XXX | Teeny Sportstars 2.DVDRip.XxX
-http://149.202.204.239:8000/movie/romaforex/alessand/13100.mp4
-#EXTINF:-1,XXX | TENTAZIONI PERVERSE DI UNA FAMIGLIA PERBENE
-http://149.202.204.239:8000/movie/romaforex/alessand/12845.avi
-#EXTINF:-1,XXX | The Animal In Me (1985)
-http://149.202.204.239:8000/movie/romaforex/alessand/12858.avi
-#EXTINF:-1,XXX | The Best Facial Cumshot Compilation
-http://149.202.204.239:8000/movie/romaforex/alessand/20709.avi
-#EXTINF:-1,XXX | The Rise Of The Roman Empress 2 1990 Cicciolina
-http://149.202.204.239:8000/movie/romaforex/alessand/12859.avi
-#EXTINF:-1,XXX | The naughty schoolgirl
-http://149.202.204.239:8000/movie/romaforex/alessand/19507.mp4
-#EXTINF:-1,XXX | the_hottest_new_girls
-http://149.202.204.239:8000/movie/romaforex/alessand/13108.mp4
-#EXTINF:-1,XXX | thigs wide shut-cosce chiuse spalancate
-http://149.202.204.239:8000/movie/romaforex/alessand/12939.avi
-#EXTINF:-1,XXX | Ti Entro Nel Culo
-http://149.202.204.239:8000/movie/romaforex/alessand/12860.avi
-#EXTINF:-1,XXX | Ti Odio Mamma Valentina Canali
-http://149.202.204.239:8000/movie/romaforex/alessand/12861.avi
-#EXTINF:-1,XXX | tlib megan rain
-http://149.202.204.239:8000/movie/romaforex/alessand/19496.mkv
-#EXTINF:-1,XXX | Ti presento mia moglie
-http://149.202.204.239:8000/movie/romaforex/alessand/12862.avi
-#EXTINF:-1,XXX | Tight Sweet Teen Pussy 6
-http://149.202.204.239:8000/movie/romaforex/alessand/13101.mp4
-#EXTINF:-1,XXX | Tolleranza Zero Elena Grimaldi
-http://149.202.204.239:8000/movie/romaforex/alessand/12863.avi
-#EXTINF:-1,XXX | Tra Madre e Figlio Metti la Sorella (2009)
-http://149.202.204.239:8000/movie/romaforex/alessand/12864.avi
-#EXTINF:-1,XXX | Tracy Adams Marc Dorcel
-http://149.202.204.239:8000/movie/romaforex/alessand/12865.avi
-#EXTINF:-1,XXX | trasgressioni italiane *****erio Latino
-http://149.202.204.239:8000/movie/romaforex/alessand/12940.avi
-#EXTINF:-1,XXX | TROIE MILANESI
-http://149.202.204.239:8000/movie/romaforex/alessand/12846.avi
-#EXTINF:-1,XXX | tutti dentro
-http://149.202.204.239:8000/movie/romaforex/alessand/12941.avi
-#EXTINF:-1,XXX | Teens Vs MILFs
-http://149.202.204.239:8000/movie/romaforex/alessand/6367.mkv
-#EXTINF:-1,XXX | The Dungeon
-http://149.202.204.239:8000/movie/romaforex/alessand/6413.mkv
-#EXTINF:-1,XXX | The Subject At Hand
-http://149.202.204.239:8000/movie/romaforex/alessand/6414.mkv
-#EXTINF:-1,XXX | Trash Trumps Talent
-http://149.202.204.239:8000/movie/romaforex/alessand/6415.mkv
-#EXTINF:-1,XXX | Two In The Hand
-http://149.202.204.239:8000/movie/romaforex/alessand/6416.mkv
-#EXTINF:-1,XXX | Una Giornata Particolare
-http://149.202.204.239:8000/movie/romaforex/alessand/12581.avi
-#EXTINF:-1,XXX | Un Distretto Di Polizia Molto Particolare
-http://149.202.204.239:8000/movie/romaforex/alessand/12868.avi
-#EXTINF:-1,XXX | Un Papa* Premuroso Veronica Belli
-http://149.202.204.239:8000/movie/romaforex/alessand/12869.avi
-#EXTINF:-1,XXX | Una.Moglie.in.Vendita.(Selen,Anita.Blond,Deborah.Wells)
-http://149.202.204.239:8000/movie/romaforex/alessand/20600.avi
-#EXTINF:-1,XXX | Una zia molto disponibile con jessica rizzo e rossana doll
-http://149.202.204.239:8000/movie/romaforex/alessand/12880.avi
-#EXTINF:-1,XXX | Una Zia Due Nipotine 30 Cm Di Cameriere
-http://149.202.204.239:8000/movie/romaforex/alessand/12877.avi
-#EXTINF:-1,XXX | Un tranquillo week end di lussuria Sartori
-http://149.202.204.239:8000/movie/romaforex/alessand/12871.avi
-#EXTINF:-1,XXX | Un Weekend Molto Libidinoso
-http://149.202.204.239:8000/movie/romaforex/alessand/12870.avi
-#EXTINF:-1,XXX | un'estate ai caraibi (3)
-http://149.202.204.239:8000/movie/romaforex/alessand/12942.avi
-#EXTINF:-1,XXX | Una calda donna infedele agelica Bella
-http://149.202.204.239:8000/movie/romaforex/alessand/12878.avi
-#EXTINF:-1,XXX | Una Famiglia Perversa [2003]
-http://149.202.204.239:8000/movie/romaforex/alessand/12872.avi
-#EXTINF:-1,XXX | Una Madre In Vendita
-http://149.202.204.239:8000/movie/romaforex/alessand/12873.avi
-#EXTINF:-1,XXX | Una Madre Perfetta
-http://149.202.204.239:8000/movie/romaforex/alessand/12874.avi
-#EXTINF:-1,XXX | UNA MAMMA MOLTO COMPRENSIVA
-http://149.202.204.239:8000/movie/romaforex/alessand/12867.avi
-#EXTINF:-1,XXX | Una moglie molto infedele
-http://149.202.204.239:8000/movie/romaforex/alessand/12879.avi
-#EXTINF:-1,XXX | Una Ragazza molto Viziosa Lilli Carati
-http://149.202.204.239:8000/movie/romaforex/alessand/12875.avi
-#EXTINF:-1,XXX | Una Strana Famiglia Katia Nobili Valentina Canali
-http://149.202.204.239:8000/movie/romaforex/alessand/12876.avi
-#EXTINF:-1,XXX | Veronica Avluv
-http://149.202.204.239:8000/movie/romaforex/alessand/6368.mkv
-#EXTINF:-1,XXX | Veruca James
-http://149.202.204.239:8000/movie/romaforex/alessand/6369.mkv
-#EXTINF:-1,XXX | Veronica Belli Monella INCEST
-http://149.202.204.239:8000/movie/romaforex/alessand/12884.avi
-#EXTINF:-1,XXX | veronica rayne
-http://149.202.204.239:8000/movie/romaforex/alessand/19505.mkv
-#EXTINF:-1,XXX | Vieni cara ti insegna la mamma
-http://149.202.204.239:8000/movie/romaforex/alessand/12885.avi
-#EXTINF:-1,XXX | Valentine Demi I Nostri Dolci Orgasmi
-http://149.202.204.239:8000/movie/romaforex/alessand/12881.avi
-#EXTINF:-1,XXX | Vecchie Ninfomani
-http://149.202.204.239:8000/movie/romaforex/alessand/12882.avi
-#EXTINF:-1,XXX | vecchie pellicole
-http://149.202.204.239:8000/movie/romaforex/alessand/12943.avi
-#EXTINF:-1,XXX | vecchie tettone pelose
-http://149.202.204.239:8000/movie/romaforex/alessand/12944.avi
-#EXTINF:-1,XXX | vecchie troie
-http://149.202.204.239:8000/movie/romaforex/alessand/12945.avi
-#EXTINF:-1,XXX | Vecchie-Xxx
-http://149.202.204.239:8000/movie/romaforex/alessand/12883.avi
-#EXTINF:-1,XXX | Very Best Of Anita Blond And Anita Dark
-http://149.202.204.239:8000/movie/romaforex/alessand/20601.avi
-#EXTINF:-1,XXX | Virtual *** with Tera Patrick
-http://149.202.204.239:8000/movie/romaforex/alessand/20711.avi
-#EXTINF:-1,XXX | Vita Da Mignotte Trentalance
-http://149.202.204.239:8000/movie/romaforex/alessand/12886.avi
-#EXTINF:-1,XXX | Vittoria Risi Un Estate Al Mare
-http://149.202.204.239:8000/movie/romaforex/alessand/12887.avi
-#EXTINF:-1,XXX | Vizio Di Famiglia Tale Padre Tale Figli
-http://149.202.204.239:8000/movie/romaforex/alessand/12888.avi
-#EXTINF:-1,XXX | Vizio Di Forma Il Mio Giardiniere
-http://149.202.204.239:8000/movie/romaforex/alessand/12889.avi
-#EXTINF:-1,XXX | Very ***y Russian teens orgy ***
-http://149.202.204.239:8000/movie/romaforex/alessand/6419.mkv
-#EXTINF:-1,XXX | Weapons Of Ass Destruction 3
-http://149.202.204.239:8000/movie/romaforex/alessand/20712.avi
-#EXTINF:-1,XXX | Zack and Miri Make A *****
-http://149.202.204.239:8000/movie/romaforex/alessand/6370.mkv
-#EXTINF:-1,XXX | Zia Evita Evita Pozzi...........
-http://149.202.204.239:8000/movie/romaforex/alessand/12890.avi
-#EXTINF:-1,XXX | Zoccola Di Papa Shadow Gloria Domini
-http://149.202.204.239:8000/movie/romaforex/alessand/12891.avi
-#EXTINF:-1,XXX | Zoccole In Famiglia
-http://149.202.204.239:8000/movie/romaforex/alessand/12892.avi
-#EXTINF:-1,XXX | x.clara.morgane
-http://149.202.204.239:8000/movie/romaforex/alessand/20719.avi
-#EXTINF:-1,XXXX-HOT 1
-http://149.202.204.239:8000/movie/romaforex/alessand/9678.mkv
-#EXTINF:-1,XXXX-HOT 2
-http://149.202.204.239:8000/movie/romaforex/alessand/9667.mkv
-#EXTINF:-1,XXXX-HOT 3
-http://149.202.204.239:8000/movie/romaforex/alessand/9656.mkv
-#EXTINF:-1,XXXX-HOT 4
-http://149.202.204.239:8000/movie/romaforex/alessand/9645.mkv
-#EXTINF:-1,XXXX-HOT 5
-http://149.202.204.239:8000/movie/romaforex/alessand/9643.mkv
-#EXTINF:-1,XXXX-HOT 6
-http://149.202.204.239:8000/movie/romaforex/alessand/9642.mkv
-#EXTINF:-1,XXXX-HOT 7
-http://149.202.204.239:8000/movie/romaforex/alessand/9641.mkv
-#EXTINF:-1,XXXX-HOT 8
-http://149.202.204.239:8000/movie/romaforex/alessand/9640.mkv
-#EXTINF:-1,XXXX-HOT 9
-http://149.202.204.239:8000/movie/romaforex/alessand/9639.mkv
-#EXTINF:-1,XXXX-HOT 10
-http://149.202.204.239:8000/movie/romaforex/alessand/9677.mkv
-#EXTINF:-1,XXXX-HOT 11
-http://149.202.204.239:8000/movie/romaforex/alessand/9676.mkv
-#EXTINF:-1,XXXX-HOT 12
-http://149.202.204.239:8000/movie/romaforex/alessand/9675.mkv
-#EXTINF:-1,XXXX-HOT 13
-http://149.202.204.239:8000/movie/romaforex/alessand/9674.mkv
-#EXTINF:-1,XXXX-HOT 14
-http://149.202.204.239:8000/movie/romaforex/alessand/9673.mkv
-#EXTINF:-1,XXXX-HOT 15
-http://149.202.204.239:8000/movie/romaforex/alessand/9672.mkv
-#EXTINF:-1,XXXX-HOT 16
-http://149.202.204.239:8000/movie/romaforex/alessand/9671.mkv
-#EXTINF:-1,XXXX-HOT 17
-http://149.202.204.239:8000/movie/romaforex/alessand/9670.mkv
-#EXTINF:-1,XXXX-HOT 18
-http://149.202.204.239:8000/movie/romaforex/alessand/9669.mkv
-#EXTINF:-1,XXXX-HOT 19
-http://149.202.204.239:8000/movie/romaforex/alessand/9668.mkv
-#EXTINF:-1,XXXX-HOT 20
-http://149.202.204.239:8000/movie/romaforex/alessand/9666.mkv
-#EXTINF:-1,XXXX-HOT 21
-http://149.202.204.239:8000/movie/romaforex/alessand/9665.mkv
-#EXTINF:-1,XXXX-HOT 22
-http://149.202.204.239:8000/movie/romaforex/alessand/9664.mkv
-#EXTINF:-1,XXXX-HOT 23
-http://149.202.204.239:8000/movie/romaforex/alessand/9663.mkv
-#EXTINF:-1,XXXX-HOT 24
-http://149.202.204.239:8000/movie/romaforex/alessand/9662.mkv
-#EXTINF:-1,XXXX-HOT 25
-http://149.202.204.239:8000/movie/romaforex/alessand/9661.mkv
-#EXTINF:-1,XXXX-HOT 26
-http://149.202.204.239:8000/movie/romaforex/alessand/9660.mkv
-#EXTINF:-1,XXXX-HOT 27
-http://149.202.204.239:8000/movie/romaforex/alessand/9659.mkv
-#EXTINF:-1,XXXX-HOT 28
-http://149.202.204.239:8000/movie/romaforex/alessand/9658.mkv
-#EXTINF:-1,XXXX-HOT 29
-http://149.202.204.239:8000/movie/romaforex/alessand/9657.mkv
-#EXTINF:-1,XXXX-HOT 30
-http://149.202.204.239:8000/movie/romaforex/alessand/9655.mkv
-#EXTINF:-1,XXXX-HOT 31
-http://149.202.204.239:8000/movie/romaforex/alessand/9654.mkv
-#EXTINF:-1,XXXX-HOT 32
-http://149.202.204.239:8000/movie/romaforex/alessand/9653.mkv
-#EXTINF:-1,XXXX-HOT 33
-http://149.202.204.239:8000/movie/romaforex/alessand/9652.mkv
-#EXTINF:-1,XXXX-HOT 34
-http://149.202.204.239:8000/movie/romaforex/alessand/9651.mkv
-#EXTINF:-1,XXXX-HOT 35
-http://149.202.204.239:8000/movie/romaforex/alessand/9650.mkv
-#EXTINF:-1,XXXX-HOT 36
-http://149.202.204.239:8000/movie/romaforex/alessand/9649.mkv
-#EXTINF:-1,XXXX-HOT 37
-http://149.202.204.239:8000/movie/romaforex/alessand/9648.mkv
-#EXTINF:-1,XXXX-HOT 38
-http://149.202.204.239:8000/movie/romaforex/alessand/9647.mkv
-#EXTINF:-1,XXXX-HOT 39
-http://149.202.204.239:8000/movie/romaforex/alessand/9646.mkv
-#EXTINF:-1,XXXX-HOT 40
-http://149.202.204.239:8000/movie/romaforex/alessand/9644.mkv
-#EXTINF:-1,XXXX-HOT 41
-http://149.202.204.239:8000/movie/romaforex/alessand/9609.mkv
-#EXTINF:-1,XXXX-HOT 42
-http://149.202.204.239:8000/movie/romaforex/alessand/9610.mkv
-#EXTINF:-1,XXXX-HOT 43
-http://149.202.204.239:8000/movie/romaforex/alessand/9611.mkv
-#EXTINF:-1,XXXX-HOT 44
-http://149.202.204.239:8000/movie/romaforex/alessand/9612.mkv
-#EXTINF:-1,XXXX-HOT 45
-http://149.202.204.239:8000/movie/romaforex/alessand/9613.mkv
-#EXTINF:-1,XXXX-HOT 46
-http://149.202.204.239:8000/movie/romaforex/alessand/9614.mkv
-#EXTINF:-1,XXXX-HOT 47
-http://149.202.204.239:8000/movie/romaforex/alessand/9615.mkv
-#EXTINF:-1,XXXX-HOT 48
-http://149.202.204.239:8000/movie/romaforex/alessand/9616.mkv
-#EXTINF:-1,XXXX-HOT 49
-http://149.202.204.239:8000/movie/romaforex/alessand/9617.mkv
-#EXTINF:-1,XXXX-HOT 50
-http://149.202.204.239:8000/movie/romaforex/alessand/9618.mkv
-#EXTINF:-1,XXXX-HOT 51
-http://149.202.204.239:8000/movie/romaforex/alessand/9619.mkv
-#EXTINF:-1,XXXX-HOT 52
-http://149.202.204.239:8000/movie/romaforex/alessand/9620.mkv
-#EXTINF:-1,XXXX-HOT 53
-http://149.202.204.239:8000/movie/romaforex/alessand/9621.mkv
-#EXTINF:-1,XXXX-HOT 54
-http://149.202.204.239:8000/movie/romaforex/alessand/9622.mkv
-#EXTINF:-1,XXXX-HOT 55
-http://149.202.204.239:8000/movie/romaforex/alessand/9623.mkv
-#EXTINF:-1,XXXX-HOT 56
-http://149.202.204.239:8000/movie/romaforex/alessand/9624.mkv
-#EXTINF:-1,XXXX-HOT 57
-http://149.202.204.239:8000/movie/romaforex/alessand/9625.mkv
-#EXTINF:-1,XXXX-HOT 58
-http://149.202.204.239:8000/movie/romaforex/alessand/9626.mkv
-#EXTINF:-1,XXXX-HOT 59
-http://149.202.204.239:8000/movie/romaforex/alessand/9627.mkv
-#EXTINF:-1,XXXX-HOT 60
-http://149.202.204.239:8000/movie/romaforex/alessand/9628.mkv
-#EXTINF:-1,XXXX-HOT 61
-http://149.202.204.239:8000/movie/romaforex/alessand/9629.mkv
-#EXTINF:-1,XXXX-HOT 62
-http://149.202.204.239:8000/movie/romaforex/alessand/9630.mkv
-#EXTINF:-1,XXXX-HOT 63
-http://149.202.204.239:8000/movie/romaforex/alessand/9631.mkv
-#EXTINF:-1,XXXX-HOT 64
-http://149.202.204.239:8000/movie/romaforex/alessand/9632.mkv
-#EXTINF:-1,XXXX-HOT 65
-http://149.202.204.239:8000/movie/romaforex/alessand/9633.mkv
-#EXTINF:-1,XXXX-HOT 66
-http://149.202.204.239:8000/movie/romaforex/alessand/9634.mkv
-#EXTINF:-1,XXXX-HOT 67
-http://149.202.204.239:8000/movie/romaforex/alessand/9635.mkv
-#EXTINF:-1,XXXX-HOT 68
-http://149.202.204.239:8000/movie/romaforex/alessand/9636.mkv
-#EXTINF:-1,XXXX-HOT 69
-http://149.202.204.239:8000/movie/romaforex/alessand/9637.mkv
-#EXTINF:-1,XXXX-HOT 70
-http://149.202.204.239:8000/movie/romaforex/alessand/9638.mkv
-#EXTINF:-1,XXX-3D | Penthouse.Cock.Teasers.XXX.3D
-http://149.202.204.239:8000/movie/romaforex/alessand/13943.mkv
-#EXTINF:-1,XXX-3D | Penthouse.Pick.Up.Chixxx.XXX.3D
-http://149.202.204.239:8000/movie/romaforex/alessand/13944.mkv
-#EXTINF:-1,XXX-3D | Penthouse.Presents.***y.Blondes.3D
-http://149.202.204.239:8000/movie/romaforex/alessand/13945.mkv
-#EXTINF:-1,XXX | 1982 Orgasmo Esotico
-http://149.202.204.239:8000/movie/romaforex/alessand/12583.avi
-#EXTINF:-1,XXX | 982 Taboo 2 Juliet Anderson
-http://149.202.204.239:8000/movie/romaforex/alessand/12584.avi
-#EXTINF:-1,XXX | 1987 Osceno
-http://149.202.204.239:8000/movie/romaforex/alessand/12585.avi
-#EXTINF:-1,XXX | 1987-Il Vizio Nel Ventre
-http://149.202.204.239:8000/movie/romaforex/alessand/12586.avi
-#EXTINF:-1,XXX | 1992 L'ultimo Tango Anale Cicciolina Luana Borgia-Barbarella
-http://149.202.204.239:8000/movie/romaforex/alessand/12587.avi
-#EXTINF:-1,XXX | 1993 Mia moglie aperta a tutti Luana Borgia Pussycat
-http://149.202.204.239:8000/movie/romaforex/alessand/12588.avi
-#EXTINF:-1,XXX | 1994 Infinitamente ***** Angelica Bella Barbarella
-http://149.202.204.239:8000/movie/romaforex/alessand/12589.avi
-#EXTINF:-1,XXX | 2014 Brazzers
-http://149.202.204.239:8000/movie/romaforex/alessand/6279.mkv
-#EXTINF:-1,XXX | 25869_01_hd
-http://149.202.204.239:8000/movie/romaforex/alessand/6333.mkv
-#EXTINF:-1,XXX | 25869_02_hd
-http://149.202.204.239:8000/movie/romaforex/alessand/6334.mkv
-#EXTINF:-1,XXX | 25869_03_hd
-http://149.202.204.239:8000/movie/romaforex/alessand/6335.mkv
-#EXTINF:-1,XXX | 25869_04_hd
-http://149.202.204.239:8000/movie/romaforex/alessand/6336.mkv
-#EXTINF:-1,XXX | 25869_05_hd
-http://149.202.204.239:8000/movie/romaforex/alessand/6337.mkv
-#EXTINF:-1,XXX | 25869_07_hd
-http://149.202.204.239:8000/movie/romaforex/alessand/6338.mkv
-#EXTINF:-1,XXX | 6755_01_hd
-http://149.202.204.239:8000/movie/romaforex/alessand/6339.mkv
-#EXTINF:-1,XXX | 6755_02_hd
-http://149.202.204.239:8000/movie/romaforex/alessand/6340.mkv
-#EXTINF:-1,XXX | 6755_03_hd
-http://149.202.204.239:8000/movie/romaforex/alessand/6341.mkv
-#EXTINF:-1,XXX | 6755_04_hd
-http://149.202.204.239:8000/movie/romaforex/alessand/6342.mkv
-#EXTINF:-1,XXX | Brandi Belle 01 Tasty condom
-http://149.202.204.239:8000/movie/romaforex/alessand/20624.avi
-#EXTINF:-1,XXX | Brandi Belle 31 Penis Parade
-http://149.202.204.239:8000/movie/romaforex/alessand/20499.avi
-#EXTINF:-1,XXX | Brandi Belle Cameraman Handjob
-http://149.202.204.239:8000/movie/romaforex/alessand/20500.avi
-#EXTINF:-1,XXX | Brandi Belle De Jeans
-http://149.202.204.239:8000/movie/romaforex/alessand/20501.avi
-#EXTINF:-1,XXX | Brigitta Bulgari Belle e Impossibili 2
-http://149.202.204.239:8000/movie/romaforex/alessand/20502.avi
-
-
-
-
-
-
+#EXTINF:0,[XXX] Adult S FULL HD 15
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18041.ts
+#EXTINF:0,[XXX] BoyBoy
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18053.ts
+#EXTINF:0,[XXX] BRAZZERS TV Europe
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18040.ts
+#EXTINF:0,[XXX] Cento X Cento
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18052.ts
+#EXTINF:0,[XXX] Dorcel HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18051.ts
+#EXTINF:0,[XXX] Evil Angel TV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18050.ts
+#EXTINF:0,[XXX] Exotica TV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18049.ts
+#EXTINF:0,[XXX] HotClub Channel
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18039.ts
+#EXTINF:0,[XXX] Hustler HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18048.ts
+#EXTINF:0,[XXX] LIVECHANNEL
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18038.ts
+#EXTINF:0,[XXX] PentHouse
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18037.ts
+#EXTINF:0,[XXX] Pink Erotic 5
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18036.ts
+#EXTINF:0,[XXX] Pinko TV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18047.ts
+#EXTINF:0,[XXX] Private TV
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18035.ts
+#EXTINF:0,[XXX] Red Light HD
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18046.ts
+#EXTINF:0,[XXX] Satisfaction
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18045.ts
+#EXTINF:0,[XXX] Sextosenso
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18044.ts
+#EXTINF:0,[XXX] TV Girl
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18043.ts
+#EXTINF:0,[XXX] Vivid
+http://iptv.iptvthebest.net:15000/live/ofeuheoef/merchant27@/18042.ts
 
 
