@@ -64,6 +64,99 @@ http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/small"  group-title="GENÉRICOS", PORTO CANAL 
 http://213.13.26.11:1935/live/portocanal/FamiliaIPTV.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" group-title="GENÉRICOS",TVCINE 1 
+http://62.167.50.245:8000/play/a027
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" group-title="GENÉRICOS",TVCINE 2 
+http://178.193.237.115:9000/play/a00t
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" group-title="GENÉRICOS",TVCINE 3 
+http://178.193.237.115:9000/play/a00r
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" group-title="GENÉRICOS",TVCINE 4 
+http://62.167.50.245:8000/play/a01e
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" group-title="GENÉRICOS",TVSERIES 
+http://178.193.237.115:9000/play/a00s
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_HOLLYWOOD" group-title="GENÉRICOS",HOLLYWOOD HD 
+http://178.193.237.115:9000/play/a088
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png" group-title="GENÉRICOS",AMC 
+http://178.193.237.115:9000/play/a08g
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" group-title="GENÉRICOS",CINEMUNDO 
+http://62.167.50.245:8000/play/a010
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" group-title="GENÉRICOS",FOX CRIME HD 
+http://178.193.237.115:9000/play/a00m
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" group-title="GENÉRICOS",FOX COMEDY 
+http://62.167.50.245:8000/play/a043
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" group-title="GENÉRICOS",SYFY 
+http://62.167.50.245:8000/play/a01y
+
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" group-title="GENÉRICOS",DISNEY CHANNEL 
+http://62.167.50.245:8000/play/a02c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" group-title="GENÉRICOS",DISNEY JUNIOR 
+http://178.193.237.115:9000/play/a01n
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" group-title="GENÉRICOS",CARTOON NETWORK 
+http://62.167.50.245:8000/play/a03e
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" group-title="GENÉRICOS",PANDA 
+http://62.167.50.245:8000/play/a039
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" group-title="GENÉRICOS",PANDA BIGGS 
+http://178.193.237.115:9000/play/a01d
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" group-title="GENÉRICOS",BABY TV 
+http://62.167.50.245:8000/play/a012
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" group-title="GENÉRICOS",SIC K 
+http://178.193.237.115:9000/play/a08h
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" group-title="GENÉRICOS",JIMJAM 
+http://62.167.50.245:8000/play/a01d
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" group-title="GENÉRICOS",MTV GENÉRICOS 
+http://62.167.50.245:8000/play/a01b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" group-title="GENÉRICOS",MTV DANCE 
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_dance_1/10257/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iyi7pTK.png" group-title="GENÉRICOS",MTV HITS 
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_hits_1/10256/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" group-title="GENÉRICOS",MTV ROCKS 
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_rocks_1/11309/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg" group-title="GENÉRICOS",VH1 EUROPE 
+http://89.38.8.130:39455
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" group-title="GENÉRICOS",VH1 CLASSIC 
+http://89.38.8.131:39496
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3lNp0e.png" group-title="GENÉRICOS",MCM POP 
+http://62.167.50.245:8000/play/a04g
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" group-title="GENÉRICOS",C MUSIC 
+http://62.167.50.245:8000/play/a01h
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png" group-title="GENÉRICOS",AFRO MUSIC 
+http://4.31.30.145:9034
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" group-title="GENÉRICOS",TRACE TV 
+http://62.167.50.245:8000/play/a02e
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6e/VOX-Logo_2013.png/revision/latest?cb=20150928151756" group-title="GENÉRICOS",VOX 
+http://188.122.70.203:5008
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" group-title="GENÉRICOS",24 KITCHEN 
+http://178.193.237.115:9000/play/a00l
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" group-title="GENÉRICOS",NATIONAL GEOGRAPHIC WILD 
+http://178.193.237.115:9000/play/a06r
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" group-title="GENÉRICOS",HISTORIA 
+http://62.167.50.245:8000/play/a011
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" group-title="GENÉRICOS",ODISSEIA 
+http://62.167.50.245:8000/play/a023
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" group-title="GENÉRICOS",A&E 
+http://178.193.237.115:9000/play/a019
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png" group-title="GENÉRICOS",TLC 
+http://4.31.30.145:9043
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MCS-Extreme.png" group-title="GENÉRICOS",MCS EXTREME 
+http://62.167.50.245:8000/play/a020
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" group-title="GENÉRICOS",MCS LIFESTYLE 
+http://178.193.237.115:9000/play/a087
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xgqZgC6.png" group-title="GENÉRICOS",TRAVEL CHANNEL 
+http://178.193.237.115:9000/play/a07e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2000px-Fashion_TV_logo.svg.png" group-title="GENÉRICOS",FTV 
+http://62.167.50.245:8000/play/a046
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" group-title="GENÉRICOS",CBS REALITY 
+http://62.167.50.245:8000/play/a02a
+
+
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png/Small" group-title="GENÉRICOS", RTP AÇORES
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/FamiliaIPTV.m3u8
 
