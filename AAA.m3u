@@ -618,9 +618,6 @@ http://62.167.50.245:8000/play/a01c
 
 
 
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM", DESPORTO-ACESTREAM
-Http://google.pt
-
 #EXTINF:-1 tvg-id="sporttvmais.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png/medium" group-title="DESPORTO-ACESTREAM", SPORT.TV + HD
 acestream://861bbba2263bf0707ce223e4933b79db6b48b018
 
@@ -648,18 +645,24 @@ acestream://f60367b0ada5815bd2349b78fe11ce68cac0363b
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/benfica_tv_c.png" group-title="DESPORTO-ACESTREAM", BENFICA TV
 
 
+
+#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/logo_av2015.png" group-title="DESPORTO-ACESTREAM", Arenavision Agenda
+https://arenavision.in/schedule
+
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 1
-acestream://9de11b7049f986b66e28c64f0e50c56e5734c875
+acestream://886fbcfda9cc0e041684cf3f11b4ef446a07ffdf
+
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 2
 acestream://b8908994341bae87899bb6c8766e70387669f2ea
+
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 3
-acestream://6ea486ae42aac5ec6a2d2ba14b01540a728805c0
+acestream://101a372297ed079761fc10ea3a8ed638a89b94b7
 
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 4
-acestream://eda3913d292c7f65fe427853d019dae31c02cadc
+acestream://89b78ce87722a9d47d2cbfa88655b4785854a3b2
 
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 5
-acestream://7845351b0cf9e72a7f33e8161e1a6c412c18efa9
+acestream://d0b61152255eb9712581b6985002b81e69a0aef9
 
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 6 
 acestream://c31c6720db2cad5ac1c90d2d6a55d95d3aabefae
@@ -667,10 +670,10 @@ acestream://c31c6720db2cad5ac1c90d2d6a55d95d3aabefae
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 7
 acestream://88e39a6e7206575e987cde102e2002babc661ec9
 
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 8 Camp PT
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 8
 acestream://22bee6e183cf908e9235f6ec0df96fc599a89707
 
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 9 Camp PT
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 9
 acestream://3b59130675fdbef7a61e3f27195404508619f9ab
 
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 10
@@ -730,83 +733,137 @@ acestream://d0fa12d12e80c07e7e48a23e7b890c2f2cf2f6dd
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 30
 acestream://2079008ddb5e0e7b45b848bf5dda63d6b600b90b
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/tyqypy1433965234.png/medium" group-title="DESPORTO-ACESTREAM", Sky Sport 1
-acestream://49429150001fb998bda34055b4b21cd10482ac8f
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/qtwryv1433965251.png/medium" group-title="DESPORTO-ACESTREAM", Sky Sport 2
-acestream://8a8527be0b4f30bc4e568eb976c62546ae3ed87f
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vtusxx1433965268.png/medium" group-title="DESPORTO-ACESTREAM", Sky Sport 3
-acestream://3f6fa5b79bd239364e81d299cc03fcf4bba4a82b
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vwqrvq1433965284.png/medium" group-title="DESPORTO-ACESTREAM", Sky Sport 4
-acestream://9d3d5f17c8823599f178dfbab8c5247bf518657d
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM", ArenaVision RU Agenda
+https://DESPORTO-ACESTREAM/schedule
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 1
+acestream://886fbcfda9cc0e041684cf3f11b4ef446a07ffdf
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 2
+acestream://1201eb42242441bdc5219267dc2ddb3dfc39f424
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 3
+acestream://fe6a8fd9454bdbd5bfe5abbcb99a98554aed0537
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 4
+acestream://cba5a21eadf84883173f4b2a8557d3820d41dc66
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 5
+acestream://d0b61152255eb9712581b6985002b81e69a0aef9
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 6
+acestream://3d8f3a9456d749e1e17353cbf9f13612152b1c21
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 7
+acestream://4e87ca611094d64a4fa9d6fe9369daac3deadf7d
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 8
+acestream://a9ced8224c99c1fe7717995530571e17543b4d3f
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 9
+acestream://de8b60050f04bdf8fc63a5d2dc9194fd2bd0a991
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 10
+acestream://2ce07891cf43d6fd00f97247bf79de57d67ef78e
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 11
+acestream://9b8267ddc7fe3a3b1be3a8824aae3e71fb8285d7
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 12
+acestream://3290ef4ad1aea6840fd6dbdb9b1f1a3ddd585f5a
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/ruuwux1433965299.png/medium" group-title="DESPORTO-ACESTREAM", Sky Sport 5
-acestream://0a58e5a154cf3097f6eca5387b28e7776e43b1cc
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/7vbmvf1486146156.png/medium" group-title="DESPORTO-ACESTREAM", Sky Sport F1
-acestream://c6469fe5c077142811e3efd72d5b27097aedf3d2
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cxbQOaE.png" group-title="DESPORTO-ACESTREAM", MOVISTAR F1
-acestream://9f5ffaecd6957cc1f4cd2ed91386419e623c04f6
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="DESPORTO-ACESTREAM", FIGHT BOX HD
-acestream://e26d61526b439e376dcd6b3c7bc17b5dce34d65e
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://sportsnetwork.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/extreme-app.png" group-title="DESPORTO-ACESTREAM", EXTREME SPORTS
-acestream://c612272dbce5420cdefa2e97425b696a60610447
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://allfootballvideo.com/images/channel-logo/supertennis.jpg" group-title="DESPORTO-ACESTREAM", SUPER TENNIS HD 
-acestream://bb5c904f9e68035bdb5b4654a6b171600e62a0b0
 
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/tsqstw1436894693.png/medium" group-title="DESPORTO-ACESTREAM", PFC PT
 acestream://5c06b5a1bfab8dea71ab3ad151801beb0c06330a
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/uyusws1446157799.png/medium" group-title="DESPORTO-ACESTREAM", Fox Sports BR
-acestream://0408535597db04ad72bc647ac3cb61cf6f2a703d
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/tsqstw1436894693.png/medium" group-title="DESPORTO-ACESTREAM", PFC BR
+acestream://3c79d04aaccf346391b778c980d89ae4df8e1071
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png/medium" group-title="DESPORTO-ACESTREAM", Fox Sports 2 BR
-acestream://c871550b2ca519c614eed44d9fb037bc850c56f8
-
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sxvypw1437611411.png/medium" group-title="DESPORTO-ACESTREAM", ESPN BR
-acestream://4769afb3b1db62cf9346abb73a6f9bf2a22b686f
-
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/yqvvvx1433963709.png/medium" group-title="DESPORTO-ACESTREAM", BT SPORTS 1HD UK
-acestream://2bb040a6908cfaa274240e61e3fadc52554b98d9
-
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vsuvvu1433963716.png/medium" group-title="DESPORTO-ACESTREAM", BT SPORTS 2HD UK
-acestream://d405b21b24a23e0e6e951951f6079fdc6c3e6979
-
-#EXTINF:-1 tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/btsporteuropehdblack.png" group-title="DESPORTO-ACESTREAM", BT SPORTS 3HD UK
-acestream://b1b7157706abbfffc32aabaf8d07b4d89763d045
-
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/xstwys1438373796.png/medium" group-title="DESPORTO-ACESTREAM", BT SPORTS ESPN
-acestream://14ca2cdab58401c722254fccb67dcc7a3ef10fca
-
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium" group-title="DESPORTO-ACESTREAM", Sportv
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium" group-title="DESPORTO-ACESTREAM", Sportv BR
 acestream://b0260e13901ea18a36cc65134b04cace85671fbc
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/rspqxw1437612159.png/medium" group-title="DESPORTO-ACESTREAM", Sportv 2
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/rspqxw1437612159.png/medium" group-title="DESPORTO-ACESTREAM", Sportv 2 BR
 acestream://0b329ac89cf80cd30136a847b07dd77a0294de6b
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/yuusqs1437612244.png/medium" group-title="DESPORTO-ACESTREAM", Sportv 3
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/yuusqs1437612244.png/medium" group-title="DESPORTO-ACESTREAM", Sportv 3 BR
 acestream://4803c70664a5fe48e4aa2874b1da2a1c5923eddd
 
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wqqpuy1437611123.png/medium" group-title="DESPORTO-ACESTREAM", COMBATE BR
 acestream://b003b41ba1b638da02e1f8842a9b95bc2f934700
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/2000px-Logo_Sport.svg.png" group-title="DESPORTO-ACESTREAM", FUTBOL 1
-acestream://24b2e33593c6425bb66a1237e2e967ca51d197c6
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="DESPORTO-ACESTREAM", FIGHT BOX HD
+acestream://e26d61526b439e376dcd6b3c7bc17b5dce34d65e
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/2000px-Logo_Sport.svg.png" group-title="DESPORTO-ACESTREAM", FUTBOL 2
-acestream://d440101d2eb0ebdfc245cfc4757587eed1169653
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/2000px-Logo_Sport.svg.png" group-title="DESPORTO-ACESTREAM", SPORT 1
-acestream://0589bc6406c57b6646f4958ea479aac6921ec0b0
+#EXTINF:-1, BT SPORT 1
+http://content.asplaylist.net/czA5MW5TSWFmcXA1S0tHUTdacEJ1azArQ05wdkNmSmpaSjlGYm52d1loZWluc0VrVTVIbFJubXprYi9VcDlZdUs2N2tJVGF4S2xmZ1d3V0hIM0xOMHc9PQ/10634.acelive
+#EXTINF:-1, BT SPORT 2
+http://content.asplaylist.net/WUVjS0NnajBTMXUzVHhCMnpjWVJwSldpVENVbVFvL2xNaURkaG01ZUlDZEdrUFpTU3ZBRkZqNXFXS1YvS2NyZm1PMjVlRUs3QnMyQnd0MExJZVZ6WEE9PQ/9220.acelive
+#EXTINF:-1, NBCSN
+http://content.asplaylist.net/ZFVHZjJqakpMb3k1bG1La0daYmw3NDBVbDcycnc2Tk83SEg5Tjl1WkxGbjdCdy9LNEpJZXRoVGNXSTVRdW90MXlxK0x1N1l5ZFNTMVR4bEh1SnlsUVE9PQ/16656.acelive
+#EXTINF:-1, TSN1
+http://content.asplaylist.net/YU9MMVhVQWxBUWhiNlJOOTkyRitNb0ZhUStSQllyRVY4dDRVd1FHelMvWGhZV1JRd1dtYUswNXRTcFRoRHBOSUFCZmtNMCtORUtCNkN3UThKSjZEemc9PQ/13091.acelive
+#EXTINF:-1, Idman Sport
+http://content.asplaylist.net/Qk1kTFVFbzBNKytmVTl2NVUwc0JLNCtFY1MvMWU0Tk9rbmY4cmVQNEw4VjUveTByeUlYMlpEbjVlOUFHbHhoSE1WaTBzNnQrWVZyaHlhSEl1RzVYZGc9PQ/cdn/1092_all.acelive
+#EXTINF:-1, SKY SPORT 1
+http://content.asplaylist.net/Vk1LSk9MNG16MDBjWHVrNW1EK3ZncnJGZXNTS1VpTkcvanF1dVp4L0VXaHhoekx6MzRuRTJpTnpSR1FHZGlJU1V0MEpXU2JWNXc4TUNYTURFNi84NUE9PQ/10351.acelive
+#EXTINF:-1, SKY SPORT 3
+http://content.asplaylist.net/c1Fhd2RxdFNtaVFlRlljUWYxZGZOcEFyQUhxd0QrcHgzVTBTUjNtSFo4Q1pQbHhRdncyY1A4WEFuU1ZZNjFpYUd5eTNuUW5rRFpPOHlROS9XRTVMaXc9PQ/6909.acelive
+#EXTINF:-1, SKY SPORT 4
+http://content.asplaylist.net/c29adGNwRDZ1WkFWV1RQN0JaUEU2bGZnQklBWDlKVXgzOWVvVEozaGRNQmxoN3BMamJXL3pseVZjT21JQ3FkNmhmeDVXdnBTZUNJejQ4YVQrRy9rTnc9PQ/12739.acelive
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/2000px-Logo_Sport.svg.png" group-title="DESPORTO-ACESTREAM", SPORT 1
-acestream://98447e85da7aacd8f43a33edb7e41cc250c8a031
+#EXTINF:-1, SPORT 1 (RUSSO)
+http://content.asplaylist.net/TVZmTDFYU3VGQnM1SmJBNGNveUo2bzFERTh1YTEyTUtrWk0zL3VHc1VXU2p4RnNvWGlMUVFENW9yNExqTVJ0L3IyOEVxUTEvSlZCK0V3STJaaUEzR1E9PQ/1380.acelive
+#EXTINF:-1, SPORT 2 (RUSSO)
+http://content.asplaylist.net/d1d6QkIxVWdpOGozQm5tVGV5YnRpRUNQZVRUVW1zNU4rQVcvU3F6bkxPckFRQkJ4aWNmbkZERFFRbGE4N2FNNzZyUUMzUGFCbTd4T3M2RndVd3gzekE9PQ/1381.acelive
+#EXTINF:-1, BOXE (RUSSO)
+http://content.asplaylist.net/em41TnpGY29KRUtoTTN3T2huTEV1eUJKTTFWTXRJb0F6b2x5MS9zSUZtMHhFenB0Kyt0VnliMm5hUWlSdzVCNGVYQ1JRamplMmxMT29NQjE4WHV2M0E9PQ/cdn/1155_reg.acelive
+#EXTINF:-1, BOXE 2 (RUSSO)
+http://content.asplaylist.net/WkswN0FzUkx6djNubTVRNy9nSFM2SVl6M1NRRWQxeE5GQjlRbDFWZEpGQnFGS3BlbTI1eFI0Sk5IS3BobWQ4bW11QjBBN1ZJQjV0NkZMR2VUWGZzSlE9PQ/cdn/63_reg.acelive
+
+#EXTINF:-1, SETANTA SPORT+
+http://content.asplaylist.net/RE5lVDV0QlNzTEdpOUlOYXN5NkljNG1LckNtQS9uS0xEYXNoT1FKMUx5Q1IyUURCY0N6QVowNmNLeEN1b2NFa3EvZmFNTXFUQ2ZCTzlMdDRnMkpocnc9PQ/16377.acelive
+#EXTINF:-1, EUROSPORT 2 (Mudar audio P/UK)
+http://content.asplaylist.net/T082aWNXVEQ4Z3F4ZUIrSlZ1Q2FWcTRyUkQ2dmdtWjdZZUZqUUJWYTdWK0NvaXpIYk5QRWgwRWo3SVNHUEhULzBxSTcyNlowL3lGTE1kMS94YWs2Ync9PQ/cdn/6_reg.acelive
+#EXTINF:-1, EXTREME SPORTS (RUSSO)
+http://content.asplaylist.net/SDgyL2lhRER2WHhlVE10NnowdERIRXZIc1E5eWErMEJPVkpOZXk0QTM3QlZ4TXpTTElRSmpIeG9oWUxmRmY0RlhFeUpZRVBWZ2NqRUgzUHdBYW9zU1E9PQ/cdn/8_all.acelive
+
+
+#EXTINF:-1, BEIN sports
+3c486f99973a7cdcb47bc48762900c11aeb51a31
+#EXTINF:-1, DEPORTES1
+3324211b3ed962fee8b44a999cd9611a6cf45415
+#EXTINF:-1, DEPORTES2
+52e921b4da7c8b05ebf4578bec64a236fb195067
+#EXTINF:-1, GOLTV
+98d1712d28be918802aa0163e9886859d64e9800
+#EXTINF:-1, FUTBOL
+29039f91c90d1bbb53c5894aa2fef3e6a409d6bc
+#EXTINF:-1, LALIGATV
+f68c61b77bf7eb767e2b2b7d4d31d87f0b3e61bc
+#EXTINF:-1, BEINlaLiga
+6d4949cfd49f1ed85638e5455b5d05a14e383a29
+#EXTINF:-1, EUROSPORT1
+5d7d216622d4babe6edbf927633ef9d0368d7fdb
+#EXTINF:-1, MOVISTAR MOTOGP
+422f7462ee875d56a372ad16f1ba097f6cded330
+#EXTINF:-1, MOVISTAR F1
+30a135e150ad251a24d40646299e769085ef08b5
+
+
+#EXTINF:-1, BEINSPORTS HD1 FRANCIA
+61b5eefa5091a485687a7fda3d9fcc0ec707b566
+#EXTINF:-1, BEINSPORTS HD2 FRANCIA
+a4a9e9663fa1b63124a66b4d596a7ccf926cb8c0
+#EXTINF:-1, BEINSPORTS HD3 FRANCIA
+bbdcad2aecfec44a553042ea56a278c354be2229
+#EXTINF:-1, SFR sport1 FRANCIA
+2d4b22c8d6f1a5dbe16b5c2d7e6d2a9ad7439200
+#EXTINF:-1, SFR sport2 FRANCIA
+b85f68487dff40d1995bd471c6c16bd79ac9f583
 
 
 
@@ -2731,14 +2788,24 @@ acestream://8b96bd8df497182d7ec2506b997b3879c0ca450c
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://vertelevisor.com/logos/hustlertv.jpg" group-title="ADULTO", HUSTLER HD (Acestream)
 acestream://d83b0a25ff3a6232011e4747f86220ad0d49b0ac
-
-#EXTINF:-1,XXX_HotClub03_XXXX
-http://ip.123sat.net:7200/live/omar/ahlam/1026.ts
-#EXTINF:-1,XXX_HotClub02_XXXX
-http://ip.123sat.net:7200/live/omar/ahlam/1025.ts
-#EXTINF:-1,XXX_HotClub01_XXXX
-http://ip.123sat.net:7200/live/omar/ahlam/1024.ts
-
+#EXTINF:-1, XXX- PLAYBOY (ACESTREAM)
+http://content.asplaylist.net/NEIyQXVRQWRmL2hvZlBLQzNaWFhBckc1My9oSUxSRVNrWWEwdmxWQ0JIeWl3dWh6cHZXRWl3SE9uSkR0VWI2empRdUNnaTlXR2YwS2NiWGxlQkJXWWc9PQ/cdn/383_reg.acelive
+#EXTINF:-1, XXX- CENTOXCENTO (ACESTREAM)
+http://content.asplaylist.net/aGhPN1BJWHlEU3p0NGxveUhJQkYyQkFxcG45V1VCa3BTRTllL2VUbTlwQXRwUW9kQTNObTBBU1VYWUU5clVIUldrNHpXM2FVU1lJdFlvbGpYL2twVEE9PQ/cdn/1060_reg.acelive
+#EXTINF:-1, XXX- BRAZZER TV (ACESTREAM)
+http://content.asplaylist.net/b2dMQjRHQS9DMDFPcVp5YjNReHF2bzNzaWNnNUFzU0paSVBiSnVHTkNyUi94RHZ0OHFScjN4QmY4dTNXZnlYNkdpT0hNeitJL25mbldPbGN6OGkyVXc9PQ/cdn/540_reg.acelive
+#EXTINF:-1, XXX- OLA-LA (ACESTREAM)
+http://content.asplaylist.net/SWFKNnhFZjArUVZmaGs3bnJ4OGVPTlgzb2ZMczRxQnRhM0ZHVXRsdjIwZlNKeU50aWFpdFE4ZGMrY2R0VFVZc1ZSSW05a3hOOFVOWXAwR29QNUQ4aGc9PQ/cdn/826_reg.acelive
+#EXTINF:-1, XXX- SCT (ACESTREAM)
+http://content.asplaylist.net/RUV1ZDhuRFNiTjV3UERsTWJzUzFFQ3JQaVhPUFdSUVQ1NE1FQm1HOEZBY0o5K0NQQ3hzbzNKaGVmQTR3cysvWmkzakRZSE50NlJmTW54TFBqZ1BGdnc9PQ/cdn/911_reg.acelive
+#EXTINF:-1, XXX- PINK0 TV (ACESTREAM)
+http://content.asplaylist.net/b3FJV3NMcUVhZCtnRU96QTd0WGp1T2xXYWZWT04zUDdlV2U5MXVmWHRobjlFcE1VMllZVDJmbitVbFVlOFR4VU91N0RsWitTSG9PWXVmRS9TdXJBaEE9PQ/cdn/925_reg.acelive
+#EXTINF:-1, XXX- EXOTICA TV (ACESTREAM)
+http://content.asplaylist.net/MG55OWdJVzJyNUlubWNFQkg5MEwzTUsvMERxMTZVR0duVzQ1S3ExaXduWGxpYjNqM25BY0o5bDNpVzNQTDVDNm00S2huOHMyVlArVWhweWlxUEZaNVE9PQ/cdn/919_reg.acelive
+#EXTINF:-1, XXX- LEGAL PORN (ACESTREAM)
+http://content.asplaylist.net/YTdFT28zN3E3ckUxN2h5VTRscVZZdDRYOFRVcE1LemN6NGtNTVZWeGhVclVxZU5JeDlJeXBtcVB2VnA4cFVyQzVRNVdwaEVqUktuT0lrMWVpNHdLZHc9PQ/cdn/1167_reg.acelive
+#EXTINF:-1, XXX- FAP TV AMATEUR (ACESTREAM)
+http://content.asplaylist.net/LzFveUpUTFhhRG5nKzh6V0QrSGNnVm5BYWwrUmRFZXNuQmEzS3pqYmlPV1k1cXVXWkRvK0oxdjdQWSsySkt0MDdvTzRWN2hGSnpmVG9qVWFoalNxSGc9PQ/cdn/1175_reg.acelive
 
 
 
