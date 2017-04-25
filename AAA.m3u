@@ -90,7 +90,7 @@ http://alphatwo.ddns.net:8000/live/belle/belle/420.ts
 http://pro213.com/live/Ramzi/Ramzi/3824.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A Bola TV
 http://62.167.50.245:8000/play/a02g
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV 
 
 
 
@@ -159,16 +159,24 @@ http://tv.105.net:1935/live/virgin1/chunklist_w864163580.m3u8
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="0" group-title="PORTUGAL",MTV PORTUGAL
 http://62.167.50.245:8000/play/a01b
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="PORTUGAL",MTV DANCE
-http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_dance_1/10257/0/tv-ss/live.isml/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/iyi7pTK.png" tvg-id="0" group-title="PORTUGAL",MTV HITS
-http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_hits_1/10256/0/tv-ss/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_rocks_1/11309/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS
+http://93.171.170.249:8080/http/192.168.196.1/ch/296
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/MTV_Live_Logo.png" tvg-id="0" group-title="PORTUGAL",MTV LIVE
+http://93.171.170.249:8080/http/192.168.196.1/ch/295
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iyi7pTK.png" tvg-id="0" group-title="PORTUGAL",MTV HITS
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_hits_1/10256/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="PORTUGAL",MTV DANCE
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_dance_1/10257/0/tv-ss/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg" tvg-id="0" group-title="PORTUGAL",VH1 EUROPE
 http://89.38.8.130:39455
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="0" group-title="PORTUGAL",VH1 CLASSIC
 http://89.38.8.131:39496
+#EXTINF:-1 tvg-logo="http://musicboxtv.ru/themes/musicboxtv/img/logo.png" tvg-id="0" group-title="PORTUGAL",Music Box
+http://93.171.170.249:8080/http/192.168.196.1/ch/21
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/90/MCM_TOP_2008.png/revision/latest?cb=20150313180515" tvg-id="MCMTOP" group-title="PORTUGAL",MCM TOP
+http://93.171.170.249:8080/http/192.168.196.1/ch/470
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a3lNp0e.png" tvg-id="MCMPOP" group-title="PORTUGAL",MCM POP
 http://62.167.50.245:8000/play/a04g
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" tvg-id="C-Music" group-title="PORTUGAL",C MUSIC
@@ -189,6 +197,12 @@ http://rtmp.one.by:1400
 http://rtmp.one.by:1499
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/1280px-BBC_Four_HD_Logo.svg.png" group-title="PORTUGAL", ONE 4 
 http://rtmp.one.by:2300
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2000px-Mezzo_Logo.svg.png" group-title="PORTUGAL", Mezzo
+http://93.171.170.249:8080/http/192.168.196.1/ch/471
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="PORTUGAL", Mezzo Live 
+http://93.171.170.249:8080/http/192.168.196.1/ch/290
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/BRIDGETV.png" group-title="PORTUGAL", Bridge TV  
+http://93.171.170.249:8080/http/192.168.196.1/ch/266
 #EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/12/djing-ibiza-tv.jpg" group-title="PORTUGAL", DJING IBIZA  
 http://www.djing.com/tv/d-05.m3u8
 #EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="PORTUGAL", DJING DANCE FLOOR  
@@ -698,6 +712,223 @@ http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10574.ts
 http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10669.ts
 #EXTINF:0,PT: 24 KITCHEN
 http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10578.ts
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", ESPANHA
+http://google.com
+
+
+
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", TCM HD
+http://163.172.83.131:5000/udp/239.255.5.1:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", TOROS TV
+http://163.172.83.131:5000/udp/239.255.5.2:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", EUROSPORT1HD
+http://163.172.83.131:5000/udp/239.255.5.3:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M.MOTOGPHD
+http://163.172.83.131:5000/udp/239.255.5.4:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M.FORMULA1HD
+http://163.172.83.131:5000/udp/239.255.5.5:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. DEP 2 HD
+http://163.172.83.131:5000/udp/239.255.5.6:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", AMC HD
+http://163.172.83.131:5000/udp/239.255.5.15:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", AXN HD
+http://163.172.83.131:5000/udp/239.255.5.16:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", AXN WHITE HD
+http://163.172.83.131:5000/udp/239.255.5.17:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. DEP 1 HD
+http://163.172.83.131:5000/udp/239.255.5.7:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", BEIN LALIGA HD
+http://163.172.83.131:5000/udp/239.255.5.8:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", TOROS TV
+http://163.172.83.131:5000/udp/239.255.5.10:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", NAT GEO HD
+http://163.172.83.131:5000/udp/239.255.5.11:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", SYFY HD
+http://163.172.83.131:5000/udp/239.255.5.13:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", NICKELODEONHD
+http://163.172.83.131:5000/udp/239.255.5.12:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", TNT HD
+http://163.172.83.131:5000/udp/239.255.5.14:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", FOX LIFE HD
+http://163.172.83.131:5000/udp/239.255.5.19:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", FOX HD
+http://163.172.83.131:5000/udp/239.255.5.18:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", COSMO HD
+http://163.172.83.131:5000/udp/239.255.5.20:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", CALLE 13 HD
+http://163.172.83.131:5000/udp/239.255.5.21:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. ACCI?N HD
+http://163.172.83.131:5000/udp/239.255.5.23:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", COMEDYCENTRALHD
+http://163.172.83.131:5000/udp/239.255.5.22:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M.COMEDIA HD
+http://163.172.83.131:5000/udp/239.255.5.24:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. DCINE HD
+http://163.172.83.131:5000/udp/239.255.5.25:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. XTRA HD
+http://163.172.83.131:5000/udp/239.255.5.26:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. SeriesXtraHD
+http://163.172.83.131:5000/udp/239.255.5.27:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. SERIES HD
+http://163.172.83.131:5000/udp/239.255.5.28:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M.ESTRENOSHD
+http://163.172.83.131:5000/udp/239.255.5.29:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", LA SEXTA HD
+http://163.172.83.131:5000/udp/239.255.5.31:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", TELECINCO
+http://163.172.83.131:5000/udp/239.255.5.32:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", CUATRO HD
+http://163.172.83.131:5000/udp/239.255.5.33:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", ANTENA 3 HD
+http://163.172.83.131:5000/udp/239.255.5.34:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", SOMOS
+http://163.172.83.131:5000/udp/239.255.5.36:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", LA 1
+http://163.172.83.131:5000/udp/239.255.5.35:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. GOLF HD
+http://163.172.83.131:5000/udp/239.255.5.37:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", Service01
+http://163.172.83.131:5000/udp/239.255.5.38:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", NG WILD HD
+http://163.172.83.131:5000/udp/239.255.5.44:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", MEZZO LIVE HD
+http://163.172.83.131:5000/udp/239.255.5.45:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", DISNEY CH HD
+http://163.172.83.131:5000/udp/239.255.5.46:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", HOLLYWOODHD
+http://163.172.83.131:5000/udp/239.255.5.47:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. F?TBOL HD
+http://163.172.83.131:5000/udp/239.255.5.48:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", BEIN SPORTS HD
+http://163.172.83.131:5000/udp/239.255.5.9:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", #0 HD
+http://163.172.83.131:5000/udp/239.255.5.30:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", SUNDANCE
+http://185.130.144.2:8081/play/a00e
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", AE
+http://185.130.144.2:8081/play/a00h
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", COCINA
+http://185.130.144.2:8081/play/a008
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", CI
+http://185.130.144.2:8081/play/a00f
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", SOL
+http://185.130.144.2:8081/play/a006
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", SOMOS
+http://185.130.144.2:8081/play/a007
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", BUZZ
+http://185.130.144.2:8081/play/a01n
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", ODISEA
+http://185.130.144.2:8081/play/a00d
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", AMC
+http://185.130.144.2:8081/play/a002
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", PANDA
+http://185.130.144.2:8081/play/a005
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", HISTORIA
+http://185.130.144.2:8081/play/a00g
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", HOLLYWOOD
+http://185.130.144.2:8081/play/a00c
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", TOROS TV
+http://163.172.83.131:5000/udp/239.255.5.2:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", EUROSPORT1HD
+http://163.172.83.131:5000/udp/239.255.5.3:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", TCM HD
+http://163.172.83.131:5000/udp/239.255.5.1:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M.MOTOGPHD
+http://163.172.83.131:5000/udp/239.255.5.4:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M.FORMULA1HD
+http://163.172.83.131:5000/udp/239.255.5.5:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. DEP 2 HD
+http://163.172.83.131:5000/udp/239.255.5.6:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", BEIN LALIGA HD
+http://163.172.83.131:5000/udp/239.255.5.8:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. DEP 1 HD
+http://163.172.83.131:5000/udp/239.255.5.7:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", BEIN SPORTS HD
+http://163.172.83.131:5000/udp/239.255.5.9:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", NICKELODEONHD
+http://163.172.83.131:5000/udp/239.255.5.12:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", NAT GEO HD
+http://163.172.83.131:5000/udp/239.255.5.11:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", TOROS TV
+http://163.172.83.131:5000/udp/239.255.5.10:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", SYFY HD
+http://163.172.83.131:5000/udp/239.255.5.13:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", AMC HD
+http://163.172.83.131:5000/udp/239.255.5.15:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", TNT HD
+http://163.172.83.131:5000/udp/239.255.5.14:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", AXN HD
+http://163.172.83.131:5000/udp/239.255.5.16:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", AXN WHITE HD
+http://163.172.83.131:5000/udp/239.255.5.17:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", FOX HD
+http://163.172.83.131:5000/udp/239.255.5.18:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", COSMO HD
+http://163.172.83.131:5000/udp/239.255.5.20:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", FOX LIFE HD
+http://163.172.83.131:5000/udp/239.255.5.19:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", CALLE 13 HD
+http://163.172.83.131:5000/udp/239.255.5.21:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", COMEDYCENTRALHD
+http://163.172.83.131:5000/udp/239.255.5.22:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. ACCIгN HD
+http://163.172.83.131:5000/udp/239.255.5.23:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M.COMEDIA HD
+http://163.172.83.131:5000/udp/239.255.5.24:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. DCINE HD
+http://163.172.83.131:5000/udp/239.255.5.25:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. XTRA HD
+http://163.172.83.131:5000/udp/239.255.5.26:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. SeriesXtraHD
+http://163.172.83.131:5000/udp/239.255.5.27:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. SERIES HD
+http://163.172.83.131:5000/udp/239.255.5.28:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M.ESTRENOSHD
+http://163.172.83.131:5000/udp/239.255.5.29:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", #0 HD
+http://163.172.83.131:5000/udp/239.255.5.30:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", TELECINCO
+http://163.172.83.131:5000/udp/239.255.5.32:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", LA SEXTA HD
+http://163.172.83.131:5000/udp/239.255.5.31:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", CUATRO HD
+http://163.172.83.131:5000/udp/239.255.5.33:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", ANTENA 3 HD
+http://163.172.83.131:5000/udp/239.255.5.34:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", LA 1
+http://163.172.83.131:5000/udp/239.255.5.35:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. GOLF HD
+http://163.172.83.131:5000/udp/239.255.5.37:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", Service01
+http://163.172.83.131:5000/udp/239.255.5.38:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", NG WILD HD
+http://163.172.83.131:5000/udp/239.255.5.44:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", MEZZO LIVE HD
+http://163.172.83.131:5000/udp/239.255.5.45:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", DISNEY CH HD
+http://163.172.83.131:5000/udp/239.255.5.46:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", HOLLYWOODHD
+http://163.172.83.131:5000/udp/239.255.5.47:1450
+#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", M. FкTBOL HD
+http://163.172.83.131:5000/udp/239.255.5.48:1450
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 
 
 
@@ -2692,41 +2923,31 @@ http://stream.radio.com.pt:8537/;stream.mp3
 Http://google.pt
 
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="ADULTO", Playboy TV
+http://93.171.170.249:8080/http/192.168.196.1/ch/433
+#EXTINF:-1 tvg-id="PLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="ADULTO", Playboy TV
 http://62.167.50.245:8000/play/a04e
 #EXTINF:-1 tvg-id="venus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Venus_Nuevo_Logo_2014.png" group-title="ADULTO", Venus
 http://62.167.50.245:8000/play/a026
+#EXTINF:-1 tvg-id="venus" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Brazzers-TV-Europe-18.png" group-title="ADULTO", Brazzers
+http://93.171.170.249:8080/http/192.168.196.1/ch/494
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.dautkom.lv/upload/image/channels/opis/nuartlogo.png" group-title="ADULTO", Nuarte
 http://78.111.176.132:8080
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.dautkom.lv/upload/image/channels/opis/nuartlogo.png" group-title="ADULTO", Nuarte
+http://93.171.170.249:8080/http/192.168.196.1/ch/434
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.logovaults.com/stock_thumb/preview-hustler-tv-ODExOQ==.jpg" group-title="ADULTO", Hustler
 http://78.111.176.132:8081
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.logotypes101.com/logos/241/6351F266448F0647E9458BD07437062B/XXX_energy_drink.png" group-title="ADULTO", HOYON KAY6
+http://93.171.170.249:8080/http/192.168.196.1/ch/438
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.logotypes101.com/logos/241/6351F266448F0647E9458BD07437062B/XXX_energy_drink.png" group-title="ADULTO", XXX
 http://78.111.176.132:8082
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.logotypes101.com/logos/241/6351F266448F0647E9458BD07437062B/XXX_energy_drink.png" group-title="ADULTO", XXX
+http://93.171.170.249:8080/http/192.168.196.1/ch/435
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://freevector.co/wp-content/uploads/2011/08/brazzers.png" group-title="ADULTO", Brazzers (Acestream)
-acestream://8b96bd8df497182d7ec2506b997b3879c0ca450c
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://vertelevisor.com/logos/hustlertv.jpg" group-title="ADULTO", HUSTLER HD (Acestream)
-acestream://d83b0a25ff3a6232011e4747f86220ad0d49b0ac
-#EXTINF:-1, XXX- PLAYBOY (ACESTREAM)
-http://content.asplaylist.net/NEIyQXVRQWRmL2hvZlBLQzNaWFhBckc1My9oSUxSRVNrWWEwdmxWQ0JIeWl3dWh6cHZXRWl3SE9uSkR0VWI2empRdUNnaTlXR2YwS2NiWGxlQkJXWWc9PQ/cdn/383_reg.acelive
-#EXTINF:-1, XXX- CENTOXCENTO (ACESTREAM)
-http://content.asplaylist.net/aGhPN1BJWHlEU3p0NGxveUhJQkYyQkFxcG45V1VCa3BTRTllL2VUbTlwQXRwUW9kQTNObTBBU1VYWUU5clVIUldrNHpXM2FVU1lJdFlvbGpYL2twVEE9PQ/cdn/1060_reg.acelive
-#EXTINF:-1, XXX- BRAZZER TV (ACESTREAM)
-http://content.asplaylist.net/b2dMQjRHQS9DMDFPcVp5YjNReHF2bzNzaWNnNUFzU0paSVBiSnVHTkNyUi94RHZ0OHFScjN4QmY4dTNXZnlYNkdpT0hNeitJL25mbldPbGN6OGkyVXc9PQ/cdn/540_reg.acelive
-#EXTINF:-1, XXX- OLA-LA (ACESTREAM)
-http://content.asplaylist.net/SWFKNnhFZjArUVZmaGs3bnJ4OGVPTlgzb2ZMczRxQnRhM0ZHVXRsdjIwZlNKeU50aWFpdFE4ZGMrY2R0VFVZc1ZSSW05a3hOOFVOWXAwR29QNUQ4aGc9PQ/cdn/826_reg.acelive
-#EXTINF:-1, XXX- SCT (ACESTREAM)
-http://content.asplaylist.net/RUV1ZDhuRFNiTjV3UERsTWJzUzFFQ3JQaVhPUFdSUVQ1NE1FQm1HOEZBY0o5K0NQQ3hzbzNKaGVmQTR3cysvWmkzakRZSE50NlJmTW54TFBqZ1BGdnc9PQ/cdn/911_reg.acelive
-#EXTINF:-1, XXX- PINK0 TV (ACESTREAM)
-http://content.asplaylist.net/b3FJV3NMcUVhZCtnRU96QTd0WGp1T2xXYWZWT04zUDdlV2U5MXVmWHRobjlFcE1VMllZVDJmbitVbFVlOFR4VU91N0RsWitTSG9PWXVmRS9TdXJBaEE9PQ/cdn/925_reg.acelive
-#EXTINF:-1, XXX- EXOTICA TV (ACESTREAM)
-http://content.asplaylist.net/MG55OWdJVzJyNUlubWNFQkg5MEwzTUsvMERxMTZVR0duVzQ1S3ExaXduWGxpYjNqM25BY0o5bDNpVzNQTDVDNm00S2huOHMyVlArVWhweWlxUEZaNVE9PQ/cdn/919_reg.acelive
-#EXTINF:-1, XXX- LEGAL PORN (ACESTREAM)
-http://content.asplaylist.net/YTdFT28zN3E3ckUxN2h5VTRscVZZdDRYOFRVcE1LemN6NGtNTVZWeGhVclVxZU5JeDlJeXBtcVB2VnA4cFVyQzVRNVdwaEVqUktuT0lrMWVpNHdLZHc9PQ/cdn/1167_reg.acelive
-#EXTINF:-1, XXX- FAP TV AMATEUR (ACESTREAM)
-http://content.asplaylist.net/LzFveUpUTFhhRG5nKzh6V0QrSGNnVm5BYWwrUmRFZXNuQmEzS3pqYmlPV1k1cXVXWkRvK0oxdjdQWSsySkt0MDdvTzRWN2hGSnpmVG9qVWFoalNxSGc9PQ/cdn/1175_reg.acelive
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tonis_logo.png" group-title="ADULTO", Tonis (RU)
+http://93.171.170.249:8080/http/192.168.196.1/ch/63
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.logotypes101.com/logos/241/6351F266448F0647E9458BD07437062B/XXX_energy_drink.png" group-title="ADULTO", Cohye (RU)
+http://93.171.170.249:8080/http/192.168.196.1/ch/59
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
