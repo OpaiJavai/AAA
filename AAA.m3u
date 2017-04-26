@@ -2905,7 +2905,6 @@ http://stream.radio.com.pt:8537/;stream.mp3
 
 ---------------------------------------------------------------------------------------------------------------------
 
-
 #EXTINF:-1 tvg-logo="http://begin-english.ru/img/upload/2/f/7/7/d989510b55.png" group-title="ADULTO", ADULTO
 Http://google.pt
 
@@ -2913,18 +2912,28 @@ Http://google.pt
 http://178.193.237.115:9000/play/a078
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="ADULTO", Playboy TV
 http://62.167.50.245:8000/play/a04e
+#EXTINF:-1 tvg-id="PLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="ADULTO", Playboy TV
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="HOT" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/25/Sexy_Hot_logo.png/revision/latest?cb=20130504223718" group-title="ADULTO", Hot
 http://178.193.237.115:9000/play/a083
 #EXTINF:-1 tvg-id="venus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Venus_Nuevo_Logo_2014.png" group-title="ADULTO", Venus
 http://62.167.50.245:8000/play/a026
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Brazzers-TV-Europe-18.png" group-title="ADULTO", Brazzers
 http://93.171.170.249:8080/http/192.168.196.1/ch/494
+#EXTINF:-1 tvg-id="But GO" tvg-name="But GO" tvg-logo="http://okteve.com/wp-content/uploads/media/8be9f5221c29571a63c6c6f2f4c86b54-196x126.jpeg" group-title="ADULTO" , But GO 
+http://edge2.everyon.tv:1935/etv2sb/pld10772/chunklist_w1599318248.m3u8
+#EXTINF:-1 tvg-id="Penthouse" tvg-name="Penthouse" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e2/Penthouse_TV.png/revision/latest?cb=20111123211241" group-title="ADULTO" , Penthouse
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.logovaults.com/stock_thumb/preview-hustler-tv-ODExOQ==.jpg" group-title="ADULTO", Hustler
 http://78.111.176.132:8081
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.logovaults.com/stock_thumb/preview-hustler-tv-ODExOQ==.jpg" group-title="ADULTO", Hustler
 http://89.38.8.131:39527
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Blue_hustler.png" group-title="ADULTO", Blue Hustler
 http://89.38.8.131:39491
+#EXTINF:-1 tvg-id="Live Ting" tvg-name="Live Ting" tvg-logo="https://cdn6.bigcommerce.com/s-6q5bpsuh/product_images/uploaded_images/ting-logo.png" group-title="ADULTO" , Live Ting 
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="Sakura" tvg-name="Sakura" tvg-logo="http://www.sakuratv.com/sites/www.sakuratv.com/files/Sakura-TV_logo.png" group-title="ADULTO" , Sakura 
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.dautkom.lv/upload/image/channels/opis/nuartlogo.png" group-title="ADULTO", Nuarte
 http://78.111.176.132:8080
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.dautkom.lv/upload/image/channels/opis/nuartlogo.png" group-title="ADULTO", Nuarte
@@ -2941,6 +2950,7 @@ http://93.171.170.249:8080/http/192.168.196.1/ch/435
 http://93.171.170.249:8080/http/192.168.196.1/ch/63
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.logotypes101.com/logos/241/6351F266448F0647E9458BD07437062B/XXX_energy_drink.png" group-title="ADULTO", Cohye (RU)
 http://93.171.170.249:8080/http/192.168.196.1/ch/59
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
