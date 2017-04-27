@@ -2800,12 +2800,14 @@ http://93.171.170.249:8080/http/192.168.196.1/ch/438
 #EXTINF:-1 tvg-id="" tvg-logo="http://iptv-ural.narod.ru/images/25.png" group-title="ADULTO", Русскаја ночь
 http://78.111.176.132:8082
 #EXTINF:-1 tvg-id="" tvg-logo="http://iptv-ural.narod.ru/images/25.png" group-title="ADULTO", Русскаја ночь
-http://93.171.170.249:8080/http/192.168.196.1/ch/435
+http://37.235.143.203:81/udp/225.50.70.3:1234
+#EXTINF:-1 tvg-id="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/ef147934e31fd8f8a1a1d5bba1522f97.jpeg" group-title="ADULTO", Candy TV
+http://37.235.143.203:81/udp/225.50.70.1:1234
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tele.lu/var/ezflow_site/storage/images/channel-2-items/frenchlover-tv/278248-4-ger-DE/Frenchlover-TV_logobig.png" group-title="ADULTO", Frenchlover TV
+http://37.235.143.203:81/udp/225.50.70.7:1234
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tele.lu/var/ezflow_site/storage/images/channel-2-items/free-x-tv/284541-2-ger-DE/Free-X-TV_logobig.png" group-title="ADULTO", Free-X TV
+http://37.235.143.203:81/udp/225.50.70.8:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tonis_logo.png" group-title="ADULTO", Tonis (RU)
-http://93.171.170.249:8080/http/192.168.196.1/ch/63
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.logotypes101.com/logos/241/6351F266448F0647E9458BD07437062B/XXX_energy_drink.png" group-title="ADULTO", Cohye (RU)
-http://93.171.170.249:8080/http/192.168.196.1/ch/59
 
 
 
