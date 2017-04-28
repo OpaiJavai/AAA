@@ -57,7 +57,7 @@ http://213.13.26.11:1935/live/portocanal/FamiliaIPTV.m3u8
 http://62.167.50.245:8000/play/a04a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" tvg-id="rtpmemoria.pt" group-title="PORTUGAL",RTP MEMORIA
 http://178.196.220.26:9999/play/a00b
-#EXTINF:-1 tvg-logo="https://tinyurl.com/lkagsvy" tvg-id="RTPi.pt" group-title="PORTUGAL",RTP INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://goo.gl/52PvNv" tvg-id="RTPi.pt" group-title="PORTUGAL",RTP INTERNACIONAL
 http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" tvg-id="RTPMadeira.pt" group-title="PORTUGAL",RTP MADEIRA
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/KodiPortugal.pt.m3u8
