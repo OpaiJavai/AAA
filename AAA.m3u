@@ -2800,9 +2800,11 @@ http://78.111.176.132:8080
 http://93.171.170.249:8080/http/192.168.196.1/ch/434
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.logotypes101.com/logos/241/6351F266448F0647E9458BD07437062B/XXX_energy_drink.png" group-title="ADULTO", HOYON KAY6
 http://93.171.170.249:8080/http/192.168.196.1/ch/438
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://iptv-ural.narod.ru/images/25.png" group-title="ADULTO", Русскаја ночь
 http://78.111.176.132:8082
+#EXTINF:-1 tvg-id="" tvg-logo="http://magazin.jasmin.rs/wp-content/uploads/2015/03/logo.png" group-title="ADULTO", Jasmim TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
