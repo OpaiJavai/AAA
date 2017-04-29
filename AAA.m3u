@@ -68,7 +68,7 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="PORTUGAL",24 KITCHEN
 http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1366.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1329.m3u8
+http://178.196.220.26:9999/play/a031  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 
 http://178.196.220.26:9999/play/a031
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 (TEMP)+
@@ -76,17 +76,17 @@ http://worldcs.info:8080/live/zxzx/cvcv/676.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 (TEMP)+
 http://worldcs.info:8080/live/zxzx/cvcv/7252.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1331.m3u8
+http://178.196.220.26:9999/play/a02q 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1330.m3u8
+http://178.196.220.26:9999/play/a02u  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1332.m3u8
+http://178.196.220.26:9999/play/a02v  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
 http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1328.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV
 http://178.196.220.26:9999/play/a01h
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1335.m3u8
+http://178.196.220.26:9999/play/a01h
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV (TEMP)
 http://pro213.com/live/Ramzi/Ramzi/3824.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV (TEMP)+
@@ -102,7 +102,7 @@ http://178.193.237.115:9000/play/a07y
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT
 http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1334.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="eurosport2.pt" group-title="PORTUGAL",EUROSPORT 2
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1370.m3u8
+http://178.196.220.26:9999/play/a00o  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" tvg-id="0" group-title="PORTUGAL",KOMBAT SPORT
 http://178.193.237.115:9000/play/a089
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png" tvg-id="MOTOR" group-title="PORTUGAL",MOTORS TV
@@ -116,23 +116,23 @@ http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n5zs2f4" tvg-id="0" group-title="PORTUGAL",NBA
 http://62.167.50.245:8000/play/a038
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1351.m3u8
+http://62.167.50.245:8000/play/a027
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1352.m3u8
+http://178.193.237.115:9000/play/a00t
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1353.m3u8
+http://178.193.237.115:9000/play/a00r
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 4
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1354.m3u8
+http://62.167.50.245:8000/play/a01e
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="PORTUGAL",TVSERIES
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1355.m3u8 
+http://178.193.237.115:9000/play/a00s
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="PORTUGAL",HOLLYWOOD
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1347.m3u8
+http://178.196.220.26:9999/play/a02x  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="PORTUGAL",SYFY
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1363.m3u8
+http://62.167.50.245:8000/play/a04i
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo" group-title="PORTUGAL",CINEMUNDO
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1349.m3u8
+http://62.167.50.245:8000/play/a010
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC" group-title="PORTUGAL",AMC
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1346.m3u8
+http://178.193.237.115:9000/play/a08g
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="PORTUGAL",AXN
 http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1357.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="PORTUGAL",FOX 
@@ -142,23 +142,23 @@ http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1358.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FOXM" group-title="PORTUGAL",FOX MOVIES
 http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1350.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="PORTUGAL",FOX CRIME
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1360.m3u8
+http://178.193.237.115:9000/play/a00m
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="PORTUGAL",FOX COMEDY
 http://178.193.237.115:9000/play/a06w
 #EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="PORTUGAL",DISNEY CHANNEL
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1340.m3u8
+http://62.167.50.245:8000/play/a02c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="PORTUGAL",DISNEY JUNIOR
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1343.m3u8
+http://178.193.237.115:9000/play/a01n
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="PORTUGAL",CARTOON NETWORK
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1345.m3u8
+http://178.196.220.26:9999/play/a00a  
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="PORTUGAL",PANDA
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1341.m3u8
+http://178.196.220.26:9999/play/a01i 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="PORTUGAL",PANDA BIGGS
 http://178.193.237.115:9000/play/a01d
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" group-title="PORTUGAL",NICKELODEON
 http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1342.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BABYT" group-title="PORTUGAL",BABY TV
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1344.m3u8
+http://62.167.50.245:8000/play/a012
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SICK.pt" group-title="PORTUGAL",SIC K
 http://178.193.237.115:9000/play/a08h
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM" group-title="PORTUGAL",JIMJAM
@@ -235,9 +235,9 @@ http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1362.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NGWIL" group-title="PORTUGAL",NATIONAL GEOGRAPHIC WILD
 http://178.196.220.26:9999/play/a007
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="HistoryChannel.pt" group-title="PORTUGAL",HISTORIA
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1365.m3u8
+http://178.196.220.26:9999/play/a02z 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="PORTUGAL",ODISSEIA
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1364.m3u8
+http://178.196.220.26:9999/play/a030  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="" group-title="PORTUGAL",E! Entertainment
 http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1348.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id="AE" group-title="PORTUGAL",A&E
