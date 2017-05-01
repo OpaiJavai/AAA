@@ -71,10 +71,6 @@ http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1366.m3u8
 http://178.196.220.26:9999/play/a031  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 
 http://178.196.220.26:9999/play/a031
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 (TEMP)+
-http://worldcs.info:8080/live/zxzx/cvcv/676.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 (TEMP)+
-http://worldcs.info:8080/live/zxzx/cvcv/7252.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 
 http://178.196.220.26:9999/play/a02q 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
@@ -85,16 +81,6 @@ http://178.196.220.26:9999/play/a02v
 http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1328.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV
 http://178.196.220.26:9999/play/a01h
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV
-http://178.196.220.26:9999/play/a01h
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV (TEMP)
-http://pro213.com/live/Ramzi/Ramzi/3824.ts
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV (TEMP)+
-http://worldcs.info:8080/live/zxzx/cvcv/727.ts
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV (TEMP)+
-http://worldcs.info:8080/live/zxzx/cvcv/728.ts
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV (TEMP)+
-http://worldcs.info:8080/live/zxzx/cvcv/633.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A Bola TV
 http://62.167.50.245:8000/play/a02g
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV 
@@ -424,636 +410,132 @@ http://alphatwo.ddns.net:8000/live/belle/belle/435.ts
 Http://google.pt
 
 
-#EXTINF:-1,PT-DISNEY JUNIOR SD
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1343.ts
-#EXTINF:-1,PT-DISNEY CHANNEL SD
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1340.ts
-#EXTINF:-1,PT-NICKELODEON  SD
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1342.ts
-#EXTINF:-1,PT-CARTOON NETWORK  SD
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1345.ts
-#EXTINF:-1,PT-BABY TV SD
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1344.ts
-#EXTINF:-1,PT-PANDA SD
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1341.ts
-
-
-#EXTINF:-1,PT: Disney channel HD
-http://xtream.globepremium.com:8000/live/doyon/doyon/1240.ts
-#EXTINF:-1,PT: DISNEY JUNIOR HD
-http://xtream.globepremium.com:8000/live/doyon/doyon/901.ts
-#EXTINF:-1,PT: CARTOON NETWORK HD
-http://xtream.globepremium.com:8000/live/doyon/doyon/908.ts
-#EXTINF:-1,PT: Jim Jam HD
-http://xtream.globepremium.com:8000/live/doyon/doyon/2778.ts
-#EXTINF:-1,PT: Baby Tv HD
-http://xtream.globepremium.com:8000/live/doyon/doyon/2786.ts
-#EXTINF:-1,PT: CanalPanda HD
-http://xtream.globepremium.com:8000/live/doyon/doyon/2781.ts
-
-
-
-#EXTINF:-1,PT: Sic Kids
-http://pro213.com/live/Ramzi/Ramzi/3771.ts
-
-
-#EXTINF:0,PT: SIC Kids
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10258.ts
-#EXTINF:0,PT: NICKELODEON
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10268.ts
-#EXTINF:0,PT: BABY TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20637.ts
-#EXTINF:0,PT: Biggs
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20649.ts
-#EXTINF:0,PT: JIM JAM
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20648.ts
-#EXTINF:0,PT: PANDA BIGGS
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20628.ts
-#EXTINF:0,PT: DISNEY JUNIOR
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10282.ts
-#EXTINF:0,PT: DISNEY CHANNEL
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10283.ts
-#EXTINF:0,PT: CARTOON NETWORK
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10289.ts
-#EXTINF:0,PT: CANAL PANDA
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10290.ts
-
-
-
-
-#EXTINF:-1,PT-SPORT TV 1 HD 720p
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1329.ts
-#EXTINF:-1,PT-SPORT TV 2  HD  720p
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1331.ts
-#EXTINF:-1,PT-SPORT TV 3 HD  720p
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1330.ts
-#EXTINF:-1,PT-SPORT TV 4  HD  720p
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1332.ts
-#EXTINF:-1,PT-SPORT TV 5  SD
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1328.ts
-#EXTINF:-1,PT-BENFICA TV 1  HD 720p
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1335.ts
-#EXTINF:-1,PT-BENFICA TV 1 HD  720p
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1336.ts
-#EXTINF:-1,PT-SPORT TV AMERICAS ( Canal de Internet )
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1333.ts
-
-
-#EXTINF:-1,PT: BENFICA TV 1 HD
-http://xtream.globepremium.com:8000/live/doyon/doyon/918.ts
-#EXTINF:-1,PT: BENFICA TV 1 HD
-http://xtream.globepremium.com:8000/live/doyon/doyon/917.ts
-#EXTINF:-1,PT: SPORT TV +
-http://xtream.globepremium.com:8000/live/doyon/doyon/6753.ts
-#EXTINF:-1,PT: SPORT TV 1 HD-S
-http://xtream.globepremium.com:8000/live/doyon/doyon/6613.ts
-#EXTINF:-1,PT: SPORT TV 1HD
-http://xtream.globepremium.com:8000/live/doyon/doyon/752.ts
-#EXTINF:-1,PT: SPORT TV 1 Mobile
-http://xtream.globepremium.com:8000/live/doyon/doyon/6666.ts
-#EXTINF:-1,PT: SPORT TV 2 HD-S
-http://xtream.globepremium.com:8000/live/doyon/doyon/6612.ts
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://xtream.globepremium.com:8000/live/doyon/doyon/751.ts
-#EXTINF:-1,PT: SPORT TV 2 Mobile
-http://xtream.globepremium.com:8000/live/doyon/doyon/6667.ts
-#EXTINF:-1,PT: SPORT TV 3 HD-S
-http://xtream.globepremium.com:8000/live/doyon/doyon/6611.ts
-#EXTINF:-1,PT: SPORT TV 3HD
-http://xtream.globepremium.com:8000/live/doyon/doyon/750.ts
-#EXTINF:-1,PT: SPORT TV 3 Mobile
-http://xtream.globepremium.com:8000/live/doyon/doyon/6668.ts
-#EXTINF:-1,PT: SPORT TV 4 HD-S
-http://xtream.globepremium.com:8000/live/doyon/doyon/6610.ts
-#EXTINF:-1,PT: SPORT TV 4HD
-http://xtream.globepremium.com:8000/live/doyon/doyon/749.ts
-#EXTINF:-1,PT: SPORT TV 5 HD-S
-http://xtream.globepremium.com:8000/live/doyon/doyon/6609.ts
-#EXTINF:-1,PT: SPORT TV 5HD
-http://xtream.globepremium.com:8000/live/doyon/doyon/748.ts
-
-
-#EXTINF:0,PT: A Bola TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20641.ts
-#EXTINF:0,PT: BENFICA TV 1
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20606.ts
-#EXTINF:0,PT: BENFICA TV 1
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20607.ts
-#EXTINF:0,PT: BTV 1 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10294.ts
-#EXTINF:0,PT: Sport TV 1 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20608.ts
-#EXTINF:0,PT: BENFICA TV 1 FULL HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10574.ts
-#EXTINF:0,PT: Sport.TV1
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20754.ts
-#EXTINF:0,PT: SPORT TV 1
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10255.ts
-#EXTINF:0,PT: Sport Tv 2 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20609.ts
-#EXTINF:0,PT: SPORT TV 2
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10254.ts
-#EXTINF:0,PT: Sport Tv 3 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20610.ts
-#EXTINF:0,PT: SPORT TV 3
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10252.ts
-#EXTINF:0,PT: Sport Tv 4 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20611.ts
-#EXTINF:0,PT: SPORT TV 4
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10251.ts
-#EXTINF:0,PT: Sport.TV4
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20757.ts
-#EXTINF:0,PT: Sport Tv 5 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20612.ts
-#EXTINF:0,PT: SPORT TV 5
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10250.ts
-#EXTINF:0,PT: Sport TV 5 PT
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20613.ts
-
-
-
-#EXTINF:-1,PT Sports TV1
-http://pro213.com/live/Ramzi/Ramzi/3007.ts
-#EXTINF:-1,PT Sports TV2
-http://pro213.com/live/Ramzi/Ramzi/3003.ts
-#EXTINF:-1,PT Sports TV3
-http://pro213.com/live/Ramzi/Ramzi/3004.ts
-#EXTINF:-1,PT Sports TV4
-http://pro213.com/live/Ramzi/Ramzi/3005.ts
-#EXTINF:-1,PT Sports TV5
-http://pro213.com/live/Ramzi/Ramzi/3006.ts
-#EXTINF:-1,PT: Benfica TV1
-http://pro213.com/live/Ramzi/Ramzi/3824.ts
-
-
-
-
-
-
-
--------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", ESPANHA
-http://google.com
-
-
-
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",ENERGY
-http://185.59.221.80:5000/play/a00s
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M+ SERIES XTRA
-http://185.59.221.80:5000/play/a017
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M+ SERIES
-http://185.59.221.80:5000/play/a015
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M+ GOLF
-http://185.59.221.80:5000/play/a00n
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",LA SEXTA
-http://185.59.221.80:5000/play/a00e
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",Hollywood HD
-http://185.59.221.80:5000/play/a016
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",DCINE ESPANOL
-http://185.59.221.80:5000/play/a01b
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",HISTORIA
-http://185.59.221.80:5000/play/a01x
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",laSexta HD
-http://185.59.221.80:5000/play/a02e
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",TEN
-http://185.59.221.80:5000/play/a00f
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",CRIMEN+INVES
-http://185.59.221.80:5000/play/a019
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",COSMO
-http://185.59.221.80:5000/play/a01s
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",NOVA
-http://185.59.221.80:5000/play/a00d
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",NONSTOPEOPLE
-http://185.59.221.80:5000/play/a01p
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",A&E
-http://185.59.221.80:5000/play/a003
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",DISNEY JR
-http://185.59.221.80:5000/play/a01g
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",BeMad tv HD
-http://185.59.221.80:5000/play/a02a
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",LA 2
-http://185.59.221.80:5000/play/a00v
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",FOX LIFE HD
-http://185.59.221.80:5000/play/a02m
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",AXN WHITE
-http://185.59.221.80:5000/play/a01y
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",COSMO HD
-http://185.59.221.80:5000/play/a02o
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",SYFY HD
-http://185.59.221.80:5000/play/a013
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",CLASSICA
-http://185.59.221.80:5000/play/a01f
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",COMEDY CENTRAL
-http://185.59.221.80:5000/play/a01t
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",ANTENA 3
-http://185.59.221.80:5000/play/a00j
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",CANAL COCINA
-http://185.59.221.80:5000/play/a01k
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",TNT
-http://185.59.221.80:5000/play/a01u
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M+ COMEDIA HD
-http://185.59.221.80:5000/play/a012
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",SYFY
-http://185.59.221.80:5000/play/a00o
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",C+ TOROS HD
-http://185.59.221.80:5000/play/a02g
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",BAR.A TV
-http://185.59.221.80:5000/play/a01a
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",BEIN SPORTS HD
-http://185.59.221.80:5000/play/a02k
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",24 HORAS
-http://185.59.221.80:5000/play/a00h
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M.MOTOGP HD
-http://185.59.221.80:5000/play/a027
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",AXN HD
-http://185.59.221.80:5000/play/a02s
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M.COMEDIA HD
-http://185.59.221.80:5000/play/a02n
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",TELEDEPORTE
-http://185.59.221.80:5000/play/a002
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",NAT GEOGRAPH
-http://185.59.221.80:5000/play/a00p
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",Antena3 HD
-http://185.59.221.80:5000/play/a02c
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",VIAJAR HD
-http://185.59.221.80:5000/play/a02i
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",Cuatro HD
-http://185.59.221.80:5000/play/a02l
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M+ ACCIN HD
-http://185.59.221.80:5000/play/a010
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",CALLE 13
-http://185.59.221.80:5000/play/a00q
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",CANAL ORBE21
-http://185.59.221.80:5000/play/a018
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",FOX HD
-http://185.59.221.80:5000/play/a023
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",DISCOVERY
-http://185.59.221.80:5000/play/a01e
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",CANAL DECASA
-http://185.59.221.80:5000/play/a005
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",FDF
-http://185.59.221.80:5000/play/a006
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",DISNEY XD
-http://185.59.221.80:5000/play/a00y
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",PLAYBOY TV
-http://185.59.221.80:5000/play/a00k
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",TCM
-http://185.59.221.80:5000/play/a01z
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M. F.TBOL
-http://185.59.221.80:5000/play/a00m
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",LALIGATV BAR HD
-http://185.59.221.80:5000/play/a02j
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M.FORMULA 1 HD
-http://185.59.221.80:5000/play/a024
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",CANAL ODISEA
-http://185.59.221.80:5000/play/a00x
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",Neox
-http://185.59.221.80:5000/play/a00a
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M. GOLF HD
-http://185.59.221.80:5000/play/a02q
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",NAT GEO HD
-http://185.59.221.80:5000/play/a02f
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA", 13 HD
-http://185.59.221.80:5000/play/a02h
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",DMAX
-http://185.59.221.80:5000/play/a00i
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",LTC
-http://185.59.221.80:5000/play/a01q
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M. MOTOGP
-http://185.59.221.80:5000/play/a021
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",BEIN LALIGA HD
-http://185.59.221.80:5000/play/a026
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",DIVINITY
-http://185.59.221.80:5000/play/a009
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M+ ESTRENOS
-http://185.59.221.80:5000/play/a020
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",LALIGATV BAR
-http://185.59.221.80:5000/play/a00l
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",AMC HD
-http://185.59.221.80:5000/play/a025
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",R. MADRID TV
-http://185.59.221.80:5000/play/a01o
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",CUATRO
-http://185.59.221.80:5000/play/a007
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",Mega
-http://185.59.221.80:5000/play/a004
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",Tdp HD
-http://185.59.221.80:5000/play/a02b
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",BABY TV
-http://185.59.221.80:5000/play/a01h
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M+ eSPORTS
-http://185.59.221.80:5000/play/a01r
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",DKISS
-http://185.59.221.80:5000/play/a00w
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",Telecinco HD
-http://185.59.221.80:5000/play/a02d
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",Realmadrid TV HD
-http://185.59.221.80:5000/play/a029
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",DISNEY CH
-http://185.59.221.80:5000/play/a008
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",FOX NEWS
-http://185.59.221.80:5000/play/a01w
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M+ DEPORT 2
-http://185.59.221.80:5000/play/a014
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",BEIN LALIGA
-http://185.59.221.80:5000/play/a00r
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",BOING
-http://185.59.221.80:5000/play/a00c
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",TELECINCO
-http://185.59.221.80:5000/play/a00g
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",LA 1
-http://185.59.221.80:5000/play/a00t
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M. SeriesXtraHD
-http://185.59.221.80:5000/play/a02p
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",Atreseries HD
-http://185.59.221.80:5000/play/a028
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",CLAN TV
-http://185.59.221.80:5000/play/a001
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",LA 1 HD
-http://185.59.221.80:5000/play/a022
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",EUROSPORT 1
-http://185.59.221.80:5000/play/a01v
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M+ F.TBOL HD
-http://185.59.221.80:5000/play/a00z
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",GOL
-http://185.59.221.80:5000/play/a00u
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",CAZA Y PESCA
-http://185.59.221.80:5000/play/a01d
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",MTV
-http://185.59.221.80:5000/play/a01i
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",AMC
-http://185.59.221.80:5000/play/a01m
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",CANAL PANDA
-http://185.59.221.80:5000/play/a01j
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M+ DCINE HD
-http://185.59.221.80:5000/play/a011
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",M+ DEPORTES
-http://185.59.221.80:5000/play/a01n
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",PARAMOUNT
-http://185.59.221.80:5000/play/a00b
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",COMEDY CENTRAL HD
-http://185.59.221.80:5000/play/a02r
-#EXTINF:-1 tvg-logo="http://www.tainodivers.com/files/stacks-image-701d3ea.png" group-title="ESPANHA",#0
-http://185.59.221.80:5000/play/a01c
-
-
-
-
-
-
--------------------------------------------------------------------------------------------------------------------------
-
-
-
-#EXTINF:-1 tvg-id="sporttvmais.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png/medium" group-title="DESPORTO-ACESTREAM", SPORT.TV + HD
-acestream://861bbba2263bf0707ce223e4933b79db6b48b018
-
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" group-title="DESPORTO-ACESTREAM", SPORT.TV 1 HD
-acestream://fb69958f116fdcae056d0ce73619251c57fc203f
-
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png/medium" group-title="DESPORTO-ACESTREAM", SPORT.TV 1 HD
-acestream://c4982dc3643cb07ee567b6c6c359fdc31a825e4e
-
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="DESPORTO-ACESTREAM", SPORT.TV 2 HD
-acestream://98410bb46b09fa5e77059ed5c371dd5a9f87712a
-
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="DESPORTO-ACESTREAM", SPORT.TV 2 HD
-acestream://1c1e203af297b4d756a08e9fff7c3466e07cade1
-
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png/medium" group-title="DESPORTO-ACESTREAM", SPORT.TV 3 HD
-acestream://9e750884d765dc2d87e8650d9180da7b0cad1a15
-
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png/medium" group-title="DESPORTO-ACESTREAM", SPORTTV 4 HD
-acestream://90e0c453296d3608b48b5829663d1432d5924bcf
-
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/vvvqxp1470408443.png/medium" group-title="DESPORTO-ACESTREAM", SPORTTV 5 HD
-acestream://f60367b0ada5815bd2349b78fe11ce68cac0363b
-
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/benfica_tv_c.png" group-title="DESPORTO-ACESTREAM", BENFICA TV
-
-
-
-#EXTINF:-1 tvg-logo="http://arenavision.in/sites/default/files/logo_av2015.png" group-title="DESPORTO-ACESTREAM", Arenavision Agenda
-https://arenavision.in/schedule
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 1
-acestream://886fbcfda9cc0e041684cf3f11b4ef446a07ffdf
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 2
-acestream://b8908994341bae87899bb6c8766e70387669f2ea
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 3
-acestream://101a372297ed079761fc10ea3a8ed638a89b94b7
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 4
-acestream://89b78ce87722a9d47d2cbfa88655b4785854a3b2
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 5
-acestream://d0b61152255eb9712581b6985002b81e69a0aef9
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 6 
-acestream://c31c6720db2cad5ac1c90d2d6a55d95d3aabefae
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 7
-acestream://88e39a6e7206575e987cde102e2002babc661ec9
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 8
-acestream://22bee6e183cf908e9235f6ec0df96fc599a89707
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 9
-acestream://3b59130675fdbef7a61e3f27195404508619f9ab
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 10
-acestream://2ce07891cf43d6fd00f97247bf79de57d67ef78e
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 11
-acestream://6ec049a407ea9272cf00e6ec92a950d88d4e8169
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 12
-acestream://7cf68aeead1416b0afc080e814476b82bc68fff0
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 13
-acestream://adc607fbdee2e928193b16483893bfeacaa794ed
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 14
-acestream://4b16e465a2ec93a7a6b8afbeed0632a6c73d25b0
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 15
-acestream://f6668f32439de8a1043cce14a03bc305a13a36e9
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 16
-acestream://001c37f0c86220422ee01b873c24f098c835214e
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 17
-acestream://617c0a96a4cff7348bf6842186dcdef119ec7aa5
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 18
-acestream://62cecab8e12d5df9db9077ccd8f16d651c93775f
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 19
-acestream://63d4758ca0aafd2195d89c8493e1bab2a93c8046
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 20
-acestream://ed0eb3c44cd794bf1955bc674b755e04ac46950e
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 22
-acestream://778259b56a37efe1ed26536af28bc243ea2f5f31
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 23
-acestream://96e7b281fbe5c998d78e026350f7d573646b4aaf
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 24
-acestream://903387406b276b454f7669bf00231e8a8e2e76ad
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 25
-acestream://b7e74c43494c75edfdf5d3ac6b212fc6362717b8
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 26
-acestream://f4d77a80fa28f0a34ded0132dc1952ec328f6998
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 28
-acestream://8cb1007a6f52a556343fdfdf0ae72cd1fad95a5b
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 29
-acestream://d0fa12d12e80c07e7e48a23e7b890c2f2cf2f6dd
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" group-title="DESPORTO-ACESTREAM",ArenaVision 30
-acestream://2079008ddb5e0e7b45b848bf5dda63d6b600b90b
-
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM", ArenaVision RU Agenda
-https://DESPORTO-ACESTREAM/schedule
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 1
-acestream://886fbcfda9cc0e041684cf3f11b4ef446a07ffdf
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 2
-acestream://1201eb42242441bdc5219267dc2ddb3dfc39f424
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 3
-acestream://fe6a8fd9454bdbd5bfe5abbcb99a98554aed0537
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 4
-acestream://cba5a21eadf84883173f4b2a8557d3820d41dc66
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 5
-acestream://d0b61152255eb9712581b6985002b81e69a0aef9
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 6
-acestream://3d8f3a9456d749e1e17353cbf9f13612152b1c21
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 7
-acestream://4e87ca611094d64a4fa9d6fe9369daac3deadf7d
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 8
-acestream://a9ced8224c99c1fe7717995530571e17543b4d3f
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 9
-acestream://de8b60050f04bdf8fc63a5d2dc9194fd2bd0a991
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 10
-acestream://2ce07891cf43d6fd00f97247bf79de57d67ef78e
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 11
-acestream://9b8267ddc7fe3a3b1be3a8824aae3e71fb8285d7
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg" group-title="DESPORTO-ACESTREAM",ArenaVision RU 12
-acestream://3290ef4ad1aea6840fd6dbdb9b1f1a3ddd585f5a
-
-
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/tsqstw1436894693.png/medium" group-title="DESPORTO-ACESTREAM", PFC PT
-acestream://5c06b5a1bfab8dea71ab3ad151801beb0c06330a
-
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/tsqstw1436894693.png/medium" group-title="DESPORTO-ACESTREAM", PFC BR
-acestream://3c79d04aaccf346391b778c980d89ae4df8e1071
-
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/ruvrus1437612002.png/medium" group-title="DESPORTO-ACESTREAM", Sportv BR
-acestream://b0260e13901ea18a36cc65134b04cace85671fbc
-
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/rspqxw1437612159.png/medium" group-title="DESPORTO-ACESTREAM", Sportv 2 BR
-acestream://0b329ac89cf80cd30136a847b07dd77a0294de6b
-
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/yuusqs1437612244.png/medium" group-title="DESPORTO-ACESTREAM", Sportv 3 BR
-acestream://4803c70664a5fe48e4aa2874b1da2a1c5923eddd
-
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wqqpuy1437611123.png/medium" group-title="DESPORTO-ACESTREAM", COMBATE BR
-acestream://b003b41ba1b638da02e1f8842a9b95bc2f934700
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="DESPORTO-ACESTREAM", FIGHT BOX HD
-acestream://e26d61526b439e376dcd6b3c7bc17b5dce34d65e
-
-
-#EXTINF:-1, BT SPORT 1
-http://content.asplaylist.net/czA5MW5TSWFmcXA1S0tHUTdacEJ1azArQ05wdkNmSmpaSjlGYm52d1loZWluc0VrVTVIbFJubXprYi9VcDlZdUs2N2tJVGF4S2xmZ1d3V0hIM0xOMHc9PQ/10634.acelive
-#EXTINF:-1, BT SPORT 2
-http://content.asplaylist.net/WUVjS0NnajBTMXUzVHhCMnpjWVJwSldpVENVbVFvL2xNaURkaG01ZUlDZEdrUFpTU3ZBRkZqNXFXS1YvS2NyZm1PMjVlRUs3QnMyQnd0MExJZVZ6WEE9PQ/9220.acelive
-#EXTINF:-1, NBCSN
-http://content.asplaylist.net/ZFVHZjJqakpMb3k1bG1La0daYmw3NDBVbDcycnc2Tk83SEg5Tjl1WkxGbjdCdy9LNEpJZXRoVGNXSTVRdW90MXlxK0x1N1l5ZFNTMVR4bEh1SnlsUVE9PQ/16656.acelive
-#EXTINF:-1, TSN1
-http://content.asplaylist.net/YU9MMVhVQWxBUWhiNlJOOTkyRitNb0ZhUStSQllyRVY4dDRVd1FHelMvWGhZV1JRd1dtYUswNXRTcFRoRHBOSUFCZmtNMCtORUtCNkN3UThKSjZEemc9PQ/13091.acelive
-#EXTINF:-1, Idman Sport
-http://content.asplaylist.net/Qk1kTFVFbzBNKytmVTl2NVUwc0JLNCtFY1MvMWU0Tk9rbmY4cmVQNEw4VjUveTByeUlYMlpEbjVlOUFHbHhoSE1WaTBzNnQrWVZyaHlhSEl1RzVYZGc9PQ/cdn/1092_all.acelive
-#EXTINF:-1, SKY SPORT 1
-http://content.asplaylist.net/Vk1LSk9MNG16MDBjWHVrNW1EK3ZncnJGZXNTS1VpTkcvanF1dVp4L0VXaHhoekx6MzRuRTJpTnpSR1FHZGlJU1V0MEpXU2JWNXc4TUNYTURFNi84NUE9PQ/10351.acelive
-#EXTINF:-1, SKY SPORT 3
-http://content.asplaylist.net/c1Fhd2RxdFNtaVFlRlljUWYxZGZOcEFyQUhxd0QrcHgzVTBTUjNtSFo4Q1pQbHhRdncyY1A4WEFuU1ZZNjFpYUd5eTNuUW5rRFpPOHlROS9XRTVMaXc9PQ/6909.acelive
-#EXTINF:-1, SKY SPORT 4
-http://content.asplaylist.net/c29adGNwRDZ1WkFWV1RQN0JaUEU2bGZnQklBWDlKVXgzOWVvVEozaGRNQmxoN3BMamJXL3pseVZjT21JQ3FkNmhmeDVXdnBTZUNJejQ4YVQrRy9rTnc9PQ/12739.acelive
-
-#EXTINF:-1, SPORT 1 (RUSSO)
-http://content.asplaylist.net/TVZmTDFYU3VGQnM1SmJBNGNveUo2bzFERTh1YTEyTUtrWk0zL3VHc1VXU2p4RnNvWGlMUVFENW9yNExqTVJ0L3IyOEVxUTEvSlZCK0V3STJaaUEzR1E9PQ/1380.acelive
-#EXTINF:-1, SPORT 2 (RUSSO)
-http://content.asplaylist.net/d1d6QkIxVWdpOGozQm5tVGV5YnRpRUNQZVRUVW1zNU4rQVcvU3F6bkxPckFRQkJ4aWNmbkZERFFRbGE4N2FNNzZyUUMzUGFCbTd4T3M2RndVd3gzekE9PQ/1381.acelive
-#EXTINF:-1, BOXE (RUSSO)
-http://content.asplaylist.net/em41TnpGY29KRUtoTTN3T2huTEV1eUJKTTFWTXRJb0F6b2x5MS9zSUZtMHhFenB0Kyt0VnliMm5hUWlSdzVCNGVYQ1JRamplMmxMT29NQjE4WHV2M0E9PQ/cdn/1155_reg.acelive
-#EXTINF:-1, BOXE 2 (RUSSO)
-http://content.asplaylist.net/WkswN0FzUkx6djNubTVRNy9nSFM2SVl6M1NRRWQxeE5GQjlRbDFWZEpGQnFGS3BlbTI1eFI0Sk5IS3BobWQ4bW11QjBBN1ZJQjV0NkZMR2VUWGZzSlE9PQ/cdn/63_reg.acelive
-
-#EXTINF:-1, SETANTA SPORT+
-http://content.asplaylist.net/RE5lVDV0QlNzTEdpOUlOYXN5NkljNG1LckNtQS9uS0xEYXNoT1FKMUx5Q1IyUURCY0N6QVowNmNLeEN1b2NFa3EvZmFNTXFUQ2ZCTzlMdDRnMkpocnc9PQ/16377.acelive
-#EXTINF:-1, EUROSPORT 2 (Mudar audio P/UK)
-http://content.asplaylist.net/T082aWNXVEQ4Z3F4ZUIrSlZ1Q2FWcTRyUkQ2dmdtWjdZZUZqUUJWYTdWK0NvaXpIYk5QRWgwRWo3SVNHUEhULzBxSTcyNlowL3lGTE1kMS94YWs2Ync9PQ/cdn/6_reg.acelive
-#EXTINF:-1, EXTREME SPORTS (RUSSO)
-http://content.asplaylist.net/SDgyL2lhRER2WHhlVE10NnowdERIRXZIc1E5eWErMEJPVkpOZXk0QTM3QlZ4TXpTTElRSmpIeG9oWUxmRmY0RlhFeUpZRVBWZ2NqRUgzUHdBYW9zU1E9PQ/cdn/8_all.acelive
-
-
-#EXTINF:-1, BEIN sports
-3c486f99973a7cdcb47bc48762900c11aeb51a31
-#EXTINF:-1, DEPORTES1
-3324211b3ed962fee8b44a999cd9611a6cf45415
-#EXTINF:-1, DEPORTES2
-52e921b4da7c8b05ebf4578bec64a236fb195067
-#EXTINF:-1, GOLTV
-98d1712d28be918802aa0163e9886859d64e9800
-#EXTINF:-1, FUTBOL
-29039f91c90d1bbb53c5894aa2fef3e6a409d6bc
-#EXTINF:-1, LALIGATV
-f68c61b77bf7eb767e2b2b7d4d31d87f0b3e61bc
-#EXTINF:-1, BEINlaLiga
-6d4949cfd49f1ed85638e5455b5d05a14e383a29
-#EXTINF:-1, EUROSPORT1
-5d7d216622d4babe6edbf927633ef9d0368d7fdb
-#EXTINF:-1, MOVISTAR MOTOGP
-422f7462ee875d56a372ad16f1ba097f6cded330
-#EXTINF:-1, MOVISTAR F1
-30a135e150ad251a24d40646299e769085ef08b5
-
-
-#EXTINF:-1, BEINSPORTS HD1 FRANCIA
-61b5eefa5091a485687a7fda3d9fcc0ec707b566
-#EXTINF:-1, BEINSPORTS HD2 FRANCIA
-a4a9e9663fa1b63124a66b4d596a7ccf926cb8c0
-#EXTINF:-1, BEINSPORTS HD3 FRANCIA
-bbdcad2aecfec44a553042ea56a278c354be2229
-#EXTINF:-1, SFR sport1 FRANCIA
-2d4b22c8d6f1a5dbe16b5c2d7e6d2a9ad7439200
-#EXTINF:-1, SFR sport2 FRANCIA
-b85f68487dff40d1995bd471c6c16bd79ac9f583
-
-
+#EXTINF:-1,RTP1
+http://185.73.239.23:8000/live/abcde123/abcde123/2615.ts
+#EXTINF:-1,RTP 2
+http://185.73.239.23:8000/live/abcde123/abcde123/2616.ts
+#EXTINF:-1,RTP ACORES
+http://185.73.239.23:8000/live/abcde123/abcde123/2621.ts
+#EXTINF:-1,RTP MEMORIA
+http://185.73.239.23:8000/live/abcde123/abcde123/2618.ts
+#EXTINF:-1,RTP MADEIRA
+http://185.73.239.23:8000/live/abcde123/abcde123/2619.ts
+#EXTINF:-1,RTP AFRICA
+http://185.73.239.23:8000/live/abcde123/abcde123/2620.ts
+#EXTINF:-1,TVI HD
+http://185.73.239.23:8000/live/abcde123/abcde123/5449.ts
+#EXTINF:-1,TVI Reality
+http://185.73.239.23:8000/live/abcde123/abcde123/5447.ts
+#EXTINF:-1,TVI Ficção
+http://185.73.239.23:8000/live/abcde123/abcde123/5448.ts
+#EXTINF:-1,SIC HD
+http://185.73.239.23:8000/live/abcde123/abcde123/2622.ts
+#EXTINF:-1,SIC MULHER
+http://185.73.239.23:8000/live/abcde123/abcde123/2624.ts
+#EXTINF:-1,SIC Radical
+http://185.73.239.23:8000/live/abcde123/abcde123/6280.ts
+#EXTINF:-1,SIC Caras
+http://185.73.239.23:8000/live/abcde123/abcde123/6281.ts
+#EXTINF:-1,TV Lisboa
+http://185.73.239.23:8000/live/abcde123/abcde123/6283.ts
+#EXTINF:-1,Porto Canal
+http://185.73.239.23:8000/live/abcde123/abcde123/6284.ts
+#EXTINF:-1,Benfica TV HD
+http://185.73.239.23:8000/live/abcde123/abcde123/8356.ts
+#EXTINF:-1,Canal Q
+http://185.73.239.23:8000/live/abcde123/abcde123/6285.ts
+#EXTINF:-1,TV GLOBO PORTUGAL
+http://185.73.239.23:8000/live/abcde123/abcde123/8612.ts
+#EXTINF:-1,TV GLOBO PREMIUM
+http://185.73.239.23:8000/live/abcde123/abcde123/8613.ts
+#EXTINF:-1,TV Record portugal
+http://185.73.239.23:8000/live/abcde123/abcde123/6469.ts
+#EXTINF:-1,RTP 3
+http://185.73.239.23:8000/live/abcde123/abcde123/2617.ts
+#EXTINF:-1,SIC NOTICIAS HD
+http://185.73.239.23:8000/live/abcde123/abcde123/2623.ts
+#EXTINF:-1,CMTV HD
+http://185.73.239.23:8000/live/abcde123/abcde123/6287.ts
+#EXTINF:-1,Bloomberg
+http://185.73.239.23:8000/live/abcde123/abcde123/6291.ts
+#EXTINF:-1,National Geographic (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/6294.ts
+#EXTINF:-1,National Geographic Wild (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/2646.ts
+#EXTINF:-1,Discovery Channel (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/5453.ts
+#EXTINF:-1,Discovery Showcase HD (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/5452.ts
+#EXTINF:-1,Odisseia (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/5451.ts
+#EXTINF:-1,HISTORIA HD
+http://185.73.239.23:8000/live/abcde123/abcde123/2641.ts
+#EXTINF:-1,CBS Reality
+http://185.73.239.23:8000/live/abcde123/abcde123/6296.ts
+#EXTINF:-1,TVC 1 HD
+http://185.73.239.23:8000/live/abcde123/abcde123/2627.ts
+#EXTINF:-1,TVC 2 HD
+http://185.73.239.23:8000/live/abcde123/abcde123/2628.ts
+#EXTINF:-1,TVC 3 HD
+http://185.73.239.23:8000/live/abcde123/abcde123/2629.ts
+#EXTINF:-1,TVC4 hd
+http://185.73.239.23:8000/live/abcde123/abcde123/2630.ts
+#EXTINF:-1,FOX LIFE HD
+http://185.73.239.23:8000/live/abcde123/abcde123/2644.ts
+#EXTINF:-1,FoxLife HD
+http://185.73.239.23:8000/live/abcde123/abcde123/6302.ts
+#EXTINF:-1,FOX HD (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/2643.ts
+#EXTINF:-1,FOX CRIME HD (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/2645.ts
+#EXTINF:-1,FoxMovies
+http://185.73.239.23:8000/live/abcde123/abcde123/6303.ts
+#EXTINF:-1,AXN HD
+http://185.73.239.23:8000/live/abcde123/abcde123/2642.ts
+#EXTINF:-1,AXN White (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/6305.ts
+#EXTINF:-1,AXN Black HD (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/6306.ts
+#EXTINF:-1,Hollywood HD (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/6298.ts
+#EXTINF:-1,FoxComedy
+http://185.73.239.23:8000/live/abcde123/abcde123/6304.ts
+#EXTINF:-1,CINE MUNDO HD
+http://185.73.239.23:8000/live/abcde123/abcde123/2632.ts
+#EXTINF:-1,E! Entertainment (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/6307.ts
+#EXTINF:-1,Cinemundo HD
+http://185.73.239.23:8000/live/abcde123/abcde123/6299.ts
+#EXTINF:-1,Mov HD
+http://185.73.239.23:8000/live/abcde123/abcde123/6300.ts
+#EXTINF:-1,DISNEY JUNIOR (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/2651.ts
+#EXTINF:-1,DISNEY CHANNEL (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/2650.ts
+#EXTINF:-1,NICKELODEON (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/2648.ts
+#EXTINF:-1,CARTON NETWORK (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/2649.ts
+#EXTINF:-1,PANDA HD
+http://185.73.239.23:8000/live/abcde123/abcde123/2652.ts
+#EXTINF:-1,PANDA BIGGS
+http://185.73.239.23:8000/live/abcde123/abcde123/2653.ts
+#EXTINF:-1,MTV PORTUGAL (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/2647.ts
+#EXTINF:-1,VH1
+http://185.73.239.23:8000/live/abcde123/abcde123/5446.ts
+#EXTINF:-1,Syfy (pt)
+http://185.73.239.23:8000/live/abcde123/abcde123/5450.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://185.73.239.23:8000/live/abcde123/abcde123/6726.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://185.73.239.23:8000/live/abcde123/abcde123/6727.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://185.73.239.23:8000/live/abcde123/abcde123/6728.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://185.73.239.23:8000/live/abcde123/abcde123/6729.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://185.73.239.23:8000/live/abcde123/abcde123/6730.ts
 
 
 
