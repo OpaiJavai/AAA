@@ -266,7 +266,6 @@ http://media3.crtvg.es/live/tvga/hasbahca.m3u8
 http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" group-title="PORTUGAL",FOX NEWS
 http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1375.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" tvg-id="CNN" group-title="PORTUGAL",CNN
 http://178.193.237.115:9000/play/a01f
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" tvg-id="BLOOM" group-title="PORTUGAL",BLOOMBERG
@@ -538,7 +537,7 @@ http://185.73.239.23:8000/live/abcde123/abcde123/6729.ts
 http://185.73.239.23:8000/live/abcde123/abcde123/6730.ts
 
 
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 2---
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 3---
 Http://google.pt
 
 
@@ -2063,6 +2062,66 @@ https://cld.pt/dl/download/c678451a-af08-4051-8d51-43253ed3366e/Fifty.Shades.of.
 
 #EXTINF:-1 tvg-logo="http://cinepop.com.br/wp-content/uploads/2016/03/independenceday2_1.jpg" group-title="FILMES", Independence Day Resurgence 2016
 https://cld.pt/dl/download/1348233f-1ec3-4571-82bb-f9ec551836ff/Independence.Day.Resurgence.2016.720p.BluRay.x264-%5BYTS.AG%5D.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/293660_pt.jpg" group-title="FILMES",DEADPOOL [2017] - Deadpool
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DEADPLEG.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-lnoQBC2Cclw/UoCg-Mavi3I/AAAAAAAAAB4/uXMUuVyAJGM/s1600/iBoy+Movie.jpg" group-title="FILMES",iBOY [2017] - iBOY
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/IBOY.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X68b3DA.jpg" group-title="FILMES",AS CAÇA-FANTASMAS [2016] - Ghostbusters
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CACFNTSM2016LEG.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tOv5Gx0.jpg" group-title="FILMES",CAPITÃO AMÉRICA: GUERRA CIVIL [2016] - Captain America: Civil War
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CAPTAMRC3LEG.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hYEK9r2.jpg" group-title="FILMES",ESQUADRÃO SUICIDA [2016] - Suicide Squad
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ESQDSCDLEGN.mp4
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/324668_pt.jpg" group-title="FILMES",JASON BOURNE [2016] - Jason Bourne
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/JSONBRNE.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IrZx8LU.jpg" group-title="FILMES",MECHANIC: ASSASSINO PROFISSIONAL [2016] - Mechanic: Resurrection
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ASASINOAPRCFX2LEG.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kbjoqBX.jpg" group-title="FILMES",MESTRES DA ILUSÃO 2 [2016] - Now You See Me 2
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/TRQDMSTR2.mp4
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/47933_pt.jpg" group-title="FILMES",O DIA DA INDEPENDÊNCIA: NOVA AMEAÇA [2016] - Independence Day: Resurgence
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/INDPNDAYORSGMNTLEG.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvJ5eB9.jpg" group-title="FILMES",SETE HOMENS E UM DESTINO [2016] - The Magnificent Seven
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/SETHMNSEUDSTN.mp4
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/68735_pt.jpg" group-title="FILMES",WARCRAFT: O PRIMEIRO ENCONTRO DE DOIS MUNDOS [2016] - Warcraft
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/WARCFTLEG.mp4
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/177677_pt.jpg" group-title="FILMES",MISSÃO IMPOSSIVEL: NAÇÃO SECRETA [2015] - Mission: Impossible - Rogue Nation
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MSAOIMPSVEL05LEG.mp4
+#EXTINF:-1 tvg-logo="http://mrpiracy.ml/images/capas/tt1985949PT.jpg" group-title="FILMES",ANGRY BIRDS: O FILME [2016] - The Angry Birds Movie
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ANGRYBRDSFLMLEG.mp4
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/269149_pt.jpg" group-title="FILMES",ZOOTRÓPOLIS [2016] - Zootopia
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ZOTPIALEG.mp4
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/241259_pt.jpg" group-title="FILMES",ALICE DO OUTRO LADO DO ESPELHO [2016] - Alice in Wonderland: Through the Looking Glass
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ALCATRVSDESLHOLEGN.mp4
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/262504_pt.jpg" group-title="FILMES",CONVERGENTE [2016] - The Divergent Series: Allegiant
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASREDVRGNTCNVGNTLEG.mp4
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/281957_pt.jpg" group-title="FILMES",O RENASCIDO [2016] - The Revenant
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ORGRSOLEG.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DknPXL5.jpg" group-title="FILMES",THE MONKEY KING 2 [2016] - Xi You Ji zhi Sun Wu Kong San Da Bai Gu Jing
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MSAOIMPSVEL05LEG.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3taldrN.jpg" group-title="FILMES",GET A JOB [2016] - Get a Job
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/GETJBLEG.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hUNM5Co.jpg" group-title="FILMES",NERVE – ALTO RISCO [2016] - Nerve
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/NRVUJSR.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dI5lrLO.jpg" group-title="FILMES",COME AND FIND ME [2016] - Come and Find Me
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CMANFNDMLEG.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o9iLXpn.jpg" group-title="FILMES",SNOWDEN [2016] - Snowden
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/SNODNHROTRIDRLEG.mp4
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/216015_pt.jpg" group-title="FILMES",AS CINQUENTAS SOMBRAS DE GREY [2015] - Fifty Shades of Grey
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/CNQNTNSDCNZLEG.mp4
+#EXTINF:-1 tvg-logo="http://tvdasogra.com:8880/movie/cpolonio/gT8HteJdZp/1493.mkv" group-title="FILMES",O PRIMEIRO ENCONTRO [2016] - Arrival
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ACHGDALEG.mp4
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/339527_pt.jpg" group-title="FILMES",PREMONIÇÕES [2015] - Solace
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PRSGDUCRM.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Qcyxuk7.jpg" group-title="FILMES",O BOSQUE DE BLAIR WITCH [2016] - Blair Witch
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BRXDBLRLEG.mp4
+
+
+
+
+
 
 
  
