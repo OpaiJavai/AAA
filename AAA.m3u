@@ -2252,6 +2252,16 @@ https://www.youtube.com/watch?v=U8VQ-3rA0ek
 #EXTINF:-1 tvg-logo="https://cld.pt/dl/download/51346dff-f8c9-47c4-9793-a12f95c3fb3d/FILMES.png" group-title="FILMES", FILMES
 Http://google.pt
 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/n8NXCl" group-title="FILMES",Breaking Bad - 2017
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BRKNGBDOFLMLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/yom4e4" group-title="FILMES",Patriots Day (2017)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ODIDATNTDO.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g154rL8a2xEpUypAFIbSNclKho.jpg" group-title="FILMES",TERMINIUS (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/TRIMNUSLEG.mp4
+
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/10/14/14/52/155667.jpg" group-title="FILMES", Rogue One: A Star Wars Story (2016)
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/RGONUHSTRWRSLEG.mp4
 
@@ -2677,6 +2687,7 @@ https://cld.pt/dl/download/1348233f-1ec3-4571-82bb-f9ec551836ff/Independence.Day
 
 
 
+
 #EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/293660_pt.jpg" group-title="FILMES",DEADPOOL [2017] - Deadpool
 http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DEADPLEG.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-lnoQBC2Cclw/UoCg-Mavi3I/AAAAAAAAAB4/uXMUuVyAJGM/s1600/iBoy+Movie.jpg" group-title="FILMES",iBOY [2017] - iBOY
@@ -2731,6 +2742,27 @@ http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PRSGDUCRM.mp4
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BRXDBLRLEG.mp4
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LCmhqDM.jpg" group-title="FILMES",Assassino a Preço Fixo 2: A Ressurreição (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ASASINOAPRCFX2LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/vdimyclmq_1oQqQcy9rIqgCW3Ko=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/02/lost-in-the-pacific_t201772.jpg"  group-title="FILMES", Lost in the Pacific (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/PRDSNPCFCLEG.mp4
+
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/xi_you_ji_zhi_sun_wu_kong_san_da_bai_gu_jing-436167342-large.jpg" group-title="FILMES", O REI MACACO 2: A LENDA CONTINUA 
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OREIMC2ALNDCNTLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://animeson2016.files.wordpress.com/2017/02/accel-world-infinitee2889eburst_capa2.jpg" group-title="FILMES",Accel World: Infinite8Burst
+https://userscloud.com/vidembed-gu6rr24lufyw.mp4
+#EXTINF:-1 tvg-logo="https://animeson2016.files.wordpress.com/2016/12/ao-haru-ride_capa.jpg" group-title="FILMES",Ao Haru Ride – Live Action
+https://userscloud.com/vidembed-h1pys8pzt62g.mp4
+#EXTINF:-1 tvg-logo="https://animeson2016.files.wordpress.com/2016/11/aoki-hagane-no-arpeggio-ars-nova-dc_capa.jpg" group-title="FILMES",Aoki Hagane no Arpeggio: Ars Nova DC
+https://userscloud.com/vidembed-ajsc6uhbu6j4.mp4
+#EXTINF:-1 tvg-logo="https://animeson2016.files.wordpress.com/2016/11/aoki-hagane-no-arpeggio-ars-nova-cadenza_capa2.jpg" group-title="FILMES",Aoki Hagane no Arpeggio: Ars Nova Cadenza
+https://userscloud.com/vidembed-99kfynhikfk2.mp4
+#EXTINF:-1 tvg-logo="https://animeson2016.files.wordpress.com/2016/06/anohana-the-movie_the-flower-we-saw-that-day.jpg" group-title="FILMES",Anohana the Movie: The Flower We Saw That Day
+https://userscloud.com/vidembed-8c6ll0mt6ukn.mp4
+#EXTINF:-1 tvg-logo="https://animeson2016.files.wordpress.com/2016/11/assassination-classroom_capa.jpg" group-title="FILMES",Assassination Classroom Live-Action
+https://userscloud.com/vidembed-yxrapr0k1cpf.mp4
 
 
 
