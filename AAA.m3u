@@ -720,10 +720,153 @@ http://149.202.72.15:8000/live/tavares/tavares/691.ts
 
 
 
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 4---
+Http://google.pt
+
+#EXTINF:-1 tvg-name="############# CANAIS MOBILE #############" tvg-logo="" group-title="TEMPORARIOS", CANAIS MOBILE 
+http://149.202.72.15:8000/live/tavares/tavares/1471.ts
+#EXTINF:-1 tvg-name="RTP 1 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%201.png" group-title="TEMPORARIOS",RTP 1 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1399.ts
+#EXTINF:-1 tvg-name="RTP 2 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%202.png" group-title="TEMPORARIOS",RTP 2 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1400.ts
+#EXTINF:-1 tvg-name="SIC MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/SIC.png" group-title="TEMPORARIOS",SIC MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1401.ts
+#EXTINF:-1 tvg-name="TVI MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/TVI.png" group-title="TEMPORARIOS",TVI MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1402.ts
+#EXTINF:-1 tvg-name="RTP 3 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%203.png" group-title="TEMPORARIOS",RTP 3 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1403.ts
+#EXTINF:-1 tvg-name="SIC NOTICIAS MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/SIC%20NOTICIAS.png" group-title="TEMPORARIOS",SIC NOTICIAS MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1404.ts
+#EXTINF:-1 tvg-name="TVI 24 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%2024.png" group-title="TEMPORARIOS",TVI 24 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1405.ts
+#EXTINF:-1 tvg-name="CMTV MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/CM%20TV.png" group-title="TEMPORARIOS",CMTV MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1406.ts
+#EXTINF:-1 tvg-name="PORTO CANAL MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/PORTO%20CANAL.png" group-title="TEMPORARIOS",PORTO CANAL MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1407.ts
+#EXTINF:-1 tvg-name="RTP MADEIRA MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%20MADEIRA.png" group-title="TEMPORARIOS",RTP MADEIRA MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1413.ts
+#EXTINF:-1 tvg-name="RTP AÇORES MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%20A%c3%87ORES.png" group-title="TEMPORARIOS",RTP AÇORES MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1414.ts
+#EXTINF:-1 tvg-name="SIC MULHER MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/SIC%20MULHER.png" group-title="TEMPORARIOS",SIC MULHER MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1411.ts
+#EXTINF:-1 tvg-name="SIC CARAS MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/SIC%20CARAS.png" group-title="TEMPORARIOS",SIC CARAS MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1461.ts
+#EXTINF:-1 tvg-name="SIC RADICAL MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/SIC%20RADICAL.png" group-title="TEMPORARIOS",SIC RADICAL MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1410.ts
+#EXTINF:-1 tvg-name="CANAL Q MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/CANAL%20Q.png" group-title="TEMPORARIOS",CANAL Q MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1412.ts
+#EXTINF:-1 tvg-name="TVI FICCAO MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%20FICCAO.png" group-title="TEMPORARIOS",TVI FICCAO MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1408.ts
+#EXTINF:-1 tvg-name="TVI REALTY MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%20REALTY.png" group-title="TEMPORARIOS",TVI REALTY MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1409.ts
+#EXTINF:-1 tvg-name="TV RECORD MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/TV%20RECORD.png" group-title="TEMPORARIOS",TV RECORD MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1415.ts
+#EXTINF:-1 tvg-name="GLOBO MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/GLOBO.png" group-title="TEMPORARIOS",GLOBO MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1416.ts
+#EXTINF:-1 tvg-name="GLOBO PREMIUM MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/GLOBO%20PREMIUM.png" group-title="TEMPORARIOS",GLOBO PREMIUM MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1417.ts
+#EXTINF:-1 tvg-name="ABOLA TV MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/A%20BOLA%20TV.png" group-title="TEMPORARIOS",ABOLA TV MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1418.ts
+#EXTINF:-1 tvg-name="SPORTV + MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%20+.png" group-title="TEMPORARIOS",SPORTV + MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1419.ts
+#EXTINF:-1 tvg-name="SPORTV 1 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%201.png" group-title="TEMPORARIOS",SPORTV 1 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1420.ts
+#EXTINF:-1 tvg-name="SPORTV 2 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%202.png" group-title="TEMPORARIOS",SPORTV 2 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1421.ts
+#EXTINF:-1 tvg-name="SPORTV 3 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%203.png" group-title="TEMPORARIOS",SPORTV 3 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1422.ts
+#EXTINF:-1 tvg-name="SPORTV 4 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%204.png" group-title="TEMPORARIOS",SPORTV 4 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1423.ts
+#EXTINF:-1 tvg-name="SPORTV 5 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%205.png" group-title="TEMPORARIOS",SPORTV 5 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1424.ts
+#EXTINF:-1 tvg-name="BENFICA TV 1 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/BTV%201.png" group-title="TEMPORARIOS",BENFICA TV 1 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1425.ts
+#EXTINF:-1 tvg-name="EUROSPORT MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/EUROSPORT%20HD.png" group-title="TEMPORARIOS",EUROSPORT MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1428.ts
+#EXTINF:-1 tvg-name="EUROSPORT 2 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/EUROSPORT%202.png" group-title="TEMPORARIOS",EUROSPORT 2 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1429.ts
+#EXTINF:-1 tvg-name="SPORTING TV MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTING%20TV%20HD.png" group-title="TEMPORARIOS",SPORTING TV MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1426.ts
+#EXTINF:-1 tvg-name="PFC MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/PFC.png" group-title="TEMPORARIOS",PFC MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1427.ts
+#EXTINF:-1 tvg-name="CAÇA E PESCA MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/CA%c3%87A%20E%20PESCA.png" group-title="TEMPORARIOS",CAÇA E PESCA MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1434.ts
+#EXTINF:-1 tvg-name="MOTORS TV MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/MOTORS%20TV.png" group-title="TEMPORARIOS",MOTORS TV MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1432.ts
+#EXTINF:-1 tvg-name="MOTORVISION MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/MOTORVISION.png" group-title="TEMPORARIOS",MOTORVISION MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1431.ts
+#EXTINF:-1 tvg-name="KOMBAT SPORT MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/KOMBAT%20SPORT.png" group-title="TEMPORARIOS",KOMBAT SPORT MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1433.ts
+#EXTINF:-1 tvg-name="TVCINE 1 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/TVCINE%201%20HD.png" group-title="TEMPORARIOS",TVCINE 1 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1435.ts
+#EXTINF:-1 tvg-name="TVCINE 2 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/TVCINE%202%20HD.png" group-title="TEMPORARIOS",TVCINE 2 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1436.ts
+#EXTINF:-1 tvg-name="TVCINE 3 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/TVCINE%203%20HD.png" group-title="TEMPORARIOS",TVCINE 3 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1437.ts
+#EXTINF:-1 tvg-name="TVCINE 4 MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/TVCINE%204%20HD.png" group-title="TEMPORARIOS",TVCINE 4 MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1438.ts
+#EXTINF:-1 tvg-name="TVSERIES MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/TV%20SERIES%20HD.png" group-title="TEMPORARIOS",TVSERIES MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1439.ts
+#EXTINF:-1 tvg-name="CINEMUNDO MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/CINEMUNDO.png" group-title="TEMPORARIOS",CINEMUNDO MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1442.ts
+#EXTINF:-1 tvg-name="FOX MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/FOX%20HD.png" group-title="TEMPORARIOS",FOX MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1446.ts
+#EXTINF:-1 tvg-name="FOX MOVIE MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/FOX%20MOVIES.png" group-title="TEMPORARIOS",FOX MOVIE MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1447.ts
+#EXTINF:-1 tvg-name="FOX LIFE MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/FOX%20LIFE%20HD.png" group-title="TEMPORARIOS",FOX LIFE MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1448.ts
+#EXTINF:-1 tvg-name="FOX CRIME MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/FOX%20CRIME%20HD.png" group-title="TEMPORARIOS",FOX CRIME MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1449.ts
+#EXTINF:-1 tvg-name="FOX COMEDY MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/FOX%20COMEDY.png" group-title="TEMPORARIOS",FOX COMEDY MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1450.ts
+#EXTINF:-1 tvg-name="AXN MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/AXN%20HD.png" group-title="TEMPORARIOS",AXN MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1443.ts
+#EXTINF:-1 tvg-name="AXN WHITE MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/AXN%20WHITE%20HD.png" group-title="TEMPORARIOS",AXN WHITE MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1444.ts
+#EXTINF:-1 tvg-name="AXN BLACK MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/AXN%20BLACK%20HD.png" group-title="TEMPORARIOS",AXN BLACK MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1445.ts
+#EXTINF:-1 tvg-name="HOLLYWOOD MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/HOLLYWOOD%20HD.png" group-title="TEMPORARIOS",HOLLYWOOD MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1441.ts
+#EXTINF:-1 tvg-name="BABY TV MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/BABY%20TV.png" group-title="TEMPORARIOS",BABY TV MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1455.ts
+#EXTINF:-1 tvg-name="CANAL PANDA MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/CANAL%20PANDA.png" group-title="TEMPORARIOS",CANAL PANDA MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1467.ts
+#EXTINF:-1 tvg-name="DISNEY CHANNEL MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/DISNEY%20CHANNEL.png" group-title="TEMPORARIOS",DISNEY CHANNEL MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1460.ts
+#EXTINF:-1 tvg-name="DISNEY JUNIOR MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/DISNEY%20JUNIOR.png" group-title="TEMPORARIOS",DISNEY JUNIOR MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1459.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/CARTOON%20NETWORK.png" group-title="TEMPORARIOS",CARTOON NETWORK MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1464.ts
+#EXTINF:-1 tvg-name="SIC K MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/SIC%20K.png" group-title="TEMPORARIOS",SIC K MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1465.ts
+#EXTINF:-1 tvg-name="JIM JAM MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/JIM%20JAM.png" group-title="TEMPORARIOS",JIM JAM MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1463.ts
+#EXTINF:-1 tvg-name="PANDA BIGGS MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/PANDA%20BIGGS.png" group-title="TEMPORARIOS",PANDA BIGGS MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1462.ts
+#EXTINF:-1 tvg-name="NICKELODEON MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/NICKELODEON.png" group-title="TEMPORARIOS",NICKELODEON MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1466.ts
+#EXTINF:-1 tvg-name="NAT GEOGRAFIC MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/NAT.%20GEOGRAPHIC.png" group-title="TEMPORARIOS",NAT GEOGRAFIC MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1451.ts
+#EXTINF:-1 tvg-name="DISCOVERY MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/DISCOVERY%20CHANNEL.png" group-title="TEMPORARIOS",DISCOVERY MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1452.ts
+#EXTINF:-1 tvg-name="DISCOVERY SHOWCASE MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/DISCOVERY%20SHOWCASE.png" group-title="TEMPORARIOS",DISCOVERY SHOWCASE MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1453.ts
+#EXTINF:-1 tvg-name="A & E MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/A%20&%20E.png" group-title="TEMPORARIOS",A & E MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1456.ts
+#EXTINF:-1 tvg-name="TLC MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/TLC.png" group-title="TEMPORARIOS",TLC MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1457.ts
+#EXTINF:-1 tvg-name="CANAL HISTORIA MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/CANAL%20HISTORIA.png" group-title="TEMPORARIOS",CANAL HISTORIA MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1454.ts
+#EXTINF:-1 tvg-name="ODISSEIA MOBILE" tvg-logo="http://qwertylist.soeu.ws/logos/ODISSEIA.png" group-title="TEMPORARIOS",ODISSEIA MOBILE
+http://149.202.72.15:8000/live/tavares/tavares/1458.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 3---
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 4---
 Http://google.pt
 
 
@@ -786,14 +929,10 @@ http://37.187.135.168:5500/live/Torben/Torben/551.ts
 http://37.187.135.168:5500/live/Torben/Torben/561.ts
 #EXTINF:-1 tvg-ID="" tvg-name="SIC NOTICIAS" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png" group-title="TEMPORARIOS",SIC NOTICIAS
 http://37.187.135.168:5500/live/Torben/Torben/5.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 24" tvg-logo="https://www.thelogodb.com/images/media/logo/ywxyxx1434552642.png" group-title="►►► FRANCE ◄◄◄",FRANCE 24
-http://37.187.135.168:5500/live/Torben/Torben/868.ts
 #EXTINF:-1 tvg-ID="" tvg-name="TVI 24" tvg-logo="http://www.thelogodb.com/images/media/logo/xrtspq1474663890.png" group-title="TEMPORARIOS",TVI 24
 http://37.187.135.168:5500/live/Torben/Torben/6.ts
 #EXTINF:-1 tvg-ID="" tvg-name="RTP 3" tvg-logo="http://www.thelogodb.com/images/media/logo/vtqqpt1474662424.png" group-title="TEMPORARIOS",RTP 3
 http://37.187.135.168:5500/live/Torben/Torben/76.ts
-#EXTINF:-1 tvg-ID="TVE 24h" tvg-name="TVE 24H" tvg-logo="https://www.thelogodb.com/images/media/logo/qqtssw1436894339.png" group-title="►►► ESPANHA ◄◄◄",TVE 24H
-http://37.187.135.168:5500/live/Torben/Torben/866.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BBC World News" tvg-logo="http://www.thelogodb.com/images/media/logo/uuqqus1474668083.png" group-title="TEMPORARIOS",BBC World News
 http://37.187.135.168:5500/live/Torben/Torben/870.ts
 #EXTINF:-1 tvg-ID="" tvg-name="A BOLA TV" tvg-logo="https://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png" group-title="TEMPORARIOS",A BOLA TV
@@ -1039,7 +1178,9 @@ http://37.187.135.168:5500/live/Torben/Torben/882.ts
 
 
 
-------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1263,6 +1404,117 @@ http://149.202.72.15:8000/live/tavares/tavares/2525.ts
 #EXTINF:-1 tvg-name="BR: Woohoo" tvg-logo="" group-title=" BRASIL TEMPORARIOS",BR: Woohoo
 http://149.202.72.15:8000/live/tavares/tavares/2526.ts
 
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-name="---☛ SPAIN ☚---" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",---☛ SPAIN ☚---
+http://google.com
+#EXTINF:-1 tvg-name="ES : COSMOS HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES : COSMOS HD
+http://149.202.72.15:8000/live/tavares/tavares/2358.ts
+#EXTINF:-1 tvg-name="ES: #0 HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: #0 HD
+http://149.202.72.15:8000/live/tavares/tavares/2359.ts
+#EXTINF:-1 tvg-name="ES: A&E" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: A&E
+http://149.202.72.15:8000/live/tavares/tavares/2360.ts
+#EXTINF:-1 tvg-name="ES: AMC" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: AMC
+http://149.202.72.15:8000/live/tavares/tavares/2361.ts
+#EXTINF:-1 tvg-name="ES: Antena 3" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Antena 3
+http://149.202.72.15:8000/live/tavares/tavares/2362.ts
+#EXTINF:-1 tvg-name="ES: AXN HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: AXN HD
+http://149.202.72.15:8000/live/tavares/tavares/2363.ts
+#EXTINF:-1 tvg-name="ES: BEIN LA LIGA HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: BEIN LA LIGA HD
+http://149.202.72.15:8000/live/tavares/tavares/2364.ts
+#EXTINF:-1 tvg-name="ES: beIN Sport Ñ" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: beIN Sport Ñ
+http://149.202.72.15:8000/live/tavares/tavares/2365.ts
+#EXTINF:-1 tvg-name="ES: Canal  Estrenos Hd" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Canal  Estrenos Hd
+http://149.202.72.15:8000/live/tavares/tavares/2366.ts
+#EXTINF:-1 tvg-name="ES: Canal Cocina" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Canal Cocina
+http://149.202.72.15:8000/live/tavares/tavares/2367.ts
+#EXTINF:-1 tvg-name="ES: Caza y Pesca" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Caza y Pesca
+http://149.202.72.15:8000/live/tavares/tavares/2368.ts
+#EXTINF:-1 tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: COMEDY CENTRAL HD
+http://149.202.72.15:8000/live/tavares/tavares/2369.ts
+#EXTINF:-1 tvg-name="ES: CRIME INVESTIGACION" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: CRIME INVESTIGACION
+http://149.202.72.15:8000/live/tavares/tavares/2370.ts
+#EXTINF:-1 tvg-name="ES: CUATRO" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: CUATRO
+http://149.202.72.15:8000/live/tavares/tavares/2371.ts
+#EXTINF:-1 tvg-name="ES: Discovery Channel HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Discovery Channel HD
+http://149.202.72.15:8000/live/tavares/tavares/2372.ts
+#EXTINF:-1 tvg-name="ES: DISNEY CHANNELS HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: DISNEY CHANNELS HD
+http://149.202.72.15:8000/live/tavares/tavares/2373.ts
+#EXTINF:-1 tvg-name="ES: Disney Junior" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Disney Junior
+http://149.202.72.15:8000/live/tavares/tavares/2374.ts
+#EXTINF:-1 tvg-name="ES: EUROSPORT 1 HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: EUROSPORT 1 HD
+http://149.202.72.15:8000/live/tavares/tavares/2375.ts
+#EXTINF:-1 tvg-name="ES: FOX" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: FOX
+http://149.202.72.15:8000/live/tavares/tavares/2376.ts
+#EXTINF:-1 tvg-name="ES: FOX Life" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: FOX Life
+http://149.202.72.15:8000/live/tavares/tavares/2377.ts
+#EXTINF:-1 tvg-name="ES: Historia" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Historia
+http://149.202.72.15:8000/live/tavares/tavares/2378.ts
+#EXTINF:-1 tvg-name="ES: Hollywood HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Hollywood HD
+http://149.202.72.15:8000/live/tavares/tavares/2379.ts
+#EXTINF:-1 tvg-name="ES: La 1 HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: La 1 HD
+http://149.202.72.15:8000/live/tavares/tavares/2380.ts
+#EXTINF:-1 tvg-name="ES: La 2" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: La 2
+http://149.202.72.15:8000/live/tavares/tavares/2381.ts
+#EXTINF:-1 tvg-name="ES: la liga tv HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: la liga tv HD
+http://149.202.72.15:8000/live/tavares/tavares/2382.ts
+#EXTINF:-1 tvg-name="ES: La Sexta HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: La Sexta HD
+http://149.202.72.15:8000/live/tavares/tavares/2383.ts
+#EXTINF:-1 tvg-name="ES: M  Accion" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: M  Accion
+http://149.202.72.15:8000/live/tavares/tavares/2384.ts
+#EXTINF:-1 tvg-name="ES: M  Comedia" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: M  Comedia
+http://149.202.72.15:8000/live/tavares/tavares/2385.ts
+#EXTINF:-1 tvg-name="ES: M  Deportes 2 HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: M  Deportes 2 HD
+http://149.202.72.15:8000/live/tavares/tavares/2386.ts
+#EXTINF:-1 tvg-name="ES: M  Deportes HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: M  Deportes HD
+http://149.202.72.15:8000/live/tavares/tavares/2387.ts
+#EXTINF:-1 tvg-name="ES: M  Futbol HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: M  Futbol HD
+http://149.202.72.15:8000/live/tavares/tavares/2388.ts
+#EXTINF:-1 tvg-name="ES: M  Golf HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: M  Golf HD
+http://149.202.72.15:8000/live/tavares/tavares/2389.ts
+#EXTINF:-1 tvg-name="ES: M  Series Xtra HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: M  Series Xtra HD
+http://149.202.72.15:8000/live/tavares/tavares/2390.ts
+#EXTINF:-1 tvg-name="ES: M  Toros" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: M  Toros
+http://149.202.72.15:8000/live/tavares/tavares/2391.ts
+#EXTINF:-1 tvg-name="ES: M  Xtra HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: M  Xtra HD
+http://149.202.72.15:8000/live/tavares/tavares/2392.ts
+#EXTINF:-1 tvg-name="ES: MEGA" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: MEGA
+http://149.202.72.15:8000/live/tavares/tavares/2393.ts
+#EXTINF:-1 tvg-name="ES: Ml  DCine" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Ml  DCine
+http://149.202.72.15:8000/live/tavares/tavares/2394.ts
+#EXTINF:-1 tvg-name="ES: Movistar F1" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Movistar F1
+http://149.202.72.15:8000/live/tavares/tavares/2395.ts
+#EXTINF:-1 tvg-name="ES: Movistar MotoGP" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Movistar MotoGP
+http://149.202.72.15:8000/live/tavares/tavares/2396.ts
+#EXTINF:-1 tvg-name="ES: Nat. Geo Wild HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Nat. Geo Wild HD
+http://149.202.72.15:8000/live/tavares/tavares/2397.ts
+#EXTINF:-1 tvg-name="ES: Nat. Geographic HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Nat. Geographic HD
+http://149.202.72.15:8000/live/tavares/tavares/2398.ts
+#EXTINF:-1 tvg-name="ES: Nickelodeon HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Nickelodeon HD
+http://149.202.72.15:8000/live/tavares/tavares/2399.ts
+#EXTINF:-1 tvg-name="ES: NONSTOPEOPLE" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: NONSTOPEOPLE
+http://149.202.72.15:8000/live/tavares/tavares/2400.ts
+#EXTINF:-1 tvg-name="ES: Nova" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Nova
+http://149.202.72.15:8000/live/tavares/tavares/2401.ts
+#EXTINF:-1 tvg-name="ES: Odisea" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Odisea
+http://149.202.72.15:8000/live/tavares/tavares/2402.ts
+#EXTINF:-1 tvg-name="ES: Real Madrid TV" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Real Madrid TV
+http://149.202.72.15:8000/live/tavares/tavares/2403.ts
+#EXTINF:-1 tvg-name="ES: SyFy" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: SyFy
+http://149.202.72.15:8000/live/tavares/tavares/2404.ts
+#EXTINF:-1 tvg-name="ES: TELECINCO HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: TELECINCO HD
+http://149.202.72.15:8000/live/tavares/tavares/2405.ts
+#EXTINF:-1 tvg-name="ES: Teledeporte" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: Teledeporte
+http://149.202.72.15:8000/live/tavares/tavares/2406.ts
+#EXTINF:-1 tvg-name="ES: TMC HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: TMC HD
+http://149.202.72.15:8000/live/tavares/tavares/2407.ts
+#EXTINF:-1 tvg-name="ES: TNT HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: TNT HD
+http://149.202.72.15:8000/live/tavares/tavares/2408.ts
+#EXTINF:-1 tvg-name="ES: VIAJAR HD" tvg-logo="http://www.joaoleitao.com/viagens/imagens/bandeiraspt/bandeira-espanha.png" group-title="ESPANHA TEMP",ES: VIAJAR HD
+http://149.202.72.15:8000/live/tavares/tavares/2409.ts
 
 
 
