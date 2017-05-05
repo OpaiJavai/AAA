@@ -411,503 +411,631 @@ http://alphatwo.ddns.net:8000/live/belle/belle/435.ts
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 2---
 Http://google.pt
 
+#EXTM3U
+#EXTINF:-1 tvg-name="RTP 1" tvg-logo="http://painel.soeu.ws:8000/logos/RTP 1.png" group-title="TEMPORARIOS",RTP 1
+http://149.202.72.15:8000/live/tavares/tavares/185.ts
+#EXTINF:-1 tvg-name="RTP 2" tvg-logo="http://painel.soeu.ws:8000/logos/RTP 2.png" group-title="TEMPORARIOS",RTP 2
+http://149.202.72.15:8000/live/tavares/tavares/184.ts
+#EXTINF:-1 tvg-name="SIC" tvg-logo="http://painel.soeu.ws:8000/logos/SIC.png" group-title="TEMPORARIOS",SIC
+http://149.202.72.15:8000/live/tavares/tavares/183.ts
+#EXTINF:-1 tvg-name="TVI" tvg-logo="http://painel.soeu.ws:8000/logos/TVI.png" group-title="TEMPORARIOS",TVI
+http://149.202.72.15:8000/live/tavares/tavares/191.ts
+#EXTINF:-1 tvg-name="RTP 1 FHD" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%201.png" group-title="TEMPORARIOS",RTP 1 FHD
+http://149.202.72.15:8000/live/tavares/tavares/1505.ts
+#EXTINF:-1 tvg-name="RTP 2 FHD" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%202.png" group-title="TEMPORARIOS",RTP 2 FHD
+http://149.202.72.15:8000/live/tavares/tavares/1506.ts
+#EXTINF:-1 tvg-name="SIC FHD" tvg-logo="http://qwertylist.soeu.ws/logos/SIC.png" group-title="TEMPORARIOS",SIC FHD
+http://149.202.72.15:8000/live/tavares/tavares/1508.ts
+#EXTINF:-1 tvg-name="TVI FHD" tvg-logo="http://qwertylist.soeu.ws/logos/TVI.png" group-title="TEMPORARIOS",TVI FHD
+http://149.202.72.15:8000/live/tavares/tavares/1507.ts
+#EXTINF:-1 tvg-name="RTP 3" tvg-logo="http://painel.soeu.ws:8000/logos/RTP 3.png" group-title="TEMPORARIOS",RTP 3
+http://149.202.72.15:8000/live/tavares/tavares/212.ts
+#EXTINF:-1 tvg-name="SIC NOTICIAS" tvg-logo="http://painel.soeu.ws:8000/logos/SIC NOTICIAS.png" group-title="TEMPORARIOS",SIC NOTICIAS
+http://149.202.72.15:8000/live/tavares/tavares/195.ts
+#EXTINF:-1 tvg-name="TVI 24" tvg-logo="http://painel.soeu.ws:8000/logos/TVI 24.png" group-title="TEMPORARIOS",TVI 24
+http://149.202.72.15:8000/live/tavares/tavares/190.ts
+#EXTINF:-1 tvg-name="RTP INTERNACIONAL" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%20Internacional.png" group-title="TEMPORARIOS",RTP INTERNACIONAL
+http://149.202.72.15:8000/live/tavares/tavares/1395.ts
+#EXTINF:-1 tvg-name="SIC MULHER" tvg-logo="http://painel.soeu.ws:8000/logos/SIC MULHER.png" group-title="TEMPORARIOS",SIC MULHER
+http://149.202.72.15:8000/live/tavares/tavares/219.ts
+#EXTINF:-1 tvg-name="SIC RADICAL" tvg-logo="http://painel.soeu.ws:8000/logos/SIC RADICAL.png" group-title="TEMPORARIOS",SIC RADICAL
+http://149.202.72.15:8000/live/tavares/tavares/194.ts
+#EXTINF:-1 tvg-name="SIC CARAS" tvg-logo="http://painel.soeu.ws:8000/logos/SIC CARAS.png" group-title="TEMPORARIOS",SIC CARAS
+http://149.202.72.15:8000/live/tavares/tavares/204.ts
+#EXTINF:-1 tvg-name="CANAL Q" tvg-logo="http://painel.soeu.ws:8000/logos/CANAL Q.png" group-title="TEMPORARIOS",CANAL Q
+http://149.202.72.15:8000/live/tavares/tavares/198.ts
+#EXTINF:-1 tvg-name="PORTO CANAL" tvg-logo="http://painel.soeu.ws:8000/logos/PORTO CANAL.png" group-title="TEMPORARIOS",PORTO CANAL
+http://149.202.72.15:8000/live/tavares/tavares/196.ts
+#EXTINF:-1 tvg-name="CM TV" tvg-logo="http://painel.soeu.ws:8000/logos/CM TV.png" group-title="TEMPORARIOS",CM TV
+http://149.202.72.15:8000/live/tavares/tavares/186.ts
+#EXTINF:-1 tvg-name="RTP MEMORIA" tvg-logo="http://painel.soeu.ws:8000/logos/RTP MEMORIA.png" group-title="TEMPORARIOS",RTP MEMORIA
+http://149.202.72.15:8000/live/tavares/tavares/700.ts
+#EXTINF:-1 tvg-name="RTP AFRICA" tvg-logo="http://painel.soeu.ws:8000/logos/RTP AFRICA.png" group-title="TEMPORARIOS",RTP AFRICA
+http://149.202.72.15:8000/live/tavares/tavares/518.ts
+#EXTINF:-1 tvg-name="RTP MADEIRA" tvg-logo="http://painel.soeu.ws:8000/logos/RTP MADEIRA.png" group-title="TEMPORARIOS",RTP MADEIRA
+http://149.202.72.15:8000/live/tavares/tavares/697.ts
+#EXTINF:-1 tvg-name="RTP ACORES" tvg-logo="http://painel.soeu.ws:8000/logos/RTP%20A%C3%87ORES.png" group-title="TEMPORARIOS",RTP ACORES
+http://149.202.72.15:8000/live/tavares/tavares/698.ts
+#EXTINF:-1 tvg-name="TVI REALTY" tvg-logo="http://painel.soeu.ws:8000/logos/TVI REALTY.png" group-title="TEMPORARIOS",TVI REALTY
+http://149.202.72.15:8000/live/tavares/tavares/689.ts
+#EXTINF:-1 tvg-name="TVI REALTY CAMERA 1" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%20REALTY.png" group-title="TEMPORARIOS",TVI REALTY CAMERA 1
+http://149.202.72.15:8000/live/tavares/tavares/1394.ts
+#EXTINF:-1 tvg-name="TVI REALTY CAMERA 2" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%20REALTY.png" group-title="TEMPORARIOS",TVI REALTY CAMERA 2
+http://149.202.72.15:8000/live/tavares/tavares/1393.ts
+#EXTINF:-1 tvg-name="TVI REALTY CAMERA 3" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%20REALTY.png" group-title="TEMPORARIOS",TVI REALTY CAMERA 3
+http://149.202.72.15:8000/live/tavares/tavares/1392.ts
+#EXTINF:-1 tvg-name="TVI REALTY CAMERA 4" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%20REALTY.png" group-title="TEMPORARIOS",TVI REALTY CAMERA 4
+http://149.202.72.15:8000/live/tavares/tavares/1391.ts
+#EXTINF:-1 tvg-name="TVI REALTY MOSAICO" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%20REALTY.png" group-title="TEMPORARIOS",TVI REALTY MOSAICO
+http://149.202.72.15:8000/live/tavares/tavares/1390.ts
+#EXTINF:-1 tvg-name="TVI FICCAO" tvg-logo="http://painel.soeu.ws:8000/logos/TVI FICCAO.png" group-title="TEMPORARIOS",TVI FICCAO
+http://149.202.72.15:8000/live/tavares/tavares/213.ts
+#EXTINF:-1 tvg-name="ARTV" tvg-logo="http://painel.soeu.ws:8000/logos/ARTV.png" group-title="TEMPORARIOS",ARTV
+http://149.202.72.15:8000/live/tavares/tavares/852.ts
+#EXTINF:-1 tvg-name="TV RECORD" tvg-logo="http://painel.soeu.ws:8000/logos/TV RECORD.png" group-title="TEMPORARIOS",TV RECORD
+http://149.202.72.15:8000/live/tavares/tavares/189.ts
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="http://painel.soeu.ws:8000/logos/GLOBO.png" group-title="TEMPORARIOS",GLOBO
+http://149.202.72.15:8000/live/tavares/tavares/512.ts
+#EXTINF:-1 tvg-name="GLOBO PREMIUM" tvg-logo="http://painel.soeu.ws:8000/logos/GLOBO PREMIUM.png" group-title="TEMPORARIOS",GLOBO PREMIUM
+http://149.202.72.15:8000/live/tavares/tavares/511.ts
+#EXTINF:-1 tvg-name="SPORTV + FULL HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%20+.png" group-title="TEMPORARIOS",SPORTV + FULL HD
+http://149.202.72.15:8000/live/tavares/tavares/1477.ts
+#EXTINF:-1 tvg-name="SPORTV +" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%20+.png" group-title="TEMPORARIOS",SPORTV +
+http://149.202.72.15:8000/live/tavares/tavares/1038.ts
+#EXTINF:-1 tvg-name="SPORTV 1 FULL HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%201%20HD.png" group-title="TEMPORARIOS",SPORTV 1 FULL HD
+http://149.202.72.15:8000/live/tavares/tavares/1476.ts
+#EXTINF:-1 tvg-name="SPORTV 1 HD" tvg-logo="http://painel.soeu.ws:8000/logos/SPORTV 1 HD.png" group-title="TEMPORARIOS",SPORTV 1 HD
+http://149.202.72.15:8000/live/tavares/tavares/193.ts
+#EXTINF:-1 tvg-name="SPORTV 1" tvg-logo="http://painel.soeu.ws:8000/logos/SPORTV 1.png" group-title="TEMPORARIOS",SPORTV 1
+http://149.202.72.15:8000/live/tavares/tavares/286.ts
+#EXTINF:-1 tvg-name="SPORTV 2 FULL HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%202%20HD.png" group-title="TEMPORARIOS",SPORTV 2 FULL HD
+http://149.202.72.15:8000/live/tavares/tavares/1475.ts
+#EXTINF:-1 tvg-name="SPORTV 2 HD" tvg-logo="http://painel.soeu.ws:8000/logos/SPORTV 2 HD.png" group-title="TEMPORARIOS",SPORTV 2 HD
+http://149.202.72.15:8000/live/tavares/tavares/192.ts
+#EXTINF:-1 tvg-name="SPORTV 2" tvg-logo="http://painel.soeu.ws:8000/logos/SPORTV 2.png" group-title="TEMPORARIOS",SPORTV 2
+http://149.202.72.15:8000/live/tavares/tavares/285.ts
+#EXTINF:-1 tvg-name="SPORTV 3 FULL HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%203%20HD.png" group-title="TEMPORARIOS",SPORTV 3 FULL HD
+http://149.202.72.15:8000/live/tavares/tavares/1474.ts
+#EXTINF:-1 tvg-name="SPORTV 3 HD" tvg-logo="http://painel.soeu.ws:8000/logos/SPORTV 3 HD.png" group-title="TEMPORARIOS",SPORTV 3 HD
+http://149.202.72.15:8000/live/tavares/tavares/202.ts
+#EXTINF:-1 tvg-name="SPORTV 3" tvg-logo="http://painel.soeu.ws:8000/logos/SPORTV%203.png" group-title="TEMPORARIOS",SPORTV 3
+http://149.202.72.15:8000/live/tavares/tavares/688.ts
+#EXTINF:-1 tvg-name="SPORTV 4 FULL HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%204%20HD.png" group-title="TEMPORARIOS",SPORTV 4 FULL HD
+http://149.202.72.15:8000/live/tavares/tavares/1473.ts
+#EXTINF:-1 tvg-name="SPORTV 4 HD" tvg-logo="http://painel.soeu.ws:8000/logos/SPORTV 4 HD.png" group-title="TEMPORARIOS",SPORTV 4 HD
+http://149.202.72.15:8000/live/tavares/tavares/201.ts
+#EXTINF:-1 tvg-name="SPORTV 4" tvg-logo="http://painel.soeu.ws:8000/logos/SPORTV 4.png" group-title="TEMPORARIOS",SPORTV 4
+http://149.202.72.15:8000/live/tavares/tavares/687.ts
+#EXTINF:-1 tvg-name="SPORTV 5 FULL HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%205%20HD.png" group-title="TEMPORARIOS",SPORTV 5 FULL HD
+http://149.202.72.15:8000/live/tavares/tavares/1472.ts
+#EXTINF:-1 tvg-name="SPORTV 5 HD" tvg-logo="http://painel.soeu.ws:8000/logos/SPORTV 5 HD.png" group-title="TEMPORARIOS",SPORTV 5 HD
+http://149.202.72.15:8000/live/tavares/tavares/200.ts
+#EXTINF:-1 tvg-name="SPORTV 5" tvg-logo="http://painel.soeu.ws:8000/logos/SPORTV 5.png" group-title="TEMPORARIOS",SPORTV 5
+http://149.202.72.15:8000/live/tavares/tavares/686.ts
+#EXTINF:-1 tvg-name="A BOLA TV" tvg-logo="http://painel.soeu.ws:8000/logos/A BOLA TV.png" group-title="TEMPORARIOS",A BOLA TV
+http://149.202.72.15:8000/live/tavares/tavares/199.ts
+#EXTINF:-1 tvg-name="BTV 1 FULL HD" tvg-logo="http://qwertylist.soeu.ws/logos/BTV%201%20HD.png" group-title="TEMPORARIOS",BTV 1 FULL HD
+http://149.202.72.15:8000/live/tavares/tavares/1479.ts
+#EXTINF:-1 tvg-name="BTV 1 HD" tvg-logo="http://painel.soeu.ws:8000/logos/BTV 1 HD.png" group-title="TEMPORARIOS",BTV 1 HD
+http://149.202.72.15:8000/live/tavares/tavares/245.ts
+#EXTINF:-1 tvg-name="BTV 1" tvg-logo="http://painel.soeu.ws:8000/logos/BTV 1 HD.png" group-title="TEMPORARIOS",BTV 1
+http://149.202.72.15:8000/live/tavares/tavares/288.ts
+#EXTINF:-1 tvg-name="SPORTING TV HD" tvg-logo="http://painel.soeu.ws:8000/logos/SPORTING TV HD.png" group-title="TEMPORARIOS",SPORTING TV HD
+http://149.202.72.15:8000/live/tavares/tavares/203.ts
+#EXTINF:-1 tvg-name="REAL MADRID TV" tvg-logo="http://painel.soeu.ws:8000/logos/REAL MADRID TV.png" group-title="TEMPORARIOS",REAL MADRID TV
+http://149.202.72.15:8000/live/tavares/tavares/854.ts
+#EXTINF:-1 tvg-name="BARCA TV" tvg-logo="http://painel.soeu.ws:8000/logos/BARCA TV.png" group-title="TEMPORARIOS",BARCA TV
+http://149.202.72.15:8000/live/tavares/tavares/863.ts
+#EXTINF:-1 tvg-name="EUROSPORT HD" tvg-logo="http://painel.soeu.ws:8000/logos/EUROSPORT HD.png" group-title="TEMPORARIOS",EUROSPORT HD
+http://149.202.72.15:8000/live/tavares/tavares/207.ts
+#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="http://painel.soeu.ws:8000/logos/EUROSPORT 2.png" group-title="TEMPORARIOS",EUROSPORT 2
+http://149.202.72.15:8000/live/tavares/tavares/227.ts
+#EXTINF:-1 tvg-name="EUROSPORT NEWS" tvg-logo="http://painel.soeu.ws:8000/logos/EUROSPORT NEWS.png" group-title="TEMPORARIOS",EUROSPORT NEWS
+http://149.202.72.15:8000/live/tavares/tavares/786.ts
+#EXTINF:-1 tvg-name="NBA TV HD" tvg-logo="http://qwertylist.soeu.ws/logos/NBA_TV.png" group-title="TEMPORARIOS",NBA TV HD
+http://149.202.72.15:8000/live/tavares/tavares/2046.ts
+#EXTINF:-1 tvg-name="PFC" tvg-logo="http://painel.soeu.ws:8000/logos/PFC.png" group-title="TEMPORARIOS",PFC
+http://149.202.72.15:8000/live/tavares/tavares/228.ts
+#EXTINF:-1 tvg-name="MOTORS TV" tvg-logo="http://painel.soeu.ws:8000/logos/MOTORS TV.png" group-title="TEMPORARIOS",MOTORS TV
+http://149.202.72.15:8000/live/tavares/tavares/214.ts
+#EXTINF:-1 tvg-name="MOTORVISION" tvg-logo="http://painel.soeu.ws:8000/logos/MOTORVISION.png" group-title="TEMPORARIOS",MOTORVISION
+http://149.202.72.15:8000/live/tavares/tavares/206.ts
+#EXTINF:-1 tvg-name="MCS EXTREME" tvg-logo="http://qwertylist.soeu.ws/logos/mcs-extreme.png" group-title="TEMPORARIOS",MCS EXTREME
+http://149.202.72.15:8000/live/tavares/tavares/1396.ts
+#EXTINF:-1 tvg-name="FUEL TV" tvg-logo="http://painel.soeu.ws:8000/logos/FUEL TV.png" group-title="TEMPORARIOS",FUEL TV
+http://149.202.72.15:8000/live/tavares/tavares/276.ts
+#EXTINF:-1 tvg-name="FIGHT NETWORK" tvg-logo="http://painel.soeu.ws:8000/logos/FIGHT NETWORK.png" group-title="TEMPORARIOS",FIGHT NETWORK
+http://149.202.72.15:8000/live/tavares/tavares/705.ts
+#EXTINF:-1 tvg-name="KOMBAT SPORT" tvg-logo="http://painel.soeu.ws:8000/logos/KOMBAT SPORT.png" group-title="TEMPORARIOS",KOMBAT SPORT
+http://149.202.72.15:8000/live/tavares/tavares/900.ts
+#EXTINF:-1 tvg-name="CACAVISION" tvg-logo="http://painel.soeu.ws:8000/logos/CACAVISION.png" group-title="TEMPORARIOS",CACAVISION
+http://149.202.72.15:8000/live/tavares/tavares/216.ts
+#EXTINF:-1 tvg-name="CAÇA E PESCA" tvg-logo="http://painel.soeu.ws:8000/logos/CAÇA E PESCA.png" group-title="TEMPORARIOS",CAÇA E PESCA
+http://149.202.72.15:8000/live/tavares/tavares/208.ts
+#EXTINF:-1 tvg-name="OUTDOOR" tvg-logo="http://painel.soeu.ws:8000/logos/OUTDOOR.png" group-title="TEMPORARIOS",OUTDOOR
+http://149.202.72.15:8000/live/tavares/tavares/784.ts
+#EXTINF:-1 tvg-name="TOROS TV" tvg-logo="http://painel.soeu.ws:8000/logos/TOROS TV.png" group-title="TEMPORARIOS",TOROS TV
+http://149.202.72.15:8000/live/tavares/tavares/278.ts
+#EXTINF:-1 tvg-name="DOG TV" tvg-logo="http://painel.soeu.ws:8000/logos/DOG TV.png" group-title="TEMPORARIOS",DOG TV
+http://149.202.72.15:8000/live/tavares/tavares/706.ts
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="http://painel.soeu.ws:8000/logos/DISNEY CHANNEL.png" group-title="TEMPORARIOS",DISNEY CHANNEL
+http://149.202.72.15:8000/live/tavares/tavares/282.ts
+#EXTINF:-1 tvg-name="DISNEY JUNIOR" tvg-logo="http://painel.soeu.ws:8000/logos/DISNEY JUNIOR.png" group-title="TEMPORARIOS",DISNEY JUNIOR
+http://149.202.72.15:8000/live/tavares/tavares/243.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="http://painel.soeu.ws:8000/logos/CARTOON NETWORK.png" group-title="TEMPORARIOS",CARTOON NETWORK
+http://149.202.72.15:8000/live/tavares/tavares/519.ts
+#EXTINF:-1 tvg-name="CANAL PANDA" tvg-logo="http://painel.soeu.ws:8000/logos/CANAL PANDA.png" group-title="TEMPORARIOS",CANAL PANDA
+http://149.202.72.15:8000/live/tavares/tavares/283.ts
+#EXTINF:-1 tvg-name="PANDA BIGGS" tvg-logo="http://painel.soeu.ws:8000/logos/PANDA BIGGS.png" group-title="TEMPORARIOS",PANDA BIGGS
+http://149.202.72.15:8000/live/tavares/tavares/279.ts
+#EXTINF:-1 tvg-name="JIM JAM" tvg-logo="http://painel.soeu.ws:8000/logos/JIM JAM.png" group-title="TEMPORARIOS",JIM JAM
+http://149.202.72.15:8000/live/tavares/tavares/281.ts
+#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="http://painel.soeu.ws:8000/logos/NICKELODEON.png" group-title="TEMPORARIOS",NICKELODEON
+http://149.202.72.15:8000/live/tavares/tavares/205.ts
+#EXTINF:-1 tvg-name="SIC K" tvg-logo="http://painel.soeu.ws:8000/logos/SIC K.png" group-title="TEMPORARIOS",SIC K
+http://149.202.72.15:8000/live/tavares/tavares/188.ts
+#EXTINF:-1 tvg-name="BABY TV" tvg-logo="http://painel.soeu.ws:8000/logos/BABY TV.png" group-title="TEMPORARIOS",BABY TV
+http://149.202.72.15:8000/live/tavares/tavares/187.ts
+#EXTINF:-1 tvg-name="BABY FIRST" tvg-logo="" group-title="TEMPORARIOS",BABY FIRST
+http://149.202.72.15:8000/live/tavares/tavares/1504.ts
+#EXTINF:-1 tvg-name="TVCINE 1 HD" tvg-logo="http://painel.soeu.ws:8000/logos/TVCINE 1 HD.png" group-title="TEMPORARIOS",TVCINE 1 HD
+http://149.202.72.15:8000/live/tavares/tavares/229.ts
+#EXTINF:-1 tvg-name="TVCINE 2 HD" tvg-logo="http://painel.soeu.ws:8000/logos/TVCINE 2 HD.png" group-title="TEMPORARIOS",TVCINE 2 HD
+http://149.202.72.15:8000/live/tavares/tavares/230.ts
+#EXTINF:-1 tvg-name="TVCINE 3 HD" tvg-logo="http://painel.soeu.ws:8000/logos/TVCINE 3 HD.png" group-title="TEMPORARIOS",TVCINE 3 HD
+http://149.202.72.15:8000/live/tavares/tavares/231.ts
+#EXTINF:-1 tvg-name="TVCINE 4 HD" tvg-logo="http://painel.soeu.ws:8000/logos/TVCINE 4 HD.png" group-title="TEMPORARIOS",TVCINE 4 HD
+http://149.202.72.15:8000/live/tavares/tavares/232.ts
+#EXTINF:-1 tvg-name="HOLLYWOOD HD" tvg-logo="http://painel.soeu.ws:8000/logos/HOLLYWOOD HD.png" group-title="TEMPORARIOS",HOLLYWOOD HD
+http://149.202.72.15:8000/live/tavares/tavares/234.ts
+#EXTINF:-1 tvg-name="AMC" tvg-logo="http://painel.soeu.ws:8000/logos/AMC HD.png" group-title="TEMPORARIOS",AMC
+http://149.202.72.15:8000/live/tavares/tavares/522.ts
+#EXTINF:-1 tvg-name="FOX MOVIES" tvg-logo="http://painel.soeu.ws:8000/logos/FOX MOVIES.png" group-title="TEMPORARIOS",FOX MOVIES
+http://149.202.72.15:8000/live/tavares/tavares/513.ts
+#EXTINF:-1 tvg-name="CINEMUNDO" tvg-logo="http://painel.soeu.ws:8000/logos/CINEMUNDO.png" group-title="TEMPORARIOS",CINEMUNDO
+http://149.202.72.15:8000/live/tavares/tavares/523.ts
+#EXTINF:-1 tvg-name="SUNDANCE" tvg-logo="http://painel.soeu.ws:8000/logos/SUNDANCE.png" group-title="TEMPORARIOS",SUNDANCE
+http://149.202.72.15:8000/live/tavares/tavares/780.ts
+#EXTINF:-1 tvg-name="SYFY" tvg-logo="http://painel.soeu.ws:8000/logos/SYFY.png" group-title="TEMPORARIOS",SYFY
+http://149.202.72.15:8000/live/tavares/tavares/182.ts
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="http://painel.soeu.ws:8000/logos/AXN HD.png" group-title="TEMPORARIOS",AXN HD
+http://149.202.72.15:8000/live/tavares/tavares/217.ts
+#EXTINF:-1 tvg-name="AXN WHITE HD" tvg-logo="http://painel.soeu.ws:8000/logos/AXN WHITE HD.png" group-title="TEMPORARIOS",AXN WHITE HD
+http://149.202.72.15:8000/live/tavares/tavares/237.ts
+#EXTINF:-1 tvg-name="AXN BLACK HD" tvg-logo="http://painel.soeu.ws:8000/logos/AXN BLACK HD.png" group-title="TEMPORARIOS",AXN BLACK HD
+http://149.202.72.15:8000/live/tavares/tavares/238.ts
+#EXTINF:-1 tvg-name="FOX HD" tvg-logo="http://painel.soeu.ws:8000/logos/FOX HD.png" group-title="TEMPORARIOS",FOX HD
+http://149.202.72.15:8000/live/tavares/tavares/215.ts
+#EXTINF:-1 tvg-name="FOX LIFE HD" tvg-logo="http://painel.soeu.ws:8000/logos/FOX LIFE HD.png" group-title="TEMPORARIOS",FOX LIFE HD
+http://149.202.72.15:8000/live/tavares/tavares/235.ts
+#EXTINF:-1 tvg-name="FOX CRIME HD" tvg-logo="http://painel.soeu.ws:8000/logos/FOX CRIME HD.png" group-title="TEMPORARIOS",FOX CRIME HD
+http://149.202.72.15:8000/live/tavares/tavares/236.ts
+#EXTINF:-1 tvg-name="FOX COMEDY" tvg-logo="http://painel.soeu.ws:8000/logos/FOX COMEDY.png" group-title="TEMPORARIOS",FOX COMEDY
+http://149.202.72.15:8000/live/tavares/tavares/693.ts
+#EXTINF:-1 tvg-name="CRIME   INVESTIGATION" tvg-logo="http://qwertylist.soeu.ws/logos/crime%20investigation.png" group-title="TEMPORARIOS",CRIME   INVESTIGATION
+http://149.202.72.15:8000/live/tavares/tavares/1398.ts
+#EXTINF:-1 tvg-name="TV SERIES HD" tvg-logo="http://painel.soeu.ws:8000/logos/TV SERIES HD.png" group-title="TEMPORARIOS",TV SERIES HD
+http://149.202.72.15:8000/live/tavares/tavares/233.ts
+#EXTINF:-1 tvg-name="E! ENTERTAINMENT" tvg-logo="http://painel.soeu.ws:8000/logos/E! ENTERTAINMENT.png" group-title="TEMPORARIOS",E! ENTERTAINMENT
+http://149.202.72.15:8000/live/tavares/tavares/239.ts
+#EXTINF:-1 tvg-name="CBS REALITY" tvg-logo="http://painel.soeu.ws:8000/logos/CBS REALITY.png" group-title="TEMPORARIOS",CBS REALITY
+http://149.202.72.15:8000/live/tavares/tavares/517.ts
+#EXTINF:-1 tvg-name="MCS LIFESTYLE" tvg-logo="http://painel.soeu.ws:8000/logos/MCS LIFESTYLE.png" group-title="TEMPORARIOS",MCS LIFESTYLE
+http://149.202.72.15:8000/live/tavares/tavares/790.ts
+#EXTINF:-1 tvg-name="NAT. GEOGRAPHIC" tvg-logo="http://painel.soeu.ws:8000/logos/NAT. GEOGRAPHIC.png" group-title="TEMPORARIOS",NAT. GEOGRAPHIC
+http://149.202.72.15:8000/live/tavares/tavares/211.ts
+#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-logo="http://painel.soeu.ws:8000/logos/NAT GEO WILD.png" group-title="TEMPORARIOS",NAT GEO WILD
+http://149.202.72.15:8000/live/tavares/tavares/242.ts
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="http://painel.soeu.ws:8000/logos/DISCOVERY CHANNEL.png" group-title="TEMPORARIOS",DISCOVERY CHANNEL
+http://149.202.72.15:8000/live/tavares/tavares/180.ts
+#EXTINF:-1 tvg-name="DISCOVERY SHOWCASE" tvg-logo="http://painel.soeu.ws:8000/logos/DISCOVERY SHOWCASE.png" group-title="TEMPORARIOS",DISCOVERY SHOWCASE
+http://149.202.72.15:8000/live/tavares/tavares/514.ts
+#EXTINF:-1 tvg-name="TLC" tvg-logo="http://painel.soeu.ws:8000/logos/TLC.png" group-title="TEMPORARIOS",TLC
+http://149.202.72.15:8000/live/tavares/tavares/240.ts
+#EXTINF:-1 tvg-name="A & E" tvg-logo="http://painel.soeu.ws:8000/logos/A & E.png" group-title="TEMPORARIOS",A & E
+http://149.202.72.15:8000/live/tavares/tavares/284.ts
+#EXTINF:-1 tvg-name="ODISSEIA" tvg-logo="http://painel.soeu.ws:8000/logos/ODISSEIA.png" group-title="TEMPORARIOS",ODISSEIA
+http://149.202.72.15:8000/live/tavares/tavares/280.ts
+#EXTINF:-1 tvg-name="CANAL HISTORIA" tvg-logo="http://painel.soeu.ws:8000/logos/CANAL HISTORIA.png" group-title="TEMPORARIOS",CANAL HISTORIA
+http://149.202.72.15:8000/live/tavares/tavares/516.ts
+#EXTINF:-1 tvg-name="24 KITCHEN" tvg-logo="http://painel.soeu.ws:8000/logos/24 KITCHEN.png" group-title="TEMPORARIOS",24 KITCHEN
+http://149.202.72.15:8000/live/tavares/tavares/241.ts
+#EXTINF:-1 tvg-name="FOOD NETWORK" tvg-logo="http://painel.soeu.ws:8000/logos/FOOD NETWORK.png" group-title="TEMPORARIOS",FOOD NETWORK
+http://149.202.72.15:8000/live/tavares/tavares/695.ts
+#EXTINF:-1 tvg-name="TRAVEL CHANNEL" tvg-logo="http://painel.soeu.ws:8000/logos/TRAVEL CHANNEL.png" group-title="TEMPORARIOS",TRAVEL CHANNEL
+http://149.202.72.15:8000/live/tavares/tavares/509.ts
+#EXTINF:-1 tvg-name="FASHION TV" tvg-logo="http://painel.soeu.ws:8000/logos/FASHION TV.png" group-title="TEMPORARIOS",FASHION TV
+http://149.202.72.15:8000/live/tavares/tavares/696.ts
+#EXTINF:-1 tvg-name="LUXE TV" tvg-logo="http://painel.soeu.ws:8000/logos/LUXE TV.png" group-title="TEMPORARIOS",LUXE TV
+http://149.202.72.15:8000/live/tavares/tavares/783.ts
+#EXTINF:-1 tvg-name="FINE LIVING HD" tvg-logo="http://painel.soeu.ws:8000/logos/FINE LIVING HD.png" group-title="TEMPORARIOS",FINE LIVING HD
+http://149.202.72.15:8000/live/tavares/tavares/870.ts
+#EXTINF:-1 tvg-name="ZEE TV" tvg-logo="http://painel.soeu.ws:8000/logos/ZEE TV.png" group-title="TEMPORARIOS",ZEE TV
+http://149.202.72.15:8000/live/tavares/tavares/867.ts
+#EXTINF:-1 tvg-name="MAX" tvg-logo="http://painel.soeu.ws:8000/logos/MAX.png" group-title="TEMPORARIOS",MAX
+http://149.202.72.15:8000/live/tavares/tavares/869.ts
+#EXTINF:-1 tvg-name="TRACE URBAN HD" tvg-logo="http://painel.soeu.ws:8000/logos/TRACE URBAN HD.png" group-title="TEMPORARIOS",TRACE URBAN HD
+http://149.202.72.15:8000/live/tavares/tavares/868.ts
+#EXTINF:-1 tvg-name="MTV PORTUGAL" tvg-logo="http://painel.soeu.ws:8000/logos/MTV PORTUGAL.png" group-title="TEMPORARIOS",MTV PORTUGAL
+http://149.202.72.15:8000/live/tavares/tavares/692.ts
+#EXTINF:-1 tvg-name="MTV ROCKS" tvg-logo="http://painel.soeu.ws:8000/logos/MTV ROCKS.png" group-title="TEMPORARIOS",MTV ROCKS
+http://149.202.72.15:8000/live/tavares/tavares/918.ts
+#EXTINF:-1 tvg-name="MTV MUSIC" tvg-logo="http://painel.soeu.ws:8000/logos/MTV MUSIC.png" group-title="TEMPORARIOS",MTV MUSIC
+http://149.202.72.15:8000/live/tavares/tavares/919.ts
+#EXTINF:-1 tvg-name="MTV DANCE" tvg-logo="http://painel.soeu.ws:8000/logos/MTV DANCE.png" group-title="TEMPORARIOS",MTV DANCE
+http://149.202.72.15:8000/live/tavares/tavares/920.ts
+#EXTINF:-1 tvg-name="MCM POP" tvg-logo="http://painel.soeu.ws:8000/logos/MCM POP.png" group-title="TEMPORARIOS",MCM POP
+http://149.202.72.15:8000/live/tavares/tavares/788.ts
+#EXTINF:-1 tvg-name="TRACE TV" tvg-logo="http://painel.soeu.ws:8000/logos/TRACE TV.png" group-title="TEMPORARIOS",TRACE TV
+http://149.202.72.15:8000/live/tavares/tavares/787.ts
+#EXTINF:-1 tvg-name="VH1" tvg-logo="http://painel.soeu.ws:8000/logos/VH1.png" group-title="TEMPORARIOS",VH1
+http://149.202.72.15:8000/live/tavares/tavares/277.ts
+#EXTINF:-1 tvg-name="VH1 CLASSIC" tvg-logo="http://qwertylist.soeu.ws/logos/VH1%20CLASSIC.png" group-title="TEMPORARIOS",VH1 CLASSIC
+http://149.202.72.15:8000/live/tavares/tavares/1036.ts
+#EXTINF:-1 tvg-name="C-MUSIC" tvg-logo="http://painel.soeu.ws:8000/logos/C MUSIC.png" group-title="TEMPORARIOS",C-MUSIC
+http://149.202.72.15:8000/live/tavares/tavares/865.ts
+#EXTINF:-1 tvg-name="iCONCERTS" tvg-logo="http://painel.soeu.ws:8000/logos/ICONCERTS.png" group-title="TEMPORARIOS",iCONCERTS
+http://149.202.72.15:8000/live/tavares/tavares/704.ts
+#EXTINF:-1 tvg-name="VIRGIN TV" tvg-logo="" group-title="TEMPORARIOS",VIRGIN TV
+http://149.202.72.15:8000/live/tavares/tavares/1500.ts
+#EXTINF:-1 tvg-name="AFRO TV" tvg-logo="http://painel.soeu.ws:8000/logos/AFRO TV.png" group-title="TEMPORARIOS",AFRO TV
+http://149.202.72.15:8000/live/tavares/tavares/515.ts
+#EXTINF:-1 tvg-name="MEZZO" tvg-logo="http://painel.soeu.ws:8000/logos/MEZZO.png" group-title="TEMPORARIOS",MEZZO
+http://149.202.72.15:8000/live/tavares/tavares/781.ts
+#EXTINF:-1 tvg-name="LOCALVISAO HD" tvg-logo="http://painel.soeu.ws:8000/logos/LOCALVISAO HD.png" group-title="TEMPORARIOS",LOCALVISAO HD
+http://149.202.72.15:8000/live/tavares/tavares/855.ts
+#EXTINF:-1 tvg-name="KURISKOS TV" tvg-logo="http://qwertylist.soeu.ws/logos/KURIAKOSTV.png" group-title="TEMPORARIOS",KURISKOS TV
+http://149.202.72.15:8000/live/tavares/tavares/1579.ts
+#EXTINF:-1 tvg-name="REGIOES TV" tvg-logo="http://painel.soeu.ws:8000/logos/REGIOES TV.png" group-title="TEMPORARIOS",REGIOES TV
+http://149.202.72.15:8000/live/tavares/tavares/898.ts
+#EXTINF:-1 tvg-name="SANTUARIO FATIMA" tvg-logo="http://painel.soeu.ws:8000/logos/SANTUARIO FATIMA.png" group-title="TEMPORARIOS",SANTUARIO FATIMA
+http://149.202.72.15:8000/live/tavares/tavares/225.ts
+#EXTINF:-1 tvg-name="TPA INTERNACIONAL" tvg-logo="http://painel.soeu.ws:8000/logos/TPA INTERNACIONAL.png" group-title="TEMPORARIOS",TPA INTERNACIONAL
+http://149.202.72.15:8000/live/tavares/tavares/699.ts
+#EXTINF:-1 tvg-name="CANCAO NOVA" tvg-logo="http://painel.soeu.ws:8000/logos/CANCAO NOVA.png" group-title="TEMPORARIOS",CANCAO NOVA
+http://149.202.72.15:8000/live/tavares/tavares/694.ts
+#EXTINF:-1 tvg-name="RECORD NEWS" tvg-logo="http://painel.soeu.ws:8000/logos/RECORD NEWS.png" group-title="TEMPORARIOS",RECORD NEWS
+http://149.202.72.15:8000/live/tavares/tavares/866.ts
+#EXTINF:-1 tvg-name="EURONEWS" tvg-logo="http://painel.soeu.ws:8000/logos/EURONEWS.png" group-title="TEMPORARIOS",EURONEWS
+http://149.202.72.15:8000/live/tavares/tavares/857.ts
+#EXTINF:-1 tvg-name="CNN" tvg-logo="http://painel.soeu.ws:8000/logos/CNN.png" group-title="TEMPORARIOS",CNN
+http://149.202.72.15:8000/live/tavares/tavares/859.ts
+#EXTINF:-1 tvg-name="BBC WORLD NEWS" tvg-logo="http://painel.soeu.ws:8000/logos/BBC WORLD NEWS.png" group-title="TEMPORARIOS",BBC WORLD NEWS
+http://149.202.72.15:8000/live/tavares/tavares/862.ts
+#EXTINF:-1 tvg-name="CUBAVISION INTERNATIONAL" tvg-logo="http://qwertylist.soeu.ws/logos/cubavision_internacional.png" group-title="TEMPORARIOS",CUBAVISION INTERNATIONAL
+http://149.202.72.15:8000/live/tavares/tavares/1397.ts
+#EXTINF:-1 tvg-name="TV GALICIA" tvg-logo="http://qwertylist.soeu.ws/logos/TV%20GALICIA.png" group-title="TEMPORARIOS",TV GALICIA
+http://149.202.72.15:8000/live/tavares/tavares/1037.ts
+#EXTINF:-1 tvg-name="FRANCE 24" tvg-logo="http://painel.soeu.ws:8000/logos/FRANCE 24.png" group-title="TEMPORARIOS",FRANCE 24
+http://149.202.72.15:8000/live/tavares/tavares/785.ts
+#EXTINF:-1 tvg-name="TV5 MONDE" tvg-logo="http://painel.soeu.ws:8000/logos/TV5 MONDE.png" group-title="TEMPORARIOS",TV5 MONDE
+http://149.202.72.15:8000/live/tavares/tavares/864.ts
+#EXTINF:-1 tvg-name="DEUTSCHE WELLE" tvg-logo="http://painel.soeu.ws:8000/logos/DEUTCSCHE WELLE.png" group-title="TEMPORARIOS",DEUTSCHE WELLE
+http://149.202.72.15:8000/live/tavares/tavares/858.ts
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-logo="http://painel.soeu.ws:8000/logos/BLOOMBERG.png" group-title="TEMPORARIOS",BLOOMBERG
+http://149.202.72.15:8000/live/tavares/tavares/861.ts
+#EXTINF:-1 tvg-name="M6" tvg-logo="http://painel.soeu.ws:8000/logos/M6.png" group-title="TEMPORARIOS",M6
+http://149.202.72.15:8000/live/tavares/tavares/691.ts
 
-#EXTINF:-1,RTP1
-http://185.73.239.23:8000/live/abcde123/abcde123/2615.ts
-#EXTINF:-1,RTP 2
-http://185.73.239.23:8000/live/abcde123/abcde123/2616.ts
-#EXTINF:-1,RTP ACORES
-http://185.73.239.23:8000/live/abcde123/abcde123/2621.ts
-#EXTINF:-1,RTP MEMORIA
-http://185.73.239.23:8000/live/abcde123/abcde123/2618.ts
-#EXTINF:-1,RTP MADEIRA
-http://185.73.239.23:8000/live/abcde123/abcde123/2619.ts
-#EXTINF:-1,RTP AFRICA
-http://185.73.239.23:8000/live/abcde123/abcde123/2620.ts
-#EXTINF:-1,TVI HD
-http://185.73.239.23:8000/live/abcde123/abcde123/5449.ts
-#EXTINF:-1,TVI Reality
-http://185.73.239.23:8000/live/abcde123/abcde123/5447.ts
-#EXTINF:-1,TVI Ficção
-http://185.73.239.23:8000/live/abcde123/abcde123/5448.ts
-#EXTINF:-1,SIC HD
-http://185.73.239.23:8000/live/abcde123/abcde123/2622.ts
-#EXTINF:-1,SIC MULHER
-http://185.73.239.23:8000/live/abcde123/abcde123/2624.ts
-#EXTINF:-1,SIC Radical
-http://185.73.239.23:8000/live/abcde123/abcde123/6280.ts
-#EXTINF:-1,SIC Caras
-http://185.73.239.23:8000/live/abcde123/abcde123/6281.ts
-#EXTINF:-1,TV Lisboa
-http://185.73.239.23:8000/live/abcde123/abcde123/6283.ts
-#EXTINF:-1,Porto Canal
-http://185.73.239.23:8000/live/abcde123/abcde123/6284.ts
-#EXTINF:-1,Benfica TV HD
-http://185.73.239.23:8000/live/abcde123/abcde123/8356.ts
-#EXTINF:-1,Canal Q
-http://185.73.239.23:8000/live/abcde123/abcde123/6285.ts
-#EXTINF:-1,TV GLOBO PORTUGAL
-http://185.73.239.23:8000/live/abcde123/abcde123/8612.ts
-#EXTINF:-1,TV GLOBO PREMIUM
-http://185.73.239.23:8000/live/abcde123/abcde123/8613.ts
-#EXTINF:-1,TV Record portugal
-http://185.73.239.23:8000/live/abcde123/abcde123/6469.ts
-#EXTINF:-1,RTP 3
-http://185.73.239.23:8000/live/abcde123/abcde123/2617.ts
-#EXTINF:-1,SIC NOTICIAS HD
-http://185.73.239.23:8000/live/abcde123/abcde123/2623.ts
-#EXTINF:-1,CMTV HD
-http://185.73.239.23:8000/live/abcde123/abcde123/6287.ts
-#EXTINF:-1,Bloomberg
-http://185.73.239.23:8000/live/abcde123/abcde123/6291.ts
-#EXTINF:-1,National Geographic (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/6294.ts
-#EXTINF:-1,National Geographic Wild (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/2646.ts
-#EXTINF:-1,Discovery Channel (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/5453.ts
-#EXTINF:-1,Discovery Showcase HD (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/5452.ts
-#EXTINF:-1,Odisseia (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/5451.ts
-#EXTINF:-1,HISTORIA HD
-http://185.73.239.23:8000/live/abcde123/abcde123/2641.ts
-#EXTINF:-1,CBS Reality
-http://185.73.239.23:8000/live/abcde123/abcde123/6296.ts
-#EXTINF:-1,TVC 1 HD
-http://185.73.239.23:8000/live/abcde123/abcde123/2627.ts
-#EXTINF:-1,TVC 2 HD
-http://185.73.239.23:8000/live/abcde123/abcde123/2628.ts
-#EXTINF:-1,TVC 3 HD
-http://185.73.239.23:8000/live/abcde123/abcde123/2629.ts
-#EXTINF:-1,TVC4 hd
-http://185.73.239.23:8000/live/abcde123/abcde123/2630.ts
-#EXTINF:-1,FOX LIFE HD
-http://185.73.239.23:8000/live/abcde123/abcde123/2644.ts
-#EXTINF:-1,FoxLife HD
-http://185.73.239.23:8000/live/abcde123/abcde123/6302.ts
-#EXTINF:-1,FOX HD (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/2643.ts
-#EXTINF:-1,FOX CRIME HD (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/2645.ts
-#EXTINF:-1,FoxMovies
-http://185.73.239.23:8000/live/abcde123/abcde123/6303.ts
-#EXTINF:-1,AXN HD
-http://185.73.239.23:8000/live/abcde123/abcde123/2642.ts
-#EXTINF:-1,AXN White (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/6305.ts
-#EXTINF:-1,AXN Black HD (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/6306.ts
-#EXTINF:-1,Hollywood HD (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/6298.ts
-#EXTINF:-1,FoxComedy
-http://185.73.239.23:8000/live/abcde123/abcde123/6304.ts
-#EXTINF:-1,CINE MUNDO HD
-http://185.73.239.23:8000/live/abcde123/abcde123/2632.ts
-#EXTINF:-1,E! Entertainment (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/6307.ts
-#EXTINF:-1,Cinemundo HD
-http://185.73.239.23:8000/live/abcde123/abcde123/6299.ts
-#EXTINF:-1,Mov HD
-http://185.73.239.23:8000/live/abcde123/abcde123/6300.ts
-#EXTINF:-1,DISNEY JUNIOR (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/2651.ts
-#EXTINF:-1,DISNEY CHANNEL (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/2650.ts
-#EXTINF:-1,NICKELODEON (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/2648.ts
-#EXTINF:-1,CARTON NETWORK (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/2649.ts
-#EXTINF:-1,PANDA HD
-http://185.73.239.23:8000/live/abcde123/abcde123/2652.ts
-#EXTINF:-1,PANDA BIGGS
-http://185.73.239.23:8000/live/abcde123/abcde123/2653.ts
-#EXTINF:-1,MTV PORTUGAL (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/2647.ts
-#EXTINF:-1,VH1
-http://185.73.239.23:8000/live/abcde123/abcde123/5446.ts
-#EXTINF:-1,Syfy (pt)
-http://185.73.239.23:8000/live/abcde123/abcde123/5450.ts
-#EXTINF:-1,SPORT TV 1 HD
-http://185.73.239.23:8000/live/abcde123/abcde123/6726.ts
-#EXTINF:-1,SPORT TV 2 HD
-http://185.73.239.23:8000/live/abcde123/abcde123/6727.ts
-#EXTINF:-1,SPORT TV 3 HD
-http://185.73.239.23:8000/live/abcde123/abcde123/6728.ts
-#EXTINF:-1,SPORT TV 4 HD
-http://185.73.239.23:8000/live/abcde123/abcde123/6729.ts
-#EXTINF:-1,SPORT TV 5 HD
-http://185.73.239.23:8000/live/abcde123/abcde123/6730.ts
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 3---
 Http://google.pt
 
 
-
 #EXTM3U
-#EXTINF:-1, TV CINE 4  IPTVultra.com [1280x720]
-http://149.202.205.91:8081/live/pedro/skype/1719.ts
-#EXTINF:-1, RTP INTERNATIONAL  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/pedro/skype/1658.ts
-#EXTINF:-1, SPORT TV 3 HD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1723.ts
-#EXTINF:-1, TVI 24  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1673.ts
-#EXTINF:-1, TV CINE 1  HD  IPTVultra.com [1920x1088]
-http://149.202.205.91:8081/live/pedro/skype/1716.ts
-#EXTINF:-1, TLC  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1681.ts
-#EXTINF:-1, RTP MEMORIA  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1683.ts
-#EXTINF:-1, TVI Reality (A Quinta)  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/pedro/skype/1672.ts
-#EXTINF:-1, A BOLA TV  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1710.ts
-#EXTINF:-1, EUROSPORT 2  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1666.ts
-#EXTINF:-1, SPORT TV 4 HD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1724.ts
-#EXTINF:-1, Sic  IPTVultra.com [704x576]
-http://149.202.205.91:8081/live/pedro/skype/1725.ts
-#EXTINF:-1, SIC MULHER  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1682.ts
-#EXTINF:-1, Fox Comedy  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1694.ts
-#EXTINF:-1, PFC  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1686.ts
-#EXTINF:-1, FOX TV  IPTVultra.com [1280x1088]
-http://149.202.205.91:8081/live/pedro/skype/1663.ts
-#EXTINF:-1, FUEL TV  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1693.ts
-#EXTINF:-1, FOX MOVIES  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1729.ts
-#EXTINF:-1, BENFICA TV 2  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1669.ts
-#EXTINF:-1, SIC NOTICIAS  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/pedro/skype/1657.ts
-#EXTINF:-1, SPORTING TV  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1720.ts
-#EXTINF:-1, RTP 3  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1715.ts
-#EXTINF:-1, HOLLYWOOD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1662.ts
-#EXTINF:-1, DISCOVERY  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1668.ts
-#EXTINF:-1, MOV HD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1728.ts
-#EXTINF:-1, NICKELODEON  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1688.ts
-#EXTINF:-1, CINEMUNDO  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1701.ts
-#EXTINF:-1, AMC  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/pedro/skype/1709.ts
-#EXTINF:-1, JIM JAM  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1661.ts
-#EXTINF:-1, CANAL Q  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1704.ts
-#EXTINF:-1, PORTO CANAL  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1660.ts
-#EXTINF:-1, SYFY  IPTVultra.com [720x592]
-http://149.202.205.91:8081/live/pedro/skype/1655.ts
-#EXTINF:-1, SIC RADICAL  IPTVultra.com [1280x1088]
-http://149.202.205.91:8081/live/pedro/skype/1656.ts
-#EXTINF:-1, CBS REALITY  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1703.ts
-#EXTINF:-1, TV CINE 3 HD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1718.ts
-#EXTINF:-1, RTP 1  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1727.ts
-#EXTINF:-1, TV Globo Premium  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1677.ts
-#EXTINF:-1, SPORT TV 1 HD  IPTVultra.com [1280x720]
-http://149.202.205.91:8081/live/pedro/skype/1721.ts
-#EXTINF:-1, TV RECORD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1676.ts
-#EXTINF:-1, CANAL PANDA  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1705.ts
-#EXTINF:-1, AXN WHITE  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1713.ts
-#EXTINF:-1, ODISSEIA  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1687.ts
-#EXTINF:-1, VH1  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1671.ts
-#EXTINF:-1, MOTORS TV  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1692.ts
-#EXTINF:-1, TOUROS TV  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1680.ts
-#EXTINF:-1, BENFICA TV 1  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1670.ts
-#EXTINF:-1, RTP A?ORES  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/pedro/skype/1685.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC  IPTVultra.com [1280x720]
-http://149.202.205.91:8081/live/pedro/skype/1690.ts
-#EXTINF:-1, CA?A & PESCA  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1707.ts
-#EXTINF:-1, TVI  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1674.ts
-#EXTINF:-1, FOX LIFE  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/pedro/skype/1664.ts
-#EXTINF:-1, DISNEY JUNIOR  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/pedro/skype/1696.ts
-#EXTINF:-1, EUROSPORT  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1667.ts
-#EXTINF:-1, AXN HD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1714.ts
-#EXTINF:-1, Discovery HD Showcase  IPTVultra.com [1280x720]
-http://149.202.205.91:8081/live/pedro/skype/1698.ts
-#EXTINF:-1, DISCOVERY CHANNEL  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1699.ts
-#EXTINF:-1, DISNEY CHANNEL  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/pedro/skype/1697.ts
-#EXTINF:-1, TVI 24  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/673.ts
-#EXTINF:-1, CM TV  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1700.ts
-#EXTINF:-1, A & E  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1711.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC WILD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1689.ts
-#EXTINF:-1, CANAL HISTORIA  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1706.ts
-#EXTINF:-1, RTP INFORMACAO  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/pedro/skype/1659.ts
-#EXTINF:-1, E! Entertainment  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1695.ts
-#EXTINF:-1,IPTV WEO  IPTVultra.com [640x368]
-http://149.202.206.38:8000/live/smartsat18.25/obI0AXyT/7064.ts
-#EXTINF:-1, TV CINE 2  HD  IPTVultra.com [1280x752]
-http://149.202.205.91:8081/live/pedro/skype/1717.ts
-#EXTINF:-1, MTV  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/pedro/skype/1691.ts
-#EXTINF:-1, TVCseries  IPTVultra.com [1280x752]
-http://149.202.205.91:8081/live/pedro/skype/1675.ts
-#EXTINF:-1, Sport TV 2 SD  IPTVultra.com [720x576]
-http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1726.ts
-#EXTINF:-1, TV GLOBO  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1678.ts
-#EXTINF:-1, RTP AFRICA  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/pedro/skype/1684.ts
-#EXTINF:-1, BABY TV  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1708.ts
-#EXTINF:-1, TVI 24  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1673.ts
-#EXTINF:-1, TV GLOBO  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1678.ts
-#EXTINF:-1, SPORT TV 2 HD  IPTVultra.com [1280x720]
-http://149.202.205.91:8081/live/pedro/skype/1722.ts
-#EXTINF:-1, TVI Reality (A Quinta)  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/elc/elc/1672.ts
-#EXTINF:-1, TVCseries  IPTVultra.com [1280x752]
-http://149.202.205.91:8081/live/elc/elc/1675.ts
-#EXTINF:-1, VH1  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1671.ts
-#EXTINF:-1, TV Globo Premium  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1677.ts
-#EXTINF:-1, TV RECORD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1676.ts
-#EXTINF:-1, TVI  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1674.ts
-#EXTINF:-1, TV CINE 4  IPTVultra.com [1280x720]
-http://149.202.205.91:8081/live/elc/elc/1719.ts
-#EXTINF:-1, TV CINE 1  HD  IPTVultra.com [1920x1088]
-http://149.202.205.91:8081/live/elc/elc/1716.ts
-#EXTINF:-1, TV CINE 2  HD  IPTVultra.com [1280x752]
-http://149.202.205.91:8081/live/elc/elc/1717.ts
-#EXTINF:-1, TV CINE 3 HD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1718.ts
-#EXTINF:-1, TLC  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1681.ts
-#EXTINF:-1, TOUROS TV  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1680.ts
-#EXTINF:-1, SYFY  IPTVultra.com [720x592]
-http://149.202.205.91:8081/live/elc/elc/1655.ts
-#EXTINF:-1, SPORTING TV  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1720.ts
-#EXTINF:-1, SPORT TV 4 HD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1724.ts
-#EXTINF:-1, SPORT TV 2 HD  IPTVultra.com [1280x720]
-http://149.202.205.91:8081/live/elc/elc/1722.ts
-#EXTINF:-1, SPORT TV 3 HD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1723.ts
-#EXTINF:-1, Sic  IPTVultra.com [704x576]
-http://149.202.205.91:8081/live/elc/elc/1725.ts
-#EXTINF:-1, SPORT TV 1 HD  IPTVultra.com [1280x720]
-http://149.202.205.91:8081/live/elc/elc/1721.ts
-#EXTINF:-1, SIC RADICAL  IPTVultra.com [1280x1088]
-http://149.202.205.91:8081/live/elc/elc/1656.ts
-#EXTINF:-1, RTP INTERNATIONAL  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/elc/elc/1658.ts
-#EXTINF:-1, SIC MULHER  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1682.ts
-#EXTINF:-1, SIC NOTICIAS  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/elc/elc/1657.ts
-#EXTINF:-1, RTP MEMORIA  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1683.ts
-#EXTINF:-1, RTP INFORMACAO  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/elc/elc/1659.ts
-#EXTINF:-1, RTP A?ORES  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/elc/elc/1685.ts
-#EXTINF:-1, RTP 2  IPTVultra.com [704x576]
-http://149.202.205.91:8081/live/elc/elc/1726.ts
-#EXTINF:-1, PFC  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1686.ts
-#EXTINF:-1, PORTO CANAL  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1660.ts
-#EXTINF:-1, RTP AFRICA  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/elc/elc/1684.ts
-#EXTINF:-1, RTP 1  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1727.ts
-#EXTINF:-1, NICKELODEON  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1688.ts
-#EXTINF:-1, MTV  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/elc/elc/1691.ts
-#EXTINF:-1, ODISSEIA  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1687.ts
-#EXTINF:-1, MOTORS TV  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1692.ts
-#EXTINF:-1, HOLLYWOOD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1662.ts
-#EXTINF:-1, FUEL TV  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1693.ts
-#EXTINF:-1, MOV HD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1728.ts
-#EXTINF:-1, RTP 3  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1715.ts
-#EXTINF:-1, FOX TV  IPTVultra.com [1280x1088]
-http://149.202.205.91:8081/live/elc/elc/1663.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC WILD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1689.ts
-#EXTINF:-1, FOX CRIME  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1665.ts
-#EXTINF:-1, FOX LIFE  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/elc/elc/1664.ts
-#EXTINF:-1, Fox Comedy  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1694.ts
-#EXTINF:-1, JIM JAM  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1661.ts
-#EXTINF:-1, EUROSPORT 2  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1666.ts
-#EXTINF:-1, E! Entertainment  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1695.ts
-#EXTINF:-1, DISNEY JUNIOR  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/elc/elc/1696.ts
-#EXTINF:-1, EUROSPORT  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1667.ts
-#EXTINF:-1, CM TV  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1700.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC  IPTVultra.com [1280x720]
-http://149.202.205.91:8081/live/elc/elc/1690.ts
-#EXTINF:-1, DISCOVERY  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1668.ts
-#EXTINF:-1, CBS REALITY  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1703.ts
-#EXTINF:-1, FOX MOVIES  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1729.ts
-#EXTINF:-1, Discovery HD Showcase  IPTVultra.com [1280x720]
-http://149.202.205.91:8081/live/elc/elc/1698.ts
-#EXTINF:-1, CANAL Q  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1704.ts
-#EXTINF:-1, CANAL HISTORIA  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1706.ts
-#EXTINF:-1, CA?A & PESCA  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1707.ts
-#EXTINF:-1, CINEMUNDO  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1701.ts
-#EXTINF:-1, DISNEY CHANNEL  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/elc/elc/1697.ts
-#EXTINF:-1, A BOLA TV  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1710.ts
-#EXTINF:-1, BENFICA TV 2  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1669.ts
-#EXTINF:-1, DISCOVERY CHANNEL  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1699.ts
-#EXTINF:-1, BABY TV  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1708.ts
-#EXTINF:-1, TVI 24  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/673.ts
-#EXTINF:-1, TVCseries  IPTVultra.com [1280x752]
-http://149.202.205.91:8081/live/elc/elc/675.ts
-#EXTINF:-1, A & E  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1711.ts
-#EXTINF:-1, RTP AFRICA  IPTVultra.com [640x368]
-http://185.73.239.23:8000/live/abcde123/abcde123/2620.ts
-#EXTINF:-1, AXN WHITE  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1713.ts
-#EXTINF:-1, CANAL PANDA  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1705.ts
-#EXTINF:-1, RTP 2  IPTVultra.com [1440x1088]
-http://185.73.239.23:8000/live/abcde123/abcde123/2616.ts
-#EXTINF:-1, AXN HD  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1714.ts
-#EXTINF:-1, AMC  IPTVultra.com [640x368]
-http://149.202.205.91:8081/live/elc/elc/1709.ts
-#EXTINF:-1, RTP MEMORIA  IPTVultra.com [640x368]
-http://185.73.239.23:8000/live/abcde123/abcde123/2618.ts
-#EXTINF:-1, RTP1  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/abcde123/abcde123/2615.ts
-#EXTINF:-1, BENFICA TV 1  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/elc/elc/1670.ts
-#EXTINF:-1, SIC NOTICIAS  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/abcde123/abcde123/2623.ts
-#EXTINF:-1, TVI FicÃ&#167;Ã&#163;o  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/abcde123/abcde123/5448.ts
-#EXTINF:-1, National Geographic Wild  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/abcde123/abcde123/2646.ts
-#EXTINF:-1, TV CINE 1 HD  IPTVultra.com [1440x1088]
-http://185.73.239.23:8000/live/abcde123/abcde123/2627.ts
-#EXTINF:-1, AXN HD  IPTVultra.com [1920x1088]
-http://185.73.239.23:8000/live/abcde123/abcde123/2642.ts
-#EXTINF:-1, FOX HD  IPTVultra.com [1280x720]
-http://185.73.239.23:8000/live/abcde123/abcde123/2643.ts
-#EXTINF:-1, NICKELODEON  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/abcde123/abcde123/2648.ts
-#EXTINF:-1, HISTORIA HD  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/abcde123/abcde123/2641.ts
-#EXTINF:-1, VH1  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/abcde123/abcde123/5446.ts
-#EXTINF:-1, TV CINE 4 hd  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/abcde123/abcde123/2630.ts
-#EXTINF:-1, RTP MEMORIA  IPTVultra.com [640x368]
-http://185.73.239.23:8000/live/hassan/hassan/2618.ts
-#EXTINF:-1, TVI FicÃ&#167;Ã&#163;o  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/hassan/hassan/5448.ts
-#EXTINF:-1, National Geographic Wild  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/hassan/hassan/2646.ts
-#EXTINF:-1, RTP1  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/hassan/hassan/2615.ts
-#EXTINF:-1, RTP AFRICA  IPTVultra.com [640x368]
-http://185.73.239.23:8000/live/hassan/hassan/2620.ts
-#EXTINF:-1, HISTORIA HD  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/hassan/hassan/2641.ts
-#EXTINF:-1, SIC NOTICIAS  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/hassan/hassan/2623.ts
-#EXTINF:-1, FOX HD  IPTVultra.com [1280x720]
-http://185.73.239.23:8000/live/hassan/hassan/2643.ts
-#EXTINF:-1, AXN HD  IPTVultra.com [1920x1088]
-http://185.73.239.23:8000/live/hassan/hassan/2642.ts
-#EXTINF:-1, RTP 2  IPTVultra.com [1440x1088]
-http://185.73.239.23:8000/live/hassan/hassan/2616.ts
-#EXTINF:-1, NICKELODEON  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/hassan/hassan/2648.ts
-#EXTINF:-1, TV CINE 1 HD  IPTVultra.com [1440x1088]
-http://185.73.239.23:8000/live/hassan/hassan/2627.ts
-#EXTINF:-1, VH1  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/hassan/hassan/5446.ts
-#EXTINF:-1, TV CINE 4 hd  IPTVultra.com [720x576]
-http://185.73.239.23:8000/live/hassan/hassan/2630.ts
-#EXTINF:-1, FOX CRIME  IPTVultra.com [720x576]
-http://149.202.205.91:8081/live/pedro/skype/1665.ts
-#EXTINF:-1, RTP 2  IPTVultra.com [704x576]
-http://149.202.205.91:8081/live/pedro/skype/1726.ts
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-ID="" tvg-name="►►► NACIONAL◄◄◄" tvg-logo="" group-title="TEMPORARIOS",►►► NACIONAL◄◄◄
+http://37.187.135.168:5500/live/Torben/Torben/1311.ts
+#EXTINF:-1 tvg-ID="RTP 1 HD PT" tvg-name="RTP 1" tvg-logo="http://www.thelogodb.com/images/media/logo/qwsuus1474662434.png" group-title="TEMPORARIOS",RTP 1
+http://37.187.135.168:5500/live/Torben/Torben/1.ts
+#EXTINF:-1 tvg-ID="RTP 1 HD PT" tvg-name="RTP 1 LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/qwsuus1474662434.png" group-title="TEMPORARIOS",RTP 1 LOW
+http://37.187.135.168:5500/live/Torben/Torben/137.ts
+#EXTINF:-1 tvg-ID="RTP 1 HD PT" tvg-name="RTP1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpvqrt1438183972.png" group-title="TEMPORARIOS",RTP1 HD
+http://37.187.135.168:5500/live/Torben/Torben/547.ts
+#EXTINF:-1 tvg-ID="RTP 2 HD PT" tvg-name="RTP2" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqtqq1474662440.png" group-title="TEMPORARIOS",RTP2
+http://37.187.135.168:5500/live/Torben/Torben/1089.ts
+#EXTINF:-1 tvg-ID="RTP 2 HD PT" tvg-name="RTP 2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqtqq1474662440.png" group-title="TEMPORARIOS",RTP 2 HD
+http://37.187.135.168:5500/live/Torben/Torben/783.ts
+#EXTINF:-1 tvg-ID="RTP 2 HD PT" tvg-name="RTP 2 LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqtqq1474662440.png" group-title="TEMPORARIOS",RTP 2 LOW
+http://37.187.135.168:5500/live/Torben/Torben/805.ts
+#EXTINF:-1 tvg-ID="SIC PT" tvg-name="SIC HD" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="TEMPORARIOS",SIC HD
+http://37.187.135.168:5500/live/Torben/Torben/548.ts
+#EXTINF:-1 tvg-ID="SIC PT" tvg-name="SIC" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="TEMPORARIOS",SIC
+http://37.187.135.168:5500/live/Torben/Torben/3.ts
+#EXTINF:-1 tvg-ID="SIC PT" tvg-name="SIC LOW" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="TEMPORARIOS",SIC LOW
+http://37.187.135.168:5500/live/Torben/Torben/138.ts
+#EXTINF:-1 tvg-ID="TVI PT" tvg-name="TVI HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qwwusv1434076725.png" group-title="TEMPORARIOS",TVI HD
+http://37.187.135.168:5500/live/Torben/Torben/549.ts
+#EXTINF:-1 tvg-ID="TVI PT" tvg-name="TVI" tvg-logo="https://www.thelogodb.com/images/media/logo/qwwusv1434076725.png" group-title="TEMPORARIOS",TVI
+http://37.187.135.168:5500/live/Torben/Torben/4.ts
+#EXTINF:-1 tvg-ID="TVI PT" tvg-name="TVI LOW" tvg-logo="https://www.thelogodb.com/images/media/logo/qwwusv1434076725.png" group-title="TEMPORARIOS",TVI LOW
+http://37.187.135.168:5500/live/Torben/Torben/139.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVI REALITY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/49/Tvi_reality.png/400px-Tvi_reality.png" group-title="TEMPORARIOS",TVI REALITY
+http://37.187.135.168:5500/live/Torben/Torben/1090.ts
+#EXTINF:-1 tvg-ID="TVIREALCE" tvg-name="TVI REALITY MOSAICO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/49/Tvi_reality.png/400px-Tvi_reality.png" group-title="TEMPORARIOS",TVI REALITY MOSAICO
+http://37.187.135.168:5500/live/Torben/Torben/1087.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVI REALITY EXCLUSIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/49/Tvi_reality.png/400px-Tvi_reality.png" group-title="TEMPORARIOS",TVI REALITY EXCLUSIVA
+http://37.187.135.168:5500/live/Torben/Torben/769.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVI FICÇAO" tvg-logo="https://www.thelogodb.com/images/media/logo/wpwprr1466449168.png" group-title="TEMPORARIOS",TVI FICÇAO
+http://37.187.135.168:5500/live/Torben/Torben/31.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SIC RADICAL" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png" group-title="TEMPORARIOS",SIC RADICAL
+http://37.187.135.168:5500/live/Torben/Torben/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SIC MULHER" tvg-logo="https://www.thelogodb.com/images/media/logo/suyuur1436891341.png" group-title="TEMPORARIOS",SIC MULHER
+http://37.187.135.168:5500/live/Torben/Torben/7.ts
+#EXTINF:-1 tvg-ID="SICCARAS" tvg-name="SIC CARAS" tvg-logo="https://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png" group-title="TEMPORARIOS",SIC CARAS
+http://37.187.135.168:5500/live/Torben/Torben/1091.ts
+#EXTINF:-1 tvg-ID="RTPM" tvg-name="RTP MEMORIA" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyrwt1466449659.png" group-title="TEMPORARIOS",RTP MEMORIA
+http://37.187.135.168:5500/live/Torben/Torben/122.ts
+#EXTINF:-1 tvg-ID="RTPMAD" tvg-name="RTP MADEIRA" tvg-logo="https://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png" group-title="TEMPORARIOS",RTP MADEIRA
+http://37.187.135.168:5500/live/Torben/Torben/182.ts
+#EXTINF:-1 tvg-ID="RTPA" tvg-name="RTP AFRICA" tvg-logo="https://www.thelogodb.com/images/media/logo/ysvppt1438186219.png" group-title="TEMPORARIOS",RTP AFRICA
+http://37.187.135.168:5500/live/Torben/Torben/183.ts
+#EXTINF:-1 tvg-ID="RTPACO" tvg-name="RTP AÇORES" tvg-logo="https://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png" group-title="TEMPORARIOS",RTP AÇORES
+http://37.187.135.168:5500/live/Torben/Torben/184.ts
+#EXTINF:-1 tvg-ID="CanalQB" tvg-name="CANAL Q" tvg-logo="https://www.thelogodb.com/images/media/logo/wpqqwq1436891473.png" group-title="TEMPORARIOS",CANAL Q
+http://37.187.135.168:5500/live/Torben/Torben/1092.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Noticias ◄◄◄" tvg-logo="" group-title="TEMPORARIOS",►►► Noticias ◄◄◄
+http://37.187.135.168:5500/live/Torben/Torben/533.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CMTV HD" tvg-logo="https://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png" group-title="TEMPORARIOS",CMTV HD
+http://37.187.135.168:5500/live/Torben/Torben/551.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ARTV" tvg-logo="https://www.thelogodb.com/images/media/logo/xvswvy1437956693.png" group-title="TEMPORARIOS",ARTV
+http://37.187.135.168:5500/live/Torben/Torben/561.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SIC NOTICIAS" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png" group-title="TEMPORARIOS",SIC NOTICIAS
+http://37.187.135.168:5500/live/Torben/Torben/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 24" tvg-logo="https://www.thelogodb.com/images/media/logo/ywxyxx1434552642.png" group-title="►►► FRANCE ◄◄◄",FRANCE 24
+http://37.187.135.168:5500/live/Torben/Torben/868.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVI 24" tvg-logo="http://www.thelogodb.com/images/media/logo/xrtspq1474663890.png" group-title="TEMPORARIOS",TVI 24
+http://37.187.135.168:5500/live/Torben/Torben/6.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTP 3" tvg-logo="http://www.thelogodb.com/images/media/logo/vtqqpt1474662424.png" group-title="TEMPORARIOS",RTP 3
+http://37.187.135.168:5500/live/Torben/Torben/76.ts
+#EXTINF:-1 tvg-ID="TVE 24h" tvg-name="TVE 24H" tvg-logo="https://www.thelogodb.com/images/media/logo/qqtssw1436894339.png" group-title="►►► ESPANHA ◄◄◄",TVE 24H
+http://37.187.135.168:5500/live/Torben/Torben/866.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC World News" tvg-logo="http://www.thelogodb.com/images/media/logo/uuqqus1474668083.png" group-title="TEMPORARIOS",BBC World News
+http://37.187.135.168:5500/live/Torben/Torben/870.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A BOLA TV" tvg-logo="https://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png" group-title="TEMPORARIOS",A BOLA TV
+http://37.187.135.168:5500/live/Torben/Torben/50.ts
+#EXTINF:-1 tvg-ID="EURON" tvg-name="EURONEWS" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium" group-title="TEMPORARIOS",EURONEWS
+http://37.187.135.168:5500/live/Torben/Torben/202.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Desporto ◄◄◄" tvg-logo="" group-title="TEMPORARIOS",►►► Desporto ◄◄◄
+http://37.187.135.168:5500/live/Torben/Torben/534.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV +" tvg-logo="http://www.thelogodb.com/images/media/logo/qxxyst1474691176.png" group-title="TEMPORARIOS",SPORTV +
+http://37.187.135.168:5500/live/Torben/Torben/863.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 1" tvg-name="SPORTV 1 LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="TEMPORARIOS",SPORTV 1 LOW
+http://37.187.135.168:5500/live/Torben/Torben/123.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 2" tvg-name="SPORTV 2 LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="TEMPORARIOS",SPORTV 2 LOW
+http://37.187.135.168:5500/live/Torben/Torben/124.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 3" tvg-name="SPORTV 3 LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png" group-title="TEMPORARIOS",SPORTV 3 LOW
+http://37.187.135.168:5500/live/Torben/Torben/814.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 4" tvg-name="SPORTV 4 LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/vuytwx1470409983.png" group-title="TEMPORARIOS",SPORTV 4 LOW
+http://37.187.135.168:5500/live/Torben/Torben/815.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 5" tvg-name="SPORTV 5 LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" group-title="TEMPORARIOS",SPORTV 5 LOW
+http://37.187.135.168:5500/live/Torben/Torben/813.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 1" tvg-name="SPORTV 1" tvg-logo="http://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="TEMPORARIOS",SPORTV 1
+http://37.187.135.168:5500/live/Torben/Torben/119.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 2" tvg-name="SPORTV 2" tvg-logo="http://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="TEMPORARIOS",SPORTV 2
+http://37.187.135.168:5500/live/Torben/Torben/263.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 3" tvg-name="SPORTV 3" tvg-logo="http://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png" group-title="TEMPORARIOS",SPORTV 3
+http://37.187.135.168:5500/live/Torben/Torben/776.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 4" tvg-name="SPORTV 4" tvg-logo="http://www.thelogodb.com/images/media/logo/vuytwx1470409983.png" group-title="TEMPORARIOS",SPORTV 4
+http://37.187.135.168:5500/live/Torben/Torben/774.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 5" tvg-name="SPORTV 5" tvg-logo="http://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" group-title="TEMPORARIOS",SPORTV 5
+http://37.187.135.168:5500/live/Torben/Torben/261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png/medium" group-title="TEMPORARIOS",SPORTV 1 HD
+http://37.187.135.168:5500/live/Torben/Torben/33.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/wwwxrx1436898851.png/medium" group-title="TEMPORARIOS",SPORTV 2 HD
+http://37.187.135.168:5500/live/Torben/Torben/34.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rtwtyq1436898868.png/medium" group-title="TEMPORARIOS",SPORTV 3 HD
+http://37.187.135.168:5500/live/Torben/Torben/35.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 4 HD" tvg-name="SPORTV 4 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/urrwxq1436898891.png/medium" group-title="TEMPORARIOS",SPORTV 4 HD
+http://37.187.135.168:5500/live/Torben/Torben/36.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 5 HD" tvg-name="SPORTV 5 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qvppqr1436898909.png/medium" group-title="TEMPORARIOS",SPORTV 5 HD
+http://37.187.135.168:5500/live/Torben/Torben/37.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 1" tvg-name="SPORTV 1 FULL HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyqws1470407526.png" group-title="TEMPORARIOS",SPORTV 1 FULL HD
+http://37.187.135.168:5500/live/Torben/Torben/1388.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 2 HD" tvg-name="SPORTV 2 FULL HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyrpq1470407606.png" group-title="TEMPORARIOS",SPORTV 2 FULL HD
+http://37.187.135.168:5500/live/Torben/Torben/878.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 3 HD" tvg-name="SPORTV 3 FULL HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rtwtyq1436898868.png" group-title="TEMPORARIOS",SPORTV 3 FULL HD
+http://37.187.135.168:5500/live/Torben/Torben/565.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 4 HD" tvg-name="SPORTV 4 FULL HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qypxry1470408244.png" group-title="TEMPORARIOS",SPORTV 4 FULL HD
+http://37.187.135.168:5500/live/Torben/Torben/879.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 5 HD" tvg-name="SPORTV 5 FULL HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vvvqxp1470408443.png" group-title="TEMPORARIOS",SPORTV 5 FULL HD
+http://37.187.135.168:5500/live/Torben/Torben/880.ts
+#EXTINF:-1 tvg-ID="SPORT.TV 1" tvg-name="SPORT TV - 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyqws1470407526.png" group-title="TEMPORARIOS",SPORT TV - 1 HD
+http://37.187.135.168:5500/live/Torben/Torben/929.ts
+#EXTINF:-1 tvg-ID="BTV 1" tvg-name="BENFICA TV 1 LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium" group-title="TEMPORARIOS",BENFICA TV 1 LOW
+http://37.187.135.168:5500/live/Torben/Torben/113.ts
+#EXTINF:-1 tvg-ID="BTV 1" tvg-name="BENFICA TV 1" tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium" group-title="TEMPORARIOS",BENFICA TV 1
+http://37.187.135.168:5500/live/Torben/Torben/38.ts
+#EXTINF:-1 tvg-ID="BTV 1" tvg-name="BENFICA TV 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png/medium" group-title="TEMPORARIOS",BENFICA TV 1 HD
+http://37.187.135.168:5500/live/Torben/Torben/40.ts
+#EXTINF:-1 tvg-ID="EuroSport" tvg-name="EUROSPORT 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/sqtsts1436891637.png/medium" group-title="TEMPORARIOS",EUROSPORT 1 HD
+http://37.187.135.168:5500/live/Torben/Torben/44.ts
+#EXTINF:-1 tvg-ID="EuroSport HD" tvg-name="EUROSPORT 1 LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/wuyqur1434267176.png" group-title="TEMPORARIOS",EUROSPORT 1 LOW
+http://37.187.135.168:5500/live/Torben/Torben/811.ts
+#EXTINF:-1 tvg-ID="EuroSport 2" tvg-name="EUROSPORT 2" tvg-logo="http://www.thelogodb.com/images/media/logo/wxuxrq1460807653.png/medium" group-title="TEMPORARIOS",EUROSPORT 2
+http://37.187.135.168:5500/live/Torben/Torben/114.ts
+#EXTINF:-1 tvg-ID="EUROS2XTRAHD" tvg-name="EUROSPORT 2 XTRA HD" tvg-logo="http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/eurosport2xtra/logo/large2.jpg" group-title="TEMPORARIOS",EUROSPORT 2 XTRA HD
+http://37.187.135.168:5500/live/Torben/Torben/791.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT NEWS" tvg-logo="http://www.thelogodb.com/images/media/logo/wupxxu1436891702.png" group-title="TEMPORARIOS",EUROSPORT NEWS
+http://37.187.135.168:5500/live/Torben/Torben/780.ts
+#EXTINF:-1 tvg-ID="Sporting TV" tvg-name="SPORTING TV HD" tvg-logo="http://www.thelogodb.com/images/media/logo/twpvrs1433477118.png/medium" group-title="TEMPORARIOS",SPORTING TV HD
+http://37.187.135.168:5500/live/Torben/Torben/42.ts
+#EXTINF:-1 tvg-ID="Sporting TV" tvg-name="SPORTING TV" tvg-logo="http://www.thelogodb.com/images/media/logo/twpvrs1433477118.png" group-title="TEMPORARIOS",SPORTING TV
+http://37.187.135.168:5500/live/Torben/Torben/812.ts
+#EXTINF:-1 tvg-ID="PORTO" tvg-name="PORTO CANAL" tvg-logo="https://www.thelogodb.com/images/media/logo/yuxppt1465900144.png" group-title="TEMPORARIOS",PORTO CANAL
+http://37.187.135.168:5500/live/Torben/Torben/10.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KOMBAT SPORT" tvg-logo="http://www.thelogodb.com/images/media/logo/wqwtsq1478249671.png" group-title="TEMPORARIOS",KOMBAT SPORT
+http://37.187.135.168:5500/live/Torben/Torben/881.ts
+#EXTINF:-1 tvg-ID="" tvg-name="REAL MADRID TV" tvg-logo="http://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium" group-title="TEMPORARIOS",REAL MADRID TV
+http://37.187.135.168:5500/live/Torben/Torben/47.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOTORVISION" tvg-logo="http://www.thelogodb.com/images/media/logo/tprpvy1453990598.png/medium" group-title="TEMPORARIOS",MOTORVISION
+http://37.187.135.168:5500/live/Torben/Torben/218.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOTORS TV" tvg-logo="http://www.thelogodb.com/images/media/logo/qyxuwt1433346085.png/medium" group-title="TEMPORARIOS",MOTORS TV
+http://37.187.135.168:5500/live/Torben/Torben/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT NETWORK HD" tvg-logo="https://www.thelogodb.com/images/media/logo/sxuxsv1451905938.png" group-title="TEMPORARIOS",FIGHT NETWORK HD
+http://37.187.135.168:5500/live/Torben/Torben/874.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TOROS TV" tvg-logo="http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png/medium" group-title="TEMPORARIOS",TOROS TV
+http://37.187.135.168:5500/live/Torben/Torben/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FUEL TV" tvg-logo="http://www.thelogodb.com/images/media/logo/yxxrqw1436895628.png/medium" group-title="TEMPORARIOS",FUEL TV
+http://37.187.135.168:5500/live/Torben/Torben/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OUTDOOR HD" tvg-logo="https://www.thelogodb.com/images/media/logo/yqxrpv1444920887.png" group-title="TEMPORARIOS",OUTDOOR HD
+http://37.187.135.168:5500/live/Torben/Torben/795.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MCS EXTREME" tvg-logo="https://www.thelogodb.com/images/media/logo/ruywtq1435099021.png" group-title="TEMPORARIOS",MCS EXTREME
+http://37.187.135.168:5500/live/Torben/Torben/867.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MCS Lifestyle" tvg-logo="" group-title="TEMPORARIOS",MCS Lifestyle
+http://37.187.135.168:5500/live/Torben/Torben/885.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Kids ◄◄◄" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fe/Logo-TV_Kids.jpg" group-title="TEMPORARIOS",►►► Kids ◄◄◄
+http://37.187.135.168:5500/live/Torben/Torben/536.ts
+#EXTINF:-1 tvg-ID="Panda" tvg-name="CANAL PANDA" tvg-logo="http://www.thelogodb.com/images/media/logo/qwttxw1435106935.png/medium" group-title="TEMPORARIOS",CANAL PANDA
+http://37.187.135.168:5500/live/Torben/Torben/67.ts
+#EXTINF:-1 tvg-ID="Biggs" tvg-name="BIGGS" tvg-logo="http://www.thelogodb.com/images/media/logo/sqttxp1433353102.png/medium" group-title="TEMPORARIOS",BIGGS
+http://37.187.135.168:5500/live/Torben/Torben/48.ts
+#EXTINF:-1 tvg-ID="Disney Junior" tvg-name="DISNEY JUNIOR" tvg-logo="http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png/medium" group-title="TEMPORARIOS",DISNEY JUNIOR
+http://37.187.135.168:5500/live/Torben/Torben/65.ts
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="DISNEY CHANNEL" tvg-logo="http://www.thelogodb.com/images/media/logo/supsrs1433943151.png/medium" group-title="TEMPORARIOS",DISNEY CHANNEL
+http://37.187.135.168:5500/live/Torben/Torben/66.ts
+#EXTINF:-1 tvg-ID="JimJam" tvg-name="JIM JAM" tvg-logo="http://www.thelogodb.com/images/media/logo/yupwrv1435102443.png/medium" group-title="TEMPORARIOS",JIM JAM
+http://37.187.135.168:5500/live/Torben/Torben/210.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BABY FIRST" tvg-logo="http://www.thelogodb.com/images/media/logo/yrsxyr1436899990.png" group-title="TEMPORARIOS",BABY FIRST
+http://37.187.135.168:5500/live/Torben/Torben/799.ts
+#EXTINF:-1 tvg-ID="SIC K" tvg-name="SIC K" tvg-logo="http://www.thelogodb.com/images/media/logo/vuxyry1436891832.png/medium" group-title="TEMPORARIOS",SIC K
+http://37.187.135.168:5500/live/Torben/Torben/64.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BABY TV" tvg-logo="http://www.thelogodb.com/images/media/logo/qwyswv1433940875.png/medium" group-title="TEMPORARIOS",BABY TV
+http://37.187.135.168:5500/live/Torben/Torben/239.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="http://www.thelogodb.com/images/media/logo/turwts1438374001.png/medium" group-title="TEMPORARIOS",NICKELODEON
+http://37.187.135.168:5500/live/Torben/Torben/115.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK PT" tvg-logo="http://www.thelogodb.com/images/media/logo/rqswvs1435142683.png/medium" group-title="TEMPORARIOS",CARTOON NETWORK PT
+http://37.187.135.168:5500/live/Torben/Torben/117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Series & Movies ◄◄◄" tvg-logo="" group-title="TEMPORARIOS",►►► Series & Movies ◄◄◄
+http://37.187.135.168:5500/live/Torben/Torben/535.ts
+#EXTINF:-1 tvg-ID="TVC 1" tvg-name="TVC1 LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/yxtrst1436898282.png/medium" group-title="TEMPORARIOS",TVC1 LOW
+http://37.187.135.168:5500/live/Torben/Torben/126.ts
+#EXTINF:-1 tvg-ID="TVC 2" tvg-name="TVC2 LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/vtttxr1436898292.png" group-title="TEMPORARIOS",TVC2 LOW
+http://37.187.135.168:5500/live/Torben/Torben/785.ts
+#EXTINF:-1 tvg-ID="TVC 3" tvg-name="TVC3 LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/ypvvqv1436898317.png" group-title="TEMPORARIOS",TVC3 LOW
+http://37.187.135.168:5500/live/Torben/Torben/786.ts
+#EXTINF:-1 tvg-ID="TVC 4" tvg-name="TVC4 LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/tuyupp1436898345.png" group-title="TEMPORARIOS",TVC4 LOW
+http://37.187.135.168:5500/live/Torben/Torben/808.ts
+#EXTINF:-1 tvg-ID="TVSeries" tvg-name="TVSERIES LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/xppsrs1436898382.png" group-title="TEMPORARIOS",TVSERIES LOW
+http://37.187.135.168:5500/live/Torben/Torben/809.ts
+#EXTINF:-1 tvg-ID="TVC 1" tvg-name="TVC 1" tvg-logo="https://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png" group-title="TEMPORARIOS",TVC 1
+http://37.187.135.168:5500/live/Torben/Torben/803.ts
+#EXTINF:-1 tvg-ID="TVC 2" tvg-name="TVC 2" tvg-logo="https://www.thelogodb.com/images/media/logo/xyvrxy1436896360.png" group-title="TEMPORARIOS",TVC 2
+http://37.187.135.168:5500/live/Torben/Torben/804.ts
+#EXTINF:-1 tvg-ID="TVC 3" tvg-name="TVC 3" tvg-logo="https://www.thelogodb.com/images/media/logo/typxsx1436896370.png" group-title="TEMPORARIOS",TVC 3
+http://37.187.135.168:5500/live/Torben/Torben/800.ts
+#EXTINF:-1 tvg-ID="TVC 4" tvg-name="TVC 4" tvg-logo="https://www.thelogodb.com/images/media/logo/rvtxww1436896380.png" group-title="TEMPORARIOS",TVC 4
+http://37.187.135.168:5500/live/Torben/Torben/797.ts
+#EXTINF:-1 tvg-ID="TVSeries" tvg-name="TVSERIES" tvg-logo="https://www.thelogodb.com/images/media/logo/uqxqvw1452600491.png" group-title="TEMPORARIOS",TVSERIES
+http://37.187.135.168:5500/live/Torben/Torben/798.ts
+#EXTINF:-1 tvg-ID="TVCINE 1 HD" tvg-name="TVC 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yxtrst1436898282.png/medium" group-title="TEMPORARIOS",TVC 1 HD
+http://37.187.135.168:5500/live/Torben/Torben/12.ts
+#EXTINF:-1 tvg-ID="TVCINE 2 HD" tvg-name="TVC2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rpssrv1436898306.png/medium" group-title="TEMPORARIOS",TVC2 HD
+http://37.187.135.168:5500/live/Torben/Torben/13.ts
+#EXTINF:-1 tvg-ID="TVCINE 3 HD" tvg-name="TVC3 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwyv1436898334.png/medium" group-title="TEMPORARIOS",TVC3 HD
+http://37.187.135.168:5500/live/Torben/Torben/14.ts
+#EXTINF:-1 tvg-ID="TVCINE 4 HD" tvg-name="TVC4 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qswqxx1436898355.png/medium" group-title="TEMPORARIOS",TVC4 HD
+http://37.187.135.168:5500/live/Torben/Torben/15.ts
+#EXTINF:-1 tvg-ID="Hollywood HD" tvg-name="TVSERIES HD" tvg-logo="http://www.thelogodb.com/images/media/logo/sprtwx1436898392.png/medium" group-title="TEMPORARIOS",TVSERIES HD
+http://37.187.135.168:5500/live/Torben/Torben/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HOLLYWOOD" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqyuy1433356382.png" group-title="TEMPORARIOS",HOLLYWOOD
+http://37.187.135.168:5500/live/Torben/Torben/775.ts
+#EXTINF:-1 tvg-ID="Hollywood HD" tvg-name="HOLLYWOOD HD" tvg-logo="http://www.thelogodb.com/images/media/logo/tupvuv1436899688.png/medium" group-title="TEMPORARIOS",HOLLYWOOD HD
+http://37.187.135.168:5500/live/Torben/Torben/16.ts
+#EXTINF:-1 tvg-ID="AXN HD" tvg-name="AXN HD LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/rysqvw1445113783.png/medium" group-title="TEMPORARIOS",AXN HD LOW
+http://37.187.135.168:5500/live/Torben/Torben/140.ts
+#EXTINF:-1 tvg-ID="AXN Black HD" tvg-name="AXN BLACK LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/yvuttw1433343384.png" group-title="TEMPORARIOS",AXN BLACK LOW
+http://37.187.135.168:5500/live/Torben/Torben/806.ts
+#EXTINF:-1 tvg-ID="AXN White HD" tvg-name="AXN WHITE LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/wqvsvp1433343269.png" group-title="TEMPORARIOS",AXN WHITE LOW
+http://37.187.135.168:5500/live/Torben/Torben/807.ts
+#EXTINF:-1 tvg-ID="AXN HD" tvg-name="AXN HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rysqvw1445113783.png/medium" group-title="TEMPORARIOS",AXN HD
+http://37.187.135.168:5500/live/Torben/Torben/20.ts
+#EXTINF:-1 tvg-ID="AXN Black HD" tvg-name="AXN BLACK HD" tvg-logo="http://www.thelogodb.com/images/media/logo/tstsvx1445114284.png/medium" group-title="TEMPORARIOS",AXN BLACK HD
+http://37.187.135.168:5500/live/Torben/Torben/22.ts
+#EXTINF:-1 tvg-ID="AXN White HD" tvg-name="AXN WHITE HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vvwysx1445114035.png/medium" group-title="TEMPORARIOS",AXN WHITE HD
+http://37.187.135.168:5500/live/Torben/Torben/21.ts
+#EXTINF:-1 tvg-ID="FOX HD" tvg-name="FOX HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xquwxv1436847349.png/medium" group-title="TEMPORARIOS",FOX HD
+http://37.187.135.168:5500/live/Torben/Torben/23.ts
+#EXTINF:-1 tvg-ID="FOX Life" tvg-name="FOX LIFE HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ttvpyv1436846997.png/medium" group-title="TEMPORARIOS",FOX LIFE HD
+http://37.187.135.168:5500/live/Torben/Torben/24.ts
+#EXTINF:-1 tvg-ID="FOX Movies HD" tvg-name="FOX MOVIES HD" tvg-logo="http://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png/medium" group-title="TEMPORARIOS",FOX MOVIES HD
+http://37.187.135.168:5500/live/Torben/Torben/17.ts
+#EXTINF:-1 tvg-ID="FOX Crime HD" tvg-name="FOX CRIME HD" tvg-logo="https://www.thelogodb.com/images/media/logo/uqsxut1436892701.png" group-title="TEMPORARIOS",FOX CRIME HD
+http://37.187.135.168:5500/live/Torben/Torben/25.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY HD" tvg-logo="http://www.thelogodb.com/images/media/logo/tqxpxq1448198387.png/medium" group-title="TEMPORARIOS",FOX COMEDY HD
+http://37.187.135.168:5500/live/Torben/Torben/27.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SYFY" tvg-logo="http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png/medium" group-title="TEMPORARIOS",SYFY
+http://37.187.135.168:5500/live/Torben/Torben/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMUNDO" tvg-logo="http://www.thelogodb.com/images/media/logo/rrrvxy1436845857.png/medium" group-title="TEMPORARIOS",CINEMUNDO
+http://37.187.135.168:5500/live/Torben/Torben/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOV HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yusxxt1452596924.png/medium" group-title="TEMPORARIOS",MOV HD
+http://37.187.135.168:5500/live/Torben/Torben/19.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E" tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png/medium" group-title="TEMPORARIOS",A&E
+http://37.187.135.168:5500/live/Torben/Torben/116.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="http://www.thelogodb.com/images/media/logo/txvtyy1441049730.png/medium" group-title="TEMPORARIOS",AMC
+http://37.187.135.168:5500/live/Torben/Torben/178.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Documentarios ◄◄◄" tvg-logo="http://www.cienciasecognicao.org/rotas/wp-content/uploads/2014/07/documentarios.jpg" group-title="TEMPORARIOS",►►► Documentarios ◄◄◄
+http://37.187.135.168:5500/live/Torben/Torben/537.ts
+#EXTINF:-1 tvg-ID="Nat Geo Wild" tvg-name="NAT GEO WILD" tvg-logo="http://www.thelogodb.com/images/media/logo/ssssww1436899078.png/medium" group-title="TEMPORARIOS",NAT GEO WILD
+http://37.187.135.168:5500/live/Torben/Torben/55.ts
+#EXTINF:-1 tvg-ID="NGC" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png/medium" group-title="TEMPORARIOS",NATIONAL GEOGRAPHIC HD
+http://37.187.135.168:5500/live/Torben/Torben/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SHOWCASE HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qqwypw1435092052.png/medium" group-title="TEMPORARIOS",DISCOVERY SHOWCASE HD
+http://37.187.135.168:5500/live/Torben/Torben/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png/medium" group-title="TEMPORARIOS",DISCOVERY CHANNEL
+http://37.187.135.168:5500/live/Torben/Torben/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC ENTERTAINMENT" tvg-logo="http://www.thelogodb.com/images/media/logo/rssywx1433940888.png/medium" group-title="TEMPORARIOS",BBC ENTERTAINMENT
+http://37.187.135.168:5500/live/Torben/Torben/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="E! ENTERTAINMENT" tvg-logo="http://www.thelogodb.com/images/media/logo/yrwrqu1434048183.png/medium" group-title="TEMPORARIOS",E! ENTERTAINMENT
+http://37.187.135.168:5500/live/Torben/Torben/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24 KITCHEN HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vvupxq1433940706.png/medium" group-title="TEMPORARIOS",24 KITCHEN HD
+http://37.187.135.168:5500/live/Torben/Torben/250.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL HISTORIA" tvg-logo="http://aureliocteixeira.sites.uol.com.br/blog/images/history.jpg" group-title="TEMPORARIOS",CANAL HISTORIA
+http://37.187.135.168:5500/live/Torben/Torben/68.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ODISSEIA" tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png/medium" group-title="TEMPORARIOS",ODISSEIA
+http://37.187.135.168:5500/live/Torben/Torben/58.ts
+#EXTINF:-1 tvg-ID="CBS Reality" tvg-name="CBS REALITY" tvg-logo="http://www.thelogodb.com/images/media/logo/tywuvw1434287895.png/medium" group-title="TEMPORARIOS",CBS REALITY
+http://37.187.135.168:5500/live/Torben/Torben/29.ts
+#EXTINF:-1 tvg-ID="Caça Vision" tvg-name="CACAVISION" tvg-logo="http://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png/medium" group-title="TEMPORARIOS",CACAVISION
+http://37.187.135.168:5500/live/Torben/Torben/51.ts
+#EXTINF:-1 tvg-ID="Caça e Pesca" tvg-name="CAÇA E PESCA" tvg-logo="http://www.thelogodb.com/images/media/logo/vxwput1438005508.png/medium" group-title="TEMPORARIOS",CAÇA E PESCA
+http://37.187.135.168:5500/live/Torben/Torben/52.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="http://www.thelogodb.com/images/media/logo/rprruu1433942038.png/medium" group-title="TEMPORARIOS",TLC
+http://37.187.135.168:5500/live/Torben/Torben/229.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOOD NETWORK HD" tvg-logo="https://www.thelogodb.com/images/media/logo/xpqsyt1436846107.png" group-title="TEMPORARIOS",FOOD NETWORK HD
+http://37.187.135.168:5500/live/Torben/Torben/876.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FINE LIVING NETWORK HD" tvg-logo="https://www.thelogodb.com/images/media/logo/sqtrss1436846915.png" group-title="TEMPORARIOS",FINE LIVING NETWORK HD
+http://37.187.135.168:5500/live/Torben/Torben/875.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BLOOMBERG" tvg-logo="https://www.thelogodb.com/images/media/logo/vptvpr1437950713.png" group-title="TEMPORARIOS",BLOOMBERG
+http://37.187.135.168:5500/live/Torben/Torben/871.ts
+#EXTINF:-1 tvg-ID="Fashion TV HD" tvg-name="FASHION TV" tvg-logo="https://www.thelogodb.com/images/media/logo/rxquwv1436899741.png" group-title="TEMPORARIOS",FASHION TV
+http://37.187.135.168:5500/live/Torben/Torben/864.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Music ◄◄◄" tvg-logo="" group-title="TEMPORARIOS",►►► Music ◄◄◄
+http://37.187.135.168:5500/live/Torben/Torben/538.ts
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV PORTUGAL" tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png/medium" group-title="TEMPORARIOS",MTV PORTUGAL
+http://37.187.135.168:5500/live/Torben/Torben/71.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRACE URBAN HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qxqsxq1436847475.png" group-title="TEMPORARIOS",TRACE URBAN HD
+http://37.187.135.168:5500/live/Torben/Torben/562.ts
+#EXTINF:-1 tvg-ID="Afro Music" tvg-name="AFRO MUSIC" tvg-logo="http://www.thelogodb.com/images/media/logo/yywtqx1456252794.png/medium" group-title="TEMPORARIOS",AFRO MUSIC
+http://37.187.135.168:5500/live/Torben/Torben/232.ts
+#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png/medium" group-title="TEMPORARIOS",VH1
+http://37.187.135.168:5500/live/Torben/Torben/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 CLASSIC" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqtws1433944887.png/medium" group-title="TEMPORARIOS",VH1 CLASSIC
+http://37.187.135.168:5500/live/Torben/Torben/176.ts
+#EXTINF:-1 tvg-ID="MCMPOP" tvg-name="MCM POP" tvg-logo="http://www.thelogodb.com/images/media/logo/rvtqvs1435092184.png/medium" group-title="TEMPORARIOS",MCM POP
+http://37.187.135.168:5500/live/Torben/Torben/72.ts
+#EXTINF:-1 tvg-ID="C-Music" tvg-name="C- MUSIC" tvg-logo="http://www.thelogodb.com/images/media/logo/rxysrq1435105996.png/medium" group-title="TEMPORARIOS",C- MUSIC
+http://37.187.135.168:5500/live/Torben/Torben/118.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANCAO NOVA" tvg-logo="https://www.thelogodb.com/images/media/logo/wyrwwp1436899391.png" group-title="TEMPORARIOS",CANCAO NOVA
+http://37.187.135.168:5500/live/Torben/Torben/872.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEZZO" tvg-logo="http://www.thelogodb.com/images/media/logo/tusvrr1436893817.png" group-title="TEMPORARIOS",MEZZO
+http://37.187.135.168:5500/live/Torben/Torben/884.ts
+#EXTINF:-1 tvg-ID="" tvg-name="iCONCERTS" tvg-logo="http://www.thelogodb.com/images/media/logo/qxqtsv1436893554.png" group-title="TEMPORARIOS",iCONCERTS
+http://37.187.135.168:5500/live/Torben/Torben/882.ts
 
 
 -------------------------------------------------------------------------------------------------------------------------
