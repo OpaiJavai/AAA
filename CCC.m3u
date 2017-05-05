@@ -1138,3 +1138,593 @@ http://149.202.72.15:8000/movie/tavares/tavares/1351.mp4
 http://149.202.72.15:8000/movie/tavares/tavares/1352.mp4
 #EXTINF:-1 tvg-name="Filmes Da Semana 5" tvg-logo="http://vod2.soeu.ws/capas/5.jpg" group-title="FILMES DA SEMANA",Filmes Da Semana 5
 http://149.202.72.15:8000/movie/tavares/tavares/1353.mp4
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="<<<<< VOD 2017 >>>>>" tvg-logo="" group-title=" VOD 2017 ", VOD 2017
+http://37.187.135.168:5500/live/Torben/Torben/1517.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A Longa Caminhada De Billy Lynn" tvg-logo="" group-title=" VOD 2017 ",A Longa Caminhada De Billy Lynn
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/A.Longa.Caminhada.de.Billy.Lynn.2017.1080p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Abandonados" tvg-logo="" group-title=" VOD 2017 ",Abandonados
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Abandonados.2017.1080p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Animais Noturnos" tvg-logo="" group-title=" VOD 2017 ",Animais Noturnos
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Animais.Noturnos.2017.720p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Celular 2017" tvg-logo="" group-title=" VOD 2017 ",Celular 2017
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Celular.2017.1080p.BluRay.x264.DUBLADO-WWW.TORRENTDOSFILME.COM.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ela Dança, Eu Danço 4" tvg-logo="" group-title=" VOD 2017 ",Ela Dança, Eu Danço 4
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Ela%20Dan%c3%a7a,%20Eu%20Dan%c3%a7o%204.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Eu Sou Bolt" tvg-logo="" group-title=" VOD 2017 ",Eu Sou Bolt
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Eu.Sou.Bolt.2017.1080p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Far Cry" tvg-logo="" group-title=" VOD 2017 ",Far Cry
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Far%20Cry.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Garoto 7" tvg-logo="" group-title=" VOD 2017 ",Garoto 7
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Garoto.7.2017.1080p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Invasão De Privacidade" tvg-logo="" group-title=" VOD 2017 ",Invasão De Privacidade
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Invas%c3%a3o.de.Privacidade.2017.1080p.BluRay.DD5.1.x264.DUAL-TDF.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Jack Reacher Sem Retorno" tvg-logo="" group-title=" VOD 2017 ",Jack Reacher Sem Retorno
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Jack.Reacher.Sem.Retorno.2017.1080p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Os Caminhos Do Terror" tvg-logo="" group-title=" VOD 2017 ",Os Caminhos Do Terror
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Os.Caminhos.do.Terror.2017.1080p.BluRay.x264.DUBLADO-WWW.TORRENTDOSFILMES.COM.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ouija Origem Do Mal" tvg-logo="" group-title=" VOD 2017 ",Ouija Origem Do Mal
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Ouija.Origem.do.Mal.2017.1080p.BluRay.DD5.1.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Recovery 2017" tvg-logo="" group-title=" VOD 2017 ",Recovery 2017
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Recovery.2017.1080p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Regressão 2017" tvg-logo="" group-title=" VOD 2017 ",Regressão 2017
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Regress%c3%a3o.2017.1080p.BluRay.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Tumba Aberta 2017" tvg-logo="" group-title=" VOD 2017 ",Tumba Aberta 2017
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Tumba.Aberta.2017.1080p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Uma Loucura De Mulher 2017" tvg-logo="" group-title=" VOD 2017 ",Uma Loucura De Mulher 2017
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Uma.Loucura.de.Mulher.2017.1080p.BluRay.DD5.1.x264.NACIONAL-TDF.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Zapped 1080p (2017) Dublado" tvg-logo="" group-title=" VOD 2017 ",Zapped 1080p (2017) Dublado
+http://movies-hd.mine.nu/downloads/movies/FILMES2017DUBLADOS/Zapped%201080p%20(2017)%20Dublado%20BluRay%20--%20By%20-%20Lucas%20Firmo.mp4
+#EXTINF:-1 tvg-ID="" tvg-name=" VOD SAGAS " tvg-logo="" group-title="", VOD SAGAS 
+http://37.187.135.168:5500/live/Torben/Torben/1310.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X-men Apocalipse" tvg-logo="" group-title=" VOD SAGAS ",X-men Apocalipse
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/sagasfilmes/X-Men%20Apocalipse%20(2016)%20.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="X-men Origens Wolverine 2009" tvg-logo="" group-title=" VOD SAGAS ",X-men Origens Wolverine 2009
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/sagasfilmes/X-Men%20Origens.Wolverine.2009.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="X-men Primeira Classe 2011" tvg-logo="" group-title=" VOD SAGAS ",X-men Primeira Classe 2011
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/sagasfilmes/X-Men.Primeira.Classe.2011.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Xxx 2 2005" tvg-logo="" group-title=" VOD SAGAS ",Xxx 2 2005
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/sagasfilmes/xXx%202%202005.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Xxx 2002" tvg-logo="" group-title=" VOD SAGAS ",Xxx 2002
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/sagasfilmes/xXx%202002.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Xxx Reativado 2017" tvg-logo="" group-title=" VOD SAGAS ",Xxx Reativado 2017
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/sagasfilmes/xXx.Reativado.2017.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Hobbit - Uma Jornada Inesperada" tvg-logo="" group-title=" VOD SAGAS ",O Hobbit - Uma Jornada Inesperada
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/sagasfilmes/O%20Hobbit%20-%20Uma%20Jornada%20Inesperada%201080p%20D4V1.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Hobbit A Batalha Dos Cinco Exercitos Versao Estendida" tvg-logo="" group-title=" VOD SAGAS ",O Hobbit A Batalha Dos Cinco Exercitos Versao Estendida
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/sagasfilmes/O.Hobbit.A.Batalha.dos.Cinco.Exercitos.Versao.Estendida.2015.1080p.Legendado-WOLVERDONFILMES.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Hobbit A Desolacao De Smaug 2014" tvg-logo="" group-title=" VOD SAGAS ",O Hobbit A Desolacao De Smaug 2014
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/sagasfilmes/O.Hobbit.A.Desolacao.de.Smaug.2014.1080p-WOLVERDONFILMES.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E A Câmara Secreta 2002" tvg-logo="" group-title=" VOD SAGAS ",Harry Potter E A Câmara Secreta 2002
+http://movies-hd.mine.nu/downloads/movies/HarryPotter/Harry.Potter.e.a.C%c3%a2mara.Secreta.2002.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E A Ordem Da Fênix 2007" tvg-logo="" group-title=" VOD SAGAS ",Harry Potter E A Ordem Da Fênix 2007
+http://movies-hd.mine.nu/downloads/movies/HarryPotter/Harry.Potter.e.a.Ordem.da.F%c3%aanix.2007.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E A Pedra Filosofal 2001" tvg-logo="" group-title=" VOD SAGAS ",Harry Potter E A Pedra Filosofal 2001
+http://movies-hd.mine.nu/downloads/movies/HarryPotter/Harry.Potter.e.a.Pedra.Filosofal.2001.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E As Reliquias Da Morte Parte 1 2010" tvg-logo="" group-title=" VOD SAGAS ",Harry Potter E As Reliquias Da Morte Parte 1 2010
+http://movies-hd.mine.nu/downloads/movies/HarryPotter/Harry.Potter.e.as.Reliquias.da.Morte.Parte.1.2010.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E As Reliquias Da Morte Parte 2 2011" tvg-logo="" group-title=" VOD SAGAS ",Harry Potter E As Reliquias Da Morte Parte 2 2011
+http://movies-hd.mine.nu/downloads/movies/HarryPotter/Harry.Potter.e.as.Reliquias.da.Morte.Parte.2.2011.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E O Cálice De Fogo 2005" tvg-logo="" group-title=" VOD SAGAS ",Harry Potter E O Cálice De Fogo 2005
+http://movies-hd.mine.nu/downloads/movies/HarryPotter/Harry.Potter.e.o.C%c3%a1lice.de.Fogo.2005.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E O Enigma Do Príncipe 2009" tvg-logo="" group-title=" VOD SAGAS ",Harry Potter E O Enigma Do Príncipe 2009
+http://movies-hd.mine.nu/downloads/movies/HarryPotter/Harry.Potter.e.o.Enigma.do.Pr%c3%adncipe.2009.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E O Prisioneiro De Azkaban 2004" tvg-logo="" group-title=" VOD SAGAS ",Harry Potter E O Prisioneiro De Azkaban 2004
+http://movies-hd.mine.nu/downloads/movies/HarryPotter/Harry.Potter.e.o.Prisioneiro.de.Azkaban.2004.mkv
+#EXTINF:-1 tvg-ID="" tvg-name=" VOD  " tvg-logo="" group-title="", VOD  
+http://37.187.135.168:5500/live/Torben/Torben/1308.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Scene Lovers 007 Operação Skyfall Bdrip" tvg-logo="" group-title=" VOD  ",Scene Lovers 007 Operação Skyfall Bdrip
+http://movies-hd.mine.nu/downloads/movies/_Scene_Lovers_007.Opera%c3%a7%c3%a3o.Skyfall.BDRip.XviD.Dual.Audio-MGD_Up_aecioal_arc.avi
+#EXTINF:-1 tvg-ID="" tvg-name="14 Lâminas" tvg-logo="" group-title=" VOD  ",14 Lâminas
+http://movies-hd.mine.nu/downloads/movies/14%20L%c3%a2minas%20(2015)%20BluRay%201080p%20Dual%20%c3%81udio.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Bom Dinossauro" tvg-logo="" group-title=" VOD INFANTIL ",O Bom Dinossauro
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/filmescriancas/1/O%20Bom%20Dinossauro%20(2016)%205.1%20CH%20Dublado%20720p%20(By-LuanHarper).mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Castelo Animado 2004 720p Bluray 5 1 X264 Dual-www Bludv Com" tvg-logo="" group-title=" VOD INFANTIL ",O Castelo Animado 2004 720p Bluray 5 1 X264 Dual-www Bludv Com
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/filmescriancas/1/O.Castelo.Animado.2004.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Reino Gelado 2 2016 1080p Bluray 5 1 X264 Dual-bludv" tvg-logo="" group-title=" VOD INFANTIL ",O Reino Gelado 2 2016 1080p Bluray 5 1 X264 Dual-bludv
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/filmescriancas/1/O.Reino.Gelado.2.2016.1080p.BluRay.5.1.x264.DUAL-BLUDV.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Os Incríveis 2004 1080p Bluray 5 1 X264 Dual-www Bludv Com" tvg-logo="" group-title=" VOD INFANTIL ",Os Incríveis 2004 1080p Bluray 5 1 X264 Dual-www Bludv Com
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/filmescriancas/1/Os.Incr%c3%adveis.2004.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Os Sem-floresta (2006) Dublado 720p (by-luanharper)" tvg-logo="" group-title=" VOD INFANTIL ",Os Sem-floresta (2006) Dublado 720p (by-luanharper)
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/filmescriancas/1/Os%20Sem-Floresta%20(2006)%20Dublado%20720p%20(By-LuanHarper).mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Pets A Vida Secreta Dos Bichos 2016 720p Bluray 5 1 X264 Dual-www Bludv Com" tvg-logo="" group-title=" VOD INFANTIL ",Pets A Vida Secreta Dos Bichos 2016 720p Bluray 5 1 X264 Dual-www Bludv Com
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/filmescriancas/1/Pets%20A%20Vida%20Secreta%20dos%20Bichos.2016.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Procurando Dory 2016 1080p Bluray Dublado Www Torrentdosfilmes Com" tvg-logo="" group-title=" VOD INFANTIL ",Procurando Dory 2016 1080p Bluray Dublado Www Torrentdosfilmes Com
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/filmescriancas/1/Procurando.Dory.2016.1080p.BluRay.Dublado.WWW.TORRENTDOSFILMES.COM.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Shaun - O Carneiro (2015) Dublado 1080p (by-luanharper)" tvg-logo="" group-title=" VOD INFANTIL ",Shaun - O Carneiro (2015) Dublado 1080p (by-luanharper)
+http://movies-hd.mine.nu/downloads/movies/VITORLUGANO/filmescriancas/1/Shaun%20-%20O%20Carneiro%20(2015)%20Dublado%201080p%20(By-LuanHarper).mp4
+#EXTINF:-1 tvg-ID="" tvg-name="No Mundo Da Lua" tvg-logo="" group-title=" VOD  ",No Mundo Da Lua
+http://movies-hd.mine.nu/downloads/movies/No%20Mundo%20da%20Lua.2016.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Grande Mestre" tvg-logo="" group-title=" VOD  ",O Grande Mestre
+http://movies-hd.mine.nu/downloads/movies/O.Grande.Mestre.2014.1080p-WOLVERDONFILMES.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Christine" tvg-logo="" group-title=" VOD  ",Christine
+http://movies-hd.mine.nu/downloads/movies/Christine.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Claire In Motion" tvg-logo="" group-title=" VOD  ",Claire In Motion
+http://movies-hd.mine.nu/downloads/movies/Claire.in.Motion.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Clinical" tvg-logo="" group-title=" VOD  ",Clinical
+http://movies-hd.mine.nu/downloads/movies/Clinical.2017.WEBRip.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Come And Find Me 2016" tvg-logo="" group-title=" VOD  ",Come And Find Me 2016
+http://movies-hd.mine.nu/downloads/movies/Come.And.Find.Me.2016.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="All We Had" tvg-logo="" group-title=" VOD  ",All We Had
+http://movies-hd.mine.nu/downloads/movies/All.We.Had.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Alone In Berlin" tvg-logo="" group-title=" VOD  ",Alone In Berlin
+http://movies-hd.mine.nu/downloads/movies/Alone.in.Berlin.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Coquetéis E Adolescentes" tvg-logo="" group-title=" VOD  ",Coquetéis E Adolescentes
+http://movies-hd.mine.nu/downloads/movies/Coquet%c3%a9is.e.Adolescentes.2017.1080p.NF.WEBRip.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cross Wars" tvg-logo="" group-title=" VOD  ",Cross Wars
+http://movies-hd.mine.nu/downloads/movies/Cross.Wars.2017.720p.BRRip.XviD.AC3-RARBG.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Deadpool 2016 Bluray" tvg-logo="" group-title=" VOD  ",Deadpool 2016 Bluray
+http://movies-hd.mine.nu/downloads/movies/Deadpool%202016%20Bluray%201080p%205.1%20CH%20Dublado%20-%20WWW.THEPIRATEFILMES.COM.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Detour" tvg-logo="" group-title=" VOD  ",Detour
+http://movies-hd.mine.nu/downloads/movies/Detour.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Diana 2014" tvg-logo="" group-title=" VOD  ",Diana 2014
+http://movies-hd.mine.nu/downloads/movies/Diana.2014.1080p-WOLVERDONFILMES.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Tooken 2015 720p Bluray" tvg-logo="" group-title=" VOD  ",Tooken 2015 720p Bluray
+http://movies-hd.mine.nu/downloads/movies/Tooken.2015.720p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Tinha Que Ser Ele" tvg-logo="" group-title=" VOD  ",Tinha Que Ser Ele
+http://movies-hd.mine.nu/downloads/movies/Tinha.que.Ser.Ele..2017.1080p.BluRay.x264.DUBLADO-WWW.TORRENTDOSFILMES.COM.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Toni Erdmann" tvg-logo="" group-title=" VOD  ",Toni Erdmann
+http://movies-hd.mine.nu/downloads/movies/Toni.Erdmann.2016.German.720p.BRRip.1.4GB.MkvCage.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Tony Carreira Ao Vivo No Coliseu Dvdrip Xvid-darkriva" tvg-logo="" group-title=" VOD  ",Tony Carreira Ao Vivo No Coliseu Dvdrip Xvid-darkriva
+http://movies-hd.mine.nu/downloads/movies/Tony.Carreira.ao.vivo.no.Coliseu.DVDRip.Xvid-Darkriva.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Touched With Fire 2015 720p" tvg-logo="" group-title=" VOD  ",Touched With Fire 2015 720p
+http://movies-hd.mine.nu/downloads/movies/Touched.With.Fire.2015.720p.BRRip.x264.AAC-ETRG.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Traidor" tvg-logo="" group-title=" VOD  ",Traidor
+http://movies-hd.mine.nu/downloads/movies/traidor%202009%20dublado%20dvdrip%20xvid%20audio%20mp3%20by%20kar%c3%a9kinha.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Trolls 1080p (2017) Dublado Bluray -- By - Lucas Firmo" tvg-logo="" group-title=" VOD  ",Trolls 1080p (2017) Dublado Bluray -- By - Lucas Firmo
+http://movies-hd.mine.nu/downloads/movies/Trolls%201080p%20(2017)%20Dublado%20BluRay%20--%20By%20-%20Lucas%20Firmo.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Underworld Blood Wars 2016 Web-dl X264-fgt" tvg-logo="" group-title=" VOD  ",Underworld Blood Wars 2016 Web-dl X264-fgt
+http://movies-hd.mine.nu/downloads/movies/Underworld.Blood.Wars.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="United States Of Love 2016 720p Brrip 900mb Mkvcage" tvg-logo="" group-title=" VOD  ",United States Of Love 2016 720p Brrip 900mb Mkvcage
+http://movies-hd.mine.nu/downloads/movies/United.States.of.Love.2016.720p.BRRip.900MB.MkvCage.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Velozes E Furiosos Seven" tvg-logo="" group-title=" VOD  ",Velozes E Furiosos Seven
+http://movies-hd.mine.nu/downloads/movies/Velozes%20e%20Furiosos%207%20Versao%20Estendida%20Bluray%204K%20Dublado%20-%20WWW.THEPIRATEFILMES.COM.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Vencer Ou Morrer (1993)" tvg-logo="" group-title=" VOD  ",Vencer Ou Morrer (1993)
+http://movies-hd.mine.nu/downloads/movies/Vencer%20ou%20Morrer%20(1993)%20BluRay%201080p%20Dual%20%c3%81udio.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vizinhos Nada Secretos" tvg-logo="" group-title=" VOD  ",Vizinhos Nada Secretos
+http://movies-hd.mine.nu/downloads/movies/Vizinhos.Nada.Secretos.2016.1080p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Yoga Hosers" tvg-logo="" group-title=" VOD  ",Yoga Hosers
+http://movies-hd.mine.nu/downloads/movies/Yoga.Hosers.2016.720p.BRRip.x264.AAC-ETRG.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ponte Dos Espiões" tvg-logo="" group-title=" VOD  ",Ponte Dos Espiões
+http://movies-hd.mine.nu/downloads/movies/Ponte%20dos%20Espi%c3%b5es%20(2016)%205.1%20CH%20Dublado%201080p%20(By-LuanHarper).mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Priceless" tvg-logo="" group-title=" VOD  ",Priceless
+http://movies-hd.mine.nu/downloads/movies/Priceless.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sample-the 9th Life Of Louis Drax" tvg-logo="" group-title=" VOD  ",Sample-the 9th Life Of Louis Drax
+http://movies-hd.mine.nu/downloads/movies/sample-The%209th%20Life%20Of%20Louis%20Drax%202016%201080p%20BluRay%20x264%20DTSHD%205.1%20-DDR.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sample-the Amazing Spiderman-2" tvg-logo="" group-title=" VOD  ",Sample-the Amazing Spiderman-2
+http://movies-hd.mine.nu/downloads/movies/sample-The%20Amazing%20SpiderMan-2%202014%202160p%20UHD%20BluRay%20HEVC10%20Multi%20DTSHD%205.1%20-DDR.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Secrets Of Deception" tvg-logo="" group-title=" VOD 2017 ",Secrets Of Deception
+http://movies-hd.mine.nu/downloads/movies/Secrets.of.Deception.2017.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Silence 2016 Dvdscr Xvid Ac3 Hq Hive-cm8" tvg-logo="" group-title=" VOD  ",Silence 2016 Dvdscr Xvid Ac3 Hq Hive-cm8
+http://movies-hd.mine.nu/downloads/movies/Silence.2016.DVDScr.XVID.AC3.HQ.Hive-CM8.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Sob A Luz Da Fama" tvg-logo="" group-title=" VOD  ",Sob A Luz Da Fama
+http://movies-hd.mine.nu/downloads/movies/sob%20a%20luz%20da%20fama%20(legendado).avi
+#EXTINF:-1 tvg-ID="" tvg-name="Sold 2016" tvg-logo="" group-title=" VOD  ",Sold 2016
+http://movies-hd.mine.nu/downloads/movies/Sold.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sonhos Imperiais" tvg-logo="" group-title=" VOD 2017 ",Sonhos Imperiais
+http://movies-hd.mine.nu/downloads/movies/Sonhos.Imperiais.2017.1080p.BluRay.x264.DUBLADO-SABRINA_TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sr Pig" tvg-logo="" group-title=" VOD  ",Sr Pig
+http://movies-hd.mine.nu/downloads/movies/Sr.Pig.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Stereo 2017 720p" tvg-logo="" group-title=" VOD  ",Stereo 2017 720p
+http://movies-hd.mine.nu/downloads/movies/Stereo.2017.720p.BluRay.DD5.1.x264.DUAL-TDF.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Stick Man" tvg-logo="" group-title=" VOD INFANTIL ",Stick Man
+http://movies-hd.mine.nu/downloads/movies/Stick.Man.2015.720p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Suicide Squad" tvg-logo="" group-title=" VOD  ",Suicide Squad
+http://movies-hd.mine.nu/downloads/movies/Suicide.Squad.2016.EXTENDED.720p.BluRay.x264-SPARKS.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sully" tvg-logo="" group-title=" VOD  ",Sully
+http://movies-hd.mine.nu/downloads/movies/Sully%202016%20UltraHD%20BluRay%202160p%20HDR%20HEVC%20BT2020%20Dolby%20Atmos%207.1%20-DDR.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Surfs Up 2" tvg-logo="" group-title=" VOD  ",Surfs Up 2
+http://movies-hd.mine.nu/downloads/movies/Surfs.Up.2.WaveMania.2017.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Tá Dando Onda 2" tvg-logo="" group-title=" VOD INFANTIL ",Tá Dando Onda 2
+http://movies-hd.mine.nu/downloads/movies/T%c3%a1.Dando.Onda.2.2017.1080p.BluRay.x264.DUAL-TDF.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Tactical Force" tvg-logo="" group-title=" VOD  ",Tactical Force
+http://movies-hd.mine.nu/downloads/movies/Tactical.Force.2011.BRRip.XviD-ViP3R_arc.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Take The 10" tvg-logo="" group-title=" VOD  ",Take The 10
+http://movies-hd.mine.nu/downloads/movies/Take.the.10.2016.720p.NF.WEBRip.DD5.1.x264-SB.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Teenage Cocktail" tvg-logo="" group-title=" VOD  ",Teenage Cocktail
+http://movies-hd.mine.nu/downloads/movies/Teenage.Cocktail.2016.WEBRip.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The 9th Life Of Louis Drax" tvg-logo="" group-title=" VOD  ",The 9th Life Of Louis Drax
+http://movies-hd.mine.nu/downloads/movies/The.9th.Life.Of.Louis.Drax.2016.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Girl With All The Gifts" tvg-logo="" group-title=" VOD  ",The Girl With All The Gifts
+http://movies-hd.mine.nu/downloads/movies/The.Girl.With.All.The.Gifts.2016.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Great Gilly Hopkins" tvg-logo="" group-title=" VOD  ",The Great Gilly Hopkins
+http://movies-hd.mine.nu/downloads/movies/The.Great.Gilly.Hopkins.2016.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Hollars" tvg-logo="" group-title=" VOD  ",The Hollars
+http://movies-hd.mine.nu/downloads/movies/The.Hollars.2016.720p.BluRay.x264.AAC-ETRG.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Jerk 1979" tvg-logo="" group-title=" VOD  ",The Jerk 1979
+http://movies-hd.mine.nu/downloads/movies/The.Jerk.1979.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Light Between Oceans 2016" tvg-logo="" group-title=" VOD  ",The Light Between Oceans 2016
+http://movies-hd.mine.nu/downloads/movies/The.Light.Between.Oceans.2016.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Love Witch 2016 Web-dl X264-fgt" tvg-logo="" group-title=" VOD  ",The Love Witch 2016 Web-dl X264-fgt
+http://movies-hd.mine.nu/downloads/movies/The.Love.Witch.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead S07 E14 720p Web-dl X264 Dublado-www Torrentdosfilmes Com" tvg-logo="" group-title=" VOD  ",The Walking Dead S07 E14 720p Web-dl X264 Dublado-www Torrentdosfilmes Com
+http://movies-hd.mine.nu/downloads/movies/The.Walking.Dead.S07E14.720p.WEB-DL.x264.DUBLADO-WWW.TORRENTDOSFILMES.COM.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Amazing Spiderman-2" tvg-logo="" group-title=" VOD  ",The Amazing Spiderman-2
+http://movies-hd.mine.nu/downloads/movies/The%20Amazing%20SpiderMan-2%202014%202160p%20UHD%20BluRay%20HEVC10%20Multi%20DTSHD%205.1%20-DDR.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Karate Kid" tvg-logo="" group-title=" VOD  ",The Karate Kid
+http://movies-hd.mine.nu/downloads/movies/The%20Karate%20Kid%20%5b2010%5d%20DvDrip-aXXo-por.srt_arc.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Queen Of Katwe" tvg-logo="" group-title=" VOD  ",Queen Of Katwe
+http://movies-hd.mine.nu/downloads/movies/Queen.of.Katwe.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Bom Gigante Amigo" tvg-logo="" group-title=" VOD INFANTIL ",O Bom Gigante Amigo
+http://movies-hd.mine.nu/downloads/movies/O%20Bom%20Gigante%20Amigo%202016%20Bluray%201080p%20Dublado%20-%20TPF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Casamento De Rachel" tvg-logo="" group-title=" VOD  ",O Casamento De Rachel
+http://movies-hd.mine.nu/downloads/movies/o%20casamento%20de%20rachel%202008_arc.avi
+#EXTINF:-1 tvg-ID="" tvg-name="O Demolidor" tvg-logo="" group-title=" VOD  ",O Demolidor
+http://movies-hd.mine.nu/downloads/movies/O%20Demolidor%20%5b1994%5d%20-%20BluRay%20720p%20Dublado.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Especialista" tvg-logo="" group-title=" VOD  ",O Especialista
+http://movies-hd.mine.nu/downloads/movies/O%20Especialista%20%5b1994%5d%20-%20BluRay%20720p%20Dublado.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Officer Downe" tvg-logo="" group-title=" VOD  ",Officer Downe
+http://movies-hd.mine.nu/downloads/movies/Officer.Downe.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Operation Chromite" tvg-logo="" group-title=" VOD  ",Operation Chromite
+http://movies-hd.mine.nu/downloads/movies/Operation.Chromite.2016.1080p.BRRip.6CH.2GB.MkvCage.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Os Reis Da Pegadinha" tvg-logo="" group-title=" VOD  ",Os Reis Da Pegadinha
+http://movies-hd.mine.nu/downloads/movies/Os.Reis.da.Pegadinha.2016.1080p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Passageiros" tvg-logo="" group-title=" VOD  ",Passageiros
+http://movies-hd.mine.nu/downloads/movies/Passageiros.2017.1080p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Paula Fernandes" tvg-logo="" group-title=" VOD  ",Paula Fernandes
+http://movies-hd.mine.nu/downloads/movies/PAULA%20FERNANDES%20%5bSHOW%20AO%20VIVO%5d%5b2011%5d%20-%20Floresta.avi
+#EXTINF:-1 tvg-ID="" tvg-name="A Chegada" tvg-logo="" group-title=" VOD  ",A Chegada
+http://movies-hd.mine.nu/downloads/movies/A.Chegada.2017.1080p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Joshy 2016" tvg-logo="" group-title=" VOD  ",Joshy 2016
+http://movies-hd.mine.nu/downloads/movies/Joshy.2016.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Keeping Up With The Joneses" tvg-logo="" group-title=" VOD  ",Keeping Up With The Joneses
+http://movies-hd.mine.nu/downloads/movies/Keeping%20Up%20With%20The%20Joneses%202016%202160p%204K%20UHD%20x265%2010%20bits%20DTSHD-MA%207.1%20-DDR.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kung Fu Panda 3" tvg-logo="" group-title=" VOD  ",Kung Fu Panda 3
+http://movies-hd.mine.nu/downloads/movies/Kung%20Fu%20Panda%203%202016%201080p%20Dublado%20-%20WWWW.THEPIRATEFILMES.COM.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="La La Land" tvg-logo="" group-title=" VOD  ",La La Land
+http://movies-hd.mine.nu/downloads/movies/La.La.Land.2016.DVDScr.XVID.AC3.HQ.Hive-CM8.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Manchester" tvg-logo="" group-title=" VOD  ",Manchester
+http://movies-hd.mine.nu/downloads/movies/Manchester.by.the.Sea.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Max Steel" tvg-logo="" group-title=" VOD  ",Max Steel
+http://movies-hd.mine.nu/downloads/movies/Max%20Steel%202016%20BluRay%20720p%20DTS%20AC3%20x264-ETRG%20(1).mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Moana Um Mar De Aventuras 2017" tvg-logo="" group-title=" VOD  ",Moana Um Mar De Aventuras 2017
+http://movies-hd.mine.nu/downloads/movies/Moana.Um.Mar.de.Aventuras.2017.1080p.BluRay.x264.DUBLADO-WWW.TORRENTDOSFILMES.COM.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Moonlight" tvg-logo="" group-title=" VOD  ",Moonlight
+http://movies-hd.mine.nu/downloads/movies/Moonlight.2016.DVDScr.XVID.AC3.HQ.Hive-CM8.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Morris From America" tvg-logo="" group-title=" VOD  ",Morris From America
+http://movies-hd.mine.nu/downloads/movies/Morris.From.America.2016.720p.BRRip.x264.AAC-ETRG.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Moth 2016" tvg-logo="" group-title=" VOD  ",Moth 2016
+http://movies-hd.mine.nu/downloads/movies/Moth.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Laura Pausini - Live In Paris 2005" tvg-logo="" group-title=" VOD  ",Laura Pausini - Live In Paris 2005
+http://movies-hd.mine.nu/downloads/movies/laura%20pausini%20-%20live%20in%20paris%202005.avi
+#EXTINF:-1 tvg-ID="" tvg-name="League Of Gods" tvg-logo="" group-title=" VOD  ",League Of Gods
+http://movies-hd.mine.nu/downloads/movies/League.of.Gods.2016.720p.BRRip.x264.Chinese.AAC-ETRG.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Lego Scooby Doo Haunted Hollywood" tvg-logo="" group-title=" VOD  ",Lego Scooby Doo Haunted Hollywood
+http://movies-hd.mine.nu/downloads/movies/LEGO.Scooby.Doo.Haunted.Hollywood.2016.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Lion 2016" tvg-logo="" group-title=" VOD  ",Lion 2016
+http://movies-hd.mine.nu/downloads/movies/Lion.2016.DVDScr.XVID.AC3.HQ.Hive-CM8.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Luan Santana Ao Vivo No Rio De Janeiro - Dvd" tvg-logo="" group-title=" VOD  ",Luan Santana Ao Vivo No Rio De Janeiro - Dvd
+http://movies-hd.mine.nu/downloads/movies/luan%20santana%20ao%20vivo%20no%20rio%20de%20janeiro%20-%20dvd.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Lucy" tvg-logo="" group-title=" VOD  ",Lucy
+http://movies-hd.mine.nu/downloads/movies/Lucy%202014%202160p%204K%20UHD%20BluRay%20HDR10%20HEVC%20BT2020%20DTS-HD%205.1%20Subs%20-DDR.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Família Do Futuro" tvg-logo="" group-title=" VOD INFANTIL ",A Família Do Futuro
+http://movies-hd.mine.nu/downloads/movies/A.Fam%c3%adlia.do.Futuro.2007.1080p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Furia De Vajra" tvg-logo="" group-title=" VOD  ",A Furia De Vajra
+http://movies-hd.mine.nu/downloads/movies/A.Furia.de.Vajra.2015.1080p.AVI.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Monster Calls" tvg-logo="" group-title=" VOD  ",A Monster Calls
+http://movies-hd.mine.nu/downloads/movies/A.Monster.Calls.2016.720p.WEB-DL.AAC2.0.H264-FGT.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Friends With Benefits" tvg-logo="" group-title=" VOD  ",Friends With Benefits
+http://movies-hd.mine.nu/downloads/movies/Friends.With.Benefits.2011.R5.Line.XviD.AbSurdiTy_arc.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Gigantes De Aço" tvg-logo="" group-title=" VOD  ",Gigantes De Aço
+http://movies-hd.mine.nu/downloads/movies/Gigantes.de.A%c3%a7o.2011.1080p.Dual-WOLVERDONFILMES.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greater 2016" tvg-logo="" group-title=" VOD  ",Greater 2016
+http://movies-hd.mine.nu/downloads/movies/Greater.2016.720p.BRRip.x264.AAC-ETRG.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Hacksaw Ridge" tvg-logo="" group-title=" VOD  ",Hacksaw Ridge
+http://movies-hd.mine.nu/downloads/movies/Hacksaw.Ridge.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Herança De Sangue" tvg-logo="" group-title=" VOD  ",Herança De Sangue
+http://movies-hd.mine.nu/downloads/movies/Heran%c3%a7a%20de%20Sangue%20720p%20(2016)%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Hidden Figures" tvg-logo="" group-title=" VOD  ",Hidden Figures
+http://movies-hd.mine.nu/downloads/movies/Hidden.Figures.2016.DVDSCR-P2P.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Home" tvg-logo="" group-title=" VOD INFANTIL ",Home
+http://movies-hd.mine.nu/downloads/movies/Home.2015.PT.ENG.720p.BRRip.x264.AC3-Mikas.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Homens De Coragem" tvg-logo="" group-title=" VOD  ",Homens De Coragem
+http://movies-hd.mine.nu/downloads/movies/Homens%20de%20Coragem%201080p%20(2016)%20Dual%20%c3%81udio%20BluRay%20--%20By%20-%20Lucas%20Firmo.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Homesick" tvg-logo="" group-title=" VOD  ",Homesick
+http://movies-hd.mine.nu/downloads/movies/homesick.2015.dvdrip.x264-bipolar.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="I,daniel Blake" tvg-logo="" group-title=" VOD  ",I,daniel Blake
+http://movies-hd.mine.nu/downloads/movies/I,Daniel.Blake.2016.HC.HDRip.x264.AC3-ETRG.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="I Am Legend" tvg-logo="" group-title=" VOD  ",I Am Legend
+http://movies-hd.mine.nu/downloads/movies/I%20Am%20Legend%202007%202160p%204K%20UltraHD%20BluRay%20x265%20HEVC%2010%20Bits%20Multi%20TrueHD%205.1%20-DDR.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Iboy 2017" tvg-logo="" group-title=" VOD  ",Iboy 2017
+http://movies-hd.mine.nu/downloads/movies/iBoy.2017.1080p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Imperium 2016" tvg-logo="" group-title=" VOD  ",Imperium 2016
+http://movies-hd.mine.nu/downloads/movies/Imperium.2016.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Inception 2010" tvg-logo="" group-title=" VOD  ",Inception 2010
+http://movies-hd.mine.nu/downloads/movies/Inception.2010.1080p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Independence Day O Ressurgimento" tvg-logo="" group-title=" VOD  ",Independence Day O Ressurgimento
+http://movies-hd.mine.nu/downloads/movies/Independence.Day.O.Ressurgimento.2016.2160p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Inferno 2016 720p Bluray X264-sparks" tvg-logo="" group-title=" VOD  ",Inferno 2016 720p Bluray X264-sparks
+http://movies-hd.mine.nu/downloads/movies/Inferno.2016.720p.BluRay.x264-SPARKS.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ip Man - A Batalha Final" tvg-logo="" group-title=" VOD  ",Ip Man - A Batalha Final
+http://movies-hd.mine.nu/downloads/movies/IP%20Man%20-%20A%20Batalha%20Final%20(2014)%20BRrip%201080p%20Dublado%20-%20AndreTPF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Irmaos Gemeos (1988) Dual 1080p Bluray - Tdf" tvg-logo="" group-title=" VOD  ",Irmaos Gemeos (1988) Dual 1080p Bluray - Tdf
+http://movies-hd.mine.nu/downloads/movies/Irmaos.Gemeos.(1988).Dual.1080p.BluRay%20-%20TDF.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="It's Only The End Of The World" tvg-logo="" group-title=" VOD  ",It's Only The End Of The World
+http://movies-hd.mine.nu/downloads/movies/It's.Only.the.End.of.the.World.2016.720p.WEB-DL.800MB.MkvCage.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Jack Reacher Never Go Back" tvg-logo="" group-title=" VOD  ",Jack Reacher Never Go Back
+http://movies-hd.mine.nu/downloads/movies/Jack%20Reacher%20Never%20Go%20Back%202016%20Multi%204K%20UHD%202160p%20HEVC%2010%20Bits%20ATMOS%207.1%20-Zeus.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Jason Bourne 2017" tvg-logo="" group-title=" VOD  ",Jason Bourne 2017
+http://movies-hd.mine.nu/downloads/movies/Jason.Bourne.2017.2160p.4k.UltraHd.BluRay.DD5.1.x264.DUAL-TDF.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Jogo Da Morte" tvg-logo="" group-title=" VOD  ",Jogo Da Morte
+http://movies-hd.mine.nu/downloads/movies/Jogo%20da%20Morte%20720p%20(2016)%20Dual%20%c3%81udio%20BluRay%20--%20By%20-%20Lucas%20Firmo.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Doctor Strange" tvg-logo="" group-title=" VOD  ",Doctor Strange
+http://movies-hd.mine.nu/downloads/movies/Doctor.Strange.2016.DVDScr.XVID.AC3.HQ.Hive-CM8.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Dog Eat Dog 2016" tvg-logo="" group-title=" VOD  ",Dog Eat Dog 2016
+http://movies-hd.mine.nu/downloads/movies/Dog.Eat.Dog.2016.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dont Knock Twice" tvg-logo="" group-title=" VOD  ",Dont Knock Twice
+http://movies-hd.mine.nu/downloads/movies/Dont.Knock.Twice.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dragonfly" tvg-logo="" group-title=" VOD  ",Dragonfly
+http://movies-hd.mine.nu/downloads/movies/Dragonfly.2016.WEBRip.x264-RARBG.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Duro De Matar Um Bom Dia Para Morrer" tvg-logo="" group-title=" VOD  ",Duro De Matar Um Bom Dia Para Morrer
+http://movies-hd.mine.nu/downloads/movies/Duro.de.Matar.Um.Bom.Dia.Para.Morrer.EXTENDED.BDRip.XviD.SenhoreSTorrenT.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Dvd Ivete Sangalo Ao Vivo No Madison Square Garden" tvg-logo="" group-title=" VOD  ",Dvd Ivete Sangalo Ao Vivo No Madison Square Garden
+http://movies-hd.mine.nu/downloads/movies/DVD%20Ivete%20Sangalo%20Ao%20Vivo%20no%20Madison%20Square%20Garden%20-%202010%20-%20By_Junio_Tk2--LK&Tk2.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Ensina-me O Amor" tvg-logo="" group-title=" VOD  ",Ensina-me O Amor
+http://movies-hd.mine.nu/downloads/movies/Ensina-me%20o%20Amor%202016%20Bluray%201080p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fantastic Beasts And Where To Find Them" tvg-logo="" group-title=" VOD  ",Fantastic Beasts And Where To Find Them
+http://movies-hd.mine.nu/downloads/movies/Fantastic.Beasts.and.Where.to.Find.Them.2016.KORSUB.HDRip.x264-STUTTERSHIT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fantastic Four" tvg-logo="" group-title=" VOD  ",Fantastic Four
+http://movies-hd.mine.nu/downloads/movies/Fantastic%20Four%202015%202160p%204K%20UHD%20BluRay%20HEVC10%20Multi%20DTSHD%205.1%20-DDR.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Fences" tvg-logo="" group-title=" VOD  ",Fences
+http://movies-hd.mine.nu/downloads/movies/Fences.2016.DVDScr.XVID.AC3.HQ.Hive-CM8.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Fora Do Rumo" tvg-logo="" group-title=" VOD  ",Fora Do Rumo
+http://movies-hd.mine.nu/downloads/movies/Fora%20do%20Rumo%20720p%20(2017)%20Dublado%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Street Cat Named Bob" tvg-logo="" group-title=" VOD  ",A Street Cat Named Bob
+http://movies-hd.mine.nu/downloads/movies/A.Street.Cat.Named.Bob.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Amor E Outras Drogas" tvg-logo="" group-title=" VOD  ",Amor E Outras Drogas
+http://movies-hd.mine.nu/downloads/movies/Amor%20e%20Outras%20Drogas%20(2010)%20720p%20Dublado%20-%20Alan_680.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Anjos Da Noite Guerras De Sangue" tvg-logo="" group-title=" VOD  ",Anjos Da Noite Guerras De Sangue
+http://movies-hd.mine.nu/downloads/movies/Anjos.da.Noite.Guerras.de.Sangue.2017.1080p.BluRay.DD5.1.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Arbor Demon" tvg-logo="" group-title=" VOD  ",Arbor Demon
+http://movies-hd.mine.nu/downloads/movies/Arbor.Demon.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Arsenal" tvg-logo="" group-title=" VOD  ",Arsenal
+http://movies-hd.mine.nu/downloads/movies/Arsenal.2017.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="As Aventuras De Robinson Crusoé" tvg-logo="" group-title=" VOD INFANTIL ",As Aventuras De Robinson Crusoé
+http://movies-hd.mine.nu/downloads/movies/As.Aventuras.de.Robinson.Cruso%c3%a9.2017.720p.BluRay.DD5.1.x264.DUAL-TDF.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Assassination Games" tvg-logo="" group-title=" VOD  ",Assassination Games
+http://movies-hd.mine.nu/downloads/movies/Assassination%20Games%202011%20PPVRIP%20XVID-WBZ_arc.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Assassins Creed" tvg-logo="" group-title=" VOD  ",Assassins Creed
+http://movies-hd.mine.nu/downloads/movies/Assassins.Creed.2016.720p.HDRip.x264.Dublado-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Asterix E O Dominio Dos Deuses" tvg-logo="" group-title=" VOD INFANTIL ",Asterix E O Dominio Dos Deuses
+http://movies-hd.mine.nu/downloads/movies/Asterix%20e%20o%20Dominio%20dos%20Deuses%202016%20Bluray%201080p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="At The End Of The Tunnel" tvg-logo="" group-title=" VOD  ",At The End Of The Tunnel
+http://movies-hd.mine.nu/downloads/movies/At.the.End.of.the.Tunnel.2016.720p.BRRip.1GB.MkvCage.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Bad Boys" tvg-logo="" group-title=" VOD  ",Bad Boys
+http://movies-hd.mine.nu/downloads/movies/Bad%20Boys%20(1995)%20BluRay%20720p%20Dublado%20ramonTPB.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Banking On Bitcoin" tvg-logo="" group-title=" VOD  ",Banking On Bitcoin
+http://movies-hd.mine.nu/downloads/movies/Banking.on.Bitcoin.2016.DOCU.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Beleza Oculta" tvg-logo="" group-title=" VOD  ",Beleza Oculta
+http://movies-hd.mine.nu/downloads/movies/Beleza.Oculta.2017.1080p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Bleed For This" tvg-logo="" group-title=" VOD  ",Bleed For This
+http://movies-hd.mine.nu/downloads/movies/Bleed.for.This.2016.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Branquinha" tvg-logo="" group-title=" VOD  ",Branquinha
+http://movies-hd.mine.nu/downloads/movies/Branquinha%201080p%20(2016)%20Dual%20%c3%81udio%20BluRay%20--%20By%20-%20Lucas%20Firmo.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cães De Guerra" tvg-logo="" group-title=" VOD  ",Cães De Guerra
+http://movies-hd.mine.nu/downloads/movies/C%c3%a3es.de.Guerra.2016.1080p.BluRay.5.1.x264.DUAL-WWW.TORRENTDOSFILMES.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Call Of The Wolf" tvg-logo="" group-title=" VOD  ",Call Of The Wolf
+http://movies-hd.mine.nu/downloads/movies/Call.of.the.Wolf.2017.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Call To Duty Fora De Alcance" tvg-logo="" group-title=" VOD  ",Call To Duty Fora De Alcance
+http://movies-hd.mine.nu/downloads/movies/Call.to.Duty.Fora.de.Alcance.2017.1080p.BluRay.x264.DUBLADO.WWW.TORRENTDOSFILMES.COM.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Cold War Ii" tvg-logo="" group-title=" VOD  ",Cold War Ii
+http://movies-hd.mine.nu/downloads/movies/Cold%20War%20II%202016%20Chinese%20720p%20BRRip%20800%20MB%20-%20iExTV.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Collide" tvg-logo="" group-title=" VOD  ",Collide
+http://movies-hd.mine.nu/downloads/movies/Collide.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Comando Kill" tvg-logo="" group-title=" VOD  ",Comando Kill
+http://movies-hd.mine.nu/downloads/movies/Comando.Kill.2017.1080p.BluRay.x264.DUBLADO-TDF.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Abelha Maya O Filme" tvg-logo="" group-title=" VOD  ",A Abelha Maya O Filme
+http://movies-hd.mine.nu/downloads/movies/A%20Abelha%20Maya%20O%20Filme.2016.BluRay.1080p.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Lenda De Tarzan" tvg-logo="" group-title=" VOD  ",A Lenda De Tarzan
+http://movies-hd.mine.nu/downloads/movies/A%20Lenda%20de%20Tarzan%202016%20Bluray%201080p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="About Ray" tvg-logo="" group-title=" VOD  ",About Ray
+http://movies-hd.mine.nu/downloads/movies/About.Ray.2015.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Addicted To Sexting" tvg-logo="" group-title=" VOD  ",Addicted To Sexting
+http://movies-hd.mine.nu/downloads/movies/Addicted.to.Sexting.2015.720p.WEBRip.x264.AAC-ETRG.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Tale Of Love And Darkness" tvg-logo="" group-title=" VOD  ",A Tale Of Love And Darkness
+http://movies-hd.mine.nu/downloads/movies/A.Tale.of.Love.and.Darkness.2015.HEBREW.WEB-DL.x264-FGT.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="<<<<< VOD SERIES >>>>>" tvg-logo="" group-title=" RADIO FM ",<<<<< VOD SERIES >>>>>
+http://37.187.135.168:5500/live/Torben/Torben/1312.ts
+#EXTINF:-1 tvg-ID="" tvg-name="<<<<< DRAGON BALL SUPER  >>>>>" tvg-logo="" group-title=" RADIO FM ",<<<<< DRAGON BALL SUPER  >>>>>
+http://37.187.135.168:5500/live/Torben/Torben/1522.ts
+#EXTINF:-1 tvg-ID="" tvg-name="01" tvg-logo="" group-title=" DRAGON BALL SUPER  ",01
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/01.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="02" tvg-logo="" group-title=" DRAGON BALL SUPER  ",02
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/02.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="03" tvg-logo="" group-title=" DRAGON BALL SUPER  ",03
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/03.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="04" tvg-logo="" group-title=" DRAGON BALL SUPER  ",04
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/04.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="05" tvg-logo="" group-title=" DRAGON BALL SUPER  ",05
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/05.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="06" tvg-logo="" group-title=" DRAGON BALL SUPER  ",06
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/06.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="07" tvg-logo="" group-title=" DRAGON BALL SUPER  ",07
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/07.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="08" tvg-logo="" group-title=" DRAGON BALL SUPER  ",08
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/08.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="09" tvg-logo="" group-title=" DRAGON BALL SUPER  ",09
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/09.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="10" tvg-logo="" group-title=" DRAGON BALL SUPER  ",10
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/10.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="11" tvg-logo="" group-title=" DRAGON BALL SUPER  ",11
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/11.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="12" tvg-logo="" group-title=" DRAGON BALL SUPER  ",12
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/12.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="13" tvg-logo="" group-title=" DRAGON BALL SUPER  ",13
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/13.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="14" tvg-logo="" group-title=" DRAGON BALL SUPER  ",14
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/14.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="15" tvg-logo="" group-title=" DRAGON BALL SUPER  ",15
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/15.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="16" tvg-logo="" group-title=" DRAGON BALL SUPER  ",16
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/16.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="17" tvg-logo="" group-title=" DRAGON BALL SUPER  ",17
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/17.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="18" tvg-logo="" group-title=" DRAGON BALL SUPER  ",18
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/18.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="19" tvg-logo="" group-title=" DRAGON BALL SUPER  ",19
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/19.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="20" tvg-logo="" group-title=" DRAGON BALL SUPER  ",20
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/20.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="21" tvg-logo="" group-title=" DRAGON BALL SUPER  ",21
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/21.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="22" tvg-logo="" group-title=" DRAGON BALL SUPER  ",22
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/22.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="23" tvg-logo="" group-title=" DRAGON BALL SUPER  ",23
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/23.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="24" tvg-logo="" group-title=" DRAGON BALL SUPER  ",24
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/24.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="25" tvg-logo="" group-title=" DRAGON BALL SUPER  ",25
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/25.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="26" tvg-logo="" group-title=" DRAGON BALL SUPER  ",26
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/26.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="27" tvg-logo="" group-title=" DRAGON BALL SUPER  ",27
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/27.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="28" tvg-logo="" group-title=" DRAGON BALL SUPER  ",28
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/28.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="29" tvg-logo="" group-title=" DRAGON BALL SUPER  ",29
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/29.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="30" tvg-logo="" group-title=" DRAGON BALL SUPER  ",30
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/30.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="31" tvg-logo="" group-title=" DRAGON BALL SUPER  ",31
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/31.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="32" tvg-logo="" group-title=" DRAGON BALL SUPER  ",32
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/32.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="33" tvg-logo="" group-title=" DRAGON BALL SUPER  ",33
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/33.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="34" tvg-logo="" group-title=" DRAGON BALL SUPER  ",34
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/34.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="35" tvg-logo="" group-title=" DRAGON BALL SUPER  ",35
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/35.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="36" tvg-logo="" group-title=" DRAGON BALL SUPER  ",36
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/36.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="37" tvg-logo="" group-title=" DRAGON BALL SUPER  ",37
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/37.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="38" tvg-logo="" group-title=" DRAGON BALL SUPER  ",38
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/38.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="39" tvg-logo="" group-title=" DRAGON BALL SUPER  ",39
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/39.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="40" tvg-logo="" group-title=" DRAGON BALL SUPER  ",40
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/40.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="41" tvg-logo="" group-title=" DRAGON BALL SUPER  ",41
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/41.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="42" tvg-logo="" group-title=" DRAGON BALL SUPER  ",42
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/42.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="43" tvg-logo="" group-title=" DRAGON BALL SUPER  ",43
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/43.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="44" tvg-logo="" group-title=" DRAGON BALL SUPER  ",44
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/44.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="45" tvg-logo="" group-title=" DRAGON BALL SUPER  ",45
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/45.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="46" tvg-logo="" group-title=" DRAGON BALL SUPER  ",46
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/46.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="47" tvg-logo="" group-title=" DRAGON BALL SUPER  ",47
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/47.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="48" tvg-logo="" group-title=" DRAGON BALL SUPER  ",48
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/48.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="49" tvg-logo="" group-title=" DRAGON BALL SUPER  ",49
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/49.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="50" tvg-logo="" group-title=" DRAGON BALL SUPER  ",50
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/50.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="51" tvg-logo="" group-title=" DRAGON BALL SUPER  ",51
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/51.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="52" tvg-logo="" group-title=" DRAGON BALL SUPER  ",52
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/52.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="53" tvg-logo="" group-title=" DRAGON BALL SUPER  ",53
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/53.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="54" tvg-logo="" group-title=" DRAGON BALL SUPER  ",54
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/54.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="55" tvg-logo="" group-title=" DRAGON BALL SUPER  ",55
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/55.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="56" tvg-logo="" group-title=" DRAGON BALL SUPER  ",56
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/56.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="57" tvg-logo="" group-title=" DRAGON BALL SUPER  ",57
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/57.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="58" tvg-logo="" group-title=" DRAGON BALL SUPER  ",58
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/58.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="59" tvg-logo="" group-title=" DRAGON BALL SUPER  ",59
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/59.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="60" tvg-logo="" group-title=" DRAGON BALL SUPER  ",60
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/60.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="61" tvg-logo="" group-title=" DRAGON BALL SUPER  ",61
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/61.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="62" tvg-logo="" group-title=" DRAGON BALL SUPER  ",62
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/62.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="63" tvg-logo="" group-title=" DRAGON BALL SUPER  ",63
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/63.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="64" tvg-logo="" group-title=" DRAGON BALL SUPER  ",64
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/64.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="65" tvg-logo="" group-title=" DRAGON BALL SUPER  ",65
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/65.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="66" tvg-logo="" group-title=" DRAGON BALL SUPER  ",66
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/66.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="67" tvg-logo="" group-title=" DRAGON BALL SUPER  ",67
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/67.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="68" tvg-logo="" group-title=" DRAGON BALL SUPER  ",68
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/68.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="69" tvg-logo="" group-title=" DRAGON BALL SUPER  ",69
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/69.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="70" tvg-logo="" group-title=" DRAGON BALL SUPER  ",70
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/70.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="71" tvg-logo="" group-title=" DRAGON BALL SUPER  ",71
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/71.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="72" tvg-logo="" group-title=" DRAGON BALL SUPER  ",72
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/72.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="73" tvg-logo="" group-title=" DRAGON BALL SUPER  ",73
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/73.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="74" tvg-logo="" group-title=" DRAGON BALL SUPER  ",74
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/74.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="75" tvg-logo="" group-title=" DRAGON BALL SUPER  ",75
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/75.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="76" tvg-logo="" group-title=" DRAGON BALL SUPER  ",76
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/76.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Super 77" tvg-logo="" group-title=" DRAGON BALL SUPER  ",Dragon Ball Super 77
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/77.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Super 78" tvg-logo="" group-title=" DRAGON BALL SUPER  ",Dragon Ball Super 78
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/78.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Super 79" tvg-logo="" group-title=" DRAGON BALL SUPER  ",Dragon Ball Super 79
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/79.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Super 80" tvg-logo="" group-title=" DRAGON BALL SUPER  ",Dragon Ball Super 80
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/80.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Super 81" tvg-logo="" group-title=" DRAGON BALL SUPER  ",Dragon Ball Super 81
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/81.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Super 82" tvg-logo="" group-title=" DRAGON BALL SUPER  ",Dragon Ball Super 82
+http://movies-hd.mine.nu/downloads/movies/DRAGON%20BALL%20SUPER/82.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="<<<<< MARVELS AGENTS OF S.H.I.E.L.D >>>>>" tvg-logo="" group-title=" RADIO FM ",<<<<< MARVELS AGENTS OF S.H.I.E.L.D >>>>>
+http://37.187.135.168:5500/live/Torben/Torben/1521.ts
+#EXTINF:-1 tvg-ID="" tvg-name="<<<<< THE WALKING DEAD S07 >>>>>" tvg-logo="" group-title=" RADIO FM ",<<<<< THE WALKING DEAD S07 >>>>>
+http://37.187.135.168:5500/live/Torben/Torben/1518.ts
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead S07 E01" tvg-logo="" group-title=" The Walking Dead 7ª ",The Walking Dead S07 E01
+http://movies-hd.mine.nu/downloads/movies/The%20Walking%20Dead%20s7/The.Walking.Dead.S07E01.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead S07 E02" tvg-logo="" group-title=" The Walking Dead 7ª ",The Walking Dead S07 E02
+http://movies-hd.mine.nu/downloads/movies/The%20Walking%20Dead%20s7/The.Walking.Dead.S07E02.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead S07 E03" tvg-logo="" group-title=" The Walking Dead 7ª ",The Walking Dead S07 E03
+http://movies-hd.mine.nu/downloads/movies/The%20Walking%20Dead%20s7/The.Walking.Dead.S07E03.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead S07 E04" tvg-logo="" group-title=" The Walking Dead 7ª ",The Walking Dead S07 E04
+http://movies-hd.mine.nu/downloads/movies/The%20Walking%20Dead%20s7/The.Walking.Dead.S07E04.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead S07 E05" tvg-logo="" group-title=" The Walking Dead 7ª ",The Walking Dead S07 E05
+http://movies-hd.mine.nu/downloads/movies/The%20Walking%20Dead%20s7/The.Walking.Dead.S07E05.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead S07 E06 " tvg-logo="" group-title=" The Walking Dead 7ª ",The Walking Dead S07 E06 
+http://movies-hd.mine.nu/downloads/movies/The%20Walking%20Dead%20s7/The.Walking.Dead.S07E06..mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead S07 E07" tvg-logo="" group-title=" The Walking Dead 7ª ",The Walking Dead S07 E07
+http://movies-hd.mine.nu/downloads/movies/The%20Walking%20Dead%20s7/The.Walking.Dead.S07E07.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead S07 E08" tvg-logo="" group-title=" The Walking Dead 7ª ",The Walking Dead S07 E08
+http://movies-hd.mine.nu/downloads/movies/The%20Walking%20Dead%20s7/The.Walking.Dead.S07E08.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead S07 E09" tvg-logo="" group-title=" The Walking Dead 7ª ",The Walking Dead S07 E09
+http://movies-hd.mine.nu/downloads/movies/The%20Walking%20Dead%20s7/The.Walking.Dead.S07E09.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead S07 E10" tvg-logo="" group-title=" The Walking Dead 7ª ",The Walking Dead S07 E10
+http://movies-hd.mine.nu/downloads/movies/The%20Walking%20Dead%20s7/The.Walking.Dead.S07E10.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead S07 E11" tvg-logo="" group-title=" The Walking Dead 7ª ",The Walking Dead S07 E11
+http://movies-hd.mine.nu/downloads/movies/The%20Walking%20Dead%20s7/The.Walking.Dead.S07E11.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead S07 E12" tvg-logo="" group-title=" The Walking Dead 7ª ",The Walking Dead S07 E12
+http://movies-hd.mine.nu/downloads/movies/The%20Walking%20Dead%20s7/The.Walking.Dead.S07E12.mkv
+
+
