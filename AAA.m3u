@@ -155,6 +155,8 @@ http://fms.105.net:1935/live/virgin2/playlist.m3u8
 http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="PORTUGAL", VIRGIN TV
 http://tv.105.net:1935/live/virgin1/chunklist_w864163580.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/646bh7slp/HEAVYMETAL.png" group-title="PORTUGAL", Heavy Metal TV
+http://70.166.98.130:1935/hmtv/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/meq2khq" group-title="PORTUGAL", INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="0" group-title="PORTUGAL",MTV PORTUGAL
@@ -188,9 +190,7 @@ http://4.31.30.145:9034
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TRACE TV" group-title="PORTUGAL",TRACE TV
 http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1549.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lacaaxw" tvg-id="0" group-title="PORTUGAL",VOX
-
-
-
+http://stream.cdn.smcloud.net/vox2-p/stream1/chunklis.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Ivz9yp" group-title="PORTUGAL", ONE 1 
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="https://goo.gl/Ivz9yp" group-title="PORTUGAL", ONE 2 
@@ -217,7 +217,6 @@ http://208.86.19.13:8080/live/31.stream/index.m3u8
 http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1367.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="nationalgeographic.pt" group-title="PORTUGAL",NATIONAL GEOGRAPHIC
 http://62.167.50.245:8000/play/a07g
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1362.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NGWIL" group-title="PORTUGAL",NAT GEO WILD
 http://62.167.50.245:8000/play/a05x
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="HistoryChannel.pt" group-title="PORTUGAL",HISTORIA
