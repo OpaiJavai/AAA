@@ -3204,6 +3204,8 @@ http://78.111.176.132:8082
 #EXTINF:-1 tvg-id="" tvg-logo="http://magazin.jasmin.rs/wp-content/uploads/2015/03/logo.png" group-title="ADULTO", Jasmim TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
+#EXTINF:1 tvg-logo="http://media.socastsrm.com/wordpress/wp-content/blogs.dir/424/files/2016/11/18.png" group-title="ADULTO",SUPERONE+18
+http://31.223.238.10:8001/1:0:1:409:2:1:E0831B3:0:0:0
 
 
 
