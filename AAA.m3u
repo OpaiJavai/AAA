@@ -66,19 +66,23 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-logo="https://goo.gl/UWmNh1" tvg-id="RTPAfrica.pt" group-title="PORTUGAL",RTP AFRICA
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="PORTUGAL",24 KITCHEN
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1366.m3u8
+http://178.193.237.115:9000/play/a00l
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 
 http://62.167.50.245:8000/play/a05s
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 
 http://62.167.50.245:8000/play/a07d
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 
 http://62.167.50.245:8000/play/a04j
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 
+http://178.193.237.115:9000/play/a08o
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
 http://62.167.50.245:8000/play/a07f
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
+http://178.193.237.115:9000/play/a08b
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
 http://62.167.50.245:8000/play/a043
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
-http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1328.m3u8
+http://178.193.237.115:9000/play/a082
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV
 http://62.167.50.245:8000/play/a07j
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A Bola TV
@@ -135,6 +139,8 @@ http://62.167.50.245:8000/play/a062
 http://62.167.50.245:8000/play/a04w
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="PORTUGAL",DISNEY JUNIOR
 http://178.193.237.115:9000/play/a01n
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="PORTUGAL",DISNEY JUNIOR
+http://178.193.237.115:9000/play/a083
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="PORTUGAL",CARTOON NETWORK
 http://62.167.50.245:8000/play/a060
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="PORTUGAL",PANDA
@@ -3168,6 +3174,8 @@ http://178.193.237.115:9000/play/a078
 http://62.167.50.245:8000/play/a06d
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="ADULTO", Playboy TV
 http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="HOT" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/25/Sexy_Hot_logo.png/revision/latest?cb=20130504223718" group-title="ADULTO", Hot
+http://178.193.237.115:9000/play/a083
 #EXTINF:-1 tvg-id="HOT" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/25/Sexy_Hot_logo.png/revision/latest?cb=20130504223718" group-title="ADULTO", Hot
 http://178.193.237.115:9000/play/a083
 #EXTINF:-1 tvg-id="venus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Venus_Nuevo_Logo_2014.png" group-title="ADULTO", Venus
