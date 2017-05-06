@@ -172,7 +172,7 @@ http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_rocks_1/11309/0/tv-ss/live.isml
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS
 http://93.171.170.249:8080/http/192.168.196.1/ch/296
 #EXTINF:-1 tvg-logo="https://goo.gl/nPj2Q7" tvg-id="0" group-title="PORTUGAL",MTV LIVE
-http://93.171.170.249:8080/http/192.168.196.1/ch/295
+http://183.88.212.205:8010/play/a00s
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iyi7pTK.png" tvg-id="0" group-title="PORTUGAL",MTV HITS
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_hits_1/10256/0/tv-ss/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="PORTUGAL",MTV DANCE
