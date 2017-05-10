@@ -2236,13 +2236,13 @@ http://edge1.everyon.tv/etv1sb/phd10765/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2016/10/Xxx-Adult-Rubber-Stamp-square.jpg" tvg-id="" group-title="ADULTO",THE WEB STREAM TV
 http://publish.thewebstream.co:1935/leved/_definst_/hotandwet2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://picalt.com/p2m/hmnzmkgj.jpg" tvg-id="" group-title="ADULTO",BABESTATION
-http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_///mp4:Ct6zG7Nrj3v2JxD/manifest.m3u8?PEDROJUNIORTUTORIAIS
+http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_///mp4:Ct6zG7Nrj3v2JxD/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://picalt.com/p2m/hmnzmkgj.jpg" tvg-id="" group-title="ADULTO",BABESTATION 24
 http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_///mp4:Ct6zG7Nrj3v2JxD/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2016/10/Xxx-Adult-Rubber-Stamp-square.jpg" tvg-id="" group-title="ADULTO",BABE SEXO CHANNEL
 http://edge2.everyon.tv/etv2sb//phd10499/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="http://jarytec.com/wp-content/uploads/2016/10/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="ADULTO",SEXSAT TV
-http://81.89.48.215:1935/xyz444wkz/xy4_360p/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://81.89.48.215:1935/xyz444wkz/xy4_360p/playlist.m3u8
 
 
 
@@ -2251,11 +2251,74 @@ http://81.89.48.215:1935/xyz444wkz/xy4_360p/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n3q2sfu" group-title="FILMES XXX", FILMES XXX
 Http://google.pt
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras - A Sobrinha
+http://www.aspanteras.tv/imagens/capa/16/480/parte_1.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 01
+http://www.aspanteras.tv/imagens/capa/67/480/parte_1.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 02
+http://www.aspanteras.tv/imagens/capa/20/480/parte_1.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 03
+http://www.aspanteras.tv/imagens/capa/20/480/parte_2.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 04
+http://www.aspanteras.tv/imagens/capa/20/480/parte_3.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 05
+http://www.aspanteras.tv/imagens/capa/20/480/parte_4.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 06
+http://www.aspanteras.tv/imagens/capa/453/480/parte_1.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 07
+http://www.aspanteras.tv/imagens/capa/9017/480/parte_1.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 08
+http://www.aspanteras.tv/imagens/capa/87/480/parte_2.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 09
+http://www.aspanteras.tv/imagens/capa/453/480/parte_4.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 10
+http://www.aspanteras.tv/imagens/capa/87/480/parte_1.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 11
+http://www.aspanteras.tv/imagens/capa/20/480/parte_2.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 12
+http://www.aspanteras.tv/imagens/capa/47/480/parte_4.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 13
+http://www.aspanteras.tv/imagens/capa/453/480/parte_2.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 14
+http://www.aspanteras.tv/imagens/capa/453/480/parte_3.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 15
+http://www.aspanteras.tv/imagens/capa/87/480/parte_4.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.aspanteras.tv/Imagens/logo.png" group-title="FILMES XXX",As Panteras 16
+http://www.aspanteras.tv/imagens/capa/9016/480/parte_1.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KLgR5xZ.png" group-title="FILMES XXX",Casa das Brasileirinhas com Bruna Ferraz 01
+http://198.50.207.35/~utrenhos/ondemand/Cena%201.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KLgR5xZ.png" group-title="FILMES XXX",Casa das Brasileirinhas com Bruna Ferraz 02
+http://198.50.207.35/~utrenhos/ondemand/Cena%202.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KLgR5xZ.png" group-title="FILMES XXX",Casa das Brasileirinhas com Bruna Ferraz 03
+http://198.50.207.35/~utrenhos/ondemand/Cena%203.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KLgR5xZ.png" group-title="FILMES XXX",Casa das Brasileirinhas com Bruna Ferraz 04
+http://198.50.207.35/~utrenhos/ondemand/Cena%204.mp4?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n3q2sfu" group-title="FILMES XXX",XXX-Babes 1
 http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n3q2sfu" group-title="FILMES XXX",XXX-Babes 10
