@@ -296,7 +296,7 @@ http://85.7.107.8:8012/play/a003
 #EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png" tvg-id="ARTV.pt" group-title="PORTUGAL",AR TV
 http://85.7.107.8:8010/play/a04j
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://goo.gl/guxnEM" group-title="PORTUGAL",SANTUARIO DE FATIMA
-http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
+http://213.13.26.11:1935/live/santuario.stream/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://www.jfarroios.pt/2016/wp-content/uploads/2015/10/logo-tv1.jpg" tvg-id="0" group-title="PORTUGAL",ARROIOS TV
 http://213.13.26.11:1935/live/luis/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" tvg-id="TCV" group-title="PORTUGAL",TCV 
