@@ -179,7 +179,7 @@ http://85.7.107.8:8011/play/a030
 http://85.7.107.8:8011/play/a01x
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="PORTUGAL",PANDA BIGGS
 http://85.7.107.8:8010/play/a04a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" group-title="PORTUGAL",NICKELODEON
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="nick" group-title="PORTUGAL",NICKELODEON
 http://85.7.107.8:8010/play/a03t
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BABYT" group-title="PORTUGAL",BABY TV
 http://85.7.107.8:8012/play/a007
@@ -199,7 +199,7 @@ http://tv.105.net:1935/live/virgin1/chunklist_w864163580.m3u8
 http://70.166.98.130:1935/hmtv/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/meq2khq" group-title="PORTUGAL", INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="0" group-title="PORTUGAL",MTV PORTUGAL
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="MTVPortugal" group-title="PORTUGAL",MTV PORTUGAL
 http://85.7.107.8:8012/play/a00c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_rocks_1/11309/0/tv-ss/live.isml/playlist.m3u8
@@ -213,7 +213,7 @@ http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_hits_1/10256/0/tv-ss/live.isml/
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_dance_1/10257/0/tv-ss/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="PORTUGAL",MTV BASE
 http://212.231.80.4:3002/play/a006
-#EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="0" group-title="PORTUGAL",VH1 EUROPE
+#EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="VH1" group-title="PORTUGAL",VH1 EUROPE
 http://85.7.107.8:8010/play/a04h
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="0" group-title="PORTUGAL",VH1 CLASSIC
 http://85.7.107.8:8010/play/a03w
@@ -289,7 +289,7 @@ http://85.7.107.8:8010/play/a03d
 http://62.167.50.245:8000/play/a065
 #EXTINF:-1 tvg-logo="https://goo.gl/maoNgt" tvg-id="GLOBO" group-title="PORTUGAL",GLOBO PREMIUM
 http://85.7.107.8:8011/play/a036
-#EXTINF:-1 tvg-logo="https://goo.gl/2RYRF4" tvg-id="GLOBO" group-title="PORTUGAL",GLOBO
+#EXTINF:-1 tvg-logo="https://goo.gl/2RYRF4" tvg-id="TV GloboPortugal" group-title="PORTUGAL",GLOBO
 http://85.7.107.8:8011/play/a014
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="TVRECORD" group-title="PORTUGAL",TV RECORD
 http://85.7.107.8:8012/play/a003
