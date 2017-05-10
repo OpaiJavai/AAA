@@ -348,7 +348,7 @@ https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public/master.m3u8
 #EXTINF:-1 tvg-id="NTV-3" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/0/4/1/10414700/10414700_nasatv_media_hr_1330361951,192x192,r:1.jpg" group-title="PORTUGAL",NASA TV MEDIA (US)
 https://nasa-i.akamaihd.net/hls/live/253566/NTV-Media/master.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/9/4/0/8/9408562/9408562_iss_hr_1330361780,192x192,r:1.jpg" group-title="PORTUGAL",LIVE ISS STREAM
-http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/CumCatano.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/9/4/0/8/9408562/9408562_iss_hr_1330361780,192x192,r:1.jpg" group-title="PORTUGAL",LIVE ISS STREAM
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
