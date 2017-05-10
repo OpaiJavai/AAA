@@ -300,7 +300,7 @@ http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="http://www.jfarroios.pt/2016/wp-content/uploads/2015/10/logo-tv1.jpg" tvg-id="0" group-title="PORTUGAL",ARROIOS TV
 http://213.13.26.11:1935/live/luis/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" tvg-id="TCV" group-title="PORTUGAL",TCV 
-http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8
+http://213.13.26.11:1935/live/rtc_teste/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Xngpfr" tvg-id="Euronews.nws" group-title="PORTUGAL", EURONEWS PT
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Xngpfr" tvg-id="Euronews.nws" group-title="PORTUGAL", EURONEWS PT
