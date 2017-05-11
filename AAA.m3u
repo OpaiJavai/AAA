@@ -361,6 +361,7 @@ http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3
 -------------------------------------------------------------------------------------------------------------------------
 
 
+
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", TEMPORARIOS
 Http://google.pt
 
@@ -373,85 +374,85 @@ Http://google.pt
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Abola Tv (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Abola Tv (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/410.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/410.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Amc (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Amc (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/436.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/436.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Axn (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Axn (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/440.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/440.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Axn Black HD (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Axn Black HD (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/441.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/441.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Axn White HD (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Axn White HD (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/442.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/442.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Benfica Tv 1 (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Benfica Tv 1 (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/420.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/420.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Canal Panda (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Canal Panda (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/425.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/425.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Cinemundo (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Cinemundo (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/437.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/437.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Cm Tv (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Cm Tv (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/411.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/411.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Disney Channel (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Disney Channel (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/422.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/422.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Disney Junior (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Disney Junior (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/423.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/423.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: E! Entertainment (.)" tvg-logo="" group-title="TEMPORARIOS",PT: E! Entertainment (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/439.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/439.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Fox HD (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Fox HD (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/444.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/444.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Globo (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Globo (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/412.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/412.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Hollywood (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Hollywood (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/438.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/438.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Mov HD (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Mov HD (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/443.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/443.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Porto Canal (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Porto Canal (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/414.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/414.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Q Canal (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Q Canal (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/409.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/409.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Rtp 1 (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Rtp 1 (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/396.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/396.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Rtp 2 (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Rtp 2 (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/397.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/397.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Rtp 3 (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Rtp 3 (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/398.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/398.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: SIC Radical (.)" tvg-logo="" group-title="TEMPORARIOS",PT: SIC Radical (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/404.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/404.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Sic (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Sic (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/399.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/399.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Sic Caras (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Sic Caras (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/403.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/403.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Sic Mulher (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Sic Mulher (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/402.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/402.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Sic Noticias (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Sic Noticias (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/401.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/401.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Sport Tv 1 (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Sport Tv 1 (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/415.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/415.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Sport Tv 2 (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Sport Tv 2 (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/416.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/416.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Sport Tv 3 (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Sport Tv 3 (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/417.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/417.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Sport Tv 4 (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Sport Tv 4 (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/418.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/418.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: TVI (.)" tvg-logo="" group-title="TEMPORARIOS",PT: TVI (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/405.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/405.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: TVI 24 (.)" tvg-logo="" group-title="TEMPORARIOS",PT: TVI 24 (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/406.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/406.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Ficcao (.)" tvg-logo="" group-title="TEMPORARIOS",PT: TVI Ficcao (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/407.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/407.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Reality (.)" tvg-logo="" group-title="TEMPORARIOS",PT: TVI Reality (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/408.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/408.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Tv Cine 1 HD (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Tv Cine 1 HD (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/430.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/430.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Tv Cine 2 HD (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Tv Cine 2 HD (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/431.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/431.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Tv Cine 3 (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Tv Cine 3 (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/432.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/432.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Tv Cine 4 (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Tv Cine 4 (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/433.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/433.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Tv Series (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Tv Series (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/434.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/434.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Tvc Series (.)" tvg-logo="" group-title="TEMPORARIOS",PT: Tvc Series (.)
-http://alphatwo.ddns.net:8000/live/belle/belle/435.ts
+http://alphatwo.ddns.net:8000/live/belle/belle/435.m3u8
 
 
 
@@ -463,86 +464,85 @@ Http://google.pt
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="PT:RTP-1" tvg-logo="" group-title="TEMPORARIOS",PT:RTP-1
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/669.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/669.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:RTP 2" tvg-logo="" group-title="TEMPORARIOS",PT:RTP 2
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/688.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/688.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:RTP_3" tvg-logo="" group-title="TEMPORARIOS",PT:RTP_3
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1221.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1221.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:TVI" tvg-logo="" group-title="TEMPORARIOS",PT:TVI
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/685.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/685.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: SIC" tvg-logo="" group-title="TEMPORARIOS",PT: SIC
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/686.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/686.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: RTP Madeira" tvg-logo="" group-title="TEMPORARIOS",PT: RTP Madeira
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/667.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/667.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: RTP Africa" tvg-logo="" group-title="TEMPORARIOS",PT: RTP Africa
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/689.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/689.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:TVI-24" tvg-logo="" group-title="TEMPORARIOS",PT:TVI-24
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/687.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/687.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:EURONEWS" tvg-logo="" group-title="TEMPORARIOS",PT:EURONEWS
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/692.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/692.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:RTP-Acores" tvg-logo="" group-title="TEMPORARIOS",PT:RTP-Acores
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/668.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/668.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:SIC_MULHER" tvg-logo="" group-title="TEMPORARIOS",PT:SIC_MULHER
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1220.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1220.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:CANAL-PANDA" tvg-logo="" group-title="TEMPORARIOS",PT:CANAL-PANDA
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1225.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1225.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:DISNEY-JUNIOR" tvg-logo="" group-title="TEMPORARIOS",PT:DISNEY-JUNIOR
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1224.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1224.m3u8
 #EXTINF:-1 tvg-ID="cartoon.pt" tvg-name="PT: Cartoon Network" tvg-logo="http://i.imgur.com/li8eW94.gif" group-title="TEMPORARIOS",PT: Cartoon Network
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1227.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1227.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: TV SERIES" tvg-logo="" group-title="TEMPORARIOS",PT: TV SERIES
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1217.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1217.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:FOX-CRIME" tvg-logo="" group-title="TEMPORARIOS",PT:FOX-CRIME
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1218.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1218.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:AXN-WHITE" tvg-logo="" group-title="TEMPORARIOS",PT:AXN-WHITE
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/675.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/675.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:AXN-HD" tvg-logo="" group-title="TEMPORARIOS",PT:AXN-HD
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/676.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/676.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:AXN-Black" tvg-logo="" group-title="TEMPORARIOS",PT:AXN-Black
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/677.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/677.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: MOV HD" tvg-logo="" group-title="TEMPORARIOS",PT: MOV HD
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/670.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/670.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:FOX-MOVIE" tvg-logo="" group-title="TEMPORARIOS",PT:FOX-MOVIE
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/671.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/671.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:TVCINE1" tvg-logo="" group-title="TEMPORARIOS",PT:TVCINE1
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/447.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/447.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:TVCINE2" tvg-logo="" group-title="TEMPORARIOS",PT:TVCINE2
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/446.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/446.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:TVCINE3" tvg-logo="" group-title="TEMPORARIOS",PT:TVCINE3
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/445.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/445.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:TVCINE4" tvg-logo="" group-title="TEMPORARIOS",PT:TVCINE4
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/444.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/444.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:HISTORIA" tvg-logo="" group-title="TEMPORARIOS",PT:HISTORIA
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1223.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1223.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:TVI_REALITY" tvg-logo="" group-title="TEMPORARIOS",PT:TVI_REALITY
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1219.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1219.m3u8
 #EXTINF:-1 tvg-ID="DISCOVERYHD.pt" tvg-name="PT: DISCOVERY" tvg-logo="http://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.jpg" group-title="TEMPORARIOS",PT: DISCOVERY
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1228.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1228.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:Odisseia" tvg-logo="" group-title="TEMPORARIOS",PT:Odisseia
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1226.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1226.m3u8
 #EXTINF:-1 tvg-ID="SportTVplus.pt" tvg-name="PT: SPORT.TV+" tvg-logo="http://marketeer.pt/wp-content/uploads/2016/08/Imagem-300x150.jpg" group-title="TEMPORARIOS",PT: SPORT.TV+
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1957.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1957.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="TEMPORARIOS",PT: SPORT TV 1 HD
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/661.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/661.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="TEMPORARIOS",PT: SPORT TV 2 HD
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/662.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/662.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="" group-title="TEMPORARIOS",PT: SPORT TV 5 HD
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/665.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/665.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="TEMPORARIOS",PT: SPORT TV 3 HD
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/663.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/663.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="TEMPORARIOS",PT: SPORT TV 4 HD
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/664.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/664.m3u8
 #EXTINF:-1 tvg-ID="KombatSport.pt" tvg-name="PT: Kombat Sport HD" tvg-logo="http://www.bce.lu/wp-content/uploads/2016/06/LOGO-Kombat_Sport.png" group-title="TEMPORARIOS",PT: Kombat Sport HD
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1584.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/1584.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: EUROSPORT" tvg-logo="" group-title="TEMPORARIOS",PT: EUROSPORT
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/672.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/672.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:EUROSPORT2" tvg-logo="" group-title="TEMPORARIOS",PT:EUROSPORT2
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/690.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/690.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Benefica Tv 1" tvg-logo="" group-title="TEMPORARIOS",PT: Benefica Tv 1
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/673.ts
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/673.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT:Sporting-TV" tvg-logo="" group-title="TEMPORARIOS",PT:Sporting-TV
-http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/666.ts
-
+http://maxtvv.abdou123.com:9300/live/fadel_2002/8542yiu2/666.m3u8
 
 
 
