@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,= Самообновляемый плейлист AdultsSlyNet IPTV =
 http://j.mp/PromoAdultsSlyNet
+#EXTINF:-1,FrenchLover
+http://31.128.141.78:81/udp/239.1.13.4:1234
+#EXTINF:-1,Русская ночь
+http://31.128.141.78:81/udp/239.1.11.53:1234
 #EXTINF:-1,BSX 24 (18+)
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 #EXTINF:-1,Babestation (18+)
