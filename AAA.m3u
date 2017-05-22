@@ -66,7 +66,7 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="PORTUGAL",24 KITCHEN
 http://149.56.98.189:25461/live/Venda/260417/404.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV +
-
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2671.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
 http://149.56.98.189:25461/live/Venda/260417/371.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
