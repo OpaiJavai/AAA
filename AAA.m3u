@@ -6,11 +6,11 @@ http://google.com
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1
-http://85.7.107.8:8012/play/a002
+http://149.56.98.189:25461/live/Venda/260417/344.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="PORTUGAL",RTP 2
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="PORTUGAL",RTP 2
-http://85.7.107.8:8011/play/a01v
+http://149.56.98.189:25461/live/Venda/260417/345.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="PORTUGAL",SIC (Geo Block)
 http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="PORTUGAL",SIC (Geo Block)
@@ -36,13 +36,13 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/avFiVT" group-title="PORTUGAL",TVI24 
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lphnap6" tvg-id="CMTV.pt" group-title="PORTUGAL",CM TV
-http://149.202.205.91:8081/live/tvsat/youtube/1700.m3u8
+http://149.56.98.189:25461/live/Venda/260417/288.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="PORTUGAL",SIC RADICAL (Geo Block)
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png" tvg-id="sicmulher.pt" group-title="PORTUGAL",SIC MULHER
-http://149.202.205.91:8081/live/tvsat/youtube/1682.m3u8
+http://149.56.98.189:25461/live/Venda/260417/355.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png" tvg-id="SicCaras.pt" group-title="PORTUGAL",SIC CARAS
-http://62.167.50.245:8000/play/a063
+http://149.56.98.189:25461/live/Venda/260417/353.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/WhvCo4" tvg-id="TVIFiccao.pt" group-title="PORTUGAL",TVI FICCAO
 http://85.7.107.8:8012/play/a00y
 #EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="0" group-title="PORTUGAL",TVI REALITY
@@ -52,7 +52,7 @@ http://213.13.26.11:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="PORTUGAL", PORTO CANAL 
 http://213.13.26.13:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="Canal Q" group-title="PORTUGAL",CANAL Q
-http://149.202.205.91:8081/live/tvsat/youtube/1704.m3u8
+http://149.56.98.189:25461/live/Venda/260417/304.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" tvg-id="rtpmemoria.pt" group-title="PORTUGAL",RTP MEMORIA
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/52PvNv" tvg-id="RTPi.pt" group-title="PORTUGAL",RTP INTERNACIONAL
@@ -64,47 +64,43 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-logo="https://goo.gl/UWmNh1" tvg-id="RTPAfrica.pt" group-title="PORTUGAL",RTP AFRICA
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="PORTUGAL",24 KITCHEN
-http://178.193.237.115:9000/play/a00l
+http://149.56.98.189:25461/live/Venda/260417/404.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV +
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 SD LOW
-http://213.152.180.151:17247/sstream/EuxPCYoiaN.stream/playlist.m3u8
+http://149.56.98.189:25461/live/Venda/260417/370.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
-http://149.202.205.91:8081/live/tvsat/youtube/1721.m3u8
+http://149.56.98.189:25461/live/Venda/260417/371.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
-http://149.202.205.91:8081/live/tvsat/youtube/1722.m3u8
+http://149.56.98.189:25461/live/Venda/260417/372.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
-http://178.193.237.115:9000/play/a08b
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 SD LOW
-http://213.152.180.151:17247/sstream/0a6vDa0OYU.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
-http://149.202.205.91:8081/live/tvsat/youtube/1724.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
-http://149.202.205.91:8081/live/tvsat/youtube/2139.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
-http://178.193.237.115:9000/play/a082
+http://149.56.98.189:25461/live/Venda/260417/373.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
+http://149.56.98.189:25461/live/Venda/260417/374.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
+http://149.56.98.189:25461/live/Venda/260417/375.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV
-http://149.202.205.91:8081/live/tvsat/youtube/1670.m3u8
+http://149.56.98.189:25461/live/Venda/260417/296.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A Bola TV
-http://149.202.205.91:8081/live/tvsat/youtube/1710.m3u8
+http://149.56.98.189:25461/live/Venda/260417/369.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV 
-http://178.193.237.115:9000/play/a07y
+http://149.56.98.189:25461/live/Venda/260417/376.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT
-http://149.202.205.91:8081/live/tvsat/youtube/1667.m3u8
+http://149.56.98.189:25461/live/Venda/260417/362.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="eurosport2.pt" group-title="PORTUGAL",EUROSPORT 2
-http://178.193.237.115:9000/play/a079
+http://149.56.98.189:25461/live/Venda/260417/363.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="https://tinyurl.com/m5a5vj3" group-title="PORTUGAL",Eurosport 2 Xtra
+http://149.56.98.189:25461/live/Venda/260417/364.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mgjb999" tvg-id="" group-title="PORTUGAL",Eurosport News
-http://85.7.107.8:8010/play/a04q
+http://149.56.98.189:25461/live/Venda/260417/365.m3u8
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV" group-title="PORTUGAL",Fuel TV
-http://149.202.205.91:8081/live/tvsat/youtube/1693.m3u8
+http://149.56.98.189:25461/live/Venda/260417/324.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" tvg-id="FightNetwork" group-title="PORTUGAL",KOMBAT SPORT
-http://178.193.237.115:9000/play/a089
+http://149.56.98.189:25461/live/Venda/260417/361.m3u8
 #EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/Fight-box-hd.png" tvg-id="FightBox" group-title="PORTUGAL",FightBox HD 
 http://78.26.128.94:7321/index.php?channel=316 
 #EXTINF:-1 tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2017/03/motorsporttv_logo_black.png" tvg-id="" group-title="PORTUGAL",MOTORSPORT.TV
 http://85.7.107.8:8012/play/a00n
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png" tvg-id="MOTOR" group-title="PORTUGAL",MOTORS TV
-http://85.7.107.8:8010/play/a03r
+http://149.56.98.189:25461/live/Venda/260417/366.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="PORTUGAL",PFC
 http://149.202.205.91:8081/live/tvsat/youtube/1686.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/TnZhHD" tvg-id="0" group-title="PORTUGAL",CHELSEA TV
@@ -116,61 +112,65 @@ http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n5zs2f4" tvg-id="0" group-title="PORTUGAL",NBA
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1
-http://149.202.205.91:8081/live/tvsat/youtube/1716.m3u8
+http://149.56.98.189:25461/live/Venda/260417/397.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2
-http://178.193.237.115:9000/play/a00t
+http://149.56.98.189:25461/live/Venda/260417/398.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3
-http://149.202.205.91:8081/live/tvsat/youtube/1718.m3u8
+http://149.56.98.189:25461/live/Venda/260417/399.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 4
-http://149.202.205.91:8081/live/tvsat/youtube/1719.m3u8
+http://149.56.98.189:25461/live/Venda/260417/400.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="PORTUGAL",TVSeries
-http://149.202.205.91:8081/live/tvsat/youtube/1675.m3u8
+http://149.56.98.189:25461/live/Venda/260417/396.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="PORTUGAL",HOLLYWOOD
-http://149.202.205.91:8081/live/tvsat/youtube/1662.m3u8
+http://149.56.98.189:25461/live/Venda/260417/378.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="PORTUGAL",SYFY
-http://149.202.205.91:8081/live/tvsat/youtube/1655.m3u8
+http://149.56.98.189:25461/live/Venda/260417/392.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo" group-title="PORTUGAL",CINEMUNDO
-http://149.202.205.91:8081/live/tvsat/youtube/1701.m3u8
+http://149.56.98.189:25461/live/Venda/260417/379.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="" group-title="PORTUGAL",Sundance HD
+http://149.56.98.189:25461/live/Venda/260417/377.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="PORTUGAL",MOV
 http://149.202.205.91:8081/live/tvsat/youtube/1728.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC" group-title="PORTUGAL",AMC
-http://178.193.237.115:9000/play/a08g
+http://149.56.98.189:25461/live/Venda/260417/383.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="PORTUGAL",AXN
-http://149.202.205.91:8081/live/tvsat/youtube/1714.m3u8
+http://149.56.98.189:25461/live/Venda/260417/381.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="PORTUGAL",AXN Black
-http://149.202.205.91:8081/live/tvsat/youtube/2140.m3u8
+http://149.56.98.189:25461/live/Venda/260417/380.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mye96kn" tvg-id="AXNWhite.pt" group-title="PORTUGAL",AXN White
-http://149.202.205.91:8081/live/tvsat/youtube/1713.m3u8
+http://149.56.98.189:25461/live/Venda/260417/382.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="PORTUGAL",FOX
-http://85.7.107.8:8011/play/a00g
+http://149.56.98.189:25461/live/Venda/260417/386.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="foxlife.pt" group-title="PORTUGAL",FOX LIFE
-http://149.202.205.91:8081/live/tvsat/youtube/1664.m3u8
+http://149.56.98.189:25461/live/Venda/260417/387.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FOXM" group-title="PORTUGAL",FOX MOVIES
-http://149.202.205.91:8081/live/tvsat/youtube/1729.m3u8
+http://149.56.98.189:25461/live/Venda/260417/389.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="PORTUGAL",FOX CRIME
-http://178.193.237.115:9000/play/a00m
+http://149.56.98.189:25461/live/Venda/260417/385.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="PORTUGAL",FOX COMEDY
-http://178.193.237.115:9000/play/a06w
+http://149.56.98.189:25461/live/Venda/260417/384.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="PORTUGAL",DISNEY CHANNEL
-http://149.202.205.91:8081/live/tvsat/youtube/1697.m3u8
+http://149.56.98.189:25461/live/Venda/260417/319.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="PORTUGAL",DISNEY JUNIOR
-http://178.193.237.115:9000/play/a01n
+http://149.56.98.189:25461/live/Venda/260417/320.m3u8
 #EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2017/04/logo-disney-mickey-mouse-e-os-seus-amigos.png" tvg-id="" group-title="PORTUGAL",Mickey Mouse e os seus Amigos
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="PORTUGAL",CARTOON NETWORK
-
+http://149.56.98.189:25461/live/Venda/260417/313.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="PORTUGAL",PANDA
-http://149.202.205.91:8081/live/tvsat/youtube/1705.m3u8
+http://149.56.98.189:25461/live/Venda/260417/314.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="PORTUGAL",PANDA BIGGS
-http://178.193.237.115:9000/play/a08i
+http://149.56.98.189:25461/live/Venda/260417/312.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="nick" group-title="PORTUGAL",NICKELODEON
-http://149.202.205.91:8081/live/tvsat/youtube/1688.m3u8
+http://149.56.98.189:25461/live/Venda/260417/318.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SICK.pt" group-title="PORTUGAL",SIC K
-http://178.193.237.115:9000/play/a08h
+http://149.56.98.189:25461/live/Venda/260417/354.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BABYT" group-title="PORTUGAL",BABY TV
-http://149.202.205.91:8081/live/tvsat/youtube/1708.m3u8
+http://149.56.98.189:25461/live/Venda/260417/316.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l5mg6h8" tvg-id="BABYF" group-title="PORTUGAL",Baby First
+http://149.56.98.189:25461/live/Venda/260417/315.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM" group-title="PORTUGAL",JIMJAM
-http://178.193.237.115:9000/play/a08i
+http://149.56.98.189:25461/live/Venda/260417/317.m3u8
 #EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/baby_first_tv.png.300x300_q85.png" tvg-id="BABYT" group-title="PORTUGAL",Baby First
 http://85.7.107.8:8010/play/a03m
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="PORTUGAL", VIRGIN TV
@@ -184,7 +184,7 @@ http://70.166.98.130:1935/hmtv/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/meq2khq" group-title="PORTUGAL", INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="MTVPortugal" group-title="PORTUGAL",MTV PORTUGAL
-http://149.202.205.91:8081/live/tvsat/youtube/1691.m3u8
+http://149.56.98.189:25461/live/Venda/260417/300.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_rocks_1/11309/0/tv-ss/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS
@@ -198,19 +198,19 @@ http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_dance_1/10257/0/tv-ss/live.isml
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="PORTUGAL",MTV BASE
 http://212.231.80.4:3002/play/a006
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="VH1" group-title="PORTUGAL",VH1 EUROPE
-http://178.193.237.115:9000/play/a01a
+http://149.56.98.189:25461/live/Venda/260417/301.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="0" group-title="PORTUGAL",VH1 CLASSIC
-http://149.202.205.91:8081/live/tvsat/youtube/2144.m3u8
+http://149.56.98.189:25461/live/Venda/260417/302.m3u8
 #EXTINF:-1 tvg-logo="http://orig01.deviantart.net/f497/f/2013/002/e/6/musicbox_logo_by_letro-d5q4zj8.png" tvg-id="0" group-title="PORTUGAL",Music Box
 http://93.171.170.249:8080/http/192.168.196.1/ch/21
 #EXTINF:-1 tvg-logo="https://goo.gl/ngjyrv" tvg-id="MCMTOP" group-title="PORTUGAL",MCM TOP
-http://149.202.205.91:8081/live/tvsat/youtube/2146.m3u8
+http://149.56.98.189:25461/live/Venda/260417/327.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a3lNp0e.png" tvg-id="MCMPOP" group-title="PORTUGAL",MCM POP
-http://178.193.237.115:9000/play/a07a
+http://149.56.98.189:25461/live/Venda/260417/326.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" group-title="PORTUGAL",M6 MUSIQUE
 http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1548.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" tvg-id="C-Music" group-title="PORTUGAL",C MUSIC
-http://178.193.237.115:9000/play/a08k
+http://149.56.98.189:25461/live/Venda/260417/299.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png" tvg-id="AFRO" group-title="PORTUGAL",AFRO MUSIC
 http://4.31.30.145:9034
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TRACE TV" group-title="PORTUGAL",TRACE TV
@@ -238,37 +238,41 @@ http://www.djing.com/tv/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="PORTUGAL", DJING ANIMATION   
 http://www.djing.com/tv/a-05.m3u8?time=1454038733694
 #EXTINF:-1 tvg-logo="https://goo.gl/hXyY5B" tvg-id="discoverychannel.pt" group-title="PORTUGAL",DISCOVERY
-http://149.202.205.91:8081/live/tvsat/youtube/1699.m3u8
+http://149.56.98.189:25461/live/Venda/260417/309.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png" group-title="PORTUGAL",DISCOVERY SHOWCASE
-http://149.202.205.91:8081/live/tvsat/youtube/1698.m3u8
+http://149.56.98.189:25461/live/Venda/260417/310.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="nationalgeographic.pt" group-title="PORTUGAL",NATIONAL GEOGRAPHIC
-http://149.202.205.91:8081/live/tvsat/youtube/1689.m3u8
+http://149.56.98.189:25461/live/Venda/260417/307.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NGWIL" group-title="PORTUGAL",NAT GEO WILD
-http://178.193.237.115:9000/play/a06r
+http://149.56.98.189:25461/live/Venda/260417/306.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="HistoryChannel.pt" group-title="PORTUGAL",HISTORIA
-http://149.202.205.91:8081/live/tvsat/youtube/1706.m3u8
+http://149.56.98.189:25461/live/Venda/260417/311.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="PORTUGAL",ODISSEIA
-http://149.202.205.91:8081/live/tvsat/youtube/1687.m3u8
+http://149.56.98.189:25461/live/Venda/260417/391.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="E" group-title="PORTUGAL",E! Entertainment
-http://149.202.205.91:8081/live/tvsat/youtube/1695.m3u8
+http://149.56.98.189:25461/live/Venda/260417/394.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id="AE" group-title="PORTUGAL",A&E
-http://178.193.237.115:9000/play/a019
+http://149.56.98.189:25461/live/Venda/260417/395.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="PORTUGAL",TLC
 http://4.31.30.145:9043
+#EXTINF:-1 tvg-logo="https://tinyurl.com/kxh2nlc" tvg-id="" group-title="PORTUGAL",Crime Investigation CI
+http://149.56.98.189:25461/live/Venda/260417/308.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/N7hEOL" tvg-id="0" group-title="PORTUGAL",MCS EXTREME
-http://85.7.107.8:8012/play/a00m
+http://149.56.98.189:25461/live/Venda/260417/328.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" tvg-id="0" group-title="PORTUGAL",MCS LIFESTYLE
-http://178.193.237.115:9000/play/a087
+http://149.56.98.189:25461/live/Venda/260417/329.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSReality" group-title="PORTUGAL",CBS REALITY
-http://62.167.50.245:8000/play/a02a
+http://149.56.98.189:25461/live/Venda/260417/305.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xgqZgC6.png" tvg-id="TRV.pt" group-title="PORTUGAL",TRAVEL CHANNEL
-http://85.7.107.8:8010/play/a03d
+http://149.56.98.189:25461/live/Venda/260417/407.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Oo0DzJ" tvg-id="FTV" group-title="PORTUGAL",FTV
-http://178.193.237.115:9000/play/a070
+http://149.56.98.189:25461/live/Venda/260417/321.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/lpl3fes" tvg-id="" group-title="PORTUGAL",Dog TV
+http://149.56.98.189:25461/live/Venda/260417/402.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/maoNgt" tvg-id="GLOBO" group-title="PORTUGAL",GLOBO PREMIUM
-http://149.202.205.91:8081/live/tvsat/youtube/1677.m3u8
+http://149.56.98.189:25461/live/Venda/260417/410.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/2RYRF4" tvg-id="TV GloboPortugal" group-title="PORTUGAL",GLOBO
-http://85.7.107.8:8011/play/a014
+http://149.56.98.189:25461/live/Venda/260417/409.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="TVRECORD" group-title="PORTUGAL",TV RECORD
 http://149.202.205.91:8081/live/tvsat/youtube/1676.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png" tvg-id="ARTV.pt" group-title="PORTUGAL",AR TV
@@ -320,9 +324,9 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" tvg-id="TOROTV.pt" group-title="PORTUGAL",TOROS TV
 http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1372.m3u8
 #EXTINF:-1 tvg-logo="http://portalnacional.com.pt/images/icons/tv/CACAP.png" tvg-id="CacaePesca" group-title="PORTUGAL",CACA & PESCA
-http://149.202.205.91:8081/live/tvsat/youtube/1707.m3u8
+http://149.56.98.189:25461/live/Venda/260417/403.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pIEZt5S.png" tvg-id="CacaVision" group-title="PORTUGAL",CACAVISION
-http://178.193.237.115:9000/play/a08l
+http://149.56.98.189:25461/live/Venda/260417/303.m3u8
 #EXTINF:-1 tvg-id="NTV-1" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/6/5/4/0/6540154/6540154,192x192,r:2.jpg" group-title="PORTUGAL",NASA TV PUBLIC EDUCATION (US)
 https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public/master.m3u8
 #EXTINF:-1 tvg-id="NTV-3" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/0/4/1/10414700/10414700_nasatv_media_hr_1330361951,192x192,r:1.jpg" group-title="PORTUGAL",NASA TV MEDIA (US)
@@ -331,7 +335,6 @@ https://nasa-i.akamaihd.net/hls/live/253566/NTV-Media/master.m3u8
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/CumCatano.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/9/4/0/8/9408562/9408562_iss_hr_1330361780,192x192,r:1.jpg" group-title="PORTUGAL",LIVE ISS STREAM
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-
 
 
 
@@ -442,173 +445,157 @@ http://alphatwo.ddns.net:8000/live/belle/belle/435.m3u8
 Http://google.pt
 
 
+#EXTINF:-1,PT: SPORT TV  HD 1080
+http://ringiptv.net:2500/live/agata/agata/7630.m3u8
+#EXTINF:-1,PT: SPORT TV 1 HD 1080
+http://ringiptv.net:2500/live/agata/agata/7629.m3u8
+#EXTINF:-1,PT: SPORT TV 2 HD 1080
+http://ringiptv.net:2500/live/agata/agata/7628.m3u8
+#EXTINF:-1,PT: SPORT TV 3 HD 1080
+http://ringiptv.net:2500/live/agata/agata/7627.m3u8
+#EXTINF:-1,PT: SPORT TV 4 HD 1080
+http://ringiptv.net:2500/live/agata/agata/7626.m3u8
+#EXTINF:-1,PT: SPORT TV 5 HD 1080
+http://ringiptv.net:2500/live/agata/agata/7625.m3u8
+#EXTINF:-1,PT: Sporting TV HD 1080
+http://ringiptv.net:2500/live/agata/agata/7605.m3u8
+#EXTINF:-1,PT: TVCINE 1 HD 1080
+http://ringiptv.net:2500/live/agata/agata/7624.m3u8
+#EXTINF:-1,PT: TVCINE 2 HD 1080
+http://ringiptv.net:2500/live/agata/agata/7623.m3u8
+#EXTINF:-1,PT: TVCINE 3 HD 1080
+http://ringiptv.net:2500/live/agata/agata/7622.m3u8
+#EXTINF:-1,PT: TVCINE 4 HD 1080
+http://ringiptv.net:2500/live/agata/agata/7621.m3u8
+#EXTINF:-1,PT: AXN BLACK HD 1080
+http://ringiptv.net:2500/live/agata/agata/7619.m3u8
+#EXTINF:-1,PT: AXN HD 1080
+http://ringiptv.net:2500/live/agata/agata/7618.m3u8
+#EXTINF:-1,PT: AXN WHITE HD
+http://ringiptv.net:2500/live/agata/agata/1130.m3u8
+#EXTINF:-1,PT: AXN WHITE HD 1080
+http://ringiptv.net:2500/live/agata/agata/7617.m3u8
+#EXTINF:-1,PT: EUROSPORT 1 HD 1080
+http://ringiptv.net:2500/live/agata/agata/7615.m3u8
+#EXTINF:-1,PT: FIGHT NETWORK HD 1080
+http://ringiptv.net:2500/live/agata/agata/7613.m3u8
+#EXTINF:-1,PT: FOX Comedy HD 1080
+http://ringiptv.net:2500/live/agata/agata/7612.m3u8
+#EXTINF:-1,PT: FOX CRIME HD 1080
+http://ringiptv.net:2500/live/agata/agata/7611.m3u8
+#EXTINF:-1,PT: FOX HD 1080
+http://ringiptv.net:2500/live/agata/agata/7610.m3u8
+#EXTINF:-1,PT: FOX LIFE HD 1080
+http://ringiptv.net:2500/live/agata/agata/7609.m3u8
+#EXTINF:-1,PT: FUEL TV HD 1080
+http://ringiptv.net:2500/live/agata/agata/7608.m3u8
+#EXTINF:-1,PT: SIC NOTICIAS HD 1080
+http://ringiptv.net:2500/live/agata/agata/7607.m3u8
+#EXTINF:-1,PT: SIC RADICAL HD 1080
+http://ringiptv.net:2500/live/agata/agata/7606.m3u8
 
-#EXTINF:-1,group-title="TEMPORARIOS", VH1 Classic
-http://localhd.tv:8081/live/tvsat/youtube/2144.ts
-#EXTINF:-1,group-title="TEMPORARIOS", VH1
-http://localhd.tv:8081/live/tvsat/youtube/2143.ts
-#EXTINF:-1,group-title="TEMPORARIOS", Trace TV
-http://localhd.tv:8081/live/tvsat/youtube/2142.ts
-#EXTINF:-1,group-title="TEMPORARIOS", Sport TV 5
-http://localhd.tv:8081/live/tvsat/youtube/2139.ts
-#EXTINF:-1,group-title="TEMPORARIOS", MTV Dance
-http://localhd.tv:8081/live/tvsat/youtube/2145.ts
-#EXTINF:-1,group-title="TEMPORARIOS", MCM TOP
-http://localhd.tv:8081/live/tvsat/youtube/2146.ts
-#EXTINF:-1,group-title="TEMPORARIOS", AXN Black HD
-http://localhd.tv:8081/live/tvsat/youtube/2140.ts
-#EXTINF:-1,group-title="TEMPORARIOS", Afro Music
-http://localhd.tv:8081/live/tvsat/youtube/2141.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  VH1
-http://localhd.tv:8081/live/tvsat/youtube/1671.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  TVI Reality (A Quinta)
-http://localhd.tv:8081/live/tvsat/youtube/1672.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  TVI 24
-http://localhd.tv:8081/live/tvsat/youtube/1673.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  TVI
-http://localhd.tv:8081/live/tvsat/youtube/1674.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  TVCseries
-http://localhd.tv:8081/live/tvsat/youtube/1675.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  TV RECORD
-http://localhd.tv:8081/live/tvsat/youtube/1676.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  TV Globo Premium
-http://localhd.tv:8081/live/tvsat/youtube/1677.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  TV GLOBO
-http://localhd.tv:8081/live/tvsat/youtube/1678.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  TV CINE 4
-http://localhd.tv:8081/live/tvsat/youtube/1719.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  TV CINE 3 HD
-http://localhd.tv:8081/live/tvsat/youtube/1718.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  TV CINE 2  HD
-http://localhd.tv:8081/live/tvsat/youtube/1717.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  TV CINE 1  HD
-http://localhd.tv:8081/live/tvsat/youtube/1716.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  TPA Internacional
-http://localhd.tv:8081/live/tvsat/youtube/1679.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  TOUROS TV
-http://localhd.tv:8081/live/tvsat/youtube/1680.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  TLC
-http://localhd.tv:8081/live/tvsat/youtube/1681.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  SYFY
-http://localhd.tv:8081/live/tvsat/youtube/1655.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  SPORTING TV
-http://localhd.tv:8081/live/tvsat/youtube/1720.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  SPORT TV 4 HD
-http://localhd.tv:8081/live/tvsat/youtube/1724.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  SPORT TV 3 HD
-http://localhd.tv:8081/live/tvsat/youtube/1723.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  SPORT TV 2 HD
-http://localhd.tv:8081/live/tvsat/youtube/1722.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  SPORT TV 1 HD
-http://localhd.tv:8081/live/tvsat/youtube/1721.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  SIC RADICAL
-http://localhd.tv:8081/live/tvsat/youtube/1656.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  SIC NOTICIAS
-http://localhd.tv:8081/live/tvsat/youtube/1657.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  SIC MULHER
-http://localhd.tv:8081/live/tvsat/youtube/1682.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  Sic
-http://localhd.tv:8081/live/tvsat/youtube/1725.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  RTP MEMORIA
-http://localhd.tv:8081/live/tvsat/youtube/1683.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  RTP INTERNATIONAL
-http://localhd.tv:8081/live/tvsat/youtube/1658.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  RTP INFORMACAO
-http://localhd.tv:8081/live/tvsat/youtube/1659.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  RTP A?ORES
-http://localhd.tv:8081/live/tvsat/youtube/1685.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  RTP AFRICA
-http://localhd.tv:8081/live/tvsat/youtube/1684.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  RTP 3
-http://localhd.tv:8081/live/tvsat/youtube/1715.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  RTP 2
-http://localhd.tv:8081/live/tvsat/youtube/1726.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  RTP 1
-http://localhd.tv:8081/live/tvsat/youtube/1727.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  PORTO CANAL
-http://localhd.tv:8081/live/tvsat/youtube/1660.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  PFC
-http://localhd.tv:8081/live/tvsat/youtube/1686.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  ODISSEIA
-http://localhd.tv:8081/live/tvsat/youtube/1687.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  NICKELODEON
-http://localhd.tv:8081/live/tvsat/youtube/1688.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  NATIONAL GEOGRAPHIC WILD
-http://localhd.tv:8081/live/tvsat/youtube/1689.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  NATIONAL GEOGRAPHIC
-http://localhd.tv:8081/live/tvsat/youtube/1690.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  MTV
-http://localhd.tv:8081/live/tvsat/youtube/1691.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  MOV HD
-http://localhd.tv:8081/live/tvsat/youtube/1728.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  MOTORS TV
-http://localhd.tv:8081/live/tvsat/youtube/1692.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  JIM JAM
-http://localhd.tv:8081/live/tvsat/youtube/1661.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  HOLLYWOOD
-http://localhd.tv:8081/live/tvsat/youtube/1662.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  FUEL TV
-http://localhd.tv:8081/live/tvsat/youtube/1693.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  FOX TV
-http://localhd.tv:8081/live/tvsat/youtube/1663.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  FOX MOVIES
-http://localhd.tv:8081/live/tvsat/youtube/1729.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  FOX LIFE
-http://localhd.tv:8081/live/tvsat/youtube/1664.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  FOX CRIME
-http://localhd.tv:8081/live/tvsat/youtube/1665.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  Fox Comedy
-http://localhd.tv:8081/live/tvsat/youtube/1694.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  EUROSPORT 2
-http://localhd.tv:8081/live/tvsat/youtube/1666.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  EUROSPORT
-http://localhd.tv:8081/live/tvsat/youtube/1667.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  E! Entertainment
-http://localhd.tv:8081/live/tvsat/youtube/1695.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  DISNEY JUNIOR
-http://localhd.tv:8081/live/tvsat/youtube/1696.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  DISNEY CHANNEL
-http://localhd.tv:8081/live/tvsat/youtube/1697.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  Discovery HD Showcase
-http://localhd.tv:8081/live/tvsat/youtube/1698.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  DISCOVERY CHANNEL
-http://localhd.tv:8081/live/tvsat/youtube/1699.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  DISCOVERY
-http://localhd.tv:8081/live/tvsat/youtube/1668.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  CM TV
-http://localhd.tv:8081/live/tvsat/youtube/1700.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  CINEMUNDO
-http://localhd.tv:8081/live/tvsat/youtube/1701.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  CHELSEA TV
-http://localhd.tv:8081/live/tvsat/youtube/1702.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  CBS REALITY
-http://localhd.tv:8081/live/tvsat/youtube/1703.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  CANAL Q
-http://localhd.tv:8081/live/tvsat/youtube/1704.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  CANAL PANDA
-http://localhd.tv:8081/live/tvsat/youtube/1705.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  CANAL HISTORIA
-http://localhd.tv:8081/live/tvsat/youtube/1706.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  CA?A & PESCA
-http://localhd.tv:8081/live/tvsat/youtube/1707.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  BENFICA TV 2
-http://localhd.tv:8081/live/tvsat/youtube/1669.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  BENFICA TV 1
-http://localhd.tv:8081/live/tvsat/youtube/1670.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  BABY TV
-http://localhd.tv:8081/live/tvsat/youtube/1708.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  AXN WHITE
-http://localhd.tv:8081/live/tvsat/youtube/1713.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  AXN HD
-http://localhd.tv:8081/live/tvsat/youtube/1714.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  AMC
-http://localhd.tv:8081/live/tvsat/youtube/1709.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  A BOLA TV
-http://localhd.tv:8081/live/tvsat/youtube/1710.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  A & E
-http://localhd.tv:8081/live/tvsat/youtube/1711.ts
-#EXTINF:-1,group-title="TEMPORARIOS",  24 KITCHEN
-http://localhd.tv:8081/live/tvsat/youtube/1712.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 3---
+Http://google.pt
+
+
+#EXTINF:-1,Tvi - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/407.m3u8
+#EXTINF:-1,TV Globo - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2036.m3u8
+#EXTINF:-1,Tv Globo Premium - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/409.m3u8
+#EXTINF:-1,Tvi 24 - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/408.m3u8
+#EXTINF:-1,Axn - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/413.m3u8
+#EXTINF:-1,Axn Black - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/415.m3u8
+#EXTINF:-1,Disney Channel - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/416.m3u8
+#EXTINF:-1,Nickelodeon - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/417.m3u8
+#EXTINF:-1,Cartoon Network - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/418.m3u8
+#EXTINF:-1,Axn White - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/414.m3u8
+#EXTINF:-1,24 Kitchen - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1465.m3u8
+#EXTINF:-1,A&E - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1475.m3u8
+#EXTINF:-1,Abola TV - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1474.m3u8
+#EXTINF:-1,Baby TV - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1468.m3u8
+#EXTINF:-1,Cbs Reality - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1481.m3u8
+#EXTINF:-1,Eurosport 1 - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1482.m3u8
+#EXTINF:-1,Eurosport 2 - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1483.m3u8
+#EXTINF:-1,Fox Movies - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1480.m3u8
+#EXTINF:-1,Fuel TV - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1470.m3u8
+#EXTINF:-1,Hollywood - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1478.m3u8
+#EXTINF:-1,Mcm Top - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1476.m3u8
+#EXTINF:-1,Motorvision - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1466.m3u8
+#EXTINF:-1,Mov HD - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1479.m3u8
+#EXTINF:-1,Travel Channel HD - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1471.m3u8
+#EXTINF:-1,TV Series - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/419.m3u8
+#EXTINF:-1,Fox - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/420.m3u8
+#EXTINF:-1,Fox Crime - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/421.m3u8
+#EXTINF:-1,Fox Comedy - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/422.m3u8
+#EXTINF:-1,Discovery Channel - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/423.m3u8
+#EXTINF:-1,Discovery Showcase - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/424.m3u8
+#EXTINF:-1,National Geographic - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1495.m3u8
+#EXTINF:-1,National Geographic Wild HD - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/425.m3u8
+#EXTINF:-1,Tlc - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/426.m3u8
+#EXTINF:-1,E! Entertainment - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/427.m3u8
+#EXTINF:-1,Fox Life - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/428.m3u8
+#EXTINF:-1,Cm TV - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/429.m3u8
+#EXTINF:-1,Canal Panda - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/430.m3u8
+#EXTINF:-1,TV Cine 1 - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/431.m3u8
+#EXTINF:-1,TV Cine 2 - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/432.m3u8
+#EXTINF:-1,TV Cine 3 - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/433.m3u8
+#EXTINF:-1,TV Cine 4 - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/434.m3u8
+#EXTINF:-1,Benfica TV 1 - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/435.m3u8
+#EXTINF:-1,TV Record - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1463.m3u8
+#EXTINF:-1,Tv Sick - Portugal
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/410.m3u8
+
+
+
+
+
+
 
 
 
