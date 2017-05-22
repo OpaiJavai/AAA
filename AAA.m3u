@@ -445,62 +445,6 @@ http://alphatwo.ddns.net:8000/live/belle/belle/435.m3u8
 Http://google.pt
 
 
-#EXTINF:-1,PT: SPORT TV  HD 1080
-http://ringiptv.net:2500/live/agata/agata/7630.m3u8
-#EXTINF:-1,PT: SPORT TV 1 HD 1080
-http://ringiptv.net:2500/live/agata/agata/7629.m3u8
-#EXTINF:-1,PT: SPORT TV 2 HD 1080
-http://ringiptv.net:2500/live/agata/agata/7628.m3u8
-#EXTINF:-1,PT: SPORT TV 3 HD 1080
-http://ringiptv.net:2500/live/agata/agata/7627.m3u8
-#EXTINF:-1,PT: SPORT TV 4 HD 1080
-http://ringiptv.net:2500/live/agata/agata/7626.m3u8
-#EXTINF:-1,PT: SPORT TV 5 HD 1080
-http://ringiptv.net:2500/live/agata/agata/7625.m3u8
-#EXTINF:-1,PT: Sporting TV HD 1080
-http://ringiptv.net:2500/live/agata/agata/7605.m3u8
-#EXTINF:-1,PT: TVCINE 1 HD 1080
-http://ringiptv.net:2500/live/agata/agata/7624.m3u8
-#EXTINF:-1,PT: TVCINE 2 HD 1080
-http://ringiptv.net:2500/live/agata/agata/7623.m3u8
-#EXTINF:-1,PT: TVCINE 3 HD 1080
-http://ringiptv.net:2500/live/agata/agata/7622.m3u8
-#EXTINF:-1,PT: TVCINE 4 HD 1080
-http://ringiptv.net:2500/live/agata/agata/7621.m3u8
-#EXTINF:-1,PT: AXN BLACK HD 1080
-http://ringiptv.net:2500/live/agata/agata/7619.m3u8
-#EXTINF:-1,PT: AXN HD 1080
-http://ringiptv.net:2500/live/agata/agata/7618.m3u8
-#EXTINF:-1,PT: AXN WHITE HD
-http://ringiptv.net:2500/live/agata/agata/1130.m3u8
-#EXTINF:-1,PT: AXN WHITE HD 1080
-http://ringiptv.net:2500/live/agata/agata/7617.m3u8
-#EXTINF:-1,PT: EUROSPORT 1 HD 1080
-http://ringiptv.net:2500/live/agata/agata/7615.m3u8
-#EXTINF:-1,PT: FIGHT NETWORK HD 1080
-http://ringiptv.net:2500/live/agata/agata/7613.m3u8
-#EXTINF:-1,PT: FOX Comedy HD 1080
-http://ringiptv.net:2500/live/agata/agata/7612.m3u8
-#EXTINF:-1,PT: FOX CRIME HD 1080
-http://ringiptv.net:2500/live/agata/agata/7611.m3u8
-#EXTINF:-1,PT: FOX HD 1080
-http://ringiptv.net:2500/live/agata/agata/7610.m3u8
-#EXTINF:-1,PT: FOX LIFE HD 1080
-http://ringiptv.net:2500/live/agata/agata/7609.m3u8
-#EXTINF:-1,PT: FUEL TV HD 1080
-http://ringiptv.net:2500/live/agata/agata/7608.m3u8
-#EXTINF:-1,PT: SIC NOTICIAS HD 1080
-http://ringiptv.net:2500/live/agata/agata/7607.m3u8
-#EXTINF:-1,PT: SIC RADICAL HD 1080
-http://ringiptv.net:2500/live/agata/agata/7606.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 3---
-Http://google.pt
-
 
 #EXTINF:-1,Tvi - Portugal
 http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/407.m3u8
