@@ -66,19 +66,19 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="PORTUGAL",24 KITCHEN
 http://149.56.98.189:25461/live/Venda/260417/404.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV +
-http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2671.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
-http://149.56.98.189:25461/live/Venda/260417/371.m3u8
+http://149.202.215.155:25461/live/irankanalen/irankanalen/437.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
-http://149.56.98.189:25461/live/Venda/260417/372.m3u8
+http://149.202.215.155:25461/live/irankanalen/irankanalen/438.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
-http://149.56.98.189:25461/live/Venda/260417/373.m3u8
+http://149.202.215.155:25461/live/irankanalen/irankanalen/439.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
-http://149.56.98.189:25461/live/Venda/260417/374.m3u8
+http://149.202.215.155:25461/live/irankanalen/irankanalen/440.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
-http://149.56.98.189:25461/live/Venda/260417/375.m3u8
+http://149.202.215.155:25461/live/irankanalen/irankanalen/441.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV
-http://149.56.98.189:25461/live/Venda/260417/296.m3u8
+http://149.202.215.155:25461/live/irankanalen/irankanalen/435.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A Bola TV
 http://149.56.98.189:25461/live/Venda/260417/369.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV 
@@ -102,7 +102,7 @@ http://85.7.107.8:8012/play/a00n
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png" tvg-id="MOTOR" group-title="PORTUGAL",MOTORS TV
 http://149.56.98.189:25461/live/Venda/260417/366.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="PORTUGAL",PFC
-http://149.202.205.91:8081/live/tvsat/youtube/1686.m3u8
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1486.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/TnZhHD" tvg-id="0" group-title="PORTUGAL",CHELSEA TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/sA036j" tvg-id="RMTV.pt" group-title="PORTUGAL",REAL MADRID TV
@@ -179,8 +179,6 @@ http://fms.105.net:1935/live/virgin2/playlist.m3u8
 http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="PORTUGAL", VIRGIN TV
 http://tv.105.net:1935/live/virgin1/chunklist_w864163580.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/mf4bep4" group-title="PORTUGAL", Heavy Metal TV
-http://stream.cdn.smcloud.net/eska_rock-t/eska_rock_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/646bh7slp/HEAVYMETAL.png" group-title="PORTUGAL", Heavy Metal TV
 http://70.166.98.130:1935/hmtv/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/meq2khq" group-title="PORTUGAL", INDIES LIVE 
@@ -539,7 +537,136 @@ http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/410.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 3---
+Http://google.pt
 
+
+#EXTINF:-1,Rtp 1 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/404.m3u8
+#EXTINF:-1,Rtp 2 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/405.m3u8
+#EXTINF:-1,Rtp 3 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/406.m3u8
+#EXTINF:-1,Rtp Africa - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1464.m3u8
+#EXTINF:-1,Sic - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1751.m3u8
+#EXTINF:-1,Sic Caras - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/412.m3u8
+#EXTINF:-1,Sic Kids - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1469.m3u8
+#EXTINF:-1,Sic Mulher - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/411.m3u8
+#EXTINF:-1,Sic Noticias - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1473.m3u8
+#EXTINF:-1,Sic Radical - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1472.m3u8
+#EXTINF:-1,Benfica TV 1 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/435.m3u8
+#EXTINF:-1,Sport TV 1 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/437.m3u8
+#EXTINF:-1,Sport TV 2 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/438.m3u8
+#EXTINF:-1,Sport TV 3 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/439.m3u8
+#EXTINF:-1,Sport TV 4 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/440.m3u8
+#EXTINF:-1,Sport TV 5 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/441.m3u8
+#EXTINF:-1,Sporting Tv HD - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1484.m3u8
+#EXTINF:-1,Pfc - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1486.m3u8
+#EXTINF:-1,Porto Canal - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1485.m3u8
+#EXTINF:-1,Tvi - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/407.m3u8
+#EXTINF:-1,TV Globo - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/2036.m3u8
+#EXTINF:-1,Tv Globo Premium - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/409.m3u8
+#EXTINF:-1,Tvi 24 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/408.m3u8
+#EXTINF:-1,Axn - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/413.m3u8
+#EXTINF:-1,Axn Black - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/415.m3u8
+#EXTINF:-1,Disney Channel - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/416.m3u8
+#EXTINF:-1,Nickelodeon - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/417.m3u8
+#EXTINF:-1,Cartoon Network - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/418.m3u8
+#EXTINF:-1,Axn White - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/414.m3u8
+#EXTINF:-1,24 Kitchen - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1465.m3u8
+#EXTINF:-1,A&E - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1475.m3u8
+#EXTINF:-1,Abola TV - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1474.m3u8
+#EXTINF:-1,Baby TV - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1468.m3u8
+#EXTINF:-1,Cbs Reality - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1481.m3u8
+#EXTINF:-1,Eurosport 1 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1482.m3u8
+#EXTINF:-1,Eurosport 2 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1483.m3u8
+#EXTINF:-1,Fox Movies - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1480.m3u8
+#EXTINF:-1,Fuel TV - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1470.m3u8
+#EXTINF:-1,Hollywood - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1478.m3u8
+#EXTINF:-1,Mcm Top - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1476.m3u8
+#EXTINF:-1,Motorvision - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1466.m3u8
+#EXTINF:-1,Mov HD - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1479.m3u8
+#EXTINF:-1,Travel Channel HD - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1471.m3u8
+#EXTINF:-1,TV Series - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/419.m3u8
+#EXTINF:-1,Fox - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/420.m3u8
+#EXTINF:-1,Fox Crime - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/421.m3u8
+#EXTINF:-1,Fox Comedy - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/422.m3u8
+#EXTINF:-1,Discovery Channel - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/423.m3u8
+#EXTINF:-1,Discovery Showcase - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/424.m3u8
+#EXTINF:-1,National Geographic - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1495.m3u8
+#EXTINF:-1,National Geographic Wild HD - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/425.m3u8
+#EXTINF:-1,Tlc - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/426.m3u8
+#EXTINF:-1,E! Entertainment - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/427.m3u8
+#EXTINF:-1,Fox Life - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/428.m3u8
+#EXTINF:-1,Cm TV - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/429.m3u8
+#EXTINF:-1,Canal Panda - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/430.m3u8
+#EXTINF:-1,TV Cine 1 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/431.m3u8
+#EXTINF:-1,TV Cine 2 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/432.m3u8
+#EXTINF:-1,TV Cine 3 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/433.m3u8
+#EXTINF:-1,TV Cine 4 - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/434.m3u8
+#EXTINF:-1,TV Record - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1463.m3u8
+#EXTINF:-1,Tv Sick - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/410.m3u8
+#EXTINF:-1,Rt Global - Portugal
+http://149.202.215.155:25461/live/irankanalen/irankanalen/1477.m3u8
 
 
 
