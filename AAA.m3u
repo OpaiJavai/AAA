@@ -101,6 +101,8 @@ http://78.26.128.94:7321/index.php?channel=316
 http://85.7.107.8:8012/play/a00n
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png" tvg-id="MOTOR" group-title="PORTUGAL",MOTORS TV
 http://149.56.98.189:25461/live/Venda/260417/366.m3u8
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="PORTUGAL",Red Bull TV
+http://elementaldelta.redbull.tv/delay0600.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="PORTUGAL",PFC
 http://149.202.215.155:25461/live/irankanalen/irankanalen/1486.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/TnZhHD" tvg-id="0" group-title="PORTUGAL",CHELSEA TV
