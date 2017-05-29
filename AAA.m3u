@@ -2127,14 +2127,13 @@ http://178.192.242.14:9000/play/a083
 
 #EXTINF:-1 tvg-id="venus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Venus_Nuevo_Logo_2014.png" group-title="ADULTO", Venus
 http://edge3.telesport.pw/live/venus/index.m3u8
-#EXTINF:0, group-title="ADULTO", RTL Passion
-http://188.62.41.163:7777/play/a01j 
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Brazzers-TV-Europe-18.png" group-title="ADULTO", Brazzers
-http://146.185.243.136:8000/play/a00y 
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.creativesatellite.co.uk/ebayimages/Cards/Adult%20Cards/Elite%20SCT/REDLIGHT%20HD%20LOGO.png" group-title="ADULTO", Redlight HD
-http://94.53.119.239:15000/play/a00s
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.creativesatellite.co.uk/ebayimages/Cards/Adult%20Cards/Elite%20SCT/REDLIGHT%20HD%20LOGO.png" group-title="ADULTO", Redlight HD
-http://94.53.119.239:15000/play/a00s
+
 #EXTINF:-1 tvg-id="But GO" tvg-name="But GO" tvg-logo="http://okteve.com/wp-content/uploads/media/8be9f5221c29571a63c6c6f2f4c86b54-196x126.jpeg" group-title="ADULTO" , But GO 
 http://edge2.everyon.tv:1935/etv2sb/pld10772/chunklist_w1599318248.m3u8
 #EXTINF:-1 tvg-id="Penthouse" tvg-name="Penthouse" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e2/Penthouse_TV.png/revision/latest?cb=20111123211241" group-title="ADULTO" , Penthouse
@@ -2142,11 +2141,11 @@ http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/EvilAngel_Logo.png" group-title="ADULTO", Evil Angel
 http://edge2.everyon.tv/etv2sb/phd10499/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.logovaults.com/stock_thumb/preview-hustler-tv-ODExOQ==.jpg" group-title="ADULTO", Hustler
-http://94.53.119.239:15000/play/a02g
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.logovaults.com/stock_thumb/preview-hustler-tv-ODExOQ==.jpg" group-title="ADULTO", Hustler
-http://89.38.8.131:39527
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Blue_hustler.png" group-title="ADULTO", Blue Hustler
-http://89.38.8.131:39491
+
 #EXTINF:-1 tvg-id="Live Ting" tvg-name="Live Ting" tvg-logo="https://cdn6.bigcommerce.com/s-6q5bpsuh/product_images/uploaded_images/ting-logo.png" group-title="ADULTO" , Live Ting 
 http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="Sakura" tvg-name="Sakura" tvg-logo="http://www.sakuratv.com/sites/www.sakuratv.com/files/Sakura-TV_logo.png" group-title="ADULTO" , Sakura 
@@ -2154,9 +2153,9 @@ http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.dautkom.lv/upload/image/channels/opis/nuartlogo.png" group-title="ADULTO", Nuarte
 http://78.111.176.132:8080
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.dautkom.lv/upload/image/channels/opis/nuartlogo.png" group-title="ADULTO", Nuarte
-http://93.171.170.249:8080/http/192.168.196.1/ch/434
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.logotypes101.com/logos/241/6351F266448F0647E9458BD07437062B/XXX_energy_drink.png" group-title="ADULTO", HOYON KAY6
-http://93.171.170.249:8080/http/192.168.196.1/ch/438
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://iptv-ural.narod.ru/images/25.png" group-title="ADULTO", Русскаја ночь
 http://78.111.176.132:8082
 #EXTINF:-1 tvg-id="" tvg-logo="http://magazin.jasmin.rs/wp-content/uploads/2015/03/logo.png" group-title="ADULTO", Jasmim TV
@@ -2219,26 +2218,26 @@ http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
 http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/2mdBfN" group-title="ADULTO",SEXY SAT TV 
-http://81.89.48.215:1935/xyz444wkz//xy4_360p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/j2ppNr" group-title="ADULTO",BRASILEIRINHAS TV 
 http://81.89.48.215:1935/xyz666wkz//xy6_360p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s32.postimg.org/wweq27179/playboy.png" group-title="ADULTO",Playboy TV
-http://178.193.237.115:9000/play/a078
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/8a71pse.png" group-title="ADULTO",Hot
-http://178.193.237.115:9000/play/a083
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BQzmgyG.png" group-title="ADULTO",Hustler HD
-http://89.38.8.131:39527/
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s11.postimg.org/vp65gc64z/bluehustler.png" group-title="ADULTO",Blue Hustler
-http://89.38.8.131:39491/
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://1.lithi.io/LRYy.png" group-title="ADULTO",Brazzers TV Europe
-http://89.38.8.131:39489/
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="ADULTO",Redlight
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
@@ -2256,7 +2255,7 @@ http://usaserver.miamitvchannel.com:1935/miamitv/smil:miamitv/playlist.m3u8
 http://78.111.176.132:8080/
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="ADULTO",Candy 
-http://62.76.26.81:8081/candy/candy29/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="ADULTO",Cento x Cento TV
 http://1ttvauth.top/s/1060/1/auto/NVFKNnhHcWRqVmhoR0Q3bWwyV3R3TnluYTdDVWU4NEVQSGRwY0JVNnlTZktnYmpDMUMrVG9tMDROMC9rbUMydCs3UU1tNlRXNnZyZjRFSVh0OGkrbzlBUGlGQldxaGx1c3VMSTIydmlIa3ptYjJETA/playlist.m3u8
@@ -2265,7 +2264,7 @@ http://1ttvauth.top/s/1060/1/auto/NVFKNnhHcWRqVmhoR0Q3bWwyV3R3TnluYTdDVWU4NEVQSG
 http://1ttvauth.top/s/622/1/auto/Z0FMR1hHeWRqVmo4cVFRelFEZ2lIUVNKRmt0SlB1V1dCM3ZvSnhDSzFBNmdaTXFZSUN3MnVMVXcxandDc25UQkJzME9QaTNDMm1zYzJLMldCbTduTE8xR2d4YTBaZ0VUVC9vVGtYM2M4elRBQXZrPQ/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="ADULTO",Brazzers TV Europe
-http://serv24.vintera.tv:8081/cdn/brazzers_08/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="ADULTO",Babestation 1
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/livestream1/playlist.m3u8
@@ -2325,6 +2324,8 @@ http://81.89.48.215:1935/xyz444wkz//xy4_360p/playlist.m3u8
 http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 
 
+
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/channels/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png" tvg-id="" group-title="ADULTO",JASMIN CHANNEL
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1068947352.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/jkl34xq" tvg-id="" group-title="ADULTO", XXX TV
@@ -2348,7 +2349,7 @@ http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
 #EXTINF:-1 tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.korea-xxx.png.pagespeed.ic.yP9rMfuFax.jpg" tvg-id="" group-title="ADULTO",EVERY ON TV 2
 http://edge1.everyon.tv/etv1sb/phd10765/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2016/10/Xxx-Adult-Rubber-Stamp-square.jpg" tvg-id="" group-title="ADULTO",THE WEB STREAM TV
-http://publish.thewebstream.co:1935/leved/_definst_/hotandwet2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://picalt.com/p2m/hmnzmkgj.jpg" tvg-id="" group-title="ADULTO",BABESTATION
 http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_///mp4:Ct6zG7Nrj3v2JxD/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://picalt.com/p2m/hmnzmkgj.jpg" tvg-id="" group-title="ADULTO",BABESTATION 24
@@ -2357,6 +2358,11 @@ http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_///mp4:Ct6zG7Nrj3v2JxD
 http://edge2.everyon.tv/etv2sb//phd10499/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="http://jarytec.com/wp-content/uploads/2016/10/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="ADULTO",SEXSAT TV
 http://81.89.48.215:1935/xyz444wkz/xy4_360p/playlist.m3u8
+
+
+
+
+
 
 
 
