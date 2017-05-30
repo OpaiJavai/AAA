@@ -39,6 +39,8 @@ http://62.210.115.122:9099/play/a00n
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y95gxur8" group-title="TV",Eroxxx HD
 http://62.210.115.122:9099/play/a00p
+#EXTINF:-1,tvg-id=""tvg-logo="https://tinyurl.com/y95gxur8" group-title="ADULTO", Claro Adulto 18
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://savepic.net/7824814.png" group-title="TV",SESTO SENSO TV 
 http://1ttvauth.top/s/622/1/auto/Z0FMR1hHeWRqVmo4cVFRelFEZ2lIUVNKRmt0SlB1V1dCM3ZvSnhDSzFBNmdaTXFZSUN3MnVMVXcxandDc25UQkJzME9QaTNDMm1zYzJLMldCbTduTE8xR2d4YTBaZ0VUVC9vVGtYM2M4elRBQXZrPQ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8v8wc3y" group-title="TV",CENTOXCENTO TV
