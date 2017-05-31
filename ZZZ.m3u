@@ -22,6 +22,9 @@ http://178.192.242.14:9000/play/a083
 #EXTINF:-1 tvg-id="venus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Venus_Nuevo_Logo_2014.png" group-title="XTV", Venus
 http://edge3.telesport.pw/live/venus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Brazzers-TV-Europe-18.png" group-title="XTV", Brazzers
+http://static.brazzers.com/scenes/7425/180sec.flv
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Brazzers-TV-Europe-18.png" group-title="XTV", Brazzers
+http://static.brazzers.com/scenes/3303/180sec.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.creativesatellite.co.uk/ebayimages/Cards/Adult%20Cards/Elite%20SCT/REDLIGHT%20HD%20LOGO.png" group-title="XTV", Redlight HD
 http://62.210.115.122:9099/play/a019
@@ -29,6 +32,8 @@ http://62.210.115.122:9099/play/a019
 http://84.238.184.100:4040/udp/239.10.10.56:5000
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.creativesatellite.co.uk/ebayimages/Cards/Adult%20Cards/Elite%20SCT/REDLIGHT%20HD%20LOGO.png" group-title="XTV", Redlight HD
 http://62.210.115.122:9099/play/a019
+#EXTINF:-1 tvg-id="" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/52/3f/14/523f1491c9d47104d0c2608175e64697.jpg" group-title="XTV",EUROTIC TV
+http://edge2.everyon.tv:1935/etv2sb/pld10499/chunklist_w1269051147.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV
@@ -36,7 +41,7 @@ http://62.210.115.122:9099/play/a00n
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV
 http://62.210.115.122:9099/play/a00n
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.returndates.com/backgrounds/satisfaction_us.logo.png" group-title="XTV", Satisfaction TV
-
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/media_w1186630568_47767.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y95gxur8" group-title="XTV",Eroxxx HD
 http://62.210.115.122:9099/play/a00p
 #EXTINF:-1,tvg-id=""tvg-logo="https://tinyurl.com/y95gxur8" group-title="XTV", Claro Adulto 18
@@ -242,7 +247,7 @@ http://vod2t.xxxpanded.com/x3tv2/index_wlan.m3u8
 Http://google.pt
 
 
-#EXTINF:-1 tvg-logo="http://www.iwannawatch.to/wp-content/uploads/2011/10/Pirates-II-Stagnetti%E2%80%99s-Revenge-2008.jpg" group-title="XMOVIES", Pirates 2 - Stagnettis Revenge
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/49/ed/c5/49edc56c8dda3cb934ee481cc8080a7c.jpg" group-title="XMOVIES", Pirates 2 - Stagnettis Revenge
 https://cld.pt/dl/download/868daef3-ad7f-4b5e-9286-a9ff01e79fbf/Pirates%20II_%20Stagnetti%27s%20Revenge%20%282008%29%20HDRip.mp4
 
 #EXTINF:-1 tvg-logo="http://sharenxs.com/photos/2016/06/03/5751c4c5186e0/nxs-331a5b1a752f.jpg" group-title="XMOVIES", The Three Of Us 2
