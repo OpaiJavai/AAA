@@ -22,9 +22,7 @@ http://178.192.242.14:9000/play/a083
 #EXTINF:-1 tvg-id="venus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Venus_Nuevo_Logo_2014.png" group-title="XTV", Venus
 http://edge3.telesport.pw/live/venus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Brazzers-TV-Europe-18.png" group-title="XTV", Brazzers
-http://static.brazzers.com/scenes/7425/180sec.flv
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Brazzers-TV-Europe-18.png" group-title="XTV", Brazzers
-http://static.brazzers.com/scenes/3303/180sec.flv
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.creativesatellite.co.uk/ebayimages/Cards/Adult%20Cards/Elite%20SCT/REDLIGHT%20HD%20LOGO.png" group-title="XTV", Redlight HD
 http://62.210.115.122:9099/play/a019
@@ -158,6 +156,24 @@ http://81.89.48.215:1935/xyz444wkz/xy4_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",SexySat TV
 http://81.89.48.215:1935/xyz444wkz//xy4_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/2mdBfN" group-title="XTV", SEXY SAT 1 
+#EXTINF:0, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV", Studio 66 TV Ch 1
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_Studio 66 TV Ch11/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV", Studio 66 TV Ch 2 
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_Studio 66 TV Ch12/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV", Studio 66 TV Ch 3 
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_Studio 66 TV Ch13/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV", Studio 66 TV Ch 4 
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_Studio 66 TV Ch33/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV", Studio 66 TV Ch 5
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_Studio 66 TV Ch32/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV", Studio 66 TV Ch 6 
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_Studio 66 TV Ch23/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV", Studio 66 TV Ch 7 
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_Studio 66 TV Ch31/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV", Studio 66 TV Ch 8 
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_Studio 66 TV Ch43/playlist.m3u8
+#EXTINF:0, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV", Studio 66 TV Ch 9 
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_Studio 66 TV Ch22/playlist.m3u8 
 http://publish.thewebstream.co:1935/leved/studio66tv_channel41/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",Babestation 1
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/livestream1/playlist.m3u8
@@ -235,6 +251,8 @@ http://edge1.everyon.tv:1935/etv1sb/phd10765/playlist.m3u8
 http://vod2t.xxxpanded.com/x3tv/index_wlan.m3u8
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",XXXPanded 2 (18+)
 http://vod2t.xxxpanded.com/x3tv2/index_wlan.m3u8
+
+
 
 
 
@@ -4105,4 +4123,18 @@ http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
 http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
 #EXTINF:-1 tvg-logo="https://openclipart.org/image/800px/svg_to_png/139249/1305615579.png" group-title="3D XXX",XXXVOD3D-9+18 3D
 http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
