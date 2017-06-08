@@ -71,6 +71,8 @@ http://178.192.242.14:9000/play/a00l
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
 http://alphatwo.ddns.net:8000/live/belle/belle/415.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 SD
+http://213.152.180.151:17247/sstream/EuxPCYoiaN.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
 http://178.192.242.14:9000/play/a08o
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
@@ -79,6 +81,8 @@ http://alphatwo.ddns.net:8000/live/belle/belle/416.m3u8
 http://178.192.242.14:9000/play/a08b
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
 http://alphatwo.ddns.net:8000/live/belle/belle/417.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 SD
+http://213.152.180.151:17247/sstream/0a6vDa0OYU.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
 http://alphatwo.ddns.net:8000/live/belle/belle/418.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 
