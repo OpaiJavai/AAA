@@ -207,10 +207,8 @@ http://stream.cdn.smcloud.net/eska_rock-t/eska_rock_720p/playlist.m3u8
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="MTVPortugal" group-title="PORTUGAL",MTV PORTUGAL
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS
-http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_rocks_1/11309/0/tv-ss/live.isml/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS
-http://137.74.107.229:58000/play/a02x
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS (ACE)
+acestream://cfc381689fe53e7f938ab4bb9d68187d8788a618
 #EXTINF:-1 tvg-logo="https://goo.gl/nPj2Q7" tvg-id="0" group-title="PORTUGAL",MTV LIVE
 http://91.237.164.22:8000/play/a01e 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iyi7pTK.png" tvg-id="0" group-title="PORTUGAL",MTV HITS
