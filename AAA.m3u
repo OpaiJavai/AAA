@@ -70,25 +70,19 @@ http://178.192.242.14:9000/play/a00l
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV +
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
-http://alphatwo.ddns.net:8000/live/belle/belle/415.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 SD
-http://213.152.180.151:17247/sstream/EuxPCYoiaN.stream/playlist.m3u8
+http://89.115.9.185:9981/stream/channelid/1309331948
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
 http://178.192.242.14:9000/play/a08o
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
-http://alphatwo.ddns.net:8000/live/belle/belle/416.m3u8
+http://89.115.9.185:9981/stream/channelid/23357187
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
 http://178.192.242.14:9000/play/a08b
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
-http://alphatwo.ddns.net:8000/live/belle/belle/417.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 SD
-http://213.152.180.151:17247/sstream/0a6vDa0OYU.stream/playlist.m3u8
+http://89.115.9.185:9981/stream/channelid/469471237
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
-http://alphatwo.ddns.net:8000/live/belle/belle/418.m3u8
+http://89.115.9.185:9981/stream/channelid/886315331
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 
 http://178.192.242.14:9000/play/a082
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
-http://clientportal.link:8080/live/baki1/123456/7842.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV
 http://alphatwo.ddns.net:8000/live/belle/belle/420.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A Bola TV
