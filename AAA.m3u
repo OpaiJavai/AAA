@@ -113,6 +113,8 @@ http://78.26.128.94:7321/index.php?channel=316
 http://elementaldelta.redbull.tv/delay0600.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="PORTUGAL",PFC
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y779jcgp" tvg-id="" group-title="PORTUGAL",Bayern TV
+http://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s40.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/TnZhHD" tvg-id="0" group-title="PORTUGAL",CHELSEA TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/sA036j" tvg-id="RMTV.pt" group-title="PORTUGAL",REAL MADRID TV
