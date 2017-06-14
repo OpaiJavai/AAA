@@ -112,6 +112,8 @@ http://iptvsbh.ddns.net:8003/live/bobo/bobo/885.m3u8
 http://grouprevelation.com:8000/live/Max/Max/5625.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV (Op 3)
 http://alphatwo.ddns.net:8000/live/belle/belle/420.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA (LOW)
+http://iptvsbh.ddns.net:8003/live/bobo/bobo/1442.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A Bola TV
 http://188.250.214.28:8889/play/a059/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV 
