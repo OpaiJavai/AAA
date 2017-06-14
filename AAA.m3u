@@ -104,6 +104,8 @@ http://89.115.9.185:9981/stream/channelid/469471237
 http://89.115.9.185:9981/stream/channelid/886315331
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 
 http://178.192.242.14:9000/play/a082
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD
+http://iptvsbh.ddns.net:8003/live/bobo/bobo/1065.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV
 http://iptvsbh.ddns.net:8003/live/bobo/bobo/885.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV (Op 2)
