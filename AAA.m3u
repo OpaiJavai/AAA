@@ -92,6 +92,8 @@ http://iptvsbh.ddns.net:8003/live/bobo/bobo/1520.m3u8
 http://grouprevelation.com:8000/live/Max/Max/5647.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
 http://iptvsbh.ddns.net:8003/live/bobo/bobo/867.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 (LOW)
+http://sharecast.eu/embed.php?ch=live1-rbi6c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 (Op 2)
 http://89.115.9.185:9981/stream/channelid/1309331948
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
