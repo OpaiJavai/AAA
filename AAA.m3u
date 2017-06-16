@@ -126,6 +126,8 @@ http://188.250.214.28:8889/play/a059/index.m3u8
 http://188.250.214.28:8889/play/a055/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT
 http://188.250.214.28:8889/play/a04j/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT (Op 2)
+http://80.90.41.118:6600/play/a007
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="eurosport2.pt" group-title="PORTUGAL",EUROSPORT 2
 http://178.192.242.14:9000/play/a079
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="https://tinyurl.com/m5a5vj3" group-title="PORTUGAL",Eurosport 2 Xtra
@@ -213,9 +215,9 @@ http://188.250.214.28:8889/play/a058/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="PORTUGAL",FOX (Op 2)
 http://alphatwo.ddns.net:8000/live/belle/belle/444.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="foxlife.pt" group-title="PORTUGAL",FOX LIFE
-
+http://newtv.dyndns.org:25461/live/toze/moreira/251.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FOXM" group-title="PORTUGAL",FOX MOVIES
-
+http://newtv.dyndns.org:25461/live/toze/moreira/245.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="PORTUGAL",FOX CRIME
 http://178.192.242.14:9000/play/a00m
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7w737bs" tvg-id="fx.pt" group-title="PORTUGAL",FX
@@ -259,7 +261,7 @@ http://178.192.242.14:9000/play/a08i
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM" group-title="PORTUGAL",JIMJAM (Op 2)
 http://188.250.214.28:8889/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/baby_first_tv.png.300x300_q85.png" tvg-id="BABYT" group-title="PORTUGAL",Baby First
-
+http://80.90.41.118:6600/play/a00a
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="PORTUGAL", VIRGIN TV
 http://fms.105.net:1935/live/virgin2/playlist.m3u8
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="PORTUGAL", VIRGIN TV (Op 2)
@@ -273,7 +275,7 @@ http://stream.cdn.smcloud.net/eska_rock-t/eska_rock_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/meq2khq" group-title="PORTUGAL", INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="MTVPortugal" group-title="PORTUGAL",MTV PORTUGAL
-
+http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15367.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS 
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_rocks_1/11309/0/tv-ss/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS (ACE)
@@ -285,7 +287,7 @@ http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_hits_1/10256/0/tv-ss/live.isml/
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="PORTUGAL",MTV DANCE
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_dance_1/10257/0/tv-ss/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="PORTUGAL",MTV BASE
-http://137.74.107.229:58000/play/a02t
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="VH1" group-title="PORTUGAL",VH1 EUROPE
 http://178.192.242.14:9000/play/a01a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="0" group-title="PORTUGAL",VH1 CLASSIC
