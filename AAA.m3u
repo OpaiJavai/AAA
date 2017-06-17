@@ -58,7 +58,7 @@ http://alphatwo.ddns.net:8000/live/belle/belle/402.m3u8
 http://alphatwo.ddns.net:8000/live/belle/belle/403.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/WhvCo4" tvg-id="TVIFiccao.pt" group-title="PORTUGAL",TVI FICCAO
 http://85.7.107.8:8012/play/a00y
-#EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="0" group-title="PORTUGAL",TVI REALITY
+#EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="TVIREAL" group-title="PORTUGAL",TVI REALITY
 http://4.31.30.145:9040
 #EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="PORTUGAL", PORTO CANAL 
 http://213.13.26.11:1935/live/portocanal/CumCatano.m3u8
@@ -130,9 +130,9 @@ http://188.250.214.28:8889/play/a04j/index.m3u8
 http://80.90.41.118:6600/play/a007
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="eurosport2.pt" group-title="PORTUGAL",EUROSPORT 2
 http://178.192.242.14:9000/play/a079
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="https://tinyurl.com/m5a5vj3" group-title="PORTUGAL",Eurosport 2 Xtra
+#EXTINF:-1 tvg-logo="https://tinyurl.com/m5a5vj3" tvg-id="0" group-title="PORTUGAL",Eurosport 2 Xtra
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mgjb999" tvg-id="" group-title="PORTUGAL",Eurosport News
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mgjb999" tvg-id="0" group-title="PORTUGAL",Eurosport News
 http://188.250.214.28:8889/play/a05h/index.m3u8
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV" group-title="PORTUGAL",Fuel TV
 
