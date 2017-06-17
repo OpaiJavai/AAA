@@ -148,6 +148,8 @@ http://78.26.128.94:7321/index.php?channel=316
 
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="PORTUGAL",Red Bull TV
 http://elementaldelta.redbull.tv/delay0600.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8jncmcv" tvg-id="" group-title="PORTUGAL", Extreme Sports
+http://213.59.140.181:9999/play/Extreme_Sports
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="PORTUGAL",PFC
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y779jcgp" tvg-id="" group-title="PORTUGAL",Bayern TV
@@ -360,6 +362,12 @@ http://178.192.242.14:9000/play/a087
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xgqZgC6.png" tvg-id="TRV.pt" group-title="PORTUGAL",TRAVEL CHANNEL
 http://178.192.242.14:9000/play/a07e
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/241.png" tvg-id="" group-title="PORTUGAL", MUTE TV HD
+http://213.59.140.181:9999/play/Mute_TV_HD
+#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/241.png" tvg-id="" group-title="PORTUGAL", MUTE TV 3D
+http://213.59.140.181:9999/play/Mute_TV_3D
+#EXTINF:-1 tvg-logo="http://ocean-tv.media/wp-content/uploads/2016/06/logo_ocean-tv-615x768.png" tvg-id="" group-title="PORTUGAL", Ocean TV
+http://213.59.140.181:9999/play/Ocean_TV
 #EXTINF:-1 tvg-logo="https://goo.gl/Oo0DzJ" tvg-id="FTV" group-title="PORTUGAL",FTV
 http://178.192.242.14:9000/play/a070
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lpl3fes" tvg-id="" group-title="PORTUGAL",Dog TV
