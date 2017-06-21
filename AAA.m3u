@@ -482,124 +482,128 @@ Http://google.pt
 
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 1---
 Http://google.pt
+
 #EXTINF:-1,group-title="TEMPORARIOS", Spor tv 1
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/880.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/880.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", SporTV 2
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/881.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/881.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", SporTV 3
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/882.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/882.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", SporTV 4
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/883.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/883.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", SporTV 5
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/884.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/884.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Sporting TV HD
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/885.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/885.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Sport TV
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/899.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/899.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Benfica TV 1
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/900.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/900.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", TVCine 1
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/936.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/936.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", TVCine 2
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/935.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/935.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", TVCine 3
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/934.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/934.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", TVCine 4
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/933.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/933.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", TVCseries
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/930.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/930.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", VeVo 1 HD
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/898.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/898.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", VeVo 2 HD
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/897.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/897.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", VeVo 3 HD
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/896.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/896.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", AXN HD
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/915.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/915.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Axn White HD
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/916.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/916.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Axn Black HD
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/932.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/932.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Fox HD
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/926.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/926.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Fox Crime
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/901.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/901.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Fox Life HD
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/925.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/925.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Fox Comedy
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/923.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/923.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Fox Movies HD
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/929.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/929.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Toros tv
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/909.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/909.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", TVI Ficcao
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/886.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/886.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", TVI
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/889.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/889.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", TVI 24
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/887.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/887.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", TV Globo
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/888.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/888.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", SIC
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/924.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/924.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", SIC K
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/919.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/919.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", SIC Noticias
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/903.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/903.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Sic Radical
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/914.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/914.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", SIC Caras
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/912.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/912.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Sic Mulher
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/913.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/913.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", RTP 1
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/895.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/895.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", RTP 2
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/894.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/894.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", RTP Memoria
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/890.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/890.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", RTP Madeira
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/891.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/891.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", RTP Acores
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/893.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/893.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", TLC
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/878.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/878.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Travel Channel
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/877.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/877.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", CM TV
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/908.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/908.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", TV Globo Premium
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/931.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/931.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Record
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/917.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/917.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", PFC
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/911.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/911.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Jim Jim
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/918.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/918.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", SyFy
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/902.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/902.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", CartoonNet Work
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/920.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/920.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Motors TV
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/921.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/921.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Cine Mundo
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/892.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/892.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", EuroSpor News
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/922.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/922.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Hollywood
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/907.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/907.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", EuroSport 2
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/927.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/927.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", EuroSport
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/928.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/928.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Disney Junior
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/905.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/905.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Disney Channel
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/904.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/904.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Discovery HD
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/906.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/906.m3u8
 #EXTINF:-1,group-title="TEMPORARIOS", Abola tv
-http://ipsatpro.info:8000/live/191497910001928/191497910001928/910.ts
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/910.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 2---
