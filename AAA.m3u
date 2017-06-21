@@ -55,7 +55,7 @@ http://188.250.214.28:8889/play/a05g/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png" tvg-id="sicmulher.pt" group-title="PORTUGAL",SIC MULHER (Op 3)
 http://alphatwo.ddns.net:8000/live/belle/belle/402.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png" tvg-id="SicCaras.pt" group-title="PORTUGAL",SIC CARAS
-http://alphatwo.ddns.net:8000/live/belle/belle/403.m3u8
+http://80.90.41.118:6604/play/a00b
 #EXTINF:-1 tvg-logo="https://goo.gl/WhvCo4" tvg-id="TVIFiccao.pt" group-title="PORTUGAL",TVI FICCAO
 http://4.31.30.145:9004
 #EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="TVIREAL" group-title="PORTUGAL",TVI REALITY
@@ -94,16 +94,22 @@ http://85.138.201.130:9981/stream/channelid/1920884080?ticket=70716CF04F0ECD3243
 http://91.139.196.72:8031/play/a04a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
 http://91.139.196.72:8031/play/a03e
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD  (Op 2)
+http://80.90.41.118:6606/play/a005
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
+http://80.90.41.118:6604/play/a003
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1  (Op 2)
 http://85.138.201.130:9981/stream/channelid/667502640?ticket=88428CBEB2012B2D709D262414F8686A63E6176D&profile=pass
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
 http://91.139.196.72:8031/play/a03f
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD (Op 2)
-http://85.138.201.130:9981/stream/channelid/539142098?ticket=705953C761B50862272D87F884FEF05414B1E563&profile=pass
+http://80.90.41.118:6606/play/a006
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD (Op 3)
+http://80.90.41.118:6602/play/a005
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
 http://91.139.196.72:8031/play/a03g
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD (Op 2)
-http://85.138.201.130:9981/stream/channelid/1512752488?ticket=14E418DD6D722853ECEC8F1BE4748DD2EAD690E3&profile=pass
+http://80.90.41.118:6606/play/a007
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
 http://80.90.41.118:6600/play/a00t
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD (Op 2)
@@ -111,12 +117,14 @@ http://91.139.196.72:8030/play/a00m
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
 http://91.139.196.72:8031/play/a04c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 (Op 2)
-http://85.138.201.130:9981/stream/channelid/1499577050?ticket=26BE3C19B20BA773F7BD01A2C6D80C64EAF25F0E&profile=pass
+http://80.90.41.118:6608/play/a008
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD
 http://91.139.196.72:8031/play/a03k
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV (Op 2)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD (Op 2)
+http://80.90.41.118:6606/play/a00b
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV 
 http://85.138.201.130:9981/stream/channelid/1623604066?ticket=6B5D754CCC7FB076DF58916B46FE820DA0BFC2A8&profile=pass
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV (Op 3)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV (Op 2)
 http://alphatwo.ddns.net:8000/live/belle/belle/420.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A Bola TV
 http://188.250.214.28:8889/play/a059/index.m3u8
@@ -185,10 +193,12 @@ http://alphatwo.ddns.net:8000/live/belle/belle/435.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="PORTUGAL",HOLLYWOOD
 http://91.139.196.72:8031/play/a03c
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="PORTUGAL",HOLLYWOOD (Op 2)
-http://alphatwo.ddns.net:8000/live/belle/belle/438.m3u8
+http://80.90.41.118:6606/play/a003
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="PORTUGAL",SYFY
 http://4.31.30.145:9206
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="PORTUGAL",SYFY (Op 2)
+http://80.90.41.118:6602/play/a004
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="PORTUGAL",SYFY (Op 3)
 http://188.250.214.28:8889/play/a05c/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo" group-title="PORTUGAL",CINEMUNDO
 http://80.90.41.118:6600/play/a008
@@ -209,7 +219,7 @@ http://188.250.214.28:8889/play/a05b/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="PORTUGAL",AXN (Op 2)
 http://91.139.196.72:8031/play/a03i
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="PORTUGAL",AXN (Op 3)
-http://alphatwo.ddns.net:8000/live/belle/belle/440.m3u8
+http://80.90.41.118:6606/play/a009
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="PORTUGAL",AXN Black
 http://91.139.196.72:8031/play/a03z
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="PORTUGAL",AXN Black (Op 2)
@@ -223,7 +233,7 @@ http://188.250.214.28:8889/play/a058/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="PORTUGAL",FOX (Op 2)
 http://91.139.196.72:8031/play/a03j
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="PORTUGAL",FOX (Op 3)
-http://alphatwo.ddns.net:8000/live/belle/belle/444.m3u8
+http://80.90.41.118:6606/play/a00a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="foxlife.pt" group-title="PORTUGAL",FOX LIFE
 http://91.139.196.72:8031/play/a041
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FOXM" group-title="PORTUGAL",FOX MOVIES
@@ -243,13 +253,13 @@ http://91.139.196.72:8031/play/a04e
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="PORTUGAL",DISNEY JUNIOR (Op 2)
 http://188.250.214.28:8889/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="PORTUGAL",DISNEY JUNIOR (Op 3)
-http://alphatwo.ddns.net:8000/live/belle/belle/423.m3u8
+http://80.90.41.118:6608/play/a009
 #EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2017/04/logo-disney-mickey-mouse-e-os-seus-amigos.png" tvg-id="" group-title="PORTUGAL",Mickey Mouse e os seus Amigos
-
+http://80.90.41.118:6604/play/a00g
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="PORTUGAL",CARTOON NETWORK
 http://91.139.196.72:8030/play/a02t
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="PORTUGAL",CARTOON NETWORK (Op 2)
-http://85.138.201.130:9981/stream/channelid/693502558?ticket=10E724B611C03AF7DB674D2EC99E220951CA3A94&profile=pass
+http://80.90.41.118:6604/play/a008
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="PORTUGAL",PANDA
 http://188.250.214.28:8889/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="PORTUGAL",PANDA (Op 2)
@@ -346,6 +356,8 @@ http://91.139.196.72:8030/play/a00y
 http://91.139.196.72:8031/play/a04h
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="nationalgeographic.pt" group-title="PORTUGAL",NATIONAL GEOGRAPHIC
 http://91.139.196.72:8031/play/a03h
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="nationalgeographic.pt" group-title="PORTUGAL",NATIONAL GEOGRAPHIC (Op 2)
+http://80.90.41.118:6606/play/a008
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NGWIL" group-title="PORTUGAL",NAT GEO WILD
 http://91.139.196.72:8030/play/a02q
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="HistoryChannel.pt" group-title="PORTUGAL",HISTORIA
@@ -367,7 +379,7 @@ http://85.138.201.130:9981/stream/channelid/659347561?ticket=AD14156ED7FC6D12E99
 #EXTINF:-1 tvg-logo="https://goo.gl/N7hEOL" tvg-id="0" group-title="PORTUGAL",MCS EXTREME
 http://188.250.214.28:8889/play/a04v/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" tvg-id="0" group-title="PORTUGAL",MCS LIFESTYLE
-
+http://80.90.41.118:6606/play/a002
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSReality" group-title="PORTUGAL",CBS REALITY
 http://91.139.196.72:8030/play/a013
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xgqZgC6.png" tvg-id="TRV.pt" group-title="PORTUGAL",TRAVEL CHANNEL
@@ -383,9 +395,9 @@ http://178.192.242.14:9000/play/a070
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lpl3fes" tvg-id="" group-title="PORTUGAL",Dog TV
 
 #EXTINF:-1 tvg-logo="https://goo.gl/maoNgt" tvg-id="GLOBO" group-title="PORTUGAL",GLOBO PREMIUM
-
+http://80.90.41.118:6610/play/a006
 #EXTINF:-1 tvg-logo="https://goo.gl/2RYRF4" tvg-id="TV GloboPortugal" group-title="PORTUGAL",GLOBO
-http://alphatwo.ddns.net:8000/live/belle/belle/412.m3u8
+http://80.90.41.118:6610/play/a002
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="TVRECORD" group-title="PORTUGAL",TV RECORD
 http://80.90.41.118:6600/play/a004
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9lzgwq5" tvg-id="" group-title="PORTUGAL",Localvisão TV HD
@@ -470,57 +482,124 @@ Http://google.pt
 
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 1---
 Http://google.pt
-
-#EXTINF:-1, group-title="TEMPORARIOS", TVI
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2804.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", TVCINE 4
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2791.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", TVCINE 3
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2790.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", TVCINE 2
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2789.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", TVCINE 1
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2788.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", SPORTING TV
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2792.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", SIC NOTICIAS
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2807.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", SIC Kids
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2802.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", SIC RADICAL
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2794.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", RTP 2
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2798.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", RTP 1
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2797.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", FOX MOVIE
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2811.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", AXN WHITE HD
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2812.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", SPORT TV 1 HD
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2989.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", SPORT TV 2 HD
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2990.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", SPORT TV 3 HD
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2991.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", SPORT TV 4 HD
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/2992.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", TVI 24
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/3080.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", SPORT TV 5 HD
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/3087.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", NAT GEO HD
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/3101.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", FOX HD
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/3098.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", FOX CRIME HD
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/3099.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", AXN BLACK HD
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/3097.m3u8
-#EXTINF:-1, group-title="TEMPORARIOS", A BOLA TV
-http://vormen.runmsat.com:8080/live/etdaughn/w5hvG7Je36/3090.m3u8
-
-
+#EXTINF:-1,group-title="TEMPORARIOS", Spor tv 1
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/880.ts
+#EXTINF:-1,group-title="TEMPORARIOS", SporTV 2
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/881.ts
+#EXTINF:-1,group-title="TEMPORARIOS", SporTV 3
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/882.ts
+#EXTINF:-1,group-title="TEMPORARIOS", SporTV 4
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/883.ts
+#EXTINF:-1,group-title="TEMPORARIOS", SporTV 5
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/884.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Sporting TV HD
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/885.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Sport TV
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/899.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Benfica TV 1
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/900.ts
+#EXTINF:-1,group-title="TEMPORARIOS", TVCine 1
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/936.ts
+#EXTINF:-1,group-title="TEMPORARIOS", TVCine 2
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/935.ts
+#EXTINF:-1,group-title="TEMPORARIOS", TVCine 3
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/934.ts
+#EXTINF:-1,group-title="TEMPORARIOS", TVCine 4
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/933.ts
+#EXTINF:-1,group-title="TEMPORARIOS", TVCseries
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/930.ts
+#EXTINF:-1,group-title="TEMPORARIOS", VeVo 1 HD
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/898.ts
+#EXTINF:-1,group-title="TEMPORARIOS", VeVo 2 HD
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/897.ts
+#EXTINF:-1,group-title="TEMPORARIOS", VeVo 3 HD
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/896.ts
+#EXTINF:-1,group-title="TEMPORARIOS", AXN HD
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/915.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Axn White HD
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/916.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Axn Black HD
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/932.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Fox HD
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/926.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Fox Crime
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/901.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Fox Life HD
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/925.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Fox Comedy
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/923.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Fox Movies HD
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/929.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Toros tv
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/909.ts
+#EXTINF:-1,group-title="TEMPORARIOS", TVI Ficcao
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/886.ts
+#EXTINF:-1,group-title="TEMPORARIOS", TVI
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/889.ts
+#EXTINF:-1,group-title="TEMPORARIOS", TVI 24
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/887.ts
+#EXTINF:-1,group-title="TEMPORARIOS", TV Globo
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/888.ts
+#EXTINF:-1,group-title="TEMPORARIOS", SIC
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/924.ts
+#EXTINF:-1,group-title="TEMPORARIOS", SIC K
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/919.ts
+#EXTINF:-1,group-title="TEMPORARIOS", SIC Noticias
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/903.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Sic Radical
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/914.ts
+#EXTINF:-1,group-title="TEMPORARIOS", SIC Caras
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/912.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Sic Mulher
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/913.ts
+#EXTINF:-1,group-title="TEMPORARIOS", RTP 1
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/895.ts
+#EXTINF:-1,group-title="TEMPORARIOS", RTP 2
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/894.ts
+#EXTINF:-1,group-title="TEMPORARIOS", RTP Memoria
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/890.ts
+#EXTINF:-1,group-title="TEMPORARIOS", RTP Madeira
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/891.ts
+#EXTINF:-1,group-title="TEMPORARIOS", RTP Acores
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/893.ts
+#EXTINF:-1,group-title="TEMPORARIOS", TLC
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/878.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Travel Channel
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/877.ts
+#EXTINF:-1,group-title="TEMPORARIOS", CM TV
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/908.ts
+#EXTINF:-1,group-title="TEMPORARIOS", TV Globo Premium
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/931.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Record
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/917.ts
+#EXTINF:-1,group-title="TEMPORARIOS", PFC
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/911.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Jim Jim
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/918.ts
+#EXTINF:-1,group-title="TEMPORARIOS", SyFy
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/902.ts
+#EXTINF:-1,group-title="TEMPORARIOS", CartoonNet Work
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/920.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Motors TV
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/921.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Cine Mundo
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/892.ts
+#EXTINF:-1,group-title="TEMPORARIOS", EuroSpor News
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/922.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Hollywood
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/907.ts
+#EXTINF:-1,group-title="TEMPORARIOS", EuroSport 2
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/927.ts
+#EXTINF:-1,group-title="TEMPORARIOS", EuroSport
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/928.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Disney Junior
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/905.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Disney Channel
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/904.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Discovery HD
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/906.ts
+#EXTINF:-1,group-title="TEMPORARIOS", Abola tv
+http://ipsatpro.info:8000/live/191497910001928/191497910001928/910.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 2---
