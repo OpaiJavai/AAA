@@ -423,184 +423,98 @@ Http://google.pt
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 1---
 Http://google.pt
 
- #EXTINF:-1,group-title="TEMPORARIOS",---------- ENTRETENIMENTO ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/17741.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: RTP 1
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/615.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: RTP 2
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/616.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: RTP MEMORIA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/663.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: RTP AFRICA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/733.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: RTP ACORES
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/734.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SIC
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/617.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SIC K
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/655.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SIC Noticias
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/668.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SIC Radical
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/667.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SIC MULHER
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/666.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: TVI FICCAO
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/621.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",---------- DESPORTO ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/17736.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: Eurosport 1
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/629.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: EUROSPORT HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/681.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: Eurosport 2
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/628.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: EUROSPORT 2 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/682.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SPORT TV+
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/630.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SPORTING TV HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/678.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SPORT TV 1 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7252.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SPORT TV 1
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/676.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SPORT TV 2 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7253.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SPORT TV 2
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/675.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SPORT TV 3 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7254.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SPORT TV 3
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/674.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SPORT TV 4
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/673.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SPORT TV 5
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/672.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: Motorvision
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/685.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: Motors TV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/627.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: BARCA TV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/640.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: BENFICA TV 1
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/727.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: BENFICA TV 1 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/728.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: BTV 1 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/633.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",---------- NOTICIAS ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/17737.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: TVI
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/17758.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: TVI24
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/665.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: RTP 3
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/659.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: CMTV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/625.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",---------- FILMES & SERIES ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/17739.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: MOV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/17759.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: SYFY
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/645.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: HOLLYWOOD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/649.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: Fox HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/651.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: FOX LIFE HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/711.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: Fox Movies
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/646.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: Fox Comedy
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/707.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: FOX CRIME HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/647.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: A & E
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/642.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: AMC
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/654.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: AXN HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/653.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: AXN White HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/652.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: AXN Black HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/704.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: TV CINE 1 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/701.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: TV CINE 2 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/700.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: TV CINE 3 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/699.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: TV CINE 4 HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/698.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",---------- DOCUMENTARIOS ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/17740.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: TLC
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/705.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: Discovery Channel
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/724.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: CANAL Historia
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/721.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: NATIONAL GEO WILD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/720.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: NATIONAL GEOGRAPHIC HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/723.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: Toros TV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/683.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: TRAVEL CHANNEL HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/719.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: CaÃ§a e Pesca
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/684.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: ODISSEIA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/722.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: E! Entertaunment
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/702.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: 24KITCHEN HD
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/708.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: PORTO Canal
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/680.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: PFC
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/679.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: CBS Reality
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/671.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: A Bola TV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/631.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",---------- KIDS ----------
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/17738.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: PANDA BIGGS
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/644.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: NICKELODEON
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/690.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: Baby Tv
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/695.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: Cartoon Network
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/694.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: JIM JAM
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/692.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: DISNEY JUNIOR
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/689.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: CANAL PANDA
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/691.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: Cinemundo
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/648.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: VH1
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/7256.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: MTV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/710.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: Afro Music
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/641.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: TV GLOBO PREMIUM
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/706.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: TV Globo
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/669.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: FOX NEWS
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18362.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT: FUEL TV
-http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18361.m3u8
-
-
+#EXTINF:-1,(PT) 24 Kitchen HD
+http://109.236.80.19:8000/live/imranitel/rashid/691.m3u8
+#EXTINF:-1,(PT) AXN HD
+http://109.236.80.19:8000/live/imranitel/rashid/721.m3u8
+#EXTINF:-1,(PT) Benfica 1
+http://109.236.80.19:8000/live/imranitel/rashid/717.m3u8
+#EXTINF:-1,(PT) Canal Panda
+http://109.236.80.19:8000/live/imranitel/rashid/710.m3u8
+#EXTINF:-1,(PT) CMTV
+http://109.236.80.19:8000/live/imranitel/rashid/692.m3u8
+#EXTINF:-1,(PT) Discovery Channel
+http://109.236.80.19:8000/live/imranitel/rashid/714.m3u8
+#EXTINF:-1,(PT) Disney Channel
+http://109.236.80.19:8000/live/imranitel/rashid/711.m3u8
+#EXTINF:-1,(PT) Disney Junior
+http://109.236.80.19:8000/live/imranitel/rashid/712.m3u8
+#EXTINF:-1,(PT) Eurosport 1HD
+http://109.236.80.19:8000/live/imranitel/rashid/719.m3u8
+#EXTINF:-1,(PT) FOX HD
+http://109.236.80.19:8000/live/imranitel/rashid/694.m3u8
+#EXTINF:-1,(PT) Fox Movies
+http://109.236.80.19:8000/live/imranitel/rashid/695.m3u8
+#EXTINF:-1,(PT) FX
+http://109.236.80.19:8000/live/imranitel/rashid/693.m3u8
+#EXTINF:-1,(PT) Nat Geo Wild
+http://109.236.80.19:8000/live/imranitel/rashid/716.m3u8
+#EXTINF:-1,(PT) Porto Canal
+http://109.236.80.19:8000/live/imranitel/rashid/698.m3u8
+#EXTINF:-1,(PT) RTP 1
+http://109.236.80.19:8000/live/imranitel/rashid/699.m3u8
+#EXTINF:-1,(PT) RTP 2
+http://109.236.80.19:8000/live/imranitel/rashid/700.m3u8
+#EXTINF:-1,(PT) RTP Memoria
+http://109.236.80.19:8000/live/imranitel/rashid/702.m3u8
+#EXTINF:-1,(PT) SIC
+http://109.236.80.19:8000/live/imranitel/rashid/704.m3u8
+#EXTINF:-1,(PT) SIC K
+http://109.236.80.19:8000/live/imranitel/rashid/705.m3u8
+#EXTINF:-1,(PT) SIC Mulher
+http://109.236.80.19:8000/live/imranitel/rashid/706.m3u8
+#EXTINF:-1,(PT) SIC Noticias
+http://109.236.80.19:8000/live/imranitel/rashid/707.m3u8
+#EXTINF:-1,(PT) Sporting TV
+http://109.236.80.19:8000/live/imranitel/rashid/720.m3u8
+#EXTINF:-1,(PT) SyFy
+http://109.236.80.19:8000/live/imranitel/rashid/722.m3u8
+#EXTINF:-1,(PT) TVI 24
+http://109.236.80.19:8000/live/imranitel/rashid/709.m3u8
+#EXTINF:-1,(PT) TVI
+http://109.236.80.19:8000/live/imranitel/rashid/708.m3u8
+#EXTINF:-1,PT: TV CINE 2
+http://109.236.80.19:8000/live/imranitel/rashid/288.m3u8
+#EXTINF:-1,PT: TV CINE 3
+http://109.236.80.19:8000/live/imranitel/rashid/289.m3u8
+#EXTINF:-1,PT: TVC 1HD
+http://109.236.80.19:8000/live/imranitel/rashid/287.m3u8
+#EXTINF:-1,PT: AXN BLACK HD
+http://109.236.80.19:8000/live/imranitel/rashid/293.m3u8
+#EXTINF:-1,PT: AXN WHITE HD
+http://109.236.80.19:8000/live/imranitel/rashid/292.m3u8
+#EXTINF:-1,PT: BBC WORLD NEWS
+http://109.236.80.19:8000/live/imranitel/rashid/715.m3u8
+#EXTINF:-1,PT: Benfica 2
+http://109.236.80.19:8000/live/imranitel/rashid/718.m3u8
+#EXTINF:-1,PT: Cinemundo
+http://109.236.80.19:8000/live/imranitel/rashid/286.m3u8
+#EXTINF:-1,PT: DISCOVERY SHOWCASE HD
+http://109.236.80.19:8000/live/imranitel/rashid/703.m3u8
+#EXTINF:-1,PT: Fox Life HD
+http://109.236.80.19:8000/live/imranitel/rashid/696.m3u8
+#EXTINF:-1,PT: Globo Premium
+http://109.236.80.19:8000/live/imranitel/rashid/697.m3u8
+#EXTINF:-1,PT: RTP Acores
+http://109.236.80.19:8000/live/imranitel/rashid/701.m3u8
+#EXTINF:-1,PT: Sport TV 1
+http://109.236.80.19:8000/live/imranitel/rashid/280.m3u8
+#EXTINF:-1,PT: Sport TV 2
+http://109.236.80.19:8000/live/imranitel/rashid/281.m3u8
+#EXTINF:-1,PT: Sport TV 3HD
+http://109.236.80.19:8000/live/imranitel/rashid/282.m3u8
+#EXTINF:-1,PT: Sport TV 4
+http://109.236.80.19:8000/live/imranitel/rashid/283.m3u8
+#EXTINF:-1,PT: Sport TV 5
+http://109.236.80.19:8000/live/imranitel/rashid/284.m3u8
+#EXTINF:-1,PT: Sporting TV
+http://109.236.80.19:8000/live/imranitel/rashid/285.m3u8
+#EXTINF:-1,PT: TV CINE 4
+http://109.236.80.19:8000/live/imranitel/rashid/290.m3u8
+#EXTINF:-1,PT: TV Record
+http://109.236.80.19:8000/live/imranitel/rashid/713.m3u8
+#EXTINF:-1,PT: TV Series
+http://109.236.80.19:8000/live/imranitel/rashid/291.m3u8
 
 
 
@@ -610,184 +524,564 @@ http://alphaiptv.ddns.me:8080/live/Sweden/Sweden/18361.m3u8
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/download/2016/04/13/492007_5_256x256.png" group-title="TEMPORARIOS", ---LISTA 2---
 Http://google.pt
 
-#EXTINF:-1,group-title="TEMPORARIOS",PT:24KITCHEN HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21215.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:A&E
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21214.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:AXN Black HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21213.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:AXN HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21212.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:AXN White HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21211.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:AXN.HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21210.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:BABY TV
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21209.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Benfica TV
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21208.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:BENFICA TV 1 HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21207.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:BENFICA TV 2
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21206.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:BIGGS
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21205.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:CACA E PESCA
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21204.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:CACAVISION HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21203.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Canal Panda
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21202.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:CARTOON  NETWORK
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21201.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:CBS REALITY
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21200.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:CHELSEA TV HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21199.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Cine Mundo
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21198.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:DISCOVERY SHOWCASE HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21197.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Disney JR
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21196.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:ENTERTAINMENT
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21195.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Euronews
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21194.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:EUROSPORT
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21193.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Fox Comedy
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21192.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Fox Crime
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21191.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Fox HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21190.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Fox Life HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21189.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Fox Movies
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21188.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:FUEL TV
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21187.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:GLOBO TV
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21186.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Historia
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21185.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:HOLLYWOOD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21184.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:JIM JAM
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21183.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Kombat Sporm3u8
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21182.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:LIfestyle TV
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21181.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:MCS EXTREME
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21180.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:MOTORVISION
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21179.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:MOTORVISION HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21178.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:MOV HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21177.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:MTV PORTUGAL
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21176.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Nat Geo Wild
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21175.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:NBA TV
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21174.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Nickelodeon
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21173.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:PANDA BIGGS
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21172.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:PFC HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21171.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Porto Canal
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21170.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Q CANAL
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21169.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:REDE TV
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21168.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:RTP 1
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21167.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:RTP 1 HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21166.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:RTP 2
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21165.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:RTP 3
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21164.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:RTP Acores
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21163.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:RTP Africa
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21162.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:RTP Madeira
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21161.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:RTP Memoria
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21160.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Sic
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21159.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:SIC CARAS
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21158.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Sic Kids
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21157.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Sic Mulher
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21156.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Sic Noticias
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21155.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Sic Radical
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21154.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Sport TV 1
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21153.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Sport TV 2
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21152.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Sport TV 3
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21151.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Sport TV 4
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21150.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Sport TV 5
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21149.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Sport TV1 HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21148.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Sport TV2 HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21147.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Sport TV3
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21146.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:SPORTING TV
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21145.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:SYFY HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21144.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:SYFY SD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21143.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:TLC
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21142.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:TRACE URBAN
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21141.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:TRAVEL CHANNEL HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21140.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:TV Cine 1
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21139.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:TV CINE 1 HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21138.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:TV Cine 2
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21137.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:TV Cine 3
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21136.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:TV Cine 4
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21135.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:TV Record
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21134.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:TV SERIES HD
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21133.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:TVI
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21132.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:Tvi 24
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21131.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:TVI REALITY
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21130.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:VH1
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21129.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:VH1 CLASSIC
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21128.m3u8
-#EXTINF:-1,group-title="TEMPORARIOS",PT:WOOHOO
-http://cdn01.iptvthebest.net:15000/live/wQGxo2rWXK/Nliw4sPniz/21127.m3u8
+
+#EXTINF:-1,A Bola TV (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2138.m3u8
+#EXTINF:-1,Canal Q (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2166.m3u8
+#EXTINF:-1,CBS Reality (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2070.m3u8
+#EXTINF:-1,CMTV (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2159.m3u8
+#EXTINF:-1,CMTV HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2158.m3u8
+#EXTINF:-1,RTP 1 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2180.m3u8
+#EXTINF:-1,RTP 1 HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2179.m3u8
+#EXTINF:-1,RTP 2 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2178.m3u8
+#EXTINF:-1,RTP 2 HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2177.m3u8
+#EXTINF:-1,RTP 3 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2176.m3u8
+#EXTINF:-1,RTP 3 HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2175.m3u8
+#EXTINF:-1,RTP Africa (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2174.m3u8
+#EXTINF:-1,SIC HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2167.m3u8
+#EXTINF:-1,TVI HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2172.m3u8
+#EXTINF:-1,TVI 24 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2161.m3u8
+#EXTINF:-1,TVI 24 HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2160.m3u8
+#EXTINF:-1,TVI Ficção (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2171.m3u8
+#EXTINF:-1,TVI Ficçao HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2170.m3u8
+#EXTINF:-1,TVI Reality (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2169.m3u8
+#EXTINF:-1,TVI Reality HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2168.m3u8
+#EXTINF:-1,●●●●●● ENTRETENIMENTO ●●●●●●
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2046.m3u8
+#EXTINF:-1,Comedy Central (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/161.m3u8
+#EXTINF:-1,Curta! (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/984.m3u8
+#EXTINF:-1,E! (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/145.m3u8
+#EXTINF:-1,E! Entertainment (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2069.m3u8
+#EXTINF:-1,Food Network (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/985.m3u8
+#EXTINF:-1,Food Network (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2066.m3u8
+#EXTINF:-1,GNT (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/115.m3u8
+#EXTINF:-1,Lifetime (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/992.m3u8
+#EXTINF:-1,Viva (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/12.m3u8
+#EXTINF:-1,24 Kitchen HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2065.m3u8
+#EXTINF:-1,●●●●●● ESPORTES ●●●●●●
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2153.m3u8
+#EXTINF:-1,Band Sports (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/169.m3u8
+#EXTINF:-1,Caça e Pesca (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2072.m3u8
+#EXTINF:-1,Caçavision (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2071.m3u8
+#EXTINF:-1,Combate (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2.m3u8
+#EXTINF:-1,Combate HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/1.m3u8
+#EXTINF:-1,EI Max 1 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/141.m3u8
+#EXTINF:-1,EI Max 2 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/140.m3u8
+#EXTINF:-1,EI Maxx 2 HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/143.m3u8
+#EXTINF:-1,EI Maxx HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/142.m3u8
+#EXTINF:-1,Eurosport 1 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2131.m3u8
+#EXTINF:-1,Eurosport 1 HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2130.m3u8
+#EXTINF:-1,Eurosport 2 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2129.m3u8
+#EXTINF:-1,Fight Box (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2135.m3u8
+#EXTINF:-1,Fight Network (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2134.m3u8
+#EXTINF:-1,Fish TV (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/132.m3u8
+#EXTINF:-1,Fox Sports (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/127.m3u8
+#EXTINF:-1,Fox Sports HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/124.m3u8
+#EXTINF:-1,Fox Sports 2 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/126.m3u8
+#EXTINF:-1,Fuel TV (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2067.m3u8
+#EXTINF:-1,Kombat Sports (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2133.m3u8
+#EXTINF:-1,Motors TV (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2127.m3u8
+#EXTINF:-1,Motorvision HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2126.m3u8
+#EXTINF:-1,NBA HD (US)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2137.m3u8
+#EXTINF:-1,OFF (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/75.m3u8
+#EXTINF:-1,Poker Central (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2122.m3u8
+#EXTINF:-1,Premiere Clubes (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/57.m3u8
+#EXTINF:-1,PFC HD
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2136.m3u8
+#EXTINF:-1,Premiere 2 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/70.m3u8
+#EXTINF:-1,Premiere 2 HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/69.m3u8
+#EXTINF:-1,Premiere 3 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/68.m3u8
+#EXTINF:-1,Premiere 3 HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/67.m3u8
+#EXTINF:-1,Premiere 4 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/66.m3u8
+#EXTINF:-1,Premiere 4 HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/65.m3u8
+#EXTINF:-1,Premiere 5 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/64.m3u8
+#EXTINF:-1,Premiere 5 HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/63.m3u8
+#EXTINF:-1,Premiere 6 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/62.m3u8
+#EXTINF:-1,Premiere 7 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/61.m3u8
+#EXTINF:-1,Premiere 8 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/60.m3u8
+#EXTINF:-1,Premiere 9 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/59.m3u8
+#EXTINF:-1,SporTV (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/46.m3u8
+#EXTINF:-1,SporTV HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/179.m3u8
+#EXTINF:-1,SporTV 2 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/45.m3u8
+#EXTINF:-1,SporTV Alternativo (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/1003.m3u8
+#EXTINF:-1,SporTV 2 Alternativo (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/1002.m3u8
+#EXTINF:-1,SporTV 2 HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/180.m3u8
+#EXTINF:-1,SporTV 3 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/44.m3u8
+#EXTINF:-1,SporTV 3 HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/181.m3u8
+#EXTINF:-1,Sport TV HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2151.m3u8
+#EXTINF:-1,Sport TV 5 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2140.m3u8
+#EXTINF:-1,Sport TV 5 HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2139.m3u8
+#EXTINF:-1,Sport TV   (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2150.m3u8
+#EXTINF:-1,Sport TV   HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2149.m3u8
+#EXTINF:-1,Sport TV 1 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2148.m3u8
+#EXTINF:-1,Sport TV 1 HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2147.m3u8
+#EXTINF:-1,Sport TV 2 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2146.m3u8
+#EXTINF:-1,Sport TV 2 HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2145.m3u8
+#EXTINF:-1,Sport TV 3 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2144.m3u8
+#EXTINF:-1,Sport TV 3 HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2143.m3u8
+#EXTINF:-1,Sport TV 4 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2142.m3u8
+#EXTINF:-1,Sport TV 4 HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2141.m3u8
+#EXTINF:-1,Woohoo (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/8.m3u8
+#EXTINF:-1,●●●●●● CANAIS LOCAIS - BRASIL ●●●●●●
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2194.m3u8
+#EXTINF:-1,Arte 1 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/174.m3u8
+#EXTINF:-1,ARTV (PR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2157.m3u8
+#EXTINF:-1,Band (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/171.m3u8
+#EXTINF:-1,Band HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/1908.m3u8
+#EXTINF:-1,Canal Brasil (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/164.m3u8
+#EXTINF:-1,Futura (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/123.m3u8
+#EXTINF:-1,Globo HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/120.m3u8
+#EXTINF:-1,Globo Portugal (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2045.m3u8
+#EXTINF:-1,Globo Portugal HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2044.m3u8
+#EXTINF:-1,Globo RS (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/998.m3u8
+#EXTINF:-1,NBR (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/994.m3u8
+#EXTINF:-1,Novo Tempo (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/76.m3u8
+#EXTINF:-1,Rede Brasil (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/999.m3u8
+#EXTINF:-1,Rede Record (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/54.m3u8
+#EXTINF:-1,Rede Record HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/1907.m3u8
+#EXTINF:-1,TV Record Portugal (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2042.m3u8
+#EXTINF:-1,TV Record Portugal HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2041.m3u8
+#EXTINF:-1,Rede TV (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/53.m3u8
+#EXTINF:-1,SBT (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/52.m3u8
+#EXTINF:-1,SBT HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/1910.m3u8
+#EXTINF:-1,TV Cancao Nova (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/983.m3u8
+#EXTINF:-1,TV Globo Premium (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2043.m3u8
+#EXTINF:-1,TV RIT (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/1001.m3u8
+#EXTINF:-1,●●●●●● FILMES E SERIES ●●●●●●
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2121.m3u8
+#EXTINF:-1,A&E (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2093.m3u8
+#EXTINF:-1,AMC (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2092.m3u8
+#EXTINF:-1,AXN (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/173.m3u8
+#EXTINF:-1,AXN (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2099.m3u8
+#EXTINF:-1,AXN Black HD
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2094.m3u8
+#EXTINF:-1,AXN Black (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2095.m3u8
+#EXTINF:-1,AXN HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2098.m3u8
+#EXTINF:-1,AXN White (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2097.m3u8
+#EXTINF:-1,AXN White HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2096.m3u8
+#EXTINF:-1,Cinemax (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/4.m3u8
+#EXTINF:-1,Cinemundo TV (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2106.m3u8
+#EXTINF:-1,Fox (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/131.m3u8
+#EXTINF:-1,Fox HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2105.m3u8
+#EXTINF:-1,Fox 1 HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/130.m3u8
+#EXTINF:-1,FX (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/122.m3u8
+#EXTINF:-1,Fox Action HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/1909.m3u8
+#EXTINF:-1,Fox Comedy (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2101.m3u8
+#EXTINF:-1,Fox Crime (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2102.m3u8
+#EXTINF:-1,Fox Life (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/128.m3u8
+#EXTINF:-1,Fox Life HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2104.m3u8
+#EXTINF:-1,Fox Movies (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2103.m3u8
+#EXTINF:-1,Hollywood TV (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2110.m3u8
+#EXTINF:-1,Hollywood TV HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2109.m3u8
+#EXTINF:-1,HBO (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/111.m3u8
+#EXTINF:-1,HBO HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/108.m3u8
+#EXTINF:-1,HBO2 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/103.m3u8
+#EXTINF:-1,HBO2 HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/102.m3u8
+#EXTINF:-1,HBO Family (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/110.m3u8
+#EXTINF:-1,HBO Plus (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/107.m3u8
+#EXTINF:-1,HBO Plus*e (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/990.m3u8
+#EXTINF:-1,HBO Signature (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/105.m3u8
+#EXTINF:-1,I Sat (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/101.m3u8
+#EXTINF:-1,MAX (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/95.m3u8
+#EXTINF:-1,MAX Prime (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/93.m3u8
+#EXTINF:-1,MAX Prime*e (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/993.m3u8
+#EXTINF:-1,MAX UP (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/91.m3u8
+#EXTINF:-1,Megapix (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/89.m3u8
+#EXTINF:-1,Mov TV  HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2107.m3u8
+#EXTINF:-1,Paramount (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/73.m3u8
+#EXTINF:-1,Prime Box Brasil (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/56.m3u8
+#EXTINF:-1,Space (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/48.m3u8
+#EXTINF:-1,Studio Universal (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/43.m3u8
+#EXTINF:-1,Syfy (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/42.m3u8
+#EXTINF:-1,SyFy (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2100.m3u8
+#EXTINF:-1,TLC (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/26.m3u8
+#EXTINF:-1,TLC (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2064.m3u8
+#EXTINF:-1,TCM (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/40.m3u8
+#EXTINF:-1,Telecine Action (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/39.m3u8
+#EXTINF:-1,Telecine Action HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/38.m3u8
+#EXTINF:-1,Telecine Cult (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/37.m3u8
+#EXTINF:-1,Telecine Fun (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/36.m3u8
+#EXTINF:-1,Telecine Fun HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/35.m3u8
+#EXTINF:-1,Telecine Pipoca (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/34.m3u8
+#EXTINF:-1,Telecine Pipoca HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/33.m3u8
+#EXTINF:-1,Telecine Premium (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/32.m3u8
+#EXTINF:-1,Telecine Premium HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/31.m3u8
+#EXTINF:-1,Telecine Touch (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/30.m3u8
+#EXTINF:-1,TNT (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/24.m3u8
+#EXTINF:-1,TNT HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/23.m3u8
+#EXTINF:-1,TNT Series (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/21.m3u8
+#EXTINF:-1,TV Series (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2120.m3u8
+#EXTINF:-1,TV Series HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2119.m3u8
+#EXTINF:-1,TVC 1 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2118.m3u8
+#EXTINF:-1,TVC 1 HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2117.m3u8
+#EXTINF:-1,TVC 2 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2116.m3u8
+#EXTINF:-1,TVC 2 HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2115.m3u8
+#EXTINF:-1,TVC 3 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2114.m3u8
+#EXTINF:-1,TVC 3 HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2113.m3u8
+#EXTINF:-1,TVC 4 (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2112.m3u8
+#EXTINF:-1,TVC 4 HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2111.m3u8
+#EXTINF:-1,Universal Channel (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/16.m3u8
+#EXTINF:-1,Warner Channel (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/10.m3u8
+#EXTINF:-1,●●●●●● INFANTIS ●●●●●●
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2091.m3u8
+#EXTINF:-1,Boomerang (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/165.m3u8
+#EXTINF:-1,Cartoon Network (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/5.m3u8
+#EXTINF:-1,Disney (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/149.m3u8
+#EXTINF:-1,Disney XD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/146.m3u8
+#EXTINF:-1,Disney Channel (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2088.m3u8
+#EXTINF:-1,Disney Jr (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/147.m3u8
+#EXTINF:-1,Disney Junior (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2085.m3u8
+#EXTINF:-1,Discovery Kids (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/155.m3u8
+#EXTINF:-1,Gloob (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/117.m3u8
+#EXTINF:-1,JimJam (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2089.m3u8
+#EXTINF:-1,Nick Jr (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/79.m3u8
+#EXTINF:-1,Nick (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2090.m3u8
+#EXTINF:-1,Nickelodeon (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/78.m3u8
+#EXTINF:-1,Panda Biggs (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2087.m3u8
+#EXTINF:-1,Panda HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2086.m3u8
+#EXTINF:-1,Tooncast (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/20.m3u8
+#EXTINF:-1,●●●●●● MUSICA E SHOW ●●●●●●
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2060.m3u8
+#EXTINF:-1,BIS (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/167.m3u8
+#EXTINF:-1,Mais Globo Sat (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/97.m3u8
+#EXTINF:-1,MCM Pop (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2054.m3u8
+#EXTINF:-1,MCM Top (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2055.m3u8
+#EXTINF:-1,MCS Extreme (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2061.m3u8
+#EXTINF:-1,MCS Lifestyle (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2062.m3u8
+#EXTINF:-1,MTV (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/87.m3u8
+#EXTINF:-1,MTV Base (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2052.m3u8
+#EXTINF:-1,MTV Classic (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2050.m3u8
+#EXTINF:-1,MTV Dance (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2051.m3u8
+#EXTINF:-1,MTV Portugal (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2056.m3u8
+#EXTINF:-1,Multishow (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/85.m3u8
+#EXTINF:-1,Music Box Brasil (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/83.m3u8
+#EXTINF:-1,Trace Urban TV (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2057.m3u8
+#EXTINF:-1,VH1 Classic (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2058.m3u8
+#EXTINF:-1,VH1 Mega Hits (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/14.m3u8
+#EXTINF:-1,VH1 Portugal (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2059.m3u8
+#EXTINF:-1,●●●●●● DOCUMENTARIOS ●●●●●●
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2083.m3u8
+#EXTINF:-1,Animal Planet (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/176.m3u8
+#EXTINF:-1,Animal Planet HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/175.m3u8
+#EXTINF:-1,Discovery Channel (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/159.m3u8
+#EXTINF:-1,Discovery Channel (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2076.m3u8
+#EXTINF:-1,Discovery Channel HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/158.m3u8
+#EXTINF:-1,Discovery Channel HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2075.m3u8
+#EXTINF:-1,Discovery Civilization (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/157.m3u8
+#EXTINF:-1,Discovery H&H (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/156.m3u8
+#EXTINF:-1,Discovery Home & Health HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/160.m3u8
+#EXTINF:-1,Discovery Science (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/153.m3u8
+#EXTINF:-1,Discovery Showcase (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2074.m3u8
+#EXTINF:-1,Discovery Showcase HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2073.m3u8
+#EXTINF:-1,Discovery Turbo (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/152.m3u8
+#EXTINF:-1,Discovery Turbo HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/151.m3u8
+#EXTINF:-1,H2 (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/113.m3u8
+#EXTINF:-1,ID - Investigação Discovery (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/100.m3u8
+#EXTINF:-1,National Geographic (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/80.m3u8
+#EXTINF:-1,National Geographic (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2080.m3u8
+#EXTINF:-1,National Geographic HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2079.m3u8
+#EXTINF:-1,National Geographic Wild (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2078.m3u8
+#EXTINF:-1,National Geographic Wild HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2077.m3u8
+#EXTINF:-1,Odisseia TV (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2068.m3u8
+#EXTINF:-1,Travel Channel (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2063.m3u8
+#EXTINF:-1,The History Channel (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/28.m3u8
+#EXTINF:-1,The History Channel HD (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/27.m3u8
+#EXTINF:-1,The History (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2082.m3u8
+#EXTINF:-1,The History HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2081.m3u8
+#EXTINF:-1,●●●●●● NOTICIAS ●●●●●●
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2164.m3u8
+#EXTINF:-1,Band News (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/170.m3u8
+#EXTINF:-1,CNN (US)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2154.m3u8
+#EXTINF:-1,ESPN (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/139.m3u8
+#EXTINF:-1,ESPN Brasil (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/138.m3u8
+#EXTINF:-1,Euronews (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2156.m3u8
+#EXTINF:-1,Eurosport News (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2132.m3u8
+#EXTINF:-1,GloboNews (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/119.m3u8
+#EXTINF:-1,Record News (BR)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/55.m3u8
+#EXTINF:-1,SIC Noticias (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2163.m3u8
+#EXTINF:-1,SIC Noticias HD (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2162.m3u8
+#EXTINF:-1,SIC 4K (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2815.m3u8
+#EXTINF:-1,SIC Caras (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2814.m3u8
+#EXTINF:-1,SIC Mulher (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2813.m3u8
+#EXTINF:-1,SIC Radical (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2812.m3u8
+#EXTINF:-1,Sport Digital (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2799.m3u8
+#EXTINF:-1,Sport TV 1 4K (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2808.m3u8
+#EXTINF:-1,Sport TV 2 4K (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2807.m3u8
+#EXTINF:-1,Sport TV 3 4K (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2806.m3u8
+#EXTINF:-1,Sport TV 4 4K (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2805.m3u8
+#EXTINF:-1,Sport TV 4K (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2809.m3u8
+#EXTINF:-1,Sport TV 5 4K (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2804.m3u8
+#EXTINF:-1,Sporting TV (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2800.m3u8
+#EXTINF:-1,Toros TV (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2798.m3u8
+#EXTINF:-1,TVI 4K (PT)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/2816.m3u8
+
 
 
 
