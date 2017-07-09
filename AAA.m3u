@@ -115,7 +115,7 @@ http://193.70.45.41:8000/live/Nasser/Nasser/4911.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="PORTUGAL",PFC
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y779jcgp"Bayern TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y779jcgp" tvg-id="" group-title="PORTUGAL",Bayern TV
 http://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s40.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/TnZhHD" tvg-id="0" group-title="PORTUGAL",CHELSEA TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index tvg-id="" group-title="PORTUGAL",_2528_av-p.m3u8
