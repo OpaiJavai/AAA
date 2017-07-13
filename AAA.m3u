@@ -3,13 +3,13 @@
 http://google.com
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1 HD
-http://193.70.45.41:8000/live/Nasser/Nasser/7567.m3u8
+
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1 (Op 2)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="PORTUGAL",RTP 2 HD
-http://193.70.45.41:8000/live/Nasser/Nasser/7568.m3u8
+
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="PORTUGAL",RTP 2
 http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="PORTUGAL",RTP 2 (Op 2)
@@ -29,7 +29,7 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="PORTUGAL",SIC NOTICIAS (Geo Block) (Op 2)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="PORTUGAL",SIC NOTICIAS
-
+http://46.249.60.210:16000/play/a00u
 #EXTINF:-1 tvg-logo="https://tinyurl.com/LOGORTP3" tvg-id="rtpn.pt" group-title="PORTUGAL",RTP 3
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/LOGORTP3" tvg-id="rtpn.pt" group-title="PORTUGAL",RTP 3 (Op 2)
@@ -43,10 +43,11 @@ http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="PORTUGAL",SIC RADICAL (Geo Block)
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="PORTUGAL",SIC RADICAL
-http://193.70.45.41:8000/live/Nasser/Nasser/4907.m3u8
+http://46.249.60.210:16000/play/a028
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png" tvg-id="sicmulher.pt" group-title="PORTUGAL",SIC MULHER
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png" tvg-id="SicCaras.pt" group-title="PORTUGAL",SIC CARAS
+http://46.249.60.210:16000/play/a02d
 #EXTINF:-1 tvg-logo="https://s27.postimg.org/jiij9m1xv/Log_tipo_TVI.png" tvg-id="" group-title="PORTUGAL",+ TVI
 http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/WhvCo4" tvg-id="TVIFiccao.pt" group-title="PORTUGAL",TVI FICCAO
@@ -58,7 +59,7 @@ http://213.13.26.11:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="PORTUGAL", PORTO CANAL (Op 2)
 http://213.13.26.13:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="Canal Q" group-title="PORTUGAL",CANAL Q
-
+http://46.249.60.210:16000/play/a02j
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" tvg-id="rtpmemoria.pt" group-title="PORTUGAL",RTP MEMORIA
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/52PvNv" tvg-id="RTPi.pt" group-title="PORTUGAL",RTP INTERNACIONAL
@@ -76,25 +77,25 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV +
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
-http://193.70.45.41:8000/live/Nasser/Nasser/7267.m3u8
+http://46.249.60.210:16000/play/a034
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
-http://193.70.45.41:8000/live/Nasser/Nasser/7266.m3u8
+http://46.249.60.210:16000/play/a035
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
-http://193.70.45.41:8000/live/Nasser/Nasser/7265.m3u8
+http://46.249.60.210:16000/play/a012
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
-http://193.70.45.41:8000/live/Nasser/Nasser/9013.m3u8
+http://46.249.60.210:16000/play/a00l
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
-http://193.70.45.41:8000/live/Nasser/Nasser/4915.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD
-http://193.70.45.41:8000/live/Nasser/Nasser/4911.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A Bola TV
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD
+http://46.249.60.210:16000/play/a03a
+#EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A Bola TV
+http://46.249.60.210:16000/play/a01c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT
-
+http://46.249.60.210:16000/play/a009
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="eurosport2.pt" group-title="PORTUGAL",EUROSPORT 2
-
+http://46.249.60.210:16000/play/a02o
 #EXTINF:-1 tvg-logo="https://tinyurl.com/m5a5vj3" tvg-id="0" group-title="PORTUGAL",Eurosport 2 Xtra
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mgjb999" tvg-id="0" group-title="PORTUGAL",Eurosport News
@@ -102,11 +103,11 @@ http://193.70.45.41:8000/live/Nasser/Nasser/4911.m3u8
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV" group-title="PORTUGAL",Fuel TV
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" tvg-id="FightNetwork" group-title="PORTUGAL",KOMBAT SPORT
-
+http://46.249.60.210:16000/play/a02v
 #EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/Fight-box-hd.png" tvg-id="FightBox" group-title="PORTUGAL",FightBox HD 
-
+http://163.172.75.7:8203
 #EXTINF:-1 tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2017/03/motorsporttv_logo_black.png" tvg-id="" group-title="PORTUGAL",MOTORSPORT.TV
-
+http://46.249.60.210:16000/play/a00y
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png" tvg-id="MOTOR" group-title="PORTUGAL",MOTORS TV
 
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="PORTUGAL",Red Bull TV
@@ -114,7 +115,7 @@ http://193.70.45.41:8000/live/Nasser/Nasser/4911.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8jncmcv" tvg-id="" group-title="PORTUGAL", Extreme Sports
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="PORTUGAL",PFC
-
+http://46.249.60.210:16000/play/a02l
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y779jcgp" tvg-id="" group-title="PORTUGAL",Bayern TV
 http://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s40.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/TnZhHD" tvg-id="0" group-title="PORTUGAL",CHELSEA TV
@@ -128,87 +129,91 @@ http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/3GIGy3P.png" tvg-id="" group-title="PORTUGAL",Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n5zs2f4" tvg-id="0" group-title="PORTUGAL",NBA
-
+http://46.249.60.210:16000/play/a01g
 #EXTINF:0 tvg-logo="http://i.imgur.com/AEfqr9k.png" tvg-id="" group-title="PORTUGAL", Olympic Channel HD
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1 
-http://193.70.45.41:8000/live/Nasser/Nasser/9014.m3u8
+http://46.249.60.210:16000/play/a014
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2 
-http://193.70.45.41:8000/live/Nasser/Nasser/4919.m3u8
+http://46.249.60.210:16000/play/a00e
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3
-http://193.70.45.41:8000/live/Nasser/Nasser/4920.m3u8
+http://46.249.60.210:16000/play/a015
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 4
-
+http://46.249.60.210:16000/play/a00n
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="PORTUGAL",TVSeries HD
-
+http://46.249.60.210:16000/play/a016
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="PORTUGAL",HOLLYWOOD
-http://193.70.45.41:8000/live/Nasser/Nasser/4899.m3u8
+http://46.249.60.210:16000/play/a00d
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="PORTUGAL",SYFY HD
 http://4.31.30.145:9206
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="PORTUGAL",SYFY
-http://193.70.45.41:8000/live/Nasser/Nasser/9011.m3u8
+http://46.249.60.210:16000/play/a00v
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo" group-title="PORTUGAL",CINEMUNDO
-http://193.70.45.41:8000/live/Nasser/Nasser/7569.m3u8
+http://46.249.60.210:16000/play/a00a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="" group-title="PORTUGAL",Sundance HD
-
+http://46.249.60.210:50001/play/a04u
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="PORTUGAL",MOV
-http://193.70.45.41:8000/live/Nasser/Nasser/11925.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC" group-title="PORTUGAL",AMC
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC" group-title="PORTUGAL",AMC
+http://46.249.60.210:16000/play/a00f
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="PORTUGAL",AXN
-http://193.70.45.41:8000/live/Nasser/Nasser/9007.m3u8
+http://46.249.60.210:16000/play/a038
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="PORTUGAL",AXN Black
-http://193.70.45.41:8000/live/Nasser/Nasser/4912.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mye96kn" tvg-id="AXNWhite.pt" group-title="PORTUGAL",AXN White
-http://193.70.45.41:8000/live/Nasser/Nasser/4910.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="PORTUGAL",FOX
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="foxlife.pt" group-title="PORTUGAL",FOX LIFE
-http://193.70.45.41:8000/live/Nasser/Nasser/11928.m3u8
+http://46.249.60.210:16000/play/a01i
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FOXM" group-title="PORTUGAL",FOX MOVIES
-http://193.70.45.41:8000/live/Nasser/Nasser/11927.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="PORTUGAL",FOX CRIME
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7w737bs" tvg-id="fx.pt" group-title="PORTUGAL",FX
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="PORTUGAL",FOX COMEDY
-http://193.70.45.41:8000/live/Nasser/Nasser/11926.m3u8
+http://46.249.60.210:16000/play/a02c
 #EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="PORTUGAL",DISNEY CHANNEL
-http://iptvsbh.ddns.net:8003/live/moreira/moreira/1102.m3u8
+http://46.249.60.210:16000/play/a019
 #EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="PORTUGAL",DISNEY CHANNEL (Op 2)
-http://clientportal.link/live/veronicatalic/test/3310.m3u8
+http://iptvsbh.ddns.net:8003/live/moreira/moreira/1102.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="PORTUGAL",DISNEY JUNIOR
 http://iptvsbh.ddns.net:8003/live/moreira/moreira/860.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="PORTUGAL",DISNEY JUNIOR (Op 2)
-http://clientportal.link/live/veronicatalic/test/3258.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2017/04/logo-disney-mickey-mouse-e-os-seus-amigos.png" tvg-id="" group-title="PORTUGAL",Mickey Mouse e os seus Amigos
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="PORTUGAL",CARTOON NETWORK
-http://iptvsbh.ddns.net:8003/live/moreira/moreira/1291.m3u8
+http://46.249.60.210:16000/play/a02a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="PORTUGAL",CARTOON NETWORK (Op 2)
-http://clientportal.link/live/veronicatalic/test/5554.m3u8
+http://iptvsbh.ddns.net:8003/live/moreira/moreira/1291.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="PORTUGAL",PANDA
-http://iptvsbh.ddns.net:8003/live/moreira/moreira/884.m3u8
+http://46.249.60.210:16000/play/a01l
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="PORTUGAL",PANDA (Op 2)
+http://iptvsbh.ddns.net:8003/live/moreira/moreira/884.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="PORTUGAL",PANDA (Op 3)
 http://iptvsbh.ddns.net:8003/live/moreira/moreira/1436.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="PORTUGAL",PANDA BIGGS
 http://iptvsbh.ddns.net:8003/live/moreira/moreira/1139.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="PORTUGAL",PANDA BIGGS (Op 2)
-http://clientportal.link/live/veronicatalic/test/5553.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="nick" group-title="PORTUGAL",NICKELODEON
 http://iptvsbh.ddns.net:8003/live/moreira/moreira/1078.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="nick" group-title="PORTUGAL",NICKELODEON (Op 2)
-http://clientportal.link/live/veronicatalic/test/3240.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SICK.pt" group-title="PORTUGAL",SIC K
+http://46.249.60.210:16000/play/a00j
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SICK.pt" group-title="PORTUGAL",SIC K (Op 2)
 http://iptvsbh.ddns.net:8003/live/moreira/moreira/1091.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM" group-title="PORTUGAL",JIMJAM
 http://iptvsbh.ddns.net:8003/live/moreira/moreira/1300.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM" group-title="PORTUGAL",JIMJAM (Op 2)
-http://clientportal.link/live/veronicatalic/test/9491.m3u8
+http://46.249.60.210:16000/play/a00m
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BABYT" group-title="PORTUGAL",BABY TV
-http://clientportal.link/live/veronicatalic/test/9490.m3u8
+http://46.249.60.210:16000/play/a00c
 #EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/baby_first_tv.png.300x300_q85.png" tvg-id="BABYT" group-title="PORTUGAL",Baby First
-http://clientportal.link/live/veronicatalic/test/7855.m3u8
+
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="PORTUGAL", VIRGIN TV
 http://fms.105.net:1935/live/virgin2/playlist.m3u8
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="PORTUGAL", VIRGIN TV (Op 2)
@@ -222,7 +227,7 @@ http://stream.cdn.smcloud.net/eska_rock-t/eska_rock_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/meq2khq" group-title="PORTUGAL", INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="MTVPortugal" group-title="PORTUGAL",MTV PORTUGAL
-
+http://46.249.60.210:16000/play/a00k
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS 
 http://212.34.244.28:7003/play/a00c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS (Op 2)
@@ -242,17 +247,17 @@ http://tv1.iptv.east.net.ua:4323/pack4/3/100
 #EXTINF:-1 tvg-logo="https://goo.gl/ngjyrv" tvg-id="MCMTOP" group-title="PORTUGAL",MCM TOP
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a3lNp0e.png" tvg-id="MCMPOP" group-title="PORTUGAL",MCM POP
-
+http://46.249.60.210:16000/play/a02p
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" group-title="PORTUGAL",M6 MUSIQUE
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" tvg-id="C-Music" group-title="PORTUGAL",C MUSIC
-
+http://46.249.60.210:16000/play/a00q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" tvg-id="" group-title="PORTUGAL",Clubbing TV
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png" tvg-id="AFRO" group-title="PORTUGAL",AFRO MUSIC
 http://4.31.30.145:9034
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TRACE TV" group-title="PORTUGAL",TRACE TV
-
+http://46.249.60.210:16000/play/a01a
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mro9vmo" tvg-id="0" group-title="PORTUGAL",VOX
 http://stream.cdn.smcloud.net/vox2-p/stream1/chunklis.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Ivz9yp" group-title="PORTUGAL", ONE 1 
@@ -260,7 +265,7 @@ http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="https://goo.gl/Ivz9yp" group-title="PORTUGAL", ONE 2 
 http://rtmp.one.by:1400
 #EXTINF:-1 tvg-logo="https://tinyurl.com/katf23g" group-title="PORTUGAL", Mezzo
-
+http://46.249.60.210:50001/play/a04k
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n4j9ver" group-title="PORTUGAL", Mezzo Live 
 
 #EXTINF:-1 tvg-logo="http://orig01.deviantart.net/f497/f/2013/002/e/6/musicbox_logo_by_letro-d5q4zj8.png" tvg-id="0" group-title="PORTUGAL",Music Box
@@ -278,19 +283,19 @@ http://www.djing.com/tv/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="PORTUGAL", DJING ANIMATION   
 http://www.djing.com/tv/a-05.m3u8?time=1454038733694
 #EXTINF:-1 tvg-logo="https://goo.gl/hXyY5B" tvg-id="discoverychannel.pt" group-title="PORTUGAL",DISCOVERY
-http://193.70.45.41:8000/live/Nasser/Nasser/9004.m3u8
+http://46.249.60.210:16000/play/a00z
 #EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png" group-title="PORTUGAL",DISCOVERY SHOWCASE
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="nationalgeographic.pt" group-title="PORTUGAL",NATIONAL GEOGRAPHIC
-
+http://46.249.60.210:16000/play/a037
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NGWIL" group-title="PORTUGAL",NAT GEO WILD
-
+http://46.249.60.210:16000/play/a027
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="HistoryChannel.pt" group-title="PORTUGAL",HISTORIA
-
+http://46.249.60.210:16000/play/a00b
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="PORTUGAL",ODISSEIA
-http://193.70.45.41:8000/live/Nasser/Nasser/11924.m3u8
+http://46.249.60.210:16000/play/a010
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="E" group-title="PORTUGAL",E! Entertainment
-
+http://46.249.60.210:16000/play/a02e
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id="AE" group-title="PORTUGAL",A&E
 
 #EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="PORTUGAL",TLC
@@ -300,27 +305,27 @@ http://4.31.30.145:9043
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kxh2nlc" tvg-id="" group-title="PORTUGAL",Crime Investigation CI
 
 #EXTINF:-1 tvg-logo="https://goo.gl/N7hEOL" tvg-id="0" group-title="PORTUGAL",MCS EXTREME
-
+http://46.249.60.210:16000/play/a00x
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" tvg-id="0" group-title="PORTUGAL",MCS LIFESTYLE
-
+http://46.249.60.210:16000/play/a02t
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSReality" group-title="PORTUGAL",CBS REALITY
-http://193.70.45.41:8000/live/Nasser/Nasser/11929.m3u8
+http://46.249.60.210:16000/play/a017
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xgqZgC6.png" tvg-id="TRV.pt" group-title="PORTUGAL",TRAVEL CHANNEL
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Oo0DzJ" tvg-id="FTV" group-title="PORTUGAL",FTV
-
+http://46.249.60.210:16000/play/a02f
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lpl3fes" tvg-id="" group-title="PORTUGAL",Dog TV
 
 #EXTINF:-1 tvg-logo="https://goo.gl/maoNgt" tvg-id="GLOBO" group-title="PORTUGAL",GLOBO PREMIUM
-
+http://46.249.60.210:16000/play/a02m
 #EXTINF:-1 tvg-logo="https://goo.gl/2RYRF4" tvg-id="TV GloboPortugal" group-title="PORTUGAL",GLOBO
-http://193.70.45.41:8000/live/Nasser/Nasser/9008.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="TVRECORD" group-title="PORTUGAL",TV RECORD
 
+#EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="TVRECORD" group-title="PORTUGAL",TV RECORD
+http://46.249.60.210:16000/play/a004
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9lzgwq5" tvg-id="" group-title="PORTUGAL",Localvisão TV HD
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png" tvg-id="ARTV.pt" group-title="PORTUGAL",AR TV
-http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+http://46.249.60.210:16000/play/a00i
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://goo.gl/guxnEM" group-title="PORTUGAL",SANTUARIO DE FATIMA
 http://213.13.26.11:1935/live/santuario.stream/CumCatano.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/yboftgp7" group-title="PORTUGAL",Agueda TV
@@ -360,7 +365,7 @@ http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" tvg-id="0" group-title="PORTUGAL",RAI NEWS 24
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png" tvg-id="TVE24h" group-title="PORTUGAL",TVE 24H
-http://85.7.107.8:8010/play/a04b
+http://46.249.60.210:50001/play/a036
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id="FR24I" group-title="PORTUGAL",FRANCE 24 ENG
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id="FR24F" group-title="PORTUGAL",FRANCE 24 FR
@@ -372,7 +377,7 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 #EXTINF:-1 tvg-logo="http://portalnacional.com.pt/images/icons/tv/CACAP.png" tvg-id="CacaePesca" group-title="PORTUGAL",CACA & PESCA
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pIEZt5S.png" tvg-id="CacaVision" group-title="PORTUGAL",CACAVISION
-
+http://46.249.60.210:16000/play/a02s
 #EXTINF:-1 tvg-id="NTV-1" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/6/5/4/0/6540154/6540154,192x192,r:2.jpg" group-title="PORTUGAL",NASA TV PUBLIC EDUCATION (US)
 https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public/master.m3u8
 #EXTINF:-1 tvg-id="NTV-3" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/0/4/1/10414700/10414700_nasatv_media_hr_1330361951,192x192,r:1.jpg" group-title="PORTUGAL",NASA TV MEDIA (US)
@@ -381,10 +386,6 @@ https://nasa-i.akamaihd.net/hls/live/253566/NTV-Media/master.m3u8
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/CumCatano.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/9/4/0/8/9408562/9408562_iss_hr_1330361780,192x192,r:1.jpg" group-title="PORTUGAL",LIVE ISS STREAM (Op 2)
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-
-
-
-
 
 
 
@@ -1933,120 +1934,132 @@ https://cld.pt/dl/download/2724a396-a913-4cff-b100-54bef8953bfc/Viagem%20A%20Por
 
 -------------------------------------------------------------------------------------------------------------------------
 
-
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/media/3783114/beachcam.png" group-title="PRAIAS", PRAIAS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", WEBCAMS
 Http://google.pt
 
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", LEÇA DA PALMEIRA
-http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
 
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", MATOSINHOS
-http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", ESPINHO
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", LEÇA DA PALMEIRA
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", MATOSINHOS
+http://video-auth1.iol.pt:1935/beachcam/matosinhos/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  ESPINHO
 http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", ESMORIZ
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", ESMORIZ
 http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", FURADOURO
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", FURADOURO
 http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", TORREIRA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA TORREIRA
 http://video-auth1.iol.pt:1935/beachcam/torreira/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", BARRA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA BARRA
 http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", VAGUEIRA
-http://video-auth1.iol.pt:1935/beachcam/vagueira/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", MIRA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", VAGUEIRA
+http://video-auth1.iol.pt:1935/beachcam/vagueiracasablanca/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", VAGUEIRA - LABREGO
+http://video-auth1.iol.pt:1935/beachcam/vagueira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DE MIRA
 http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", BUARCOS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", FIGUEIRA DA FOZ - BUARCOS
 http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", NAZARÉ
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", FIGUEIRA DA FOZ
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", FIGUEIRA DA FOZ - CABEDELO
+http://video-auth1.iol.pt:1935/beachcam/cabedelo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DO NORTE - NAZARÉ
 http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", SUPERTUBOS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA NAZARÉ
+http://video-auth1.iol.pt:1935/beachcam/nazarepraiadavila/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PENICHE SUPERTUBOS
 http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", LAGIDE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PENICHE LAGIDE
 http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", SANTA CRUZ
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", SANTA CRUZ
 http://video-auth1.iol.pt:1935/beachcam/santacruz/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", RIBEIRA D´ ILHAS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", RIBEIRA D´ILHAS
 http://video-auth1.iol.pt:1935/beachcam/ribeiradilhas/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", ERICEIRA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", ERICEIRA
 http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", GRANDE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", ERICEIRA - PRAIA DO SUL
+http://video-auth1.iol.pt:1935/beachcam/praiadosulericeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA GRANDE NORTE
 http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", GUINCHO NORTE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA GRANDE SUL
+http://video-auth1.iol.pt:1935/beachcam/praiagrande2/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DO GUINCHO NORTE
 http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", GUINCHO SUL
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DO GUINCHO SUL
 http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", S.PEDRO ESTORIL
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", SÃO PEDRO DO ESTORIL
 http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", CARCAVELOS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DE CARCAVELOS
 http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", CAPARICA CDS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA TORRE
+http://video-auth1.iol.pt:1935/beachcam/bctorre/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", SANTO AMARO
+http://video-auth1.iol.pt:1935/beachcam/santoamaro/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PAÇO DE ARCOS
+http://video-auth1.iol.pt:1935/beachcam/parcos/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", CAXIAS
+http://video-auth1.iol.pt:1935/beachcam/caxias/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", COSTA DE CAPARICA CDS
 http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", CAPARICA S.JOÃO
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", COSTA DA CAPARICA RIVIERA
+http://video-auth1.iol.pt:1935/beachcam/riviera/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", COSTA DE CAPARICA SÃO JOÃO
 http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", FONTE DA TELHA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", FONTE DA TELHA
 http://video-auth1.iol.pt:1935/beachcam/fontedatelha/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", CARVALHAL
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DO CARVALHAL
 http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", S. TORPES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", SÃO TORPES
 http://video-auth1.iol.pt:1935/beachcam/saotorpes/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", ZAMBUJEIRA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", ZAMBUJEIRA DO MAR
 http://video-auth1.iol.pt:1935/beachcam/zambujeira/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", AMOREIRA
-http://video-auth1.iol.pt:1935/beachcam/bcamoreira/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", ARRIFANA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA AMOREIRA
+http://video-auth1.iol.pt:1935/beachcam/bcamoreira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", ARRIFANA
 http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", PRAIA DA LUZ
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA LUZ
 http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", MEIA PRAIA
-http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", ALVOR
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", ALVOR
 http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", PRAIA DA ROCHA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA ROCHA
 http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", PRAIA DA GALÉ
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA GALÉ
 http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", EVARISTO
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DO EVARISTO
 http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", VILAMOURA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", VILAMOURA
 http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="PRAIAS", JARDIM DO MAR
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", MADEIRA JARDIM DO MAR
 http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Palmiye Beach Hotel (Youtube)
+https://www.youtube.com/watch?v=teAvmnyW7Ms
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Santa Monica Beach (Youtube)
+https://www.youtube.com/watch?v=qAcY8OPEMhA
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Dania Beach Pier and Beach (Youtube)
+https://www.youtube.com/watch?v=jQaIFRpz_L8
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Huntington Beach Pier (Youtube)
+https://www.youtube.com/watch?v=gGVdY2D-GSI
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Playa de Salinas-Asturias-Spain (Youtube)
+https://www.youtube.com/watch?v=3TFmZnL6how
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Hamlet Street, Carolina Beach (Youtube)
+https://www.youtube.com/watch?v=0lkf8u0ae5s
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Jullouville (Youtube)
+https://www.youtube.com/watch?v=T0oJUt1O_-Q
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", St-Barth - Flamand (Youtube)
+https://www.youtube.com/watch?v=sJDDxaq_C5M
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Venice:St. Mark's Basin - Italy (Youtube)
+https://www.youtube.com/watch?v=Hzn2eBdqYWc
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Cadiz: Plaza de Sevilla - Spain (Youtube)
+https://www.youtube.com/watch?v=jFELUgq46WA
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Auditorium de Palma de Mallorca - Spain (Youtube)
+https://www.youtube.com/watch?v=gRL-rHVdJTw
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Valencia: Plaza Ayuntamiento - Spain (Youtube)
+https://www.youtube.com/watch?v=BEEKLFk4SrY
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Roma: Vaticano - Italy (Youtube)
+https://www.youtube.com/watch?v=oILNfk5Papw
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Amesterdão: Live Vanaf Lemster - Holanda (Youtube)
+https://www.youtube.com/watch?v=E41HTrLjdT
 
 
 
@@ -2062,14 +2075,14 @@ Http://google.pt
 
 
 
-
-
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="ADULTO", Playboy TV
+http://46.249.60.210:16000/play/a02n
+#EXTINF:-1 tvg-id="PLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="ADULTO", Playboy TV (Op 2)
 http://134.19.154.179:9669/udp/239.195.2.5:1234 
 #EXTINF:-1 tvg-id="HOT" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/25/Sexy_Hot_logo.png/revision/latest?cb=20130504223718" group-title="ADULTO", Hot
 
 #EXTINF:-1 tvg-id="venus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Venus_Nuevo_Logo_2014.png" group-title="ADULTO", Venus
-
+http://46.249.60.210:16000/play/a013
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Brazzers-TV-Europe-18.png" group-title="ADULTO", Brazzers
 http://134.19.154.179:9669/udp/239.195.2.4:1234 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Brazzers-TV-Europe-18.png" group-title="ADULTO", Brazzers
