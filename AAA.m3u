@@ -1130,6 +1130,21 @@ Http://google.pt
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycd4vokn" group-title="FILMES",Fast & Furious 8 - 2017
 http://ca.netcine.tv/ntcdnbucket/filmes2017/VELOZES2017LEG-ALTO.mp4
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7qc8mqq" group-title="FILMES", ALIEN: COVENANT
+http://zeus.netcine.tv/ondemand/filmes2017/AL14EN2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybygzvvj" group-title="FILMES", MULHER-MARAVILHA
+http://zeus.netcine.tv/ondemand/filmes2017/W0M4N2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y86hz68x" group-title="FILMES", GET OUT
+http://ca.netcine.tv/ntcdnbucket/filmes2017/GETOUTLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybq2lxgj" group-title="FILMES", CINQUENTA TONS MAIS ESCUROS
+http://s.netcine.tv/netcine-bucket/filmes2017/FITTY2017-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9w9q757" group-title="FILMES", LA LA LAND 
+http://s.netcine.tv/netcine-bucket/filmes2017/LANDLEG-ALTO.mp4
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydy7p7mk" group-title="FILMES",Os Amores de Anne - 2017
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OSAMRSDANLEG.mp4
 
@@ -1150,7 +1165,6 @@ http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ODIDATNTDO.mp4
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7q97s5" group-title="FILMES",100 Streets - 2017
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/100STRTS.mp4
-
 
 #EXTINF:-1 tvg-logo="https://goo.gl/n8NXCl" group-title="FILMES",Breaking Bad - 2017
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BRKNGBDOFLMLEG.mp4
