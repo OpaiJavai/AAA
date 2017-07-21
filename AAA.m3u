@@ -2259,7 +2259,7 @@ http://ss2.firestormmedia.tv:1935/studio66tv/studio66tv_channel41/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="ADULTO",Sex Zone (18+)
 http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8
-
+#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="ADULTO",XXXPanded 1 (18+)
 http://vod2t.xxxpanded.com/x3tv/index_wlan.m3u8
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="ADULTO",XXXPanded 2 (18+)
 http://vod2t.xxxpanded.com/x3tv2/index_wlan.m3u8
