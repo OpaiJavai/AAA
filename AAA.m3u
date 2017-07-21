@@ -1129,7 +1129,7 @@ https://www.youtube.com/watch?v=U8VQ-3rA0ek
 Http://google.pt
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycd4vokn" group-title="FILMES",Fast & Furious 8 - 2017
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7m6cs7d" group-title="FILMES",Fast & Furious 8
 http://ca.netcine.tv/ntcdnbucket/filmes2017/VELOZES2017LEG-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7qc8mqq" group-title="FILMES", ALIEN: COVENANT
@@ -1143,9 +1143,6 @@ http://ca.netcine.tv/ntcdnbucket/filmes2017/GETOUTLEG-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybq2lxgj" group-title="FILMES", CINQUENTA TONS MAIS ESCUROS
 http://s.netcine.tv/netcine-bucket/filmes2017/FITTY2017-ALTO.mp4
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9w9q757" group-title="FILMES", LA LA LAND 
-http://s.netcine.tv/netcine-bucket/filmes2017/LANDLEG-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydy7p7mk" group-title="FILMES",Os Amores de Anne - 2017
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OSAMRSDANLEG.mp4
@@ -1248,9 +1245,6 @@ https://cld.pt/dl/download/dd126d6f-e603-4fca-8ba5-57ace4afc4e8/Jackie.2016.720p
 
 #EXTINF:-1 tvg-logo="http://img.yify-movies.net/40/56268/max-steel-2016-1080p-large.jpg" group-title="FILMES", Max Steel
 https://cld.pt/dl/download/8aef887b-45e5-4779-8e51-c0626380591f/Max.Steel.2016.720p.BRRip.x264.AC3-R23.mkv
-
-EXTINF:-1 tvg-logo="http://wp.production.patheos.com/blogs/sisterrosemovies/files/2016/09/sully-movie-poster.png" group-title="FILMES", Sully
-https://cld.pt/dl/download/91e8146a-282f-4916-b466-d6d874e41655/Sully.2016.720p.BRRip.x264.AC3-Manning.mkv
 
 #EXTINF:-1 tvg-logo="http://s3.foxmovies.com/foxmovies/production/films/111/images/posters/484-film-page-large.jpg" group-title="FILMES", Assassins Creed
 https://cld.pt/dl/download/3dac3213-7425-4521-a2dc-9d95fcaf6dca/Assassins%20Creed.mkv
@@ -1600,8 +1594,8 @@ https://cld.pt/dl/download/c678451a-af08-4051-8d51-43253ed3366e/Fifty.Shades.of.
 #EXTINF:-1 tvg-logo="http://cinepop.com.br/wp-content/uploads/2016/03/independenceday2_1.jpg" group-title="FILMES", Independence Day Resurgence 2016
 https://cld.pt/dl/download/1348233f-1ec3-4571-82bb-f9ec551836ff/Independence.Day.Resurgence.2016.720p.BluRay.x264-%5BYTS.AG%5D.mkv
 
-
-
+EXTINF:-1 tvg-logo="https://tinyurl.com/y7aq3no2" group-title="FILMES", Sully
+https://cld.pt/dl/download/91e8146a-282f-4916-b466-d6d874e41655/Sully.2016.720p.BRRip.x264.AC3-Manning.mkv
 
 #EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/293660_pt.jpg" group-title="FILMES",DEADPOOL [2017] - Deadpool
 http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/DEADPLEG.mp4
