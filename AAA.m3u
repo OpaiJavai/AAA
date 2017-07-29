@@ -396,6 +396,59 @@ http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3
 
 
 
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yce6stcq" group-title="ACESTREAM", ACESTREAM
+http://google.com
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="ACESTREAM",SPORT TV +
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="ACESTREAM",SPORT TV 1
+acestream://983e2192ed5bac57b84a305a26884b679affaddd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="ACESTREAM",SPORT TV 2
+acestream://b7943ae1f4b55cfc53baf5bbe9fbcbb39c7bea6d
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="ACESTREAM",SPORT TV 3
+acestream://f14245d7494ff19ff016bbd7a6561006e74deb90
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="ACESTREAM",SPORT TV 4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="ACESTREAM",SPORT TV 5
+acestream://e172e5e30fc7073dcb6a8e6a10d550f728cb3d86
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="ACESTREAM", BENFICA TV
+
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 1/2
+acestream://9b1e94919ed37e4b1d367ca02559b470727b5870
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 3/4
+acestream://7961d3d3aab08227e6e47d9389a5ce67aa3b472f
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 8/9
+acestream://2faa60e9b5403ace3d50c903db4dacaf50c0a601
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 13/14
+acestream://8283ded676018ca3835d5a0dd10cced1206d3cde
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 15/16
+acestream://8d20deee93dbf7e7548ed4fb39f5d29304a96825
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 17/18
+acestream://a0b19b5870d70da96c1534b8869cd06d35687668
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 19/20
+acestream://12aef38d44c5835c2e64f1031f5c25ea808244e7
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 27/28
+acestream://a26814e14f361a710cff1b58366eef07508da71c
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 29
+acestream://9b4c7bf30559530581d01bbb263e82272f2021d4
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 30
+acestream://9bd1a023b72843c73b33915849587252dc9a9d8e
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="ACESTREAM", XZ
+
+
+
+
+
+
+
+
 -------------------------------------------------------------------------------------------------------------------------
 
 
