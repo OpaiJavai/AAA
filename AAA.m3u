@@ -236,7 +236,9 @@ http://185.26.174.67:44444/play/a01f
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS 
 http://212.34.244.28:7003/play/a00c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS (Op 2)
-http://84.19.42.130:8000/play/a01s 
+http://84.19.42.130:8000/play/a01s
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS (Op 3)
+http://31.130.19.28:81/udp/238.1.2.33:1234
 #EXTINF:-1 tvg-logo="https://goo.gl/nPj2Q7" tvg-id="0" group-title="PORTUGAL",MTV LIVE
 http://tv1.iptv.east.net.ua:4323/pack4/3/100
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iyi7pTK.png" tvg-id="0" group-title="PORTUGAL",MTV HITS
@@ -265,12 +267,18 @@ http://4.31.30.145:9034
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mro9vmo" tvg-id="0" group-title="PORTUGAL",VOX
 http://stream.cdn.smcloud.net/vox2-p/stream1/chunklis.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/Ivz9yp" group-title="PORTUGAL", ONE 1 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="PORTUGAL", ONE.by 1 
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="PORTUGAL", ONE.by 2 
 http://rtmp.one.by:1300
-#EXTINF:-1 tvg-logo="https://goo.gl/Ivz9yp" group-title="PORTUGAL", ONE 2 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="PORTUGAL", ONE.by 3 
 http://rtmp.one.by:1400
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="PORTUGAL", ONE.by (RUS) 1 HD
+http://rtmp.one.by:2200
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="PORTUGAL", ONE.by (RUS) 2 HD
+http://rtmp.one.by:2300
 #EXTINF:-1 tvg-logo="https://tinyurl.com/katf23g" group-title="PORTUGAL", Mezzo
-http://46.249.60.210:50001/play/a04k
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n4j9ver" group-title="PORTUGAL", Mezzo Live 
 
 #EXTINF:-1 tvg-logo="http://orig01.deviantart.net/f497/f/2013/002/e/6/musicbox_logo_by_letro-d5q4zj8.png" tvg-id="0" group-title="PORTUGAL",Music Box
@@ -319,6 +327,8 @@ http://4.31.30.145:9043
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Oo0DzJ" tvg-id="FTV" group-title="PORTUGAL",FTV
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ya4886ah" tvg-id="0" group-title="PORTUGAL",Ocean TV
+http://91.244.169.191:81/play/a00z
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lpl3fes" tvg-id="" group-title="PORTUGAL",Dog TV
 
 #EXTINF:-1 tvg-logo="https://goo.gl/maoNgt" tvg-id="GLOBO" group-title="PORTUGAL",GLOBO PREMIUM
@@ -2435,21 +2445,23 @@ Http://google.pt
 
 
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="ADULTO", Playboy TV
-http://46.249.60.210:16000/play/a02n
+
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="ADULTO", Playboy TV (Op 2)
 http://134.19.154.179:9669/udp/239.195.2.5:1234 
 #EXTINF:-1 tvg-id="HOT" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/25/Sexy_Hot_logo.png/revision/latest?cb=20130504223718" group-title="ADULTO", Hot
 
 #EXTINF:-1 tvg-id="venus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Venus_Nuevo_Logo_2014.png" group-title="ADULTO", Venus
-http://46.249.60.210:16000/play/a013
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Brazzers-TV-Europe-18.png" group-title="ADULTO", Brazzers
-http://134.19.154.179:9669/udp/239.195.2.4:1234 
+http://178.57.56.228:9669/udp/239.195.2.4:1234 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Brazzers-TV-Europe-18.png" group-title="ADULTO", Brazzers
 http://134.19.150.42:81/udp/239.195.2.4:1234 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="ADULTO",Redlight
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="ADULTO", Dorcel TV
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="ADULTO", Frenchlover
+http://91.211.143.214:3333/play/a006
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.returndates.com/backgrounds/satisfaction_us.logo.png" group-title="ADULTO", Satisfaction TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y95gxur8" group-title="ADULTO",Eroxxx HD
