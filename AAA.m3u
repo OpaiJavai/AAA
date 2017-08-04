@@ -133,8 +133,16 @@ http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8?iptvgratis?chile.m3u8
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n5zs2f4" tvg-id="0" group-title="PORTUGAL",NBA
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/AEfqr9k.png" tvg-id="" group-title="PORTUGAL", Olympic Channel HD
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/AEfqr9k.png" tvg-id="" group-title="PORTUGAL", Olympic Channel 1
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_4_1464000.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/AEfqr9k.png" tvg-id="" group-title="PORTUGAL", Olympic Channel 2
+http://ocs-live.hls.adaptive.level3.net/ocs/channel02/NBC_OCS2_VIDEO_7_6064000.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/AEfqr9k.png" tvg-id="" group-title="PORTUGAL", Olympic Channel 3
+http://ocs-live.hls.adaptive.level3.net/ocs/channel03/NBC_OCS3_VIDEO_7_6064000.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/AEfqr9k.png" tvg-id="" group-title="PORTUGAL", Olympic Channel 4
+http://ocs-live.hls.adaptive.level3.net/ocs/channel04/NBC_OCS4_VIDEO_7_6064000.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/AEfqr9k.png" tvg-id="" group-title="PORTUGAL", Olympic Channel 5
+http://ocs-live.hls.adaptive.level3.net/ocs/channel05/NBC_OCS5_VIDEO_7_6064000.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1 
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2 
@@ -219,6 +227,8 @@ http://iptvsbh.ddns.net:8003/live/moreira/moreira/1300.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/baby_first_tv.png.300x300_q85.png" tvg-id="BABYT" group-title="PORTUGAL",Baby First
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydhaysn3" tvg-id="0" group-title="PORTUGAL",Retro Cartoon (BR)
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="PORTUGAL", VIRGIN TV
 http://fms.105.net:1935/live/virgin2/playlist.m3u8
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="PORTUGAL", VIRGIN TV (Op 2)
@@ -331,6 +341,10 @@ http://4.31.30.145:9043
 http://91.244.169.191:81/play/a00z
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lpl3fes" tvg-id="" group-title="PORTUGAL",Dog TV
 
+#EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/yddlnnke" group-title="PORTUGAL", HISTORY LAB
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yccxcqyw" group-title="PORTUGAL", Animal Planet L!VE HD
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/maoNgt" tvg-id="GLOBO" group-title="PORTUGAL",GLOBO PREMIUM
 
 #EXTINF:-1 tvg-logo="https://goo.gl/2RYRF4" tvg-id="TV GloboPortugal" group-title="PORTUGAL",GLOBO
