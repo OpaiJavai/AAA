@@ -755,7 +755,7 @@ acestream://f14245d7494ff19ff016bbd7a6561006e74deb90
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="ACESTREAM",SPORT TV 5
 acestream://e172e5e30fc7073dcb6a8e6a10d550f728cb3d86
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="ACESTREAM", BENFICA TV
-
+acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 1/2
 acestream://9b1e94919ed37e4b1d367ca02559b470727b5870
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 3/4
@@ -782,10 +782,84 @@ acestream://9bd1a023b72843c73b33915849587252dc9a9d8e
 
 
 
-
-
-
 -------------------------------------------------------------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-logo="http://cdn.warer.com/media/logo-sopcast.png" group-title="SOPCAST", SOPCAST
+http://google.com
+
+
+
+
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 1 Sopcast 	
+sop://broker.sopcast.com:3912/252477
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 2 Sopcast
+sop://broker.sopcast.com:3912/252478
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 3 Sopcast
+sop://broker.sopcast.com:3912/151078
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 4 Sopcast
+sop://broker.sopcast.com:3912/151079
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 5 Sopcast
+sop://broker.sopcast.com:3912/252550
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 6 Sopcast
+sop://broker.sopcast.com:3912/255766
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 7 Sopcast
+sop://broker.sopcast.com:3912/255767
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 8 Sopcast
+sop://broker.sopcast.com:3912/255768
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 9 Sopcast
+sop://broker.sopcast.com:3912/255769
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 10 Sopcast
+sop://broker.sopcast.com:3912/255770
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 11 Sopcast
+sop://broker.sopcast.com:3912/256470
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 13 Sopcast
+sop://broker.sopcast.com:3912/258920
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 14 Sopcast
+sop://broker.sopcast.com:3912/258921
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 15 Sopcast
+sop://broker.sopcast.com:3912/258922
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 16 Sopcast
+sop://broker.sopcast.com:3912/258923
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 17 Sopcast
+sop://broker.sopcast.com:3912/258924
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 18 Sopcast
+sop://broker.sopcast.com:3912/258925
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 19 Sopcast
+sop://broker.sopcast.com:3912/258926
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 20 Sopcast
+sop://broker.sopcast.com:3912/258927
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 29 Sopcast
+sop://broker.sopcast.com:3912/258928
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 30 Sopcast
+sop://broker.sopcast.com:3912/258929
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 31 Sopcast
+sop://broker.sopcast.com:3912/261184
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 32 Sopcast
+sop://broker.sopcast.com:3912/261185
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 33 Sopcast
+sop://broker.sopcast.com:3912/259383
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 34 Sopcast
+sop://broker.sopcast.com:3912/259509
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 35 Sopcast
+sop://broker.sopcast.com:3912/261182
+#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 36 Sopcast
+sop://broker.sopcast.com:3912/261183
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://cld.pt/dl/download/6229ac75-23b4-40b8-b663-471be537a197/Animation_icon-icons.com_61707.png" group-title="ANIMACAO", ANIMACAO
