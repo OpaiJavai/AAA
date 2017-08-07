@@ -755,7 +755,7 @@ acestream://f14245d7494ff19ff016bbd7a6561006e74deb90
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="ACESTREAM",SPORT TV 5
 acestream://e172e5e30fc7073dcb6a8e6a10d550f728cb3d86
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="ACESTREAM", BENFICA TV
-acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721
+
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 1/2
 acestream://9b1e94919ed37e4b1d367ca02559b470727b5870
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 3/4
