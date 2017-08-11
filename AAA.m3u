@@ -86,33 +86,35 @@ http://185.26.174.67:44444/play/a01j
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD (Op 2)
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/858.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD (Op 3)
-http://pro213.com/live/Armand0/Santiag0/3007.m3u8
+http://185.2.83.209:8000/live/tony2/tony2/880.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
 http://185.26.174.67:44444/play/a016
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD (Op 2)
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/1069.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD (Op 3)
-http://pro213.com/live/Armand0/Santiag0/3003.m3u8
+http://185.2.83.209:8000/live/tony2/tony2/881.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
 http://185.26.174.67:44444/play/a01a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD (Op 2)
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/1070.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD (Op 3)
-http://pro213.com/live/Armand0/Santiag0/3004.m3u8
+http://185.2.83.209:8000/live/tony2/tony2/882.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
 http://185.26.174.67:44444/play/a01c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD (Op 2)
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/1145.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD (Op 3)
-http://pro213.com/live/Armand0/Santiag0/3005.m3u8
+http://185.2.83.209:8000/live/tony2/tony2/883.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/861.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD (Op 2)
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4369.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD (Op 3)
+http://185.2.83.209:8000/live/tony2/tony2/884.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD
 http://185.26.174.67:44444/play/a002
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD (Op 2)
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1065.m3u8
+http://185.2.83.209:8000/live/tony2/tony2/900.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD (Op 3)
 http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4368.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A Bola TV
