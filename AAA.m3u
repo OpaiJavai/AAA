@@ -272,21 +272,25 @@ http://iptvsbh.ddns.net:8003/live/armindo/armindo/871.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS 
 http://212.34.244.28:7003/play/a00c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS (Op 2)
-http://84.19.42.130:8000/play/a01s
+http://92.249.68.106/15/812
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS (Op 3)
 http://31.130.19.28:81/udp/238.1.2.33:1234
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y84wb56t" tvg-id="0" group-title="PORTUGAL",MTV
+http://92.249.68.106/15/809
 #EXTINF:-1 tvg-logo="https://goo.gl/nPj2Q7" tvg-id="0" group-title="PORTUGAL",MTV LIVE
 http://tv1.iptv.east.net.ua:4323/pack4/3/100
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iyi7pTK.png" tvg-id="0" group-title="PORTUGAL",MTV HITS
-
+http://92.249.68.106/15/811
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="PORTUGAL",MTV DANCE
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/1076.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="PORTUGAL",MTV DANCE (Op 2)
+http://92.249.68.106/15/810
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="PORTUGAL",MTV BASE
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="VH1" group-title="PORTUGAL",VH1 EUROPE
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/1062.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="0" group-title="PORTUGAL",VH1 CLASSIC
-
+http://92.249.68.106/15/816
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd5t7nuk" tvg-id="0" group-title="PORTUGAL",TRACE URBAN
 http://iptvsbh.ddns.net:8003/live/armindo/armindo/1518.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/ngjyrv" tvg-id="MCMTOP" group-title="PORTUGAL",MCM TOP
@@ -318,7 +322,7 @@ http://rtmp.one.by:2300
 #EXTINF:-1 tvg-logo="https://tinyurl.com/katf23g" group-title="PORTUGAL", Mezzo
 http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4291.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n4j9ver" group-title="PORTUGAL", Mezzo Live 
-http://95.158.3.34:8888/udp/239.8.0.48:1234
+http://92.249.68.106/11/20103
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yctjl6cs" tvg-id="0" group-title="PORTUGAL",Music Box
 http://91.224.178.9:6005/08
 #EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/BRIDGETV.png" group-title="PORTUGAL", Bridge TV  
@@ -368,13 +372,13 @@ http://iptvsbh.ddns.net:8003/live/armindo/armindo/1061.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Oo0DzJ" tvg-id="FTV" group-title="PORTUGAL",FTV
 http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4294.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ya4886ah" tvg-id="0" group-title="PORTUGAL",Ocean TV
-http://91.244.169.191:81/play/a00z
+http://92.249.68.106/4/19122
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lpl3fes" tvg-id="" group-title="PORTUGAL",Dog TV
 
 #EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/yddlnnke" group-title="PORTUGAL", HISTORY LAB
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yccxcqyw" group-title="PORTUGAL", Animal Planet L!VE HD
-
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yccxcqyw" group-title="PORTUGAL", Animal Planet
+http://92.62.110.198:8000/play/a01o
 #EXTINF:-1 tvg-logo="https://goo.gl/maoNgt" tvg-id="GLOBO" group-title="PORTUGAL",GLOBO PREMIUM
 http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4388.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/2RYRF4" tvg-id="TV GloboPortugal" group-title="PORTUGAL",GLOBO
@@ -2806,6 +2810,8 @@ http://84.243.221.164:8000/play/a019
 http://92.62.110.198:8000/play/a01m
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="ADULTO", Dorcel TV
 http://84.243.221.164:8000/play/a01p
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="ADULTO", Dorcel TV (Op 2)
+http://46.150.192.10:7777/play/9909/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="ADULTO", Frenchlover
 http://91.211.143.214:3333/play/a006
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="ADULTO", Frenchlover (Op 2)
