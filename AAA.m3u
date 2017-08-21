@@ -1059,27 +1059,24 @@ ________________________________________________________________________________
 
 
 
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yce6stcq" group-title="ACESTREAM", ACESTREAM
 http://google.com
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="ACESTREAM",SPORT TV +
-
+acestream://7dad60dd3baa7b8c77a4f54c8aa07a262d68ab9e
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="ACESTREAM",SPORT TV 1
-acestream://983e2192ed5bac57b84a305a26884b679affaddd
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="ACESTREAM",SPORT TV 1 (Op 2)
-acestream://a0b19b5870d70da96c1534b8869cd06d35687668
+acestream://c175f79bfa5698dff00ae3467068336019b3912e
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="ACESTREAM",SPORT TV 2
-acestream://b7943ae1f4b55cfc53baf5bbe9fbcbb39c7bea6d
+acestream://89122d5e60866e9127a5f3849170031b16402adc
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="ACESTREAM",SPORT TV 3
-acestream://f14245d7494ff19ff016bbd7a6561006e74deb90
+acestream://cf72f0fa0cee438cca43f2ea8299d04d1bf4c9d5
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="ACESTREAM",SPORT TV 4
-
+acestream://cdaa987788a6140c4460fa050ce3032b79f7f2dc
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="ACESTREAM",SPORT TV 5
-acestream://e172e5e30fc7073dcb6a8e6a10d550f728cb3d86
+acestream://ac9b79763f3c52212db363acec782d794b8f1232
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="ACESTREAM", BENFICA TV
-
+acestream://72fbf2768cf7210077f9b12b3b51573062ceb71d
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 1/2
 acestream://9b1e94919ed37e4b1d367ca02559b470727b5870
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 3/4
@@ -1100,9 +1097,6 @@ acestream://a26814e14f361a710cff1b58366eef07508da71c
 acestream://9b4c7bf30559530581d01bbb263e82272f2021d4
 #EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="ACESTREAM", Arena 30
 acestream://9bd1a023b72843c73b33915849587252dc9a9d8e
-
-
-
 
 
 
