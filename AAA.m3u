@@ -135,6 +135,8 @@ http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4355.m3u8
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4687.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycudcrgh" tvg-id="FightBox" group-title="PORTUGAL",FightBox HD 
 http://163.172.75.7:8203
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycudcrgh" tvg-id="FightBox" group-title="PORTUGAL",FightBox HD (Op 2)
+http://185.22.78.82:8825/play/a00m
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n38hcr5" tvg-id="" group-title="PORTUGAL",MOTORSPORT.TV
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png" tvg-id="MOTOR" group-title="PORTUGAL",MOTORS TV
@@ -280,17 +282,17 @@ http://31.130.19.28:81/udp/238.1.2.33:1234
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y84wb56t" tvg-id="0" group-title="PORTUGAL",MTV
 http://92.249.68.106/15/809
 #EXTINF:-1 tvg-logo="https://goo.gl/nPj2Q7" tvg-id="0" group-title="PORTUGAL",MTV LIVE
-http://tv1.iptv.east.net.ua:4323/pack4/3/100
+http://185.22.78.82:8826/play/a00n
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iyi7pTK.png" tvg-id="0" group-title="PORTUGAL",MTV HITS
 http://92.249.68.106/15/811
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="PORTUGAL",MTV DANCE
-
+http://185.22.78.83:8119/play/a00i
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="PORTUGAL",MTV DANCE (Op 2)
 http://92.249.68.106/15/810
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="PORTUGAL",MTV BASE
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="VH1" group-title="PORTUGAL",VH1 EUROPE
-
+http://185.22.78.83:8119/play/a005
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="0" group-title="PORTUGAL",VH1 CLASSIC
 http://92.249.68.106/15/816
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd5t7nuk" tvg-id="0" group-title="PORTUGAL",TRACE URBAN
