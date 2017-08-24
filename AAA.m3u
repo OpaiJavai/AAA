@@ -2813,11 +2813,11 @@ http://134.19.150.42:81/udp/239.195.2.4:1234
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="ADULTO",Redlight
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ycj59kn7" group-title="ADULTO", Private
-http://84.243.221.164:8000/play/a019
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ycj59kn7" group-title="ADULTO", Private (Op 2)
 http://92.62.110.198:8000/play/a01m
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="ADULTO", Dorcel TV
-http://84.243.221.164:8000/play/a01p
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="ADULTO", Dorcel TV (Op 2)
 http://46.150.192.10:7777/play/9909/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="ADULTO", Frenchlover
@@ -2829,17 +2829,19 @@ http://92.62.110.198:8000/play/a03d
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="ADULTO", Evil Angel
 http://92.62.110.198:8000/play/a021
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="ADULTO", Evil Angel (Op 2)
-http://84.243.221.164:8000/play/a008
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y96w5do6" group-title="ADULTO", Satisfaction TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://savepic.net/7824814.png" group-title="ADULTO",SESTO SENSO TV 
-http://84.243.221.164:8000/play/a00d 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8v8wc3y" group-title="ADULTO",CENTOXCENTO TV
-http://84.243.221.164:8000/play/a00c
+http://37.9.0.201:8811
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="ADULTO",Dusk
+http://37.9.0.201:8890 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yboke6kw" group-title="ADULTO",Pink TV
-http://84.243.221.164:8000/play/a00u
+http://37.9.0.201:8889 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="ADULTO",PASSIONXXX
-http://84.243.221.164:8000/play/a00e
+http://37.9.0.201:8888
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9kmcv8p" group-title="ADULTO",PASSIEXXX
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y95gxur8" group-title="ADULTO",Eroxxx HD
