@@ -4,8 +4,6 @@
 Http://google.pt
 
 
-
-
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV
 
 #EXTINF:-1 tvg-id="HOT" tvg-logo="https://tinyurl.com/y8an9uxf" group-title="XTV", Hot
@@ -19,11 +17,11 @@ http://134.19.150.42:81/udp/239.195.2.4:1234
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ycj59kn7" group-title="XTV", Private
-http://84.243.221.164:8000/play/a019
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ycj59kn7" group-title="XTV", Private (Op 2)
 http://92.62.110.198:8000/play/a01m
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV
-http://84.243.221.164:8000/play/a01p
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV (Op 2)
 http://46.150.192.10:7777/play/9909/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="XTV", Frenchlover
@@ -35,17 +33,19 @@ http://92.62.110.198:8000/play/a03d
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel
 http://92.62.110.198:8000/play/a021
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel (Op 2)
-http://84.243.221.164:8000/play/a008
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y96w5do6" group-title="XTV", Satisfaction TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://savepic.net/7824814.png" group-title="XTV",SESTO SENSO TV 
-http://84.243.221.164:8000/play/a00d 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8v8wc3y" group-title="XTV",CENTOXCENTO TV
-http://84.243.221.164:8000/play/a00c
+http://37.9.0.201:8811
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk
+http://37.9.0.201:8890 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yboke6kw" group-title="XTV",Pink TV
-http://84.243.221.164:8000/play/a00u
+http://37.9.0.201:8889 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="XTV",PASSIONXXX
-http://84.243.221.164:8000/play/a00e
+http://37.9.0.201:8888
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9kmcv8p" group-title="XTV",PASSIEXXX
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y95gxur8" group-title="XTV",Eroxxx HD
@@ -192,8 +192,6 @@ http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8
 http://vod2t.xxxpanded.com/x3tv/index_wlan.m3u8
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",XXXPanded 2 (18+)
 http://vod2t.xxxpanded.com/x3tv2/index_wlan.m3u8
-
-
 
 
 
