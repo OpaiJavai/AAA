@@ -77,46 +77,20 @@ http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4311.m3u8
 http://94.63.107.131:8030/play/a00n
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV +
 http://94.63.107.131:8030/play/a00y
-#EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV + (Op 2)
-http://144.217.76.96:8003/live/moreira/moreira/1520.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV + (Op 3)
-http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4377.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
-http://144.217.76.96:8003/live/moreira/moreira/867.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD (Op 2)
-http://144.217.76.96:8003/live/moreira/moreira/858.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD (Op 3)
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/799.m3u8
+http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/5036.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
-http://144.217.76.96:8003/live/moreira/moreira/879.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD (Op 2)
-http://144.217.76.96:8003/live/moreira/moreira/1069.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD (Op 3)
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/798.m3u8
+http://pro213.com/live/promphan874/bo1l61/3003.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
-http://144.217.76.96:8003/live/moreira/moreira/876.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD (Op 2)
-http://144.217.76.96:8003/live/moreira/moreira/1070.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD (Op 3)
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/797.m3u8
+http://pro213.com/live/promphan874/bo1l61/3004.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
-http://144.217.76.96:8003/live/moreira/moreira/874.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD (Op 2)
-http://144.217.76.96:8003/live/moreira/moreira/1145.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD (Op 3)
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/796.m3u8
+http://pro213.com/live/promphan874/bo1l61/3005.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
-http://144.217.76.96:8003/live/moreira/moreira/1523.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD (Op 2)
-http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4369.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD (Op 3)
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1658.m3u8
+http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4369.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD
-http://144.217.76.96:8003/live/moreira/moreira/885.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD (Op 2)
 http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1111.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD (Op 3)
-http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4368.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD (Op 2)
+http://pro213.com/live/promphan874/bo1l61/3824.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A Bola TV
 http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4366.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV 
@@ -277,8 +251,6 @@ http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4292.m3u8
 http://212.34.244.28:7003/play/a00c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS (Op 2)
 http://92.249.68.106/15/812
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS (Op 3)
-http://31.130.19.28:81/udp/238.1.2.33:1234
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y84wb56t" tvg-id="0" group-title="PORTUGAL",MTV
 http://92.249.68.106/15/809
 #EXTINF:-1 tvg-logo="https://goo.gl/nPj2Q7" tvg-id="0" group-title="PORTUGAL",MTV LIVE
