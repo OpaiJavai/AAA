@@ -72,29 +72,31 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-logo="https://goo.gl/UWmNh1" tvg-id="RTPAfrica.pt" group-title="PORTUGAL",RTP AFRICA
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="PORTUGAL",24 KITCHEN
-http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4311.m3u8
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4311.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" group-title="PORTUGAL", FOOD NETWORK
 http://94.63.107.131:8030/play/a00n
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV +
 http://94.63.107.131:8030/play/a00y
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
 http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/5036.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD (Op 2)
+http://185.26.174.67:44444/play/a01j
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
-http://pro213.com/live/promphan874/bo1l61/3003.m3u8
+http://185.26.174.67:44444/play/a01a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
-http://pro213.com/live/promphan874/bo1l61/3004.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
-http://pro213.com/live/promphan874/bo1l61/3005.m3u8
+http://185.26.174.67:44444/play/a01c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
-http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4369.m3u8
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6245.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1111.m3u8
+http://185.26.174.67:44444/play/a002
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD (Op 2)
 http://pro213.com/live/promphan874/bo1l61/3824.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A Bola TV
-http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4366.m3u8
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4366.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV 
-http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4361.m3u8
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4361.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT
 http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4359.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="eurosport2.pt" group-title="PORTUGAL",EUROSPORT 2
@@ -192,9 +194,9 @@ http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="PORTUGAL",DISNEY CHANNEL
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4309.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="PORTUGAL",DISNEY CHANNEL (Op 2)
-http://iptvsbh.ddns.net:8003/live/moreira/moreira/1102.m3u8
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4309.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="PORTUGAL",DISNEY JUNIOR
-http://iptvsbh.ddns.net:8003/live/moreira/moreira/860.m3u8
+http://185.26.174.67:44444/play/a00q
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="PORTUGAL",DISNEY JUNIOR (Op 2)
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4308.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ml8o23f" tvg-id="" group-title="PORTUGAL",Mickey Mouse e os seus Amigos
@@ -202,35 +204,33 @@ http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4308.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="PORTUGAL",CARTOON NETWORK
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4307.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="PORTUGAL",CARTOON NETWORK (Op 2)
-http://iptvsbh.ddns.net:8003/live/moreira/moreira/1291.m3u8
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4307.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycvfj99x" tvg-id="" group-title="PORTUGAL",ZIG ZAG
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/smil:zigzag.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="PORTUGAL",PANDA
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4310.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="PORTUGAL",PANDA (Op 2)
-http://iptvsbh.ddns.net:8003/live/moreira/moreira/884.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="PORTUGAL",PANDA (Op 3)
-http://iptvsbh.ddns.net:8003/live/moreira/moreira/1436.m3u8
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4310.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="PORTUGAL",PANDA BIGGS
-http://iptvsbh.ddns.net:8003/live/moreira/moreira/1139.m3u8
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4304.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="PORTUGAL",PANDA BIGGS (Op 2)
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4304.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="nick" group-title="PORTUGAL",NICKELODEON
-http://iptvsbh.ddns.net:8003/live/moreira/moreira/1078.m3u8
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4305.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="nick" group-title="PORTUGAL",NICKELODEON (Op 2)
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4305.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SICK.pt" group-title="PORTUGAL",SIC K
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4301.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SICK.pt" group-title="PORTUGAL",SIC K (Op 2)
-http://iptvsbh.ddns.net:8003/live/moreira/moreira/1091.m3u8
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4301.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM" group-title="PORTUGAL",JIMJAM
-http://iptvsbh.ddns.net:8003/live/moreira/moreira/1300.m3u8
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4303.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM" group-title="PORTUGAL",JIMJAM (Op 2)
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4303.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BABYT" group-title="PORTUGAL",BABY TV
-http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4306.m3u8
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4306.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l5mg6h8" tvg-id="BABYT" group-title="PORTUGAL",Baby First
-http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/4302.m3u8
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4302.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydhaysn3" tvg-id="0" group-title="PORTUGAL",Retro Cartoon (BR)
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="PORTUGAL", VIRGIN TV
