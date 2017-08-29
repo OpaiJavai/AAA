@@ -2885,7 +2885,7 @@ http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="ADULTO",Girls 4 U
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s14.postimg.org/j2y2phyox/miamitv.png" group-title="ADULTO",Miami TV
-http://usaserver.miamitvchannel.com:1935/miamitv/smil:miamitv/playlist.m3u8
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7q9fert" tvg-id="" group-title="ADULTO",EVERY ON TV
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7q9fert" tvg-id="" group-title="ADULTO",EVERY ON TV 2
