@@ -2792,12 +2792,20 @@ http://46.150.192.10:7777/play/9909/index.m3u8
 http://91.211.143.214:3333/play/a006
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="ADULTO" , Hustler HD
 http://92.62.110.198:8000/play/a03d
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="ADULTO" , Hustler HD (Op 2)
+http://178.252.88.99:34040/udp/233.166.172.253:1234
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="ADULTO", Evil Angel
 http://92.62.110.198:8000/play/a021
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="ADULTO", Evil Angel (Op 2)
 http://37.9.0.201:8889
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8fxsflo" group-title="ADULTO", Babestation Extreme
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist_w1878679259.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://i63.tinypic.com/b7hrpg.png" group-title="ADULTO", XXX
+http://62.210.113.177:19000/udp/238.0.100.6:5000
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayk4x75" group-title="ADULTO", Candy Man
+http://media.anycaster.tv/candyman/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y84d3d8u" group-title="ADULTO", O-La-La
+http://178.252.88.99:34040/udp/233.166.172.157:1234
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y96w5do6" group-title="ADULTO", Satisfaction TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://savepic.net/7824814.png" group-title="ADULTO",SESTO SENSO TV 
@@ -2830,7 +2838,7 @@ http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ZELUfu" group-title="ADULTO",VISIT-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/ZELUfu" group-title="ADULTO",VISIT-X TV
+#EXTINF:-1 tvg-logo="https://goo.gl/ZELUfu" group-title="ADULTO",VISIT-X TV (Op 2)
 http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://apk2android.com//upload/icon/20150313/1426250744857.png" group-title="ADULTO",Ask
 
