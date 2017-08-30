@@ -2731,6 +2731,260 @@ http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
 http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", MADEIRA JARDIM DO MAR
 http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PARIS - TORRE EIFFEL 
+http://liveonearth.com:1935/edge0/CDG/playlist.m3u8?5842ba6cbbf0479c3de0a48f
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PISTA DE SKI
+http://stream.tmr.sk:1935/tmr/STREAM3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", NYC Times Square (47th & Broadway)
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Panda Cam 1
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", SLOPPY AO VIVO
+https://56eaaf2a94c81.streamlock.net/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1488776744.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", WEB CAM  IRISH  BAR
+http://52.2.51.240:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",TIMES SQUARE - STREET CAM (USA)
+http://video3.earthcam.com/fecnetwork/9974.flv/chunklist_w1658580428.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",TIMES SQUARE - SOUTH VIEW (USA)
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2130847334.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",BROOKLYN BRIDGE (USA)
+http://video3.earthcam.com/fecnetwork/3983.flv/chunklist_w1056811992.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",WALL STREET (USA)
+http://video3.earthcam.com/fecnetwork/chargingbull.flv/chunklist_w2086154480.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",5TH AVENUE (USA)
+http://video3.earthcam.com/fecnetwork/fridays_5th.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",HIGH LINE (USA)
+http://video3.earthcam.com/fecnetwork/7384.flv/chunklist_w1400134337.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",COLUMBUS CIRCLE (USA)
+http://video3.earthcam.com/fecnetwork/6427.flv/chunklist_w868328454.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",TIMES SQUARE 4K (USA)
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w1277341975.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",EIFFEL TOWER (FRANCIA)
+http://video3.earthcam.com/fecnetwork/eiffelcamHD.flv/chunklist_w258546935.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",ABBEY ROAD CROSSING (UK)
+http://video3.earthcam.com:1935/fecnetwork/AbbeyRoadHD1.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",COPACABANA BEACH (BRASIL)
+http://video3.earthcam.com/fecnetwork/6593.flv/chunklist_w1727149754.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",ALAMEDA Y NATANIEL COX (CHILE)
+http://200.75.19.171/uoct/17/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",ALAMEDA Y SANTA ROSA (CHILE)
+http://200.75.19.171/uoct/37/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",PLAZA ITALIA (CHILE)
+http://200.75.19.171/uoct/36/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",TOBALABA Y APOQUINDO (CHILE)
+http://200.75.19.171/uoct/30/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", UK - Ammanford - Wales
+mmsh://live.camstreams.com/csWelshjohn?MSWMExt=.asf
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Baden-baden]
+http://stream.livespotting.tv/windit-edge/vv124_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Bremen]
+http://stream.livespotting.tv/windit-edge/vv134_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Freiburg]
+http://stream.livespotting.tv/windit-edge/vv112_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Hamburg]
+http://stream.livespotting.tv/windit-edge/LS_b5586_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Heidelberg]
+http://stream.livespotting.tv/windit-edge/vv122_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Kassel]
+http://stream.livespotting.tv/windit-edge/vv125_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Postdam Hotel]
+http://stream.livespotting.tv/windit-edge/vv110_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Stralsund]
+http://stream.livespotting.tv/windit-edge/vv132_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Wuppertal]
+http://stream.livespotting.tv/windit-edge/vv117_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Aruba [Antilles]
+http://video3.earthcam.com:1935/fecnetwork/4646.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Blumenau [Camelodromo]
+http://www.streambnu.info:1935/blumenau8/default.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Blumenau [Giassi/FURB]
+http://www.streambnu.info:1935/blumenau5/default.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Blumenau [Neumarkt]
+http://www.streambnu.info:1935/blumenau7/default.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Blumenau [Teatro Carlos Gomes]
+http://www.streambnu.info:1935/blumenau2/default.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Espanha [Playa de Las Canteras]
+http://cdn-03.whatsupcams.com/hls/es_laspalmas3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Espanha [Playa del Carmen]
+http://cdn-03.whatsupcams.com/hls/es_barbate01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Espanha [Puerto de Sancti Petri]
+http://cdn-03.whatsupcams.com/hls/es_chiclana01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Espanha [Santa Maria del Mar]
+http://cdn-03.whatsupcams.com/hls/es_cadiz1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Foz do Iguacu [Cam 1]
+http://wowza.catve.com.br:1935/camera/camera.stream/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Foz do Iguacu [Cam 2]
+http://wowza.catve.com.br:1935/camera2/camera2.stream/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Foz do Iguacu [Ponte da Amizade]
+http://wowza.catve.com.br:1935/camera4/camera4.stream/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Franca [Catedral de Notre Dame]
+http://video3.earthcam.com:1935/fecnetwork/7962.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Hawaii [Maui]
+http://video3.earthcam.com:1935/fecnetwork/6426.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Irlanda [Dublin]
+http://video3.earthcam.com:1935/fecnetwork/4054.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Israel [Muro das Lamentacoes]
+http://EU40.cast-tv.com:1935/23595_LIVE_Kotel_Live/23595_LIVE_Kotel_Live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Bergamo]
+http://cdn-03.whatsupcams.com/hls/it_gazzaniga02.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Entrada de Caorle]
+http://cdn-03.whatsupcams.com/hls/it_caorle01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Perugia]
+http://cdn-03.whatsupcams.com/hls/it_perugia03.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Roma]
+http://cdn-03.whatsupcams.com/hls/it_roma02.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Tarvisio Unitta Square]
+http://cdn-03.whatsupcams.com/hls/it_tarvisio01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Veneza]
+http://cdn-03.whatsupcams.com/hls/it_venezia01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Vittoria Square Cathedral]
+http://cdn-03.whatsupcams.com/hls/it_gorizia4.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Japao [Akihabara]
+http://iphone-streaming.ustream.tv/uhls/5883040/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Japao [Enoshima]
+http://iphone-streaming.ustream.tv/uhls/11681141/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Japao [Nagareyama]
+http://iphone-streaming.ustream.tv/uhls/11241820/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Japao [Tokio]
+http://iphone-streaming.ustream.tv/uhls/18246025/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Los Angeles [Doggy Daycare]
+http://video3.earthcam.com:1935/fecnetwork/7710.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 1]
+http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist_w1954852334.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 2]
+http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist_w1105786569.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 3]
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist_w912634094.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 4]
+http://video3.earthcam.com:1935/fecnetwork/4717.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 5]
+http://video3.earthcam.com:1935/fecnetwork/3983.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 6]
+http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist_w1119314452.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Rio de Janeiro [Copacabana]
+http://video3.earthcam.com:1935/fecnetwork/6593.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Space Station [1]
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Space Station [2]
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Aquarium Cam]
+http://wse.planeta-online.tv:1935/live/channel_3/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Baia de San Francisco]
+http://video3.earthcam.com:1935/fecnetwork/6603.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Cats Meow Karaoke]
+http://video3.earthcam.com:1935/fecnetwork/4281.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Chicago]
+http://video3.earthcam.com:1935/fecnetwork/5187.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Daytona Beach]
+http://video3.earthcam.com:1935/fecnetwork/5718.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Florida Marina Bay]
+http://video3.earthcam.com:1935/fecnetwork/8891.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Irish Kevins Stage Cam]
+http://wowza.floridakeysmedia.com:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Irish Kevins Street Cam]
+http://wowza.floridakeysmedia.com:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Jackson Hole]
+http://video3.earthcam.com:1935/fecnetwork/6954.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Manhattan - Mulberry Street]
+http://video3.earthcam.com:1935/fecnetwork/5775.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Miami - Ocean Drive]
+http://video3.earthcam.com:1935/fecnetwork/5751.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Miami Beach]
+http://video3.earthcam.com:1935/fecnetwork/miamivishd1.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Miami South Beach]
+http://video3.earthcam.com:1935/fecnetwork/miamivishd7.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Missouri]
+http://video3.earthcam.com:1935/fecnetwork/meprd_garch.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Monterey Bay Aquarium]
+http://iphone-streaming.ustream.tv/uhls/9600798/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [New Orleans]
+http://video3.earthcam.com:1935/fecnetwork/4281.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Niagara Falls]
+http://video3.earthcam.com:1935/fecnetwork/4559.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [North Carolina Cours Beach]
+http://192.241.250.62:1935/live//kb.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Red Rock Mountain]
+http://video3.earthcam.com:1935/fecnetwork/8620.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [San Francisco]
+http://iphone-streaming.ustream.tv/uhls/12619575/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Santa Monica]
+http://video3.earthcam.com:1935/fecnetwork/6253.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Schooners Hill Bar]
+http://media3.tripsmarter.com:1935/schoonersbarHDCam485687461365/schbar/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Sloppy Joes Bar Cam]
+http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Sloppy Joes Street Cam]
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [South Carolina Folly Beach]
+http://208.43.68.139:1935/surfchex//follybeach-super/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Telluride Village]
+http://b6.hdrelay.com:1935/camera/CID_YAXA00000095/relay/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Tumulo de Andy Warhol]
+http://video3.earthcam.com:1935/fecnetwork/5595.flv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Washington National Mall]
+http://video3.earthcam.com:1935/fecnetwork/7322.flv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Palmiye Beach Hotel (Youtube)
 https://www.youtube.com/watch?v=teAvmnyW7Ms
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/youtube-logo-png-20.png" group-title="WEBCAMS", Santa Monica Beach (Youtube)
