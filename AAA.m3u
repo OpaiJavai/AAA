@@ -74,11 +74,9 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="PORTUGAL",24 KITCHEN
 http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4311.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" group-title="PORTUGAL", FOOD NETWORK
-http://94.63.107.131:8030/play/a00n
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV +
 http://94.63.107.131:8030/play/a00y
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 SC
-http://sharecast.eu/embed.php?ch=live1-rbi6c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
 http://www.painelpro.net:8000/live/jo7G1miXGK/qB1hBmVPvS/5036.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD (Op 2)
