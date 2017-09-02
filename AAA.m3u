@@ -79,6 +79,8 @@ http://212.178.96.210:3139/play/a06a
 http://185.26.174.67:44444/play/a01a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
 http://212.178.96.210:3139/play/a06b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD (Op 2)
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/439.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
 http://212.178.96.210:3139/play/a06u
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD (Op 2)
@@ -86,7 +88,7 @@ http://185.26.174.67:44444/play/a01c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
 http://212.178.96.210:3139/play/a06p
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD (Op 2)
-
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/441.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD
 http://212.178.96.210:3139/play/a06f
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HD (Op 2)
@@ -96,15 +98,15 @@ http://212.178.96.210:3139/play/a04v
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV 
 http://212.178.96.210:3139/play/a06r
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT
-
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1482.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="eurosport2.pt" group-title="PORTUGAL",EUROSPORT 2
-
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1483.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/m5a5vj3" tvg-id="0" group-title="PORTUGAL",Eurosport 2 Xtra
 http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2762.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mgjb999" tvg-id="0" group-title="PORTUGAL",Eurosport News
 
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV" group-title="PORTUGAL",Fuel TV
-
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1470.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" tvg-id="FightNetwork" group-title="PORTUGAL",KOMBAT SPORT
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4687.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycudcrgh" tvg-id="FightBox" group-title="PORTUGAL",FightBox HD 
@@ -348,9 +350,9 @@ http://212.178.96.210:3139/play/a041
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="PORTUGAL",ODISSEIA
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="E" group-title="PORTUGAL",E! Entertainment
-
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/427.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id="AE" group-title="PORTUGAL",A&E
-
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1475.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="PORTUGAL",TLC
 http://212.178.96.210:3139/play/a06l
 #EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="PORTUGAL",TLC (Op 2)
