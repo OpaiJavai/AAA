@@ -3101,10 +3101,14 @@ http://91.211.143.214:3333/play/a006
 http://92.62.110.198:8000/play/a03d
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="ADULTO" , Hustler HD (Op 2)
 http://178.252.88.99:34040/udp/233.166.172.253:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="ADULTO" , Hustler HD (Op 3)
+http://78.111.176.132:8081
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="ADULTO", Evil Angel
 http://92.62.110.198:8000/play/a021
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="ADULTO", Evil Angel (Op 2)
 http://37.9.0.201:8889
+#EXTINF:-1,tvg-id=""tvg-logo="https://tinyurl.com/y95gxur8" group-title="ADULTO", VIVID TOUCH
+http://84.243.221.164:8000/play/a02j
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8fxsflo" group-title="ADULTO", Babestation Extreme
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist_w1878679259.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://i63.tinypic.com/b7hrpg.png" group-title="ADULTO", XXX
