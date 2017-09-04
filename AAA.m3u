@@ -77,6 +77,8 @@ http://212.178.96.210:3139/play/a069
 http://euro.mysoltv.com:1935/live/SPORT_TV1_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD (Op 3)
 http://185.26.174.67:44444/play/a01j
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD SD
+rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
 http://212.178.96.210:3139/play/a06a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD (Op 2)
