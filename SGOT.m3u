@@ -9,7 +9,7 @@ http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/a3e490a3.mp4
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/8cba4b24.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9spmac5" group-title="Game of Thrones - T 1 ",1x3GoT- Lord Snow
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/dc79d9b8.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9spmac5" group-title="Game of Thrones - T 1 ",1x4GoT- Cripples, Bastards, and Broken Things
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9spmac5" group-title="Game of Thrones - T 1 ",1x4GoT- Cripples, Bastards and Broken Things
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/1620abc5.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9spmac5" group-title="Game of Thrones - T 1 ",1x5GoT- The Wolf and the Lion
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/9a1377c2.mp4
@@ -49,7 +49,7 @@ http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/3b664093.mp4
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9gxx2xk" group-title="Game of Thrones - T 3 ",3x1GoT- Valar Dohaeris
 http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/GMOFTRS03EP01.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9gxx2xk" group-title="Game of Thrones - T 3 ",3x2GoT- Dark Wings, Dark Words
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9gxx2xk" group-title="Game of Thrones - T 3 ",3x2GoT- Dark Wings Dark Words
 http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/GMOFTRS03EP02.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9gxx2xk" group-title="Game of Thrones - T 3 ",3x3GoT- Walk of Punishment
 http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/GMOFTRS03EP03.mp4
@@ -93,7 +93,7 @@ http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/GMOFTRS04EP09.mp4
 http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/GMOFTRS04EP10.mp4
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y6ue257f" group-title="Game of Thrones - T 5 ",5x0GoT-Pilot
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6ue257f" group-title="Game of Thrones - T 5 ",5x0GoT- Pilot
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRS05EP00.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y6ue257f" group-title="Game of Thrones - T 5 ",5x1GoT- The Wars to Come
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRS05EP01.mp4
