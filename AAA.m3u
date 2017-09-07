@@ -2451,6 +2451,8 @@ Http://google.pt
 
 
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://tinyurl.com/y84w2pow" group-title="ADULTO", Playboy TV
+http://185.22.78.83:8120/play/a004
+#EXTINF:-1 tvg-id="PLAY" tvg-logo="https://tinyurl.com/y84w2pow" group-title="ADULTO", Playboy TV (Op 2)
 http://77.235.14.92:8001/play/a014
 #EXTINF:-1 tvg-id="HOT" tvg-logo="https://tinyurl.com/y8an9uxf" group-title="ADULTO", Hot
 
@@ -2458,6 +2460,8 @@ http://77.235.14.92:8001/play/a014
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="ADULTO", Brazzers
 http://134.19.150.42:81/udp/239.195.2.4:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="ADULTO", Brazzers (Op 2)
+http://176.51.101.13:1234/udp/225.54.23.158:5000
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="ADULTO",Redlight
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="ADULTO",Redlight (Op 2)
@@ -2468,26 +2472,22 @@ http://92.62.110.198:8000/play/a01m
 http://46.150.192.10:7777/play/9909/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="ADULTO", Frenchlover
 http://91.211.143.214:3333/play/a006
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="ADULTO", Frenchlover (Op 2)
+http://95.28.79.213:34040/udp/233.33.221.36:5050
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="ADULTO" , Hustler HD
-http://92.62.110.198:8000/play/a03d
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="ADULTO" , Hustler HD (Op 2)
 http://178.252.88.99:34040/udp/233.166.172.253:1234
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="ADULTO" , Hustler HD (Op 3)
-http://78.111.176.132:8081
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="ADULTO", Evil Angel
 http://92.62.110.198:8000/play/a021
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="ADULTO", Evil Angel (Op 2)
 http://37.9.0.201:8889
-#EXTINF:-1,tvg-id=""tvg-logo="https://tinyurl.com/y95gxur8" group-title="ADULTO", VIVID TOUCH
-http://84.243.221.164:8000/play/a02j
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8fxsflo" group-title="ADULTO", Babestation Extreme
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist_w1878679259.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://i63.tinypic.com/b7hrpg.png" group-title="ADULTO", XXX
 http://62.210.113.177:19000/udp/238.0.100.6:5000
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayk4x75" group-title="ADULTO", Candy Man
-http://media.anycaster.tv/candyman/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y84d3d8u" group-title="ADULTO", O-La-La
 http://178.252.88.99:34040/udp/233.166.172.157:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y84d3d8u" group-title="ADULTO", O-La-La (Op 2)
+http://176.51.101.13:1234/udp/225.54.23.160:5000
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y96w5do6" group-title="ADULTO", Satisfaction TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://savepic.net/7824814.png" group-title="ADULTO",SESTO SENSO TV 
@@ -2503,6 +2503,93 @@ http://37.9.0.201:8888
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9kmcv8p" group-title="ADULTO",PASSIEXXX
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y95gxur8" group-title="ADULTO",Eroxxx HD
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 01
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-15/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 02
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-16/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 03 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-17/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 04 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-18/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 05 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-21/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 6
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-26/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 07 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-27/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 08
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-28/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 9
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-31/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 10 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-36/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 11 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-45/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 12 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-47/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 13 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-48/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 14
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-49/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 15 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-50/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 16 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-51/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 17 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-52/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 18 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-53/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 19 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-54/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 20 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-63/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 21 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-64/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 22 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-68/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", NHOT 23
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-70/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 24 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-71/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 25 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-73/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 26 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-74/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 27
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-75/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 28
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-76/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 29
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-78/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 30
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-79/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 31
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-80/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 32 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-92/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 33
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-105/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 34
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-107/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT 35
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-108/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-19/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT X
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-30/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT XXX
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-37/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT Erotic HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-72/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", HOT Ero
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-66/0/pc.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", Erotic
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-77/0/pc.m3u8
+
 
 #EXTINF:-1,tvg-id=""tvg-logo="https://tinyurl.com/y95gxur8" group-title="ADULTO", Claro Adulto 18
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
@@ -2526,6 +2613,8 @@ http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://iptv-ural.narod.ru/images/25.png" group-title="ADULTO", Русскаја ночь
 http://78.111.176.132:8082
+#EXTINF:-1 tvg-id="" tvg-logo="http://iptv-ural.narod.ru/images/25.png" group-title="ADULTO", Русскаја ночь (Op 2)
+http://176.51.101.13:1234/udp/225.54.23.156:5000
 #EXTINF:1 tvg-logo="https://tinyurl.com/yd8cw47j" group-title="ADULTO",SUPERONE+18
 
 #EXTINF:-1 tvg-logo="https://goo.gl/j2ppNr" group-title="ADULTO",BRASILEIRINHAS TV 
@@ -2650,76 +2739,6 @@ http://vod2t.xxxpanded.com/x3tv2/index_wlan.m3u8
 
 
 
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
--------------------------------------------------------------------------------------------------------------------------
-
-
-#EXTINF:-1 tvg-logo="http://cdn.warer.com/media/logo-sopcast.png" group-title="SOPCAST", SOPCAST
-http://google.com
-
-
-
-
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 1 Sopcast 	
-sop://broker.sopcast.com:3912/252477
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 2 Sopcast
-sop://broker.sopcast.com:3912/252478
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 3 Sopcast
-sop://broker.sopcast.com:3912/151078
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 4 Sopcast
-sop://broker.sopcast.com:3912/151079
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 5 Sopcast
-sop://broker.sopcast.com:3912/252550
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 6 Sopcast
-sop://broker.sopcast.com:3912/255766
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 7 Sopcast
-sop://broker.sopcast.com:3912/255767
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 8 Sopcast
-sop://broker.sopcast.com:3912/255768
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 9 Sopcast
-sop://broker.sopcast.com:3912/255769
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 10 Sopcast
-sop://broker.sopcast.com:3912/255770
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 11 Sopcast
-sop://broker.sopcast.com:3912/256470
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 13 Sopcast
-sop://broker.sopcast.com:3912/258920
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 14 Sopcast
-sop://broker.sopcast.com:3912/258921
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 15 Sopcast
-sop://broker.sopcast.com:3912/258922
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 16 Sopcast
-sop://broker.sopcast.com:3912/258923
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 17 Sopcast
-sop://broker.sopcast.com:3912/258924
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 18 Sopcast
-sop://broker.sopcast.com:3912/258925
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 19 Sopcast
-sop://broker.sopcast.com:3912/258926
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 20 Sopcast
-sop://broker.sopcast.com:3912/258927
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 29 Sopcast
-sop://broker.sopcast.com:3912/258928
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 30 Sopcast
-sop://broker.sopcast.com:3912/258929
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 31 Sopcast
-sop://broker.sopcast.com:3912/261184
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 32 Sopcast
-sop://broker.sopcast.com:3912/261185
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 33 Sopcast
-sop://broker.sopcast.com:3912/259383
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 34 Sopcast
-sop://broker.sopcast.com:3912/259509
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 35 Sopcast
-sop://broker.sopcast.com:3912/261182
-#EXTINF:-1 tvg-logo="http://tvron.net/static/canal/arenavision.png" tvg-id="0" group-title="SOPCAST", Arenavision 36 Sopcast
-sop://broker.sopcast.com:3912/261183
 
 
 
