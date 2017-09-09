@@ -1,8 +1,5 @@
 #EXTM3U
 
-
-
-
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1 HD
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1
