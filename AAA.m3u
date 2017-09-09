@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTM3U
+
 
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1 HD
@@ -432,8 +432,6 @@ ________________________________________________________________________________
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yce6stcq" group-title="ACESTREAM", ACESTREAM
-http://google.com
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="ACESTREAM",SPORT TV +
@@ -481,8 +479,7 @@ acestream://9bd1a023b72843c73b33915849587252dc9a9d8e
 
 
 
-#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/6229ac75-23b4-40b8-b663-471be537a197/Animation_icon-icons.com_61707.png" group-title="ANIMACAO", ANIMACAO
-Http://google.pt
+
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7hzal9t" type="MOVIE" group-title="ANIMACAO", Descendentes 1
@@ -724,14 +721,11 @@ https://cld.pt/dl/download/0664bb6b-b037-4cfd-814a-4ba9d1438cf8/The.Secret.Life.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="http://cdn.funkidslive.com/wp-content/themes/funkidslive/_img/logo.png" group-title="SERIES KIDS", SERIES KIDS
-Http://google.pt
 
 
 
 #EXTINF:-1 tvg-logo="http://www.ajaguiar.com/wp-content/uploads/2016/04/FI-16-010.png" group-title="SERIES KIDS", PATRULHA PATA - T 2
 Http://google.pt
-
 
 #EXTINF:-1 tvg-logo="http://www.ajaguiar.com/wp-content/uploads/2016/04/FI-16-010.png" group-title="SERIES KIDS", PATRULHA PATA Ep. 1 A
 https://cld.pt/dl/download/224123ac-83c6-4824-996d-0df37bb10658/Patrulha%20Pata%20S02E01A%20-%20Os%20c%C3%A3es%20salvam%20os%20pinguins.mp4
@@ -836,7 +830,6 @@ https://cld.pt/dl/download/dd516b33-0e1f-4b2d-95b9-4ef15cbf5fd7/Patrulha%20Pata%
 #EXTINF:-1 tvg-logo="http://www.revistafashionnews.com/dataweb/editor3/55/13032017/urso.jpg" group-title="SERIES KIDS", Masha e o Urso - T 1
 Http://google.pt
 
-
 #EXTINF:-1 tvg-logo="http://www.revistafashionnews.com/dataweb/editor3/55/13032017/urso.jpg" group-title="SERIES KIDS", Masha e o Urso - Ep.  1 
 https://cld.pt/dl/download/26e09e66-1031-4e94-a9c7-135a3a043a78/Masha%20e%20o%20Urso%20S01E01%20-%20Como%20se%20conheceram.mp4
 #EXTINF:-1 tvg-logo="http://www.revistafashionnews.com/dataweb/editor3/55/13032017/urso.jpg" group-title="SERIES KIDS", Masha e o Urso - Ep.  2 
@@ -896,7 +889,6 @@ https://cld.pt/dl/download/64e48ad0-8acd-4078-906d-ec0603428302/Masha%20e%20o%20
 #EXTINF:-1 tvg-logo="http://almanaquevirtual.com.br/wp-content/uploads/2016/01/MarshaeoUrso.jpg" group-title="SERIES KIDS", Masha e o Urso - T 2
 Http://google.pt
 
-
 #EXTINF:-1 tvg-logo="http://almanaquevirtual.com.br/wp-content/uploads/2016/01/MarshaeoUrso.jpg" group-title="SERIES KIDS", Masha e o Urso -  Ep.  1 
 https://cld.pt/dl/download/d5a971c5-6920-4f67-a5f7-6d4dd42aeb0c/Masha%20e%20o%20Urso%20S02E01%20-%20O%20quadro%20perfeito.mp4
 #EXTINF:-1 tvg-logo="http://almanaquevirtual.com.br/wp-content/uploads/2016/01/MarshaeoUrso.jpg" group-title="SERIES KIDS", Masha e o Urso -  Ep.  2 
@@ -955,7 +947,6 @@ https://cld.pt/dl/download/e3798763-58d5-4c39-8235-317220ab845a/Masha%20e%20o%20
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/pt-pt_dj_props_mickey_n_eff8fc99.png?region=0%2C0%2C343%2C483" group-title="SERIES KIDS", A casa do Mickey Mouse
 Http://google.pt
 
-
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/pt-pt_dj_props_mickey_n_eff8fc99.png?region=0%2C0%2C343%2C483" group-title="SERIES KIDS", A casa do Mickey Mouse O Gafanhoto da Margarida
 https://cld.pt/dl/download/2901ed81-c0be-461d-a55e-fb2b41286be0/A%20Casa%20do%20Mickey%20Mouse%20-%20Mickey%20Vamos%20Acampar%20-%20Epis%C3%B3dio%2001%20-%20O%20Gafanhoto%20da%20Margarida%20-%20Title%2021.avi
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/pt-pt_dj_props_mickey_n_eff8fc99.png?region=0%2C0%2C343%2C483" group-title="SERIES KIDS", A casa do Mickey Mouse Margarida pelos Ares
@@ -972,8 +963,6 @@ https://cld.pt/dl/download/4078c274-3ae6-493d-bde9-4eaff3864c46/A%20Casa%20do%20
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="SERIES KIDS", Dragon Ball Super
 Http://google.pt
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="SERIES KIDS", Dragon Ball Super - Ep. 1
 https://cld.pt/dl/download/0423cebb-e970-42af-adbf-35b461aa8ebc/Dragon%20Ball%20Super%20Dubbed%20PT%20EP1%20HDTV%201080i%20x264.mp4
@@ -1051,8 +1040,6 @@ https://cld.pt/dl/download/542d7bdf-d301-4fc0-b6e9-6365e4fdf3e7/Dragon%20Ball%20
 #EXTINF:-1 tvg-logo="http://cliparts.co/cliparts/qiB/ojX/qiBojX5gT.png" group-title="SERIES KIDS", Hello Kitty - 
 Http://google.pt
 
-
-
 #EXTINF:-1 tvg-logo="http://cliparts.co/cliparts/qiB/ojX/qiBojX5gT.png" group-title="SERIES KIDS", Hello Kitty -  O Baloiço Quebra-Nozes
 https://cld.pt/dl/download/832dc4ba-d3bf-4ce9-ae8b-2f2bc3ebdb09/Hello%20Kitty%20-%20V01-E01%20-%20O%20Baloi%C3%A7o%20Quebra-Nozes.avi
 #EXTINF:-1 tvg-logo="http://cliparts.co/cliparts/qiB/ojX/qiBojX5gT.png" group-title="SERIES KIDS", Hello Kitty -   Os Leguminóculos de Sol 
@@ -1103,7 +1090,6 @@ https://cld.pt/dl/download/48748a8c-b19b-4ce1-968c-5c6d8fccd384/Hello%20Kitty%20
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lu7nd5s" group-title="SERIES KIDS",Tom Sawyer
-
 
 #EXTINF:-1,radio="true" tvg-id="n/a" tvg-logo="https://tinyurl.com/lu7nd5s" group-title="SERIES KIDS",Tom_Sawyer Ep01 O meu amigo Huck-Ike [/COLOR]
 https://vimeo.com/147175166
@@ -1213,8 +1199,6 @@ https://www.youtube.com/watch?v=U8VQ-3rA0ek
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/51346dff-f8c9-47c4-9793-a12f95c3fb3d/FILMES.png" group-title="FILMES", FILMES
-Http://google.pt
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7m6cs7d" group-title="FILMES",Fast & Furious 8
@@ -1771,9 +1755,6 @@ https://userscloud.com/vidembed-yxrapr0k1cpf.mp4
 -------------------------------------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="http://www.cinemaportugues.info/wp-content/uploads/2013/12/Cinema-Portugues-logo.png" group-title="FILMES PORTUGUESES", FILMES PORTUGUESES
-Http://google.pt
-
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-H0Y5H21kCaQ/VAxgEA-gPGI/AAAAAAAAAOA/rZjS0caWbtM/s1600/Balas%2Be%2BBolinhos.jpg"  group-title="FILMES PORTUGUESES", Balas e bolinhos 1
@@ -2034,8 +2015,6 @@ https://cld.pt/dl/download/2724a396-a913-4cff-b100-54bef8953bfc/Viagem%20A%20Por
 
 -------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", WEBCAMS
-Http://google.pt
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", LEÇA DA PALMEIRA
@@ -2210,178 +2189,120 @@ http://cdn-03.whatsupcams.com/hls/es_laspalmas3.m3u8
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Espanha [Playa del Carmen]
 http://cdn-03.whatsupcams.com/hls/es_barbate01.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Espanha [Puerto de Sancti Petri]
 http://cdn-03.whatsupcams.com/hls/es_chiclana01.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Espanha [Santa Maria del Mar]
 http://cdn-03.whatsupcams.com/hls/es_cadiz1.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Foz do Iguacu [Cam 1]
 http://wowza.catve.com.br:1935/camera/camera.stream/live.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Foz do Iguacu [Cam 2]
 http://wowza.catve.com.br:1935/camera2/camera2.stream/live.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Foz do Iguacu [Ponte da Amizade]
 http://wowza.catve.com.br:1935/camera4/camera4.stream/live.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Franca [Catedral de Notre Dame]
 http://video3.earthcam.com:1935/fecnetwork/7962.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Hawaii [Maui]
 http://video3.earthcam.com:1935/fecnetwork/6426.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Irlanda [Dublin]
 http://video3.earthcam.com:1935/fecnetwork/4054.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Israel [Muro das Lamentacoes]
 http://EU40.cast-tv.com:1935/23595_LIVE_Kotel_Live/23595_LIVE_Kotel_Live/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Bergamo]
 http://cdn-03.whatsupcams.com/hls/it_gazzaniga02.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Entrada de Caorle]
 http://cdn-03.whatsupcams.com/hls/it_caorle01.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Perugia]
 http://cdn-03.whatsupcams.com/hls/it_perugia03.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Roma]
 http://cdn-03.whatsupcams.com/hls/it_roma02.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Tarvisio Unitta Square]
 http://cdn-03.whatsupcams.com/hls/it_tarvisio01.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Veneza]
 http://cdn-03.whatsupcams.com/hls/it_venezia01.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Vittoria Square Cathedral]
 http://cdn-03.whatsupcams.com/hls/it_gorizia4.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Japao [Akihabara]
 http://iphone-streaming.ustream.tv/uhls/5883040/streams/live/iphone/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Japao [Enoshima]
 http://iphone-streaming.ustream.tv/uhls/11681141/streams/live/iphone/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Japao [Nagareyama]
 http://iphone-streaming.ustream.tv/uhls/11241820/streams/live/iphone/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Japao [Tokio]
 http://iphone-streaming.ustream.tv/uhls/18246025/streams/live/iphone/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Los Angeles [Doggy Daycare]
 http://video3.earthcam.com:1935/fecnetwork/7710.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 1]
 http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist_w1954852334.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 2]
 http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist_w1105786569.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 3]
 http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist_w912634094.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 4]
 http://video3.earthcam.com:1935/fecnetwork/4717.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 5]
 http://video3.earthcam.com:1935/fecnetwork/3983.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 6]
 http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist_w1119314452.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Rio de Janeiro [Copacabana]
 http://video3.earthcam.com:1935/fecnetwork/6593.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Space Station [1]
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Space Station [2]
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Aquarium Cam]
 http://wse.planeta-online.tv:1935/live/channel_3/chunks.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Baia de San Francisco]
 http://video3.earthcam.com:1935/fecnetwork/6603.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Cats Meow Karaoke]
 http://video3.earthcam.com:1935/fecnetwork/4281.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Chicago]
 http://video3.earthcam.com:1935/fecnetwork/5187.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Daytona Beach]
 http://video3.earthcam.com:1935/fecnetwork/5718.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Florida Marina Bay]
 http://video3.earthcam.com:1935/fecnetwork/8891.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Irish Kevins Stage Cam]
 http://wowza.floridakeysmedia.com:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Irish Kevins Street Cam]
 http://wowza.floridakeysmedia.com:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Jackson Hole]
 http://video3.earthcam.com:1935/fecnetwork/6954.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Manhattan - Mulberry Street]
 http://video3.earthcam.com:1935/fecnetwork/5775.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Miami - Ocean Drive]
 http://video3.earthcam.com:1935/fecnetwork/5751.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Miami Beach]
 http://video3.earthcam.com:1935/fecnetwork/miamivishd1.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Miami South Beach]
 http://video3.earthcam.com:1935/fecnetwork/miamivishd7.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Missouri]
 http://video3.earthcam.com:1935/fecnetwork/meprd_garch.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Monterey Bay Aquarium]
 http://iphone-streaming.ustream.tv/uhls/9600798/streams/live/iphone/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [New Orleans]
 http://video3.earthcam.com:1935/fecnetwork/4281.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Niagara Falls]
 http://video3.earthcam.com:1935/fecnetwork/4559.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [North Carolina Cours Beach]
 http://192.241.250.62:1935/live//kb.stream/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Red Rock Mountain]
 http://video3.earthcam.com:1935/fecnetwork/8620.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [San Francisco]
 http://iphone-streaming.ustream.tv/uhls/12619575/streams/live/iphone/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Santa Monica]
 http://video3.earthcam.com:1935/fecnetwork/6253.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Schooners Hill Bar]
 http://media3.tripsmarter.com:1935/schoonersbarHDCam485687461365/schbar/chunklist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Sloppy Joes Bar Cam]
 http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Sloppy Joes Street Cam]
 http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [South Carolina Folly Beach]
 http://208.43.68.139:1935/surfchex//follybeach-super/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Telluride Village]
 http://b6.hdrelay.com:1935/camera/CID_YAXA00000095/relay/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Tumulo de Andy Warhol]
 http://video3.earthcam.com:1935/fecnetwork/5595.flv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Washington National Mall]
 http://video3.earthcam.com:1935/fecnetwork/7322.flv/playlist.m3u8
 
@@ -2424,11 +2345,6 @@ https://www.youtube.com/watch?v=E41HTrLjdT
 
 
 
-#EXTINF:-1 tvg-logo="http://begin-english.ru/img/upload/2/f/7/7/d989510b55.png" group-title="ADULTO", TV XXX
-Http://google.pt
-
-
-
 
 
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://tinyurl.com/y84w2pow" group-title="ADULTO", Playboy TV
@@ -2436,7 +2352,7 @@ http://185.22.78.83:8120/play/a004
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://tinyurl.com/y84w2pow" group-title="ADULTO", Playboy TV (Op 2)
 http://77.235.14.92:8001/play/a014
 #EXTINF:-1 tvg-id="HOT" tvg-logo="https://tinyurl.com/y8an9uxf" group-title="ADULTO", Hot
-
+http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4281.m3u8
 #EXTINF:-1 tvg-id="venus" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="ADULTO", Venus
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="ADULTO", Brazzers
