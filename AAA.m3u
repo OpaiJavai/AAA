@@ -51,8 +51,6 @@ http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/WhvCo4" tvg-id="TVIFiccao.pt" group-title="PORTUGAL",TVI FICCAO
 http://4.31.30.145:9004
 #EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="TVIREAL" group-title="PORTUGAL",TVI REALITY
-
-#EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="TVIREAL" group-title="PORTUGAL",TVI REALITY (Op 2)
 http://4.31.30.145:9040
 #EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="PORTUGAL", PORTO CANAL 
 http://213.13.26.11:1935/live/portocanal/CumCatano.m3u8
@@ -65,6 +63,8 @@ http://193.70.93.199:8000/live/Carlos/Carlos/4311.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" group-title="PORTUGAL", FOOD NETWORK
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV +
+http://www.painelpro.net:8000/live/Bruno/Bruno/4377.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV + (Op 2)
 http://193.70.93.199:8000/live/Carlos/Carlos/4377.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 FHD
 http://193.70.93.199:8000/live/Carlos/Carlos/6314.m3u8
@@ -72,18 +72,30 @@ http://193.70.93.199:8000/live/Carlos/Carlos/6314.m3u8
 http://193.70.93.199:8000/live/Carlos/Carlos/4376.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HQ
 http://193.70.93.199:8000/live/Carlos/Carlos/5036.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HQ (Op 2)
+http://www.painelpro.net:8000/live/Bruno/Bruno/5036.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 
+http://www.painelpro.net:8000/live/Bruno/Bruno/4376.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 SD
 http://topchantv.net:3456/live/Stalker/Stalker/837.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 SD (Op 2)
 rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
 http://193.70.93.199:8000/live/Carlos/Carlos/4373.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 
+http://www.painelpro.net:8000/live/Bruno/Bruno/4374.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
 http://193.70.93.199:8000/live/Carlos/Carlos/4371.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 
+http://www.painelpro.net:8000/live/Bruno/Bruno/4372.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
 http://193.70.93.199:8000/live/Carlos/Carlos/4692.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 
+http://www.painelpro.net:8000/live/Bruno/Bruno/4370.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
 http://193.70.93.199:8000/live/Carlos/Carlos/6245.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 
+http://www.painelpro.net:8000/live/Bruno/Bruno/4369.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV FHD
 http://193.70.93.199:8000/live/Carlos/Carlos/4367.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="PORTUGAL", BENFICA TV HQ
@@ -140,12 +152,20 @@ http://193.70.93.199:8000/live/Carlos/Carlos/4365.m3u8
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1 
 http://193.70.93.199:8000/live/Carlos/Carlos/4350.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1 (Op 2)
+http://www.painelpro.net:8000/live/Bruno/Bruno/4350.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2 
 http://193.70.93.199:8000/live/Carlos/Carlos/4349.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2 (Op 2)
+http://www.painelpro.net:8000/live/Bruno/Bruno/4349.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3
 http://193.70.93.199:8000/live/Carlos/Carlos/4348.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3 (Op 2)
+http://www.painelpro.net:8000/live/Bruno/Bruno/4348.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 4
 http://193.70.93.199:8000/live/Carlos/Carlos/4347.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 4 (Op 2)
+http://www.painelpro.net:8000/live/Bruno/Bruno/4347.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="PORTUGAL",TVSeries HD
 http://193.70.93.199:8000/live/Carlos/Carlos/4341.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="PORTUGAL",HOLLYWOOD HD
@@ -2349,13 +2369,19 @@ https://www.youtube.com/watch?v=E41HTrLjdT
 
 
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://tinyurl.com/y84w2pow" group-title="ADULTO", Playboy TV
-http://185.22.78.83:8120/play/a004
+http://www.painelpro.net:8000/live/Bruno/Bruno/4283.m3u8
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://tinyurl.com/y84w2pow" group-title="ADULTO", Playboy TV (Op 2)
 http://77.235.14.92:8001/play/a014
+#EXTINF:-1 tvg-id="PLAY" tvg-logo="https://tinyurl.com/y84w2pow" group-title="ADULTO", Playboy TV (Op 3)
+http://185.22.78.83:8120/play/a004
 #EXTINF:-1 tvg-id="HOT" tvg-logo="https://tinyurl.com/y8an9uxf" group-title="ADULTO", Hot
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4281.m3u8
+#EXTINF:-1 tvg-id="HOT" tvg-logo="https://tinyurl.com/y8an9uxf" group-title="ADULTO", Hot (Op 2)
+http://www.painelpro.net:8000/live/Bruno/Bruno/4281.m3u8
 #EXTINF:-1 tvg-id="venus" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="ADULTO", Venus
-
+http://www.painelpro.net:8000/live/Bruno/Bruno/4282.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", STARS TV
+http://www.painelpro.net:8000/live/Bruno/Bruno/7141.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="ADULTO", Brazzers
 http://134.19.150.42:81/udp/239.195.2.4:1234
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="ADULTO", Brazzers (Op 2)
@@ -2378,8 +2404,9 @@ http://178.252.88.99:34040/udp/233.166.172.253:1234
 http://92.62.110.198:8000/play/a021
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="ADULTO", Evil Angel (Op 2)
 http://37.9.0.201:8889
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8fxsflo" group-title="ADULTO", Babestation Extreme
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist_w1878679259.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="ADULTO", VIVID TOUCH
+http://www.painelpro.net:8000/live/Bruno/Bruno/7140.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://i63.tinypic.com/b7hrpg.png" group-title="ADULTO", XXX
 http://62.210.113.177:19000/udp/238.0.100.6:5000
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y84d3d8u" group-title="ADULTO", O-La-La
@@ -2394,14 +2421,17 @@ http://176.51.101.13:1234/udp/225.54.23.160:5000
 http://37.9.0.201:8811
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="ADULTO",Dusk
 http://37.9.0.201:8890
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yboke6kw" group-title="ADULTO",Pink TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yboke6kw" group-title="ADULTO",Pink O TV
+http://www.painelpro.net:8000/live/Bruno/Bruno/7154.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yboke6kw" group-title="ADULTO",Pink O TV (Op 2)
 http://37.9.0.201:8889 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="ADULTO",PASSIONXXX
 http://37.9.0.201:8888
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9kmcv8p" group-title="ADULTO",PASSIEXXX
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y95gxur8" group-title="ADULTO",Eroxxx HD
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8fxsflo" group-title="ADULTO", Babestation Extreme
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist_w1878679259.m3u8
 
 
 
