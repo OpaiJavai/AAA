@@ -366,6 +366,8 @@ http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/6234.m3u8
 http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ya4886ah" tvg-id="0" group-title="PORTUGAL",Ocean TV
 http://92.249.68.106/4/19122
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yas6l4td" tvg-id="0" group-title="PORTUGAL",Landscape  TV
+http://130.88.20.237:1235/monitor.flv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lpl3fes" tvg-id="" group-title="PORTUGAL",Dog TV
 
 #EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/yddlnnke" group-title="PORTUGAL", HISTORY LAB
