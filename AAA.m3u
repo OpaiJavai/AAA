@@ -180,7 +180,7 @@ http://iptvsbh.ddns.net:8003/live/armindo/armindo/872.m3u8
 http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7952.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo" group-title="PORTUGAL",CINEMUNDO
 http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7959.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="" group-title="PORTUGAL",Sundance HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="" group-title="PORTUGAL",Sundance HD
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4334.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="PORTUGAL",MOV
 
@@ -286,6 +286,8 @@ http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4293.m3u8
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4284.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a3lNp0e.png" tvg-id="MCMPOP" group-title="PORTUGAL",MCM POP
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4290.m3u8
+#EXTINF:-1 tvg-logo="http://preview.tinyurl.com/y8bqmax2" group-title="PORTUGAL", Power TV
+http://powertv.cdnturk.com/powertv/powertv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" group-title="PORTUGAL",M6 MUSIQUE
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" tvg-id="C-Music" group-title="PORTUGAL",C MUSIC
