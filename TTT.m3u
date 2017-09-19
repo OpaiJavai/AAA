@@ -1,4 +1,347 @@
 #EXTM3U
+
+
+#EXTINF:-1,RTP 1 HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2714.m3u8
+#EXTINF:-1,RTP 1 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2710.m3u8
+#EXTINF:-1,RTP 2 HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2713.m3u8
+#EXTINF:-1,RTP 2 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2709.m3u8
+#EXTINF:-1,RTP 3 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2708.m3u8
+#EXTINF:-1,RTP Açores PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2712.m3u8
+#EXTINF:-1,RTP África PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2711.m3u8
+#EXTINF:-1,RTP Internacional PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5622.m3u8
+#EXTINF:-1,RTP Madeira PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2707.m3u8
+#EXTINF:-1,RTP Memória PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2706.m3u8
+#EXTINF:-1,ARTV PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5619.m3u8
+#EXTINF:-1,SIC PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2703.m3u8
+#EXTINF:-1,SIC Notícias PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2701.m3u8
+#EXTINF:-1,SIC Mulher PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2702.m3u8
+#EXTINF:-1,SIC Radical PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2700.m3u8
+#EXTINF:-1,SIC Kids PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2704.m3u8
+#EXTINF:-1,SIC Caras PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2705.m3u8
+#EXTINF:-1,SIC HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2696.m3u8
+#EXTINF:-1,SIC Notícias HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2698.m3u8
+#EXTINF:-1,SIC Radical HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2699.m3u8
+#EXTINF:-1,SIC Caras HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2697.m3u8
+#EXTINF:-1,TVI HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/3840.m3u8
+#EXTINF:-1,TVI PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/3845.m3u8
+#EXTINF:-1,TVI 24 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/3844.m3u8
+#EXTINF:-1,TVI Reality PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/3842.m3u8
+#EXTINF:-1,TVI Ficção PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/3846.m3u8
+#EXTINF:-1,TV Séries HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/3843.m3u8
+#EXTINF:-1,TVCine 1 FHD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2685.m3u8
+#EXTINF:-1,TVCine 1 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2684.m3u8
+#EXTINF:-1,TVCine 2 FHD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2686.m3u8
+#EXTINF:-1,TVCine 2 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2683.m3u8
+#EXTINF:-1,TVCine 3 FHD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2687.m3u8
+#EXTINF:-1,TVCine 3 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2682.m3u8
+#EXTINF:-1,TVCine 4 FHD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2688.m3u8
+#EXTINF:-1,TVCine 4 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2681.m3u8
+#EXTINF:-1,SportTV+ PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/3613.m3u8
+#EXTINF:-1,SportTV 1 FHD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/3618.m3u8
+#EXTINF:-1,SportTV 1 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2678.m3u8
+#EXTINF:-1,SportTV 2 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2677.m3u8
+#EXTINF:-1,SportTV 2 FHD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/3617.m3u8
+#EXTINF:-1,SportTV 3 FHD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/3616.m3u8
+#EXTINF:-1,SportTV 3 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2676.m3u8
+#EXTINF:-1,SportTV 4 FHD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/3615.m3u8
+#EXTINF:-1,SportTV 4 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2675.m3u8
+#EXTINF:-1,SportTV 5 FHD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/3614.m3u8
+#EXTINF:-1,SportTV 5 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2674.m3u8
+#EXTINF:-1,BTV 1 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2767.m3u8
+#EXTINF:-1,BTV 1 FHD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2766.m3u8
+#EXTINF:-1,Eurosport 1 HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2752.m3u8
+#EXTINF:-1,Eurosport 1 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2753.m3u8
+#EXTINF:-1,Eurosport 2 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2751.m3u8
+#EXTINF:-1,Eurosport News PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2750.m3u8
+#EXTINF:-1,Sporting TV HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2695.m3u8
+#EXTINF:-1,Sporting TV PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2694.m3u8
+#EXTINF:-1,Porto Canal PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2716.m3u8
+#EXTINF:-1,Caça e Pesca PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2765.m3u8
+#EXTINF:-1,Canal Q PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5618.m3u8
+#EXTINF:-1,CMTV PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2758.m3u8
+#EXTINF:-1,PFC PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2717.m3u8
+#EXTINF:-1,24 Kitchen HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/6237.m3u8
+#EXTINF:-1,24 Kitchen FHD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2781.m3u8
+#EXTINF:-1,Discovery Channel PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2757.m3u8
+#EXTINF:-1,Discovery Showcase HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2756.m3u8
+#EXTINF:-1,A&E PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2779.m3u8
+#EXTINF:-1,AMC FHD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2776.m3u8
+#EXTINF:-1,AMC PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2777.m3u8
+#EXTINF:-1,Hollywood HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2734.m3u8
+#EXTINF:-1,Hollywood PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2733.m3u8
+#EXTINF:-1,Odisseia PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2718.m3u8
+#EXTINF:-1,National Geographic HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2720.m3u8
+#EXTINF:-1,Nat Geo Wild HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2722.m3u8
+#EXTINF:-1,Nat Geo Wild PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2723.m3u8
+#EXTINF:-1,AXN HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2771.m3u8
+#EXTINF:-1,AXN Black HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2772.m3u8
+#EXTINF:-1,AXN White HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2770.m3u8
+#EXTINF:-1,Disney Junior PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2755.m3u8
+#EXTINF:-1,Disney Channel PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/3841.m3u8
+#EXTINF:-1,Cartoon Network PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2761.m3u8
+#EXTINF:-1,JimJam PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2732.m3u8
+#EXTINF:-1,Canal Panda PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2762.m3u8
+#EXTINF:-1,Panda Biggs PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2763.m3u8
+#EXTINF:-1,Nickelodeon PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2719.m3u8
+#EXTINF:-1,BabyFirst PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2769.m3u8
+#EXTINF:-1,Baby TV PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2768.m3u8
+#EXTINF:-1,MTV PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2724.m3u8
+#EXTINF:-1,TLC PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2691.m3u8
+#EXTINF:-1,Fashion TV PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2748.m3u8
+#EXTINF:-1,FOX HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2743.m3u8
+#EXTINF:-1,FOX Comedy HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2740.m3u8
+#EXTINF:-1,FOX Comedy PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2745.m3u8
+#EXTINF:-1,FOX Crime HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2739.m3u8
+#EXTINF:-1,FOX Life HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2741.m3u8
+#EXTINF:-1,FOX Movies HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2742.m3u8
+#EXTINF:-1,FOX Movies PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2746.m3u8
+#EXTINF:-1,CineMundo PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2759.m3u8
+#EXTINF:-1,Syfy HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2693.m3u8
+#EXTINF:-1,Syfy PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2692.m3u8
+#EXTINF:-1,TV Globo PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2737.m3u8
+#EXTINF:-1,TV Globo Premium PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2736.m3u8
+#EXTINF:-1,A Bola TV PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2780.m3u8
+#EXTINF:-1,Afro Music PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2778.m3u8
+#EXTINF:-1,BBC Entertainment PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2775.m3u8
+#EXTINF:-1,BBC World News PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2773.m3u8
+#EXTINF:-1,Caça Vision PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2764.m3u8
+#EXTINF:-1,CBS Reality PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2760.m3u8
+#EXTINF:-1,E! PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2754.m3u8
+#EXTINF:-1,Fight Network PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2749.m3u8
+#EXTINF:-1,LocalVisão TV PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2744.m3u8
+#EXTINF:-1,Fuel TV FHD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2747.m3u8
+#EXTINF:-1,Fuel TV PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2738.m3u8
+#EXTINF:-1,História PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2735.m3u8
+#EXTINF:-1,Kombat Sport PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2731.m3u8
+#EXTINF:-1,MCM POP PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2730.m3u8
+#EXTINF:-1,MCM TOP PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2729.m3u8
+#EXTINF:-1,Motorvision TV PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2727.m3u8
+#EXTINF:-1,Motorsport.TV HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2725.m3u8
+#EXTINF:-1,MCS LifeStyle PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2721.m3u8
+#EXTINF:-1,Real Madrid TV PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2715.m3u8
+#EXTINF:-1,Toros TV PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2690.m3u8
+#EXTINF:-1,Travel Channel HD PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2689.m3u8
+#EXTINF:-1,TV Record PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2680.m3u8
+#EXTINF:-1,C-Music TV PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5611.m3u8
+#EXTINF:-1,Canção Nova PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5620.m3u8
+#EXTINF:-1,Mezzo PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5610.m3u8
+#EXTINF:-1,TV Fatima PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5617.m3u8
+#EXTINF:-1,Trace Urban PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5612.m3u8
+#EXTINF:-1,VH1 PT
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5613.m3u8
+
+
+#EXTINF:-1,Beate-Uhse TV (20-06) Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2276.m3u8
+#EXTINF:-1,BRAZZERS TV Europe Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2275.m3u8
+#EXTINF:-1,Hot Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2274.m3u8
+#EXTINF:-1,CentoXCento Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2273.m3u8
+#EXTINF:-1,Desire Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2272.m3u8
+#EXTINF:-1,Dorcel TV HD Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2271.m3u8
+#EXTINF:-1,DUSK! DeLuxe Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2270.m3u8
+#EXTINF:-1,Eroxx HD Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2269.m3u8
+#EXTINF:-1,Evil Angel TV Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2268.m3u8
+#EXTINF:-1,FreeX TV Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2267.m3u8
+#EXTINF:-1,Hot Club 1 HD Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2266.m3u8
+#EXTINF:-1,Hot Club 2 HD Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2265.m3u8
+#EXTINF:-1,Hot Club 3 HD Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2264.m3u8
+#EXTINF:-1,Hustler HD Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2263.m3u8
+#EXTINF:-1,Jasmin.tv Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2262.m3u8
+#EXTINF:-1,Meidenvan Holland HARD Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2261.m3u8
+#EXTINF:-1,Soft Sex Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2260.m3u8
+#EXTINF:-1,Nubiles Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2259.m3u8
+#EXTINF:-1,Reality Kings TV Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2247.m3u8
+#EXTINF:-1,RedLight HD Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2246.m3u8
+#EXTINF:-1,PassieXXX Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2258.m3u8
+#EXTINF:-1,Penthouse 1 HD Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2257.m3u8
+#EXTINF:-1,Pink Erotic 1 Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2256.m3u8
+#EXTINF:-1,Pink Erotic 2 Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2255.m3u8
+#EXTINF:-1,Pink Erotic 4 Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2254.m3u8
+#EXTINF:-1,Pink Erotic 5 Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2253.m3u8
+#EXTINF:-1,Pink Erotic 6 Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2252.m3u8
+#EXTINF:-1,PINKO TV Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2251.m3u8
+#EXTINF:-1,Venus TV Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2250.m3u8
+#EXTINF:-1,Playboy TV Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2249.m3u8
+#EXTINF:-1,Private TV Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2248.m3u8
+#EXTINF:-1,SCT Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2245.m3u8
+#EXTINF:-1,Sexto SensoTv Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2244.m3u8
+#EXTINF:-1,Sirina 1 Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2243.m3u8
+#EXTINF:-1,Sirina 2 Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2242.m3u8
+#EXTINF:-1,SuperOne Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2241.m3u8
+#EXTINF:-1,Enjoye Premium Adult
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2240.m3u8
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------
+
+
+
+
 #EXTINF:-1 tvg-ID="rtpHD" tvg-name="RTP 1" tvg-logo="http://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp_1_85x70.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",RTP 1
 http://193.70.93.199:8000/live/Carlos/Carlos/4399.m3u8
 #EXTINF:-1 tvg-ID="rtpHD" tvg-name="RTP1 HD" tvg-logo="http://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp_1_85x70.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",RTP1 HD
