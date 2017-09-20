@@ -27,9 +27,9 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="TV",SIC NOTICIAS (Geo Block) (Op 2)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="TV",SIC NOTICIAS
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7943.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2701.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/LOGORTP3" tvg-id="rtpn.pt" group-title="TV",RTP 3
-http://orbit-iptv.com:2500/live/carlos/carlos/6429.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2708.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/LOGORTP3" tvg-id="rtpn.pt" group-title="TV",RTP 3 (Op 2)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/avFiVT" group-title="TV",TVI24 
@@ -37,15 +37,15 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/avFiVT" group-title="TV",TVI24 (Op 2)
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lphnap6" tvg-id="CMTV.pt" group-title="TV",CMTV
-http://orbit-iptv.com:2500/live/carlos/carlos/4329.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2758.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="TV",SIC RADICAL (Geo Block)
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="TV",SIC RADICAL
-http://orbit-iptv.com:2500/live/carlos/carlos/3934.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2700.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png" tvg-id="sicmulher.pt" group-title="TV",SIC MULHER
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/864.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2702.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png" tvg-id="SicCaras.pt" group-title="TV",SIC CARAS
-http://orbit-iptv.com:2500/live/carlos/carlos/4333.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2705.m3u8
 #EXTINF:-1 tvg-logo="https://s27.postimg.org/jiij9m1xv/Log_tipo_TVI.png" tvg-id="" group-title="TV",+ TVI
 http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/WhvCo4" tvg-id="TVIFiccao.pt" group-title="TV",TVI FICCAO
@@ -57,7 +57,7 @@ http://213.13.26.11:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="TV", PORTO CANAL (Op 2)
 http://213.13.26.13:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="Canal Q" group-title="TV",CANAL Q
-http://orbit-iptv.com:2500/live/carlos/carlos/6388.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/5618.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="TV",24 KITCHEN
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4311.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" group-title="TV", FOOD NETWORK
@@ -68,12 +68,10 @@ http://www.painelpro.net:8000/live/Bruno/Bruno/4377.m3u8
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4377.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="TV",SPORT TV + (Op 3)
 https://tinyurl.com/1TVIP
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 HD 
-http://orbit-iptv.com:2500/live/carlos/carlos/1969.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 HD (Op 2)
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/867.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 HD (Op 3)
-http://orbit-iptv.com:2500/live/carlos/carlos/1813.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 FHD 
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3618.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 HD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2678.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 HQ
 http://www.painelpro.net:8000/live/Bruno/Bruno/5036.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 
@@ -84,16 +82,18 @@ http://topchantv.net:3456/live/Stalker/Stalker/837.m3u8
 https://tinyurl.com/HD1VIP
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 SD
 rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="TV",SPORT TV 2 FHD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3617.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="TV",SPORT TV 2 HD
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7935.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="TV",SPORT TV 2 
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2677.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="TV",SPORT TV 2
 http://www.painelpro.net:8000/live/Bruno/Bruno/4374.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="TV",SPORT TV 2 (Op 2) 
 https://tinyurl.com/REPO2VIP
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="TV",SPORT TV 2 SD
 http://topchantv.net:3456/live/Stalker/Stalker/838.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="TV",SPORT TV 3 HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/876.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2676.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="TV",SPORT TV 3 HD (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4372.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="TV",SPORT TV 3 
@@ -101,7 +101,7 @@ http://topchantv.net:3456/live/Stalker/Stalker/839.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="TV",SPORT TV 3 (Op 2) 
 https://tinyurl.com/VIP3HD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="TV",SPORT TV 4 HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/874.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2675.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="TV",SPORT TV 4 HD (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4370.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="TV",SPORT TV 4 
@@ -109,31 +109,29 @@ http://topchantv.net:3456/live/Stalker/Stalker/840.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="TV",SPORT TV 4 (Op 2) 
 https://tinyurl.com/HD3VIP
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="TV",SPORT TV 5 HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/861.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2674.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="TV",SPORT TV 5 HD (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4369.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="TV",SPORT TV 5
 http://topchantv.net:3456/live/Stalker/Stalker/841.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="TV",SPORT TV 5 (Op 2)
 https://tinyurl.com/ENJOY5VIP
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="TV", BENFICA TV FHD
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2766.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="TV", BENFICA TV HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/885.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="TV", BENFICA TV HD (Op 2)
-http://orbit-iptv.com:2500/live/carlos/carlos/1286.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="TV", BENFICA TV HD (Op 3)
-http://orbit-iptv.com:2500/live/carlos/carlos/6409.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2767.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="TV",A Bola TV
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7938.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2780.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="TV",SPORTING TV 
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/859.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2694.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="TV",EUROSPORT
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/1133.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2752.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="eurosport2.pt" group-title="TV",EUROSPORT 2
-
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2751.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/m5a5vj3" tvg-id="0" group-title="TV",Eurosport 2 Xtra
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mgjb999" tvg-id="0" group-title="TV",Eurosport News
-
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2750.m3u8
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV" group-title="TV",Fuel TV
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4355.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" tvg-id="FightNetwork" group-title="TV",KOMBAT SPORT
@@ -141,15 +139,15 @@ http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4364.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycudcrgh" tvg-id="FightBox" group-title="TV",FightBox HD 
 http://163.172.75.7:8203
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n38hcr5" tvg-id="" group-title="TV",MOTORSPORT.TV
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7937.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2725.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png" tvg-id="MOTOR" group-title="TV",MOTORS TV
-http://orbit-iptv.com:2500/live/carlos/carlos/3691.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2727.m3u8
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="TV",Red Bull TV
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8jncmcv" tvg-id="" group-title="TV", Extreme Sporm3u8
 http://92.62.110.198:8000/play/a017
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="TV",PFC
-http://orbit-iptv.com:2500/live/carlos/carlos/6395.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2717.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ya5rh43d" tvg-id="0" group-title="TV",FOX SPORm3u8
 http://103.18.40.132:8080/
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y779jcgp" tvg-id="" group-title="TV",Bayern TV
@@ -169,35 +167,35 @@ http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4365.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/AEfqr9k.png" tvg-id="" group-title="TV", Olympic Channel
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="TV",TVCINE 1 
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7957.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2684.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="TV",TVCINE 1 (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4350.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="TV",TVCINE 2 
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7956.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2683.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="TV",TVCINE 2 (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4349.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="TV",TVCINE 3
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7955.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2682.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="TV",TVCINE 3 (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4348.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="TV",TVCINE 4
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7954.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2681.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="TV",TVCINE 4 (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4347.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="TV",TVSeries HD
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7953.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3843.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="TV",HOLLYWOOD HD
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/872.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2733.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="TV",SYFY
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7952.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2692.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo" group-title="TV",CINEMUNDO
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7959.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2759.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="" group-title="TV",Sundance HD
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4334.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="TV",MOV
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC" group-title="TV",AMC HD
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7951.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2777.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="TV",AXN
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4329.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="TV",AXN Black
@@ -209,7 +207,7 @@ http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4332.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="foxlife.pt" group-title="TV",FOX LIFE
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4333.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FOXM" group-title="TV",FOX MOVIES
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/863.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2746.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="TV",FOX CRIME
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4330.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7w737bs" tvg-id="fx.pt" group-title="TV",FX
@@ -221,23 +219,23 @@ http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="TV",DISNEY CHANNEL
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4309.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="TV",DISNEY CHANNEL (Op 2)
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7940.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3841.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="TV",DISNEY JUNIOR
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4308.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="TV",DISNEY JUNIOR (Op 2)
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/860.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2755.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ml8o23f" tvg-id="" group-title="TV",Mickey Mouse e os seus Amigos
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="TV",CARTOON NETWORK
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4307.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="TV",CARTOON NETWORK (Op 2)
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7939.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2761.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycvfj99x" tvg-id="" group-title="TV",ZIG ZAG
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/smil:zigzag.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="TV",PANDA
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4310.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="TV",PANDA (Op 2)
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/884.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2762.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="TV",PANDA BIGGS
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4304.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="nick" group-title="TV",NICKELODEON
@@ -245,7 +243,7 @@ http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4305.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SICK.pt" group-title="TV",SIC K
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4301.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SICK.pt" group-title="TV",SIC K (Op 2)
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7944.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2704.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM" group-title="TV",JIMJAM
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4303.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BABYT" group-title="TV",BABY TV
@@ -273,7 +271,7 @@ http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ycx3z6fp" group-title="TV",ALEX BERLIN (Urban Music)
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="MTVPortugal" group-title="TV",MTV PORTUGAL
-http://iptvsbh.ddns.net:8003/live/armindo/armindo/871.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2724.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="TV",MTV ROCKS 
 http://persik.by/stream/1417/252987/10227.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="TV",MTV ROCKS (Op 2)
@@ -287,7 +285,7 @@ http://185.22.78.82:8826/play/a00n
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="TV",MTV DANCE
 http://92.249.68.106/15/810
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="TV",MTV BASE
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/9603.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydbgokfc" tvg-id="" group-title="TV",ONE Rock HD
 rtmp://91.201.78.3:1935/live/rockhd
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y987lgc6" tvg-id="" group-title="TV",ONE Jazz HD
@@ -335,9 +333,9 @@ http://rtmp.one.by:2200
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="TV", ONE.by (RUS) 2 HD
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-logo="https://tinyurl.com/katf23g" group-title="TV", Mezzo
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/10144.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/5610.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n4j9ver" group-title="TV", Mezzo Live 
-http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/10143.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yctjl6cs" tvg-id="0" group-title="TV",Music Box
 http://91.224.178.9:6005/08
 #EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/BRIDGETV.png" group-title="TV", Bridge TV  
@@ -369,7 +367,7 @@ http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4321.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="E" group-title="TV",E! Entertainment
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4322.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id="AE" group-title="TV",A&E
-
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2779.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="TV",TLC
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4325.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="TV",TLC (Op 2)
@@ -423,11 +421,11 @@ http://cmgaia.worldvds.com:8080/hls/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kpae3da" tvg-id="0" group-title="TV",ARROIOS TV
 http://213.13.26.11:1935/live/luis/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/maoNgt" tvg-id="GLOBO" group-title="TV",GLOBO PREMIUM
-
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2736.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/2RYRF4" tvg-id="TV GloboPortugal" group-title="TV",GLOBO
-
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2737.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="TVRECORD" group-title="TV",TV RECORD
-
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2680.m3u8
 #EXTINF:-1 tvg-logo="http://rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" tvg-id="TCV" group-title="TV",TCV 
 http://213.13.26.11:1935/live/rtc_teste/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/m3u8NZEpc.png" tvg-id="TPA" group-title="TV",TPA
@@ -469,11 +467,11 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 #EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/yakeag9x" group-title="TV",NEWSMAX TV
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_1728_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" tvg-id="TOROTV.pt" group-title="TV",TOROS TV
-
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2690.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7ldy687" tvg-id="CacaePesca" group-title="TV",CACA & PESCA
-
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2765.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pIEZt5S.png" tvg-id="CacaVision" group-title="TV",CACAVISION
-
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2764.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd74vh52" tvg-id="" group-title="TV", Silence TV
 http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV-1" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/6/5/4/0/6540154/6540154,192x192,r:2.jpg" group-title="TV",NASA TV PUBLIC EDUCATION (US)
@@ -484,7 +482,6 @@ https://nasa-i.akamaihd.net/hls/live/253566/NTV-Media/master.m3u8
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/CumCatano.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/9/4/0/8/9408562/9408562_iss_hr_1330361780,192x192,r:1.jpg" group-title="TV",LIVE ISS STREAM (Op 2)
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-
 
 
 
