@@ -557,7 +557,8 @@ acestream://e9d3bc28fd62a761c0a89c9fc176d24c28b697fe
 
 
 
-
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc6jmogc" type="MOVIE" group-title="ANIMACAO", Descendentes 2 (BR)
+http://192.95.30.119:8000/movie/wilton/wilton/201.mp4
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7hzal9t" type="MOVIE" group-title="ANIMACAO", Descendentes 1
 https://cld.pt/dl/download/c7a1488b-c3f0-4c0e-95ac-14da46780201/Descendentes.2015.PT.1080p-FIURi.mkv
@@ -1278,6 +1279,9 @@ https://www.youtube.com/watch?v=U8VQ-3rA0ek
 
 
 
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc9kz983" group-title="FILMES", Annabelle 2 (DUB)
+http://assistir.querofilmehd.com/filmes/anabelle2.mp4
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9q7fqbh" group-title="FILMES", 2 Coelhos (BR)
 https://tinyurl.com/y6u74wu2
