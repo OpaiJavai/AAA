@@ -88,8 +88,6 @@ http://topchantv.net:3456/live/Stalker/Stalker/840.m3u8
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2674.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="TV",SPORT TV 5
 http://topchantv.net:3456/live/Stalker/Stalker/841.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="TV",SPORT TV 5 (Op 2)
-https://tinyurl.com/ENJOY5VIP
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="TV", BENFICA TV HD
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2767.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="TV",A Bola TV
